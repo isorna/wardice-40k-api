@@ -467,11 +467,7 @@
         },
         {
           "name": "Grimnyr's Regard",
-          "text": "Once per battle, after this model's unit fails a Battle-shock test, this model can use this ability"
-        },
-        {
-          "name": "If it does, that unit is no longer Battle-shocked",
-          "text": ""
+          "text": "Once per battle, after this model's unit fails a Battle-shock test, this model can use this ability. If it does, that unit is no longer Battle-shocked"
         }
       ]
     },

@@ -70,14 +70,39 @@
       "Adeptus Custodes"
     ],
     "abilities": {
-      "core": "Deep Strike",
-      "faction": "Martial Ka’tah",
+      "core": [
+        "Deep Strike"
+      ],
+      "faction": [
+        "Martial Ka'tah"
+      ],
       "special": [
-        "FACTION: Martial Ka’tah Stand Vigil: Each time a model in this unit makes an attack, re-roll a Wound roll of 1}.",
-        "While this unit is within range of an objective marker you control, you can re-roll the Wound roll instead}.",
-        "Sentinel Storm: Once per battle, in your Shooting phase, after this unit has shot, it can shoot again}.",
-        "WARGEAR ABILITIES Praesidium Shield: Add 1 to the bearer’s Wounds characteristic}.",
-        "Vexilla: Add 1 to the Objective Control characteristic of models in the bearer’s unit}."
+        {
+          "name": "Stand Vigil",
+          "text": "Each time a model in this unit makes an attack, re-roll a Wound roll of 1."
+        },
+        {
+          "name": "While this unit is within range of an objective marker you control, you can re-roll the Wound roll instead",
+          "text": "."
+        },
+        {
+          "name": "Sentinel Storm",
+          "text": "Once per battle, in your Shooting phase, after this unit has shot, it can shoot again."
+        }
+      ]
+    },
+    "wargearAbilities": {
+      "core": null,
+      "faction": null,
+      "special": [
+        {
+          "name": "Praesidium Shield",
+          "text": "Add 1 to the bearer's Wounds characteristic."
+        },
+        {
+          "name": "Vexilla",
+          "text": "Add 1 to the Objective Control characteristic of models in the bearer's unit."
+        }
       ]
     },
     "invulnerable": "4+",
@@ -181,13 +206,31 @@
       "Adeptus Custodes"
     ],
     "abilities": {
-      "core": "Deep Strike",
-      "faction": "Martial Ka’tah",
+      "core": [
+        "Deep Strike"
+      ],
+      "faction": [
+        "Martial Ka'tah"
+      ],
       "special": [
-        "FACTION: Martial Ka’tah Resolute Will: While a Character is leading this unit, each time an attack targets this unit, if the Strength characteristic of that attack is greater than the Toughness characteristic of this unit, subtract 1 from the Wound roll}.",
-        "Living Fortress: Once per battle, at the start of any phase, this unit can use this ability}.",
-        "If it does, until the end of the phase, models in this unit have the Feel No Pain 4+ ability}.",
-        "WARGEAR ABILITIES Vexilla: Add 1 to the Objective Control characteristic of models in the bearer’s unit}."
+        {
+          "name": "Resolute Will",
+          "text": "While a Character is leading this unit, each time an attack targets this unit, if the Strength characteristic of that attack is greater than the Toughness characteristic of this unit, subtract 1 from the Wound roll."
+        },
+        {
+          "name": "Living Fortress",
+          "text": "Once per battle, at the start of any phase, this unit can use this ability. If it does, until the end of the phase, models in this unit have the Feel No Pain 4+ ability."
+        }
+      ]
+    },
+    "wargearAbilities": {
+      "core": null,
+      "faction": null,
+      "special": [
+        {
+          "name": "Vexilla",
+          "text": "Add 1 to the Objective Control characteristic of models in the bearer's unit."
+        }
       ]
     },
     "invulnerable": "4+",
@@ -307,13 +350,35 @@
       "Adeptus Custodes"
     ],
     "abilities": {
-      "core": "Deep Strike",
-      "faction": "Martial Ka’tah",
+      "core": [
+        "Deep Strike"
+      ],
+      "faction": [
+        "Martial Ka'tah"
+      ],
       "special": [
-        "FACTION: Martial Ka’tah Slayers of Tyrants: Each time a model in this unit makes an attack that targets a Character, Monster or Vehicle unit, you can re-roll the Wound roll}.",
-        "From Golden Light: Once per battle, at the end of your opponenet’s turn, if this unit is not within Engagement Range of one or more enemy units, you can remove it from the battlefield}.",
-        "In the Reinforcements step of your next Movement phase, set it up anywhere on the battlefield that is more than 9\" horizontally away from all enemy models}.",
-        "WARGEAR ABILITIES Vexilla: Add 1 to the Objective Control characteristic of models in the bearer’s unit}."
+        {
+          "name": "Slayers of Tyrants",
+          "text": "Each time a model in this unit makes an attack that targets a Character, Monster or Vehicle unit, you can re-roll the Wound roll."
+        },
+        {
+          "name": "From Golden Light",
+          "text": "Once per battle, at the end of your opponenet's turn, if this unit is not within Engagement Range of one or more enemy units, you can remove it from the battlefield."
+        },
+        {
+          "name": "In the Reinforcements step of your next Movement phase, set it up anywhere on the battlefield that is more than 9\" horizontally away from all enemy models",
+          "text": "."
+        }
+      ]
+    },
+    "wargearAbilities": {
+      "core": null,
+      "faction": null,
+      "special": [
+        {
+          "name": "Vexilla",
+          "text": "Add 1 to the Objective Control characteristic of models in the bearer's unit."
+        }
       ]
     },
     "invulnerable": "4+",
@@ -408,13 +473,23 @@
     ],
     "abilities": {
       "core": null,
-      "faction": "Martial Ka’tah",
+      "faction": null,
       "special": [
-        "Turbo-boost: Each time this unit Advances, do not make an Advance roll}.",
-        "Instead, until the end of the phase, add 6\" to the Move characteristic of models in this unit}.",
-        "Quicksilver Execution: Once per battle, after this unit ends an Advance move, you can select one enemy unit (excluding Monster and Vehicle units) that it moved over during that move, then roll one D6 for each model in this unit: for each 2+, that enemy unit suffers 2 mortal wounds}."
+        {
+          "name": "FACTION",
+          "text": "Martial Ka'tah Turbo-boost: Each time this unit Advances, do not make an Advance roll."
+        },
+        {
+          "name": "Instead, until the end of the phase, add 6\" to the Move characteristic of models in this unit",
+          "text": "."
+        },
+        {
+          "name": "Quicksilver Execution",
+          "text": "Once per battle, after this unit ends an Advance move, you can select one enemy unit (excluding Monster and Vehicle units) that it moved over during that move, then roll one D6 for each model in this unit: for each 2+, that enemy unit suffers 2 mortal wounds."
+        }
       ]
     },
+    "wargearAbilities": [],
     "invulnerable": "4+",
     "damaged": null,
     "stats": {
@@ -454,10 +529,10 @@
   {
     "id": "40k-index-adeptus-custodes-8",
     "points": [
-      { "per": "4 models", "points": 0},
-      { "per": "5 models", "points": 0},
-      { "per": "9 models", "points": 0},
-      { "per": "10 models", "points": 0}
+      { "per": "4 models", "points": 40},
+      { "per": "5 models", "points": 50},
+      { "per": "9 models", "points": 90},
+      { "per": "10 models", "points": 100}
     ],
     "name": "PROSECUTORS",
     "subtype": "",
@@ -499,10 +574,17 @@
       "core": null,
       "faction": null,
       "special": [
-        "Daughters of the Abyss: Models in this unit have the Feel No Pain 3+ ability against Psychic Attacks}.",
-        "Purity of Execution: Each time a model in this unit makes a ranged attack that targets a Psyker unit, that attack has the [PRECISION] and [DEVASTATING WOUNDS] abilities}."
+        {
+          "name": "Daughters of the Abyss",
+          "text": "Models in this unit have the Feel No Pain 3+ ability against Psychic Attacks."
+        },
+        {
+          "name": "Purity of Execution",
+          "text": "Each time a model in this unit makes a ranged attack that targets a Psyker unit, that attack has the [PRECISION] and [DEVASTATING WOUNDS] abilities."
+        }
       ]
     },
+    "wargearAbilities": [],
     "invulnerable": "",
     "damaged": null,
     "stats": {
@@ -577,10 +659,17 @@
       "core": null,
       "faction": null,
       "special": [
-        "Daughters of the Abyss: Models in this unit have the Feel No Pain 3+ ability against Psychic Attacks}.",
-        "Deft Parry: Each time a melee attack targets this unit, subtract 1 from the Hit roll}."
+        {
+          "name": "Daughters of the Abyss",
+          "text": "Models in this unit have the Feel No Pain 3+ ability against Psychic Attacks."
+        },
+        {
+          "name": "Deft Parry",
+          "text": "Each time a melee attack targets this unit, subtract 1 from the Hit roll."
+        }
       ]
     },
+    "wargearAbilities": [],
     "invulnerable": "",
     "damaged": null,
     "stats": {
@@ -661,14 +750,31 @@
       "Adeptus Custodes"
     ],
     "abilities": {
-      "core": "Scouts 6\"",
-      "faction": null,
+      "core": [
+        "Scouts 6\"",
+        "Daughters of the Abyss:",
+        "Models in this unit have the",
+        "Feel No Pain 3+",
+        "ability against Psychic Attacks.",
+        "Sanctified Flames:",
+        "Each time this unit shoots, after it has",
+        "shot, select one enemy unit that was hit by one or more of"
+      ],
+      "faction": [
+        "ABILITIES"
+      ],
       "special": [
-        "Daughters of the Abyss: Models in this unit have the Feel No Pain 3+ ability against Psychic Attacks}.",
-        "Sanctified Flames: Each time this unit shoots, after it has shot, select one enemy unit that was hit by one or more of those attacks}.",
-        "That unit must take a Battle-shock test}."
+        {
+          "name": "CORE",
+          "text": "Scouts 6\" Daughters of the Abyss: Models in this unit have the Feel No Pain 3+ ability against Psychic Attacks."
+        },
+        {
+          "name": "Sanctified Flames",
+          "text": "Each time this unit shoots, after it has shot, select one enemy unit that was hit by one or more of those attacks. That unit must take a Battle-shock test."
+        }
       ]
     },
+    "wargearAbilities": [],
     "invulnerable": "",
     "damaged": null,
     "stats": {
@@ -783,14 +889,35 @@
       "Adeptus Custodes"
     ],
     "abilities": {
-      "core": "Deep Strike, Leader",
-      "faction": "Martial Ka’tah",
+      "core": [
+        "Deep Strike, Leader"
+      ],
+      "faction": [
+        "Martial Ka'tah"
+      ],
       "special": [
-        "FACTION: Martial Ka’tah Master of the Stances: At the start of the Fight phase, select one Ka’tah Stance. Until the end of the phase, that stance is active for this model’s unit in addition to the one that is active}.",
-        "Once per battle, at the start of the Fight phase, all stances are active for this model’s unit until the end of the phase}.",
-        "Strategic Mastery: Once per battle round, you can select one model from your army with this ability}.",
-        "That model’s unit can be targeted with a Stratagem for 0CP, even if that Stratagem has already targeted another unit from your army this phase}.",
-        "WARGEAR ABILITIES Praesidium shield: Add 1 to the bearer’s Wounds characteristic}."
+        {
+          "name": "Master of the Stances",
+          "text": "At the start of the Fight phase, select one Ka'tah Stance. Until the end of the phase, that stance is active for this model's unit in addition to the one that is active."
+        },
+        {
+          "name": "Once per battle, at the start of the Fight phase, all stances are active for this model's unit until the end of the phase",
+          "text": "."
+        },
+        {
+          "name": "Strategic Mastery",
+          "text": "Once per battle round, you can select one model from your army with this ability. That model's unit can be targeted with a Stratagem for 0CP, even if that Stratagem has already targeted another unit from your army this phase."
+        }
+      ]
+    },
+    "wargearAbilities": {
+      "core": null,
+      "faction": null,
+      "special": [
+        {
+          "name": "Praesidium shield",
+          "text": "Add 1 to the bearer's Wounds characteristic."
+        }
       ]
     },
     "invulnerable": "4+",
@@ -893,14 +1020,28 @@
       "Adeptus Custodes"
     ],
     "abilities": {
-      "core": "Deep Strike, Leader",
-      "faction": "Martial Ka’tah",
+      "core": [
+        "Deep Strike, Leader"
+      ],
+      "faction": [
+        "Martial Ka'tah"
+      ],
       "special": [
-        "FACTION: Martial Ka’tah Martial Inspiration: While this model is leading a unit, you can re-roll Advance and Charge rolls made for that unit}.",
-        "In addition, once per battle, this model’s unit is eligible to declare a charge in a turn in which it Advanced}.",
-        "Legacy of Combat: You can target this model’s unit with the Heroic Intervention Stratagem for 0CP, and can do so even if you have already targeted a different unit with that Stratagem this phase}."
+        {
+          "name": "Martial Inspiration",
+          "text": "While this model is leading a unit, you can re-roll Advance and Charge rolls made for that unit."
+        },
+        {
+          "name": "In addition, once per battle, this model's unit is eligible to declare a charge in a turn in which it Advanced",
+          "text": "."
+        },
+        {
+          "name": "Legacy of Combat",
+          "text": "You can target this model's unit with the Heroic Intervention Stratagem for 0CP, and can do so even if you have already targeted a different unit with that Stratagem this phase."
+        }
       ]
     },
+    "wargearAbilities": [],
     "invulnerable": "4+",
     "damaged": null,
     "stats": {
@@ -984,14 +1125,38 @@
       "Adeptus Custodes"
     ],
     "abilities": {
-      "core": "Feel No Pain 5+, Leader, Scouts 6\"",
-      "faction": null,
+      "core": [
+        "Feel No Pain 5+, Leader, Scouts 6\"",
+        "Tactical Perception:",
+        "While this model is leading a unit, models",
+        "in that unit have the Fights First ability.",
+        "Tenacious Spirit:",
+        "While this model is leading a unit, each",
+        "time a model in that unit makes an attack, add 1 to the Hit",
+        "roll if that unit is below its Starting Strength, and add 1 to the",
+        "Wound roll as well if that unit is Below Half-strength.",
+        "Daughter of the Abyss:",
+        "This model has the Feel No Pain 3+"
+      ],
+      "faction": [
+        "ABILITIES"
+      ],
       "special": [
-        "Tactical Perception: While this model is leading a unit, models in that unit have the Fights First ability}.",
-        "Tenacious Spirit: While this model is leading a unit, each time a model in that unit makes an attack, add 1 to the Hit roll if that unit is below its Starting Strength, and add 1 to the Wound roll as well if that unit is Below Half-strength}.",
-        "Daughter of the Abyss: This model has the Feel No Pain 3+ ability against Psychic Attacks}."
+        {
+          "name": "CORE",
+          "text": "Feel No Pain 5+, Leader, Scouts 6\" Tactical Perception: While this model is leading a unit, models in that unit have the Fights First ability."
+        },
+        {
+          "name": "Tenacious Spirit",
+          "text": "While this model is leading a unit, each time a model in that unit makes an attack, add 1 to the Hit roll if that unit is below its Starting Strength, and add 1 to the Wound roll as well if that unit is Below Half-strength."
+        },
+        {
+          "name": "Daughter of the Abyss",
+          "text": "This model has the Feel No Pain 3+ ability against Psychic Attacks."
+        }
       ]
     },
+    "wargearAbilities": [],
     "invulnerable": "5+",
     "damaged": null,
     "stats": {
@@ -1095,13 +1260,29 @@
       "Adeptus Custodes"
     ],
     "abilities": {
-      "core": "Deadly Demise D3",
-      "faction": null,
+      "core": [
+        "Deadly Demise D3",
+        "Daughters of the Abyss:",
+        "This model has the Feel No Pain 3+",
+        "ability against Psychic Attacks.",
+        "Self Repair:",
+        "At the start of your Command phase, this model"
+      ],
+      "faction": [
+        "ABILITIES"
+      ],
       "special": [
-        "Daughters of the Abyss: This model has the Feel No Pain 3+ ability against Psychic Attacks}.",
-        "Self Repair: At the start of your Command phase, this model regains 1 lost wound}."
+        {
+          "name": "CORE",
+          "text": "Deadly Demise D3 Daughters of the Abyss: This model has the Feel No Pain 3+ ability against Psychic Attacks."
+        },
+        {
+          "name": "Self Repair",
+          "text": "At the start of your Command phase, this model regains 1 lost wound."
+        }
       ]
     },
+    "wargearAbilities": [],
     "invulnerable": "",
     "damaged": null,
     "stats": {
@@ -1196,15 +1377,48 @@
       "Adeptus Custodes"
     ],
     "abilities": {
-      "core": "Leader, Scouts 6\"",
-      "faction": null,
+      "core": [
+        "Leader, Scouts 6\"",
+        "Seeker's Instincts:",
+        "While this model is leading a unit, add 2\"",
+        "to the Move characteristic of models in that unit and add 2 to",
+        "Advance and Charge rolls made for that unit.",
+        "Daughter of the Abyss:",
+        "This model has the Feel No Pain 3+",
+        "ability against Psychic Attacks.",
+        "Corner the Quarry:",
+        "Each time an enemy unit (excluding",
+        "Monsters",
+        "and",
+        "Vehicles",
+        ") that is within Engagement Range",
+        "of this model's unit Falls Back, all models in that enemy",
+        "unit must take a Desperate Escape test. When doing so, if",
+        "that enemy unit is Battle-shocked, subtract 1 from each of"
+      ],
+      "faction": [
+        "ABILITIES"
+      ],
       "special": [
-        "Seeker’s Instincts: While this model is leading a unit, add 2\" to the Move characteristic of models in that unit and add 2 to Advance and Charge rolls made for that unit}.",
-        "Daughter of the Abyss: This model has the Feel No Pain 3+ ability against Psychic Attacks}.",
-        "Corner the Quarry: Each time an enemy unit (excluding Monsters and Vehicles ) that is within Engagement Range of this model’s unit Falls Back, all models in that enemy unit must take a Desperate Escape test}.",
-        "When doing so, if that enemy unit is Battle-shocked, subtract 1 from each of those tests}."
+        {
+          "name": "CORE",
+          "text": "Leader, Scouts 6\" Seeker's Instincts: While this model is leading a unit, add 2\" to the Move characteristic of models in that unit and add 2 to Advance and Charge rolls made for that unit."
+        },
+        {
+          "name": "Daughter of the Abyss",
+          "text": "This model has the Feel No Pain 3+ ability against Psychic Attacks."
+        },
+        {
+          "name": "Corner the Quarry",
+          "text": "Each time an enemy unit (excluding Monsters and Vehicles ) that is within Engagement Range of this model's unit Falls Back, all models in that enemy unit must take a Desperate Escape test."
+        },
+        {
+          "name": "When doing so, if that enemy unit is Battle-shocked, subtract 1 from each of those tests",
+          "text": "."
+        }
       ]
     },
+    "wargearAbilities": [],
     "invulnerable": "5+",
     "damaged": null,
     "stats": {
@@ -1325,14 +1539,28 @@
       "Adeptus Custodes"
     ],
     "abilities": {
-      "core": "Deep Strike, Leader",
-      "faction": "Martial Ka’tah",
+      "core": [
+        "Deep Strike, Leader"
+      ],
+      "faction": [
+        "Martial Ka'tah"
+      ],
       "special": [
-        "FACTION: Martial Ka’tah Defiant to the Last: If this model is destroyed by a melee attack, if it has not fought this phase, roll one D6: on a 2+, do not remove it from play}.",
-        "The destroyed model can fight after the attacking model’s unit has finished making its attacks, and is then removed from play}.",
-        "Strategic Mastery: Once per battle round, you can select one model from your army with this ability and target that model’s unit with a Stratagem for 0CP, even if that Stratagem has already been used on another unit from your army this phase}."
+        {
+          "name": "Defiant to the Last",
+          "text": "If this model is destroyed by a melee attack, if it has not fought this phase, roll one D6: on a 2+, do not remove it from play."
+        },
+        {
+          "name": "The destroyed model can fight after the attacking model's unit has finished making its attacks, and is then removed from play",
+          "text": "."
+        },
+        {
+          "name": "Strategic Mastery",
+          "text": "Once per battle round, you can select one model from your army with this ability and target that model's unit with a Stratagem for 0CP, even if that Stratagem has already been used on another unit from your army this phase."
+        }
       ]
     },
+    "wargearAbilities": [],
     "invulnerable": "4+",
     "damaged": null,
     "stats": {
@@ -1429,14 +1657,28 @@
       "Adeptus Custodes"
     ],
     "abilities": {
-      "core": "Leader",
-      "faction": "Martial Ka’tah",
+      "core": [
+        "Leader"
+      ],
+      "faction": [
+        "Martial Ka'tah"
+      ],
       "special": [
-        "FACTION: Martial Ka’tah Sweeping Advance: While this model is leading a unit, each time that unit Consolidates, each model in that unit can move up to 6\" instead of up to 3\"}.",
-        "In addition, once per battle, at the end of the Fight phase, if this model’s unit is within Engagement Range of one or more enemy units, it can Fall Back as if it were your Movement phase or, if it is not within Engagement Range of one or more enemy units, it can make a Normal move as if it were your Movement phase}.",
-        "Strategic Mastery: Once per battle round, you can select one model from your army with this ability and target that model’s unit with a Stratagem for 0CP, even if that Stratagem has already been used on another unit from your army this phase}."
+        {
+          "name": "Sweeping Advance",
+          "text": "While this model is leading a unit, each time that unit Consolidates, each model in that unit can move up to 6\" instead of up to 3\"."
+        },
+        {
+          "name": "In addition, once per battle, at the end of the Fight phase, if this model's unit is within Engagement Range of one or more enemy units, it can Fall Back as if it were your Movement phase or, if it is not within Engagement Range of one or more enemy units, it can make a Normal move as if it were your Movement phase",
+          "text": "."
+        },
+        {
+          "name": "Strategic Mastery",
+          "text": "Once per battle round, you can select one model from your army with this ability and target that model's unit with a Stratagem for 0CP, even if that Stratagem has already been used on another unit from your army this phase."
+        }
       ]
     },
+    "wargearAbilities": [],
     "invulnerable": "4+",
     "damaged": null,
     "stats": {
@@ -1524,15 +1766,32 @@
       "Adeptus Custodes"
     ],
     "abilities": {
-      "core": "Deep Strike, Feel No Pain 5+, Leader",
-      "faction": "Martial Ka’tah",
+      "core": [
+        "Deep Strike, Feel No Pain 5+, Leader"
+      ],
+      "faction": [
+        "Martial Ka'tah"
+      ],
       "special": [
-        "FACTION: Martial Ka’tah Captain-General: While this model is leading a unit, you can ignore any or all modifiers to the characteristics of models in that unit and/or to any roll or test made for models in that unit (excluding modifiers to saving throws)}.",
-        "Moment Shackle: Once per battle, at the start of the Fight phase, you can select one of the following to take effect until the end of the phase: ■ This model’s Watcher’s Axe melee weapon has an Attacks characteristic of 12}.",
-        "■ This model has a 2+ invulnerable save}.",
-        "■ Models in this model’s unit have the Fights First ability}."
+        {
+          "name": "Captain-General",
+          "text": "While this model is leading a unit, you can ignore any or all modifiers to the characteristics of models in that unit and/or to any roll or test made for models in that unit (excluding modifiers to saving throws)."
+        },
+        {
+          "name": "Moment Shackle",
+          "text": "Once per battle, at the start of the Fight phase, you can select one of the following to take effect until the end of the phase: ■ This model's Watcher's Axe melee weapon has an Attacks characteristic of 12."
+        },
+        {
+          "name": "■ This model has a 2+ invulnerable save",
+          "text": "."
+        },
+        {
+          "name": "■ Models in this model's unit have the Fights First ability",
+          "text": "."
+        }
       ]
     },
+    "wargearAbilities": [],
     "invulnerable": "4+",
     "damaged": null,
     "stats": {
@@ -1619,14 +1878,28 @@
       "Adeptus Custodes"
     ],
     "abilities": {
-      "core": "Feel No Pain 6+, Leader",
-      "faction": "Martial Ka’tah",
+      "core": [
+        "Feel No Pain 6+, Leader"
+      ],
+      "faction": [
+        "Martial Ka'tah"
+      ],
       "special": [
-        "FACTION: Martial Ka’tah Golden Laurels: While this model is leading a unit, each time a melee attack targets that unit, worsen the Armour Penetration characteristic of that attack by 1}.",
-        "Hero of Lion’s Gate: Once per battle round, you can re-roll one Hit roll, one Wound roll or one saving throw made for this model}.",
-        "In addition, once per battle, after making a Hit roll, Wound roll or saving throw for this model, you can change the result of that roll to an unmodified 6}."
+        {
+          "name": "Golden Laurels",
+          "text": "While this model is leading a unit, each time a melee attack targets that unit, worsen the Armour Penetration characteristic of that attack by 1."
+        },
+        {
+          "name": "Hero of Lion's Gate",
+          "text": "Once per battle round, you can re-roll one Hit roll, one Wound roll or one saving throw made for this model."
+        },
+        {
+          "name": "In addition, once per battle, after making a Hit roll, Wound roll or saving throw for this model, you can change the result of that roll to an unmodified 6",
+          "text": "."
+        }
       ]
     },
+    "wargearAbilities": [],
     "invulnerable": "4+",
     "damaged": null,
     "stats": {
@@ -1731,13 +2004,24 @@
       "Adeptus Custodes"
     ],
     "abilities": {
-      "core": "Deadly Demise 1",
-      "faction": "Martial Ka’tah",
+      "core": [
+        "Deadly Demise 1"
+      ],
+      "faction": [
+        "Martial Ka'tah"
+      ],
       "special": [
-        "FACTION: Martial Ka’tah Unyielding Ancient: The first time this model is destroyed, remove it from play without resolving its Deadly Demise ability}.",
-        "Then, at the end of the phase, roll one D6: on a 2+, set this model back up on the battlefield as close as possible to where it was destroyed and not within Engagement Range of any enemy units, with D6 wounds remaining}."
+        {
+          "name": "Unyielding Ancient",
+          "text": "The first time this model is destroyed, remove it from play without resolving its Deadly Demise ability."
+        },
+        {
+          "name": "Then, at the end of the phase, roll one D6",
+          "text": "on a 2+, set this model back up on the battlefield as close as possible to where it was destroyed and not within Engagement Range of any enemy units, with D6 wounds remaining."
+        }
       ]
     },
+    "wargearAbilities": [],
     "invulnerable": "5+",
     "damaged": null,
     "stats": {
@@ -1847,13 +2131,24 @@
       "Adeptus Custodes"
     ],
     "abilities": {
-      "core": "Deadly Demise D6",
-      "faction": "Martial Ka’tah",
+      "core": [
+        "Deadly Demise D6"
+      ],
+      "faction": [
+        "Martial Ka'tah"
+      ],
       "special": [
-        "FACTION: Martial Ka’tah Assault Ramp: Each time a unit disembarks from this model after it has made a Normal move, that unit is still eligible to declare a charge this turn}.",
-        "DAMAGED: 1-5 WOUNDS REMAINING While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll}."
+        {
+          "name": "Assault Ramp",
+          "text": "Each time a unit disembarks from this model after it has made a Normal move, that unit is still eligible to declare a charge this turn."
+        },
+        {
+          "name": "DAMAGED",
+          "text": "1-5 WOUNDS REMAINING While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
+        }
       ]
     },
+    "wargearAbilities": [],
     "invulnerable": "",
     "damaged": null,
     "stats": {

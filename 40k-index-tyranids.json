@@ -1,1 +1,4121 @@
-[{"id":"40k-index-tyranids-0","name":"WINGED HIVE TYRANT","subtype":"","keywords":["Monster","Character","Psyker","Fly","Great Devourer","Synapse"],"weapons":{"ranged":[{"name":"Heavy venom cannon [BLAST]","range":"36\"","a":"D3","bws":"2+","s":"9","ap":"-2","d":"3"},{"name":"Stranglethorn cannon [BLAST]","range":"36\"","a":"D6+1","bws":"2+","s":"7","ap":"-1","d":"2"}],"melee":[{"name":"Monstrous bonesword and lash whip [TWIN-LINKED]","range":"Melee","a":"6","bws":"2+","s":"9","ap":"-2","d":"3"},{"name":"Monstrous scything talons [EXTRA ATTACKS]","range":"Melee","a":"4","bws":"2+","s":"7","ap":"-2","d":"2"},{"name":"Tyrant talons","range":"Melee","a":"5","bws":"2+","s":"7","ap":"-2","d":"2"}]},"factionKeywords":["Tyranids"],"abilities":{"core":"Deadly Demise D3, Deep Strike","faction":"Shadow in the Warp, Synapse","special":["Will of the Hive Mind: Once per turn, one friendly Tyranids unit within 12\" of one or more models with this ability can be targeted with a Stratagem for 0CP, even if another unit from your army has already been targeted with that Stratagem this phase.","Paroxysm (Psychic): At the start of the Fight phase, you can select one enemy unit within 12\" of and visible to this model and roll one D6: on a 1, this Psyker suffers D3 mortal wounds; on a 2+, until the end of the phase, subtract 1 from the Attacks characteristic of weapons equipped by models in that unit."]},"invulnerable":"4+","damaged":null,"stats":{"m":"12\"","t":"9","sv":"2+","w":"10","ld":"7+","oc":"3"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","This model’s monstrous bonesword and lash whip can be replaced with one of the following:","◦","1 heavy venom cannon","◦","1 stranglethorn cannon","◦","1 monstrous scything talons"]},{"name":"UNIT COMPOSITION","values":["■","1 Winged Hive Tyrant","This model is equipped with:","monstrous bonesword and lash","whip; Tyrant talons.","WINGED HIVE TYRANT","When the Hive Mind deploys airborne swarms, it spawns Winged Hive","Tyrants to direct them in battle. Wielding an array of nightmarish","organic weapons, their monstrous forms singing with the synaptic","might of the Hive Mind, these dread swarm-leaders spread terror and","death wherever the dark shadow of their wings falls."]}]},{"id":"40k-index-tyranids-2","name":"HIVE TYRANT","subtype":"","keywords":["Monster","Character","Psyker","Great Devourer","Synapse"],"weapons":{"ranged":[{"name":"Heavy venom cannon [BLAST]","range":"36\"","a":"D3","bws":"2+","s":"9","ap":"-2","d":"3"},{"name":"Stranglethorn cannon [BLAST]","range":"36\"","a":"D6+1","bws":"2+","s":"7","ap":"-1","d":"2"}],"melee":[{"name":"Monstrous bonesword and lash whip [TWIN-LINKED]","range":"Melee","a":"6","bws":"2+","s":"9","ap":"-2","d":"3"},{"name":"Monstrous scything talons [EXTRA ATTACKS]","range":"Melee","a":"4","bws":"2+","s":"7","ap":"-2","d":"2"}]},"factionKeywords":["Tyranids"],"abilities":{"core":"Deadly Demise D3, Leader","faction":"Shadow in the Warp, Synapse","special":["Will of the Hive Mind: Once per turn, one friendly Tyranids unit within 12\" of one or more models with this ability can be targeted with a Stratagem for 0CP, even if another unit from your army has already been targeted with that Stratagem this phase.","Onslaught (Aura, Psychic): While a friendly Tyranids unit is within 6\" of this model, ranged weapons equipped by models in that unit have the [ASSAULT] ability."]},"invulnerable":"4+","damaged":null,"stats":{"m":"8\"","t":"10","sv":"2+","w":"10","ld":"7+","oc":"3"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","This model’s monstrous bonesword and lash whip can be replaced with one of the following:","◦","1 heavy venom cannon","◦","1 stranglethorn cannon","◦","1 monstrous scything talons","■","This model’s monstrous scything talons can be replaced with one of the following:","◦","1 heavy venom cannon*","◦","1 stranglethorn cannon*","*","This model cannot be equipped with both a stranglethorn cannon and a heavy venom cannon. This model cannot be equipped","with more than 1 heavy venom cannon, and it cannot be equipped with more than 1 stranglethorn cannon."]},{"name":"UNIT COMPOSITION","values":["■","1 Hive Tyrant","This model is equipped with:","monstrous bonesword and lash","whip; monstrous scything talons."]},{"name":"LEADER","values":["This model can be attached to the following unit:","■","Tyrant Guard","HIVE TYRANT","Hive Tyrants command the swarm on the Hive Mind’s behalf. Not","only are they powerful warrior organisms in their own right, but they","are also possessed of a depth of sentient autonomy and strategic","cunning that makes them truly deadly foes. Where the Hive Tyrants","bestride the battlefield, death comes for the prey."]}]},{"id":"40k-index-tyranids-4","name":"THE SWARMLORD","subtype":"","keywords":["Monster","Character","Epic Hero","Psyker","Great Devourer"],"weapons":{"ranged":[{"name":"Synaptic pulse [PSYCHIC, TORRENT]","range":"18\"","a":"D6+3","bws":"N/A","s":"5","ap":"-1","d":"2"}],"melee":[{"name":"Bone sabres [TWIN-LINKED]","range":"Melee","a":"8","bws":"2+","s":"9","ap":"-2","d":"3"}]},"factionKeywords":["Tyranids"],"abilities":{"core":"Deadly Demise D3, Leader","faction":"Shadow in the Warp, Synapse","special":["Hive Commander: At the start of your Command phase, if this model is on the battlefield, you gain 1CP.","Malign Presence: Once per battle, after your opponent uses a Stratagem, if this model is your Warlord and is on the battlefield, it can use this ability.","If it does, until the end of the battle, increase that Stratagem’s cost to your opponent by 1CP.","Domination of the Hive Mind: While a friendly Tyranids unit is within 9\" of this model, that unit is within your army’s Synapse Range."]},"invulnerable":"4+","damaged":null,"stats":{"m":"8\"","t":"10","sv":"2+","w":"10","ld":"7+","oc":"3"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","None"]},{"name":"UNIT COMPOSITION","values":["■","1 Swarmlord -","Epic Hero","This model is equipped with:","synaptic pulse; bone sabres."]},{"name":"LEADER","values":["This model can be attached to the following unit:","■","Tyrant Guard","THE SWARMLORD","The Swarmlord is the herald of the Hive Mind and may be as old as","the Tyranid race itself. Upon death, the beast is always absorbed","through the synaptic link and spawned anew. It has presided over the","annihilation of countless civilisations, and with every incarnation it","only becomes more deadly."]}]},{"id":"40k-index-tyranids-6","name":"BROODLORD","subtype":"","keywords":["Infantry","Character","Psyker","Great Devourer","Broodlord"],"weapons":{"ranged":[],"melee":[{"name":"Broodlord claws and talons [DEVASTATING WOUNDS, TWIN-LINKED]","range":"Melee","a":"5","bws":"2+","s":"6","ap":"-2","d":"2"}]},"factionKeywords":["Tyranids"],"abilities":{"core":"Leader, Scouts 8\"","faction":"Synapse","special":["Vicious Insight: While this model is leading a unit, weapons equipped by models in that unit have the [DEVASTATING WOUNDS] ability.","Hypnotic Gaze (Psychic): At the start of the Fight phase, select one enemy unit within Engagement Range of this model.","Until the end of the phase, each time a model in that unit makes an attack, subtract 1 from the Hit roll."]},"invulnerable":"4+","damaged":null,"stats":{"m":"8\"","t":"5","sv":"4+","w":"6","ld":"7+","oc":"1"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","None"]},{"name":"UNIT COMPOSITION","values":["■","1 Broodlord","This model is equipped with:","Broodlord claws and talons."]},{"name":"LEADER","values":["This model can be attached to the following unit:","■","Genestealers","BROODLORD","Mightiest and most intelligent of the Genestealer bioforms, the","Broodlord is an insidious predatory infiltrator. Able to act as a forward","commander for the invasion swarms, it sows carnage through the","enemy lines while maximising the cunning and lethality of lesser","warrior organisms around it."]}]},{"id":"40k-index-tyranids-8","name":"WINGED TYRANID PRIME","subtype":"","keywords":["Infantry","Character","Fly","Great Devourer","Synapse"],"weapons":{"ranged":[],"melee":[{"name":"Prime talons","range":"Melee","a":"6","bws":"2+","s":"6","ap":"-1","d":"2"}]},"factionKeywords":["Tyranids"],"abilities":{"core":"Deep Strike, Leader","faction":"Shadow in the Warp, Synapse","special":["Alpha Warrior: While this model is leading a unit, weapons equipped by models in that unit have the [SUSTAINED HITS 1] ability.","Death Blow: If this model is destroyed by a melee attack, if it has not fought this phase, roll one D6: on a 4+, do not remove it from play.","The destroyed model can fight after the attacking model’s unit has finished making its attacks, and is then removed from play."]},"invulnerable":"","damaged":null,"stats":{"m":"12\"","t":"5","sv":"4+","w":"6","ld":"7+","oc":"1"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","None"]},{"name":"UNIT COMPOSITION","values":["■","1 Winged Tyranid Prime","This model is equipped with:","Prime talons."]},{"name":"LEADER","values":["This model can be attached to the following units:","■","Gargoyles","■","Tyranid Warriors with melee Bio-weapons","■","Tyranid Warriors with Ranged Bio-weapons","WINGED TYRANID PRIME","Tyranid Primes adapted for flight possess all the physical and synaptic","might of an alpha war-beast, while also boasting the frightening speed","and manoeuvrability imparted by huge leathery wings. Swooping","down into the midst of the foe, they rend and tear until nought remains","but corpses and fleeing prey."]}]},{"id":"40k-index-tyranids-10","name":"TERVIGON","subtype":"","keywords":["Monster","Character","Psyker","Great Devourer","Synapse","Tervigon"],"weapons":{"ranged":[{"name":"Stinger salvoes","range":"24\"","a":"8","bws":"3+","s":"5","ap":"0","d":"1"}],"melee":[{"name":"Massive crushing claws","range":"Melee","a":"4","bws":"4+","s":"12","ap":"-3","d":"D6+1"},{"name":"Massive scything talons - strike","range":"Melee","a":"4","bws":"3+","s":"9","ap":"-2","d":"D6"},{"name":"Massive scything talons - sweep","range":"Melee","a":"8","bws":"3+","s":"7","ap":"-1","d":"2"}]},"factionKeywords":["Tyranids"],"abilities":{"core":"Deadly Demise D6","faction":"Shadow in the Warp, Synapse","special":["Spawn Termagants: In your Command phase, you can select one friendly Termagants unit within 6\" of this model and return up to D3+3 destroyed Termagant models to that unit.","A Termagants unit cannot be selected for this ability more than once per phase.","Brood Progenitor (Aura, Psychic): While a friendly Termagants unit is within 6\" of this model, ranged weapons equipped by models in that unit have the [LETHAL HITS] ability.","DAMAGED: 1-5 WOUNDS REMAINING While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."]},"invulnerable":"","damaged":null,"stats":{"m":"8\"","t":"11","sv":"2+","w":"16","ld":"7+","oc":"5"},"footnotes":{"footnotes":"Before selecting targets for this weapon, select one of its profiles to make attacks with."},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","This model’s massive scything talons can be replaced with 1 massive crushing claws."]},{"name":"UNIT COMPOSITION","values":["■","1 Tervigon","This model is equipped with:","stinger salvoes; massive","scything talons.","TERVIGON","Beyond simply being large and powerful synapse beasts, Tervigons","are also able to spawn skittering masses of Termagant warrior","organisms from within their bulging abdomens. These dripping spawn","instinctively protect their broodmother with their lives, their numbers","growing all the time until they overwhelm the prey."]}]},{"id":"40k-index-tyranids-12","name":"OLD ONE EYE","subtype":"","keywords":["Monster","Character","Epic Hero","Great Devourer","Old One Eye"],"weapons":{"ranged":[],"melee":[{"name":"Old One Eye’s claws and talons - strike","range":"Melee","a":"6","bws":"3+","s":"14","ap":"-3","d":"D6+1"},{"name":"Old One Eye’s claws and talons - sweep","range":"Melee","a":"12","bws":"3+","s":"6","ap":"-1","d":"1"}]},"factionKeywords":["Tyranids"],"abilities":{"core":"Feel No Pain 5+, Leader","faction":"Synapse","special":["Alpha Leader: While this model is leading a unit, each time a model in that unit makes an attack, you can re-roll the Hit roll.","Unstoppable Monster: At the start of each player’s Command phase, this model regains up to D3 lost wounds."]},"invulnerable":"","damaged":null,"stats":{"m":"8\"","t":"9","sv":"2+","w":"9","ld":"8+","oc":"3"},"footnotes":{"footnotes":"Before selecting targets for this weapon, select one of its profiles to make attacks with."},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","None"]},{"name":"UNIT COMPOSITION","values":["■","1 Old One Eye -","Epic Hero","This model is equipped with:","Old One Eye’s claws and talons."]},{"name":"LEADER","values":["This model can be attached to the following unit:","■","Carnifexes","OLD ONE EYE","Known as the Beast of Calth, this unstoppable brute was first seen","during the First Tyrannic War. Though many have thought it slain over","the centuries, always the scarred monster rises again. Whether it is a","Tyranid subgenus or the same unstoppable monster come again is a","mystery few in its path live long enough to ponder."]}]},{"id":"40k-index-tyranids-14","name":"TYRANID WARRIORS","subtype":"WITH RANGED BIO-WEAPONS","keywords":["Infantry","Synapse","Tyranid Warriors with Ranged Bio-weapons"],"weapons":{"ranged":[{"name":"Barbed strangler [BLAST]","range":"36\"","a":"D6+1","bws":"4+","s":"6","ap":"-1","d":"1"},{"name":"Deathspitter","range":"24\"","a":"3","bws":"4+","s":"5","ap":"-1","d":"1"},{"name":"Devourer","range":"18\"","a":"5","bws":"4+","s":"4","ap":"0","d":"1"},{"name":"Spinefists [ASSAULT, PISTOL, TWIN-LINKED]","range":"12\"","a":"2","bws":"4+","s":"4","ap":"0","d":"1"},{"name":"Venom cannon [BLAST]","range":"36\"","a":"D3","bws":"4+","s":"9","ap":"-2","d":"2"}],"melee":[{"name":"Bio-weapons","range":"Melee","a":"5","bws":"3+","s":"5","ap":"-1","d":"1"}]},"factionKeywords":["Tyranids"],"abilities":{"core":"Shadow in the Warp, Synapse","faction":"This unit is eligible to shoot and declare","special":["a charge in a turn in which it Fell Back."]},"invulnerable":"","damaged":null,"stats":{"m":"6\"","t":"5","sv":"4+","w":"3","ld":"7+","oc":"2"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","Any number of models can each have their devourer replaced with one of the following:","◦","1 deathspitter","◦","1 spinefists","■","For every 3 models in this unit, 1 model’s devourer can be replaced with 1 barbed strangler.","■","For every 3 models in this unit, 1 model’s devourer can be replaced with 1 venom cannon."]},{"name":"UNIT COMPOSITION","values":["■","1 Tyranid Prime","■","2-5 Tyranid Warriors","Every model is equipped with:","devourer; bio-weapons.","TYRANID WARRIORS","WITH RANGED BIO-WEAPONS","Strong, swift, independently intelligent and amongst the Hive Mind’s","most adaptable bioforms, Tyranid Warriors are the backbone of many","Tyranid invasions. Their synaptic link imbues them with advanced","martial abilities, and also allows them to serve as synaptic linchpins","within the wider swarms during battle."]}]},{"id":"40k-index-tyranids-16","name":"TYRANID WARRIORS","subtype":"WITH MELEE BIO-WEAPONS","keywords":["Infantry","Synapse","Tyranid Warriors with Melee Bio-weapons"],"weapons":{"ranged":[],"melee":[{"name":"Bio-weapons [TWIN-LINKED]","range":"Melee","a":"6","bws":"3+","s":"5","ap":"-2","d":"1"}]},"factionKeywords":["Tyranids"],"abilities":{"core":"Shadow in the Warp, Synapse","faction":"At the start of the Fight phase, you","special":["can select one of the following abilities to apply to models in this unit until the end of the phase: ■ Aggression Imperative: Each time a model in this unit makes a melee attack, re-roll a Hit roll of 1.","■ Preservation Imperative: Each time a saving throw is made for a model in this unit, re-roll a saving throw of 1."]},"invulnerable":"","damaged":null,"stats":{"m":"6\"","t":"5","sv":"4+","w":"3","ld":"7+","oc":"2"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","None"]},{"name":"UNIT COMPOSITION","values":["■","1 Tyranid Prime","■","2-5 Tyranid Warriors","Every model is equipped with:","bio-weapons.","TYRANID WARRIORS","WITH MELEE BIO-WEAPONS","Strong, swift, independently intelligent and amongst the Hive Mind’s","most adaptable bioforms, Tyranid Warriors are the backbone of many","Tyranid invasions. Their synaptic link imbues them with advanced","martial abilities, and also allows them to serve as synaptic linchpins","within the wider swarms during battle."]}]},{"id":"40k-index-tyranids-18","name":"TERMAGANTS","subtype":"","keywords":["Infantry","Battleline","Great Devourer","Endless Multitude"],"weapons":{"ranged":[{"name":"Fleshborer [ASSAULT]","range":"18\"","a":"1","bws":"4+","s":"5","ap":"0","d":"1"},{"name":"Termagant spinefists [ASSAULT, PISTOL, TWIN-LINKED]","range":"12\"","a":"2","bws":"4+","s":"3","ap":"0","d":"1"},{"name":"Termagant devourer","range":"18\"","a":"2","bws":"4+","s":"4","ap":"0","d":"1"}],"melee":[{"name":"Xenos claws and teeth","range":"Melee","a":"1","bws":"4+","s":"3","ap":"0","d":"1"}]},"factionKeywords":["Tyranids"],"abilities":{"core":"Synapse","faction":"Once per turn, when an enemy unit ends a","special":["Normal, Advance or Fall Back move within 9\" of this unit, if this unit is not within Engagement Range of one or more enemy units, it can make a Normal move of up to D6\"."]},"invulnerable":"","damaged":null,"stats":{"m":"6\"","t":"3","sv":"5+","w":"1","ld":"8+","oc":"2"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","All models in this unit can each have their fleshborer replaced with 1 Termagant devourer.","■","All models in this unit can each have their fleshborer replaced with 1 Termagant spinefists."]},{"name":"UNIT COMPOSITION","values":["■","10-20 Termagants","Every model is equipped with:","fleshborer; xenos claws","and teeth.","TERMAGANTS","Scuttling predators that attack in huge swarms, Termagants were","originally spawned to roam the tight arterial passages of hive ships","and hunt intruders. They harry their prey with a hail of firepower,","seeking always to outflank and envelop their victims as they erode","their numbers."]}]},{"id":"40k-index-tyranids-20","name":"HORMAGAUNTS","subtype":"","keywords":["Infantry","Battleline","Great Devourer","Endless Multitude"],"weapons":{"ranged":[],"melee":[{"name":"Hormagaunt talons","range":"Melee","a":"3","bws":"4+","s":"3","ap":"-1","d":"1"}]},"factionKeywords":["Tyranids"],"abilities":{"core":"Synapse","faction":"This unit is eligible to declare a charge in a","special":["turn in which it Advanced."]},"invulnerable":"","damaged":null,"stats":{"m":"10\"","t":"3","sv":"5+","w":"1","ld":"8+","oc":"2"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","None"]},{"name":"UNIT COMPOSITION","values":["■","10-20 Hormagaunts","Every model is equipped with:","Hormagaunt talons.","HORMAGAUNTS","Swarming shock troops, Hormagaunts are seeded onto prey worlds in","their billions. As simple hunter-slayer organisms, they can be left to","rampage, wearing down defence lines and forcing the prey to expend","lives and ammunition. Many formidable bastions have been buried in","literal mountains of these chitinous horrors."]}]},{"id":"40k-index-tyranids-22","name":"GARGOYLES","subtype":"","keywords":["Infantry","Battleline","Fly","Great Devourer","Endless Multitude"],"weapons":{"ranged":[{"name":"Fleshborer [ASSAULT]","range":"18\"","a":"1","bws":"4+","s":"5","ap":"0","d":"1"}],"melee":[{"name":"Blinding venom","range":"Melee","a":"1","bws":"4+","s":"3","ap":"0","d":"1"}]},"factionKeywords":["Tyranids"],"abilities":{"core":"Deep Strike","faction":"Synapse","special":["Winged Swarm: In your Shooting phase, after this unit has shot, if it is not within Engagement Range of any enemy units, it can make a Normal move of up to 6\".","If it does, until the end of the turn, this unit is not eligible to declare a charge."]},"invulnerable":"","damaged":null,"stats":{"m":"12\"","t":"3","sv":"6+","w":"1","ld":"8+","oc":"2"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","None"]},{"name":"UNIT COMPOSITION","values":["■","10-20 Gargoyles","Every model is equipped with:","fleshborer; blinding venom.","GARGOYLES","Gargoyles are often the first warrior organisms hurled against a prey","world. Their teeming swarms darken the skies. Their opportunistic","attacks spread panic and disarray. Worst of all, the creatures can","squirm through gaps that appear far too small, bursting through gun","slits and vent pipes to assail horrified defenders."]}]},{"id":"40k-index-tyranids-24","name":"TOXICRENE","subtype":"","keywords":["Monster","Great Devourer","Toxicrene"],"weapons":{"ranged":[{"name":"Massive toxic lashes [ANTI-INFANTRY 2+]","range":"9\"","a":"2D6","bws":"3+","s":"6","ap":"-1","d":"2"}],"melee":[{"name":"Massive toxic lashes [ANTI-INFANTRY 2+]","range":"Melee","a":"12","bws":"3+","s":"6","ap":"-1","d":"2"}]},"factionKeywords":["Tyranids"],"abilities":{"core":"Deadly Demise D3","faction":"Synapse","special":["Grasping Tendrils: Each time an enemy unit (excluding Titanic units) within Engagement Range of one or more units from your army with this ability is selected to Fall Back, you can roll one D6: on a 3+, that enemy unit must Remain Stationary instead.","Hypertoxic Miasma (Aura): At the end of your Movement phase, roll one D6 for each enemy unit within 6\" of this model: on a 2-3, that unit suffers 1 mortal wound; on a 4-5, that unit suffers D3 mortal wounds; on a 6, that unit suffers D6 mortal wounds.","DAMAGED: 1-5 WOUNDS REMAINING While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."]},"invulnerable":"","damaged":null,"stats":{"m":"8\"","t":"11","sv":"3+","w":"14","ld":"8+","oc":"4"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","None"]},{"name":"UNIT COMPOSITION","values":["■","1 Toxicrene","This model is equipped with:","massive toxic lashes.","TOXICRENE","The semi-sentient spores spewed by the Toxicrene can penetrate even","sealed armour and enviro-suits before multiplying within the victim’s","body to burst their organs and dissolve their flesh. Prey not slain in","this horrible manner soon fall to the Toxicrene’s monstrous bulk and","vast, lashing tendrils as it rampages ever onwards."]}]},{"id":"40k-index-tyranids-26","name":"TYRANT GUARD","subtype":"","keywords":["Infantry","Great Devourer","Tyrant Guard"],"weapons":{"ranged":[],"melee":[{"name":"Bone cleaver, lash whip and rending claws [TWIN-LINKED]","range":"Melee","a":"3","bws":"3+","s":"5","ap":"-1","d":"2"},{"name":"Crushing claws and rending claws","range":"Melee","a":"3","bws":"4+","s":"8","ap":"-2","d":"2"},{"name":"Scything talons and rending claws","range":"Melee","a":"5","bws":"3+","s":"5","ap":"-1","d":"1"}]},"factionKeywords":["Tyranids"],"abilities":{"core":"Synapse","faction":"While a","special":["Character model is leading this unit, that Character has the Feel No Pain 5+ ability."]},"invulnerable":"","damaged":null,"stats":{"m":"6\"","t":"8","sv":"3+","w":"4","ld":"8+","oc":"1"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","Any number of models can each have their scything talons and rending claws replaced with one of","the following:","◦","1 bone cleaver, lash whip and rending claws","◦","1 crushing claws and rending claws"]},{"name":"UNIT COMPOSITION","values":["■","3-6 Tyrant Guard","Every model is equipped with:","scything talons and","rending claws.","TYRANT GUARD","Incredibly well armoured and resilient, Tyrant Guard form a mobile","bulwark around their assigned synapse organism. So extreme is their","bio-adaptation, they do not even possess weak spots such as eyes.","Instead, they are guided as extensions of their charge’s synaptic will,","acting as living weapons and shields."]}]},{"id":"40k-index-tyranids-28","name":"NEUROTYRANT","subtype":"RANGED WEAPONS","keywords":["A"],"weapons":{"ranged":[{"name":"Psychic scream [IGNORES COVER, PSYCHIC, TORRENT]","range":"18\"","a":"2D6","bws":"N/A","s":"5","ap":"-1","d":"2"}],"melee":[{"name":"Neurotyrant claws and lashes","range":"Melee","a":"6","bws":"3+","s":"5","ap":"0","d":"1"},{"name":"ABILITIES","range":"CORE:","a":"Leader","bws":"FACTION:","s":"Synapse, Shadow in the Warp","ap":"Node Lash (Psychic):","d":"While this model is leading a unit, each"},{"name":"time a model in that unit makes an attack, add 1 to the Hit roll.","range":"If the target is Battle-shocked, add 1 to the Wound roll as well.","a":"Psychic Terror (Psychic):","bws":"If one or more","s":"Neurotyrants","ap":"from your army are on the battlefield when you unleash the","d":"Shadow in the Warp, subtract 1 from the Battle-shock test"},{"name":"each enemy unit on the battlefield must take as a result.","range":"Synaptic Relays:","a":"In your Command phase, you can select","bws":"up to two friendly","s":"Tyranids","ap":"units within 12\" of this model’s","d":"unit. Until the start of your next Command phase, the selected"},{"name":"units are always considered to be within Synapse Range of","range":"your army.","a":"Designer’s Note:","bws":"Place a Synaptic Relay token next to each selected unit to","s":"remind you.","ap":"INVULNERABLE SAVE","d":"4+"},{"name":"M","range":"T","a":"SV","bws":"W","s":"LD","ap":"OC","d":"6\""},{"name":"8","range":"4+","a":"9","bws":"7+","s":"3","ap":"KEYWORDS:","d":"Monster, Character, Fly, Psyker, Great Devourer, Synapse,"},{"name":"Neurotyrant"}]},"factionKeywords":["Tyranids"],"abilities":{"core":"Leader","faction":"Synapse, Shadow in the Warp","special":["Node Lash (Psychic): While this model is leading a unit, each time a model in that unit makes an attack, add 1 to the Hit roll.","If the target is Battle-shocked, add 1 to the Wound roll as well.","Psychic Terror (Psychic): If one or more Neurotyrants from your army are on the battlefield when you unleash the Shadow in the Warp, subtract 1 from the Battle-shock test each enemy unit on the battlefield must take as a result.","Synaptic Relays: In your Command phase, you can select up to two friendly Tyranids units within 12\" of this model’s unit.","Until the start of your next Command phase, the selected units are always considered to be within Synapse Range of your army.","Designer’s Note: Place a Synaptic Relay token next to each selected unit to remind you."]},"invulnerable":"4+","damaged":null,"stats":{"m":"6\"","t":"8","sv":"4+","w":"9","ld":"7+","oc":"3"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","None"]},{"name":"UNIT COMPOSITION","values":["■","1 Neurotyrant","This model is equipped with:","psychic scream; Neurotyrant","claws and lashes."]},{"name":"LEADER","values":["This model can be attached to the following units:","■","Neurogaunts","■","Tyrant Guard","NEUROTYRANT","The Shadow in the Warp radiating from this immensely powerful","psyker-analogue creeps in all directions, driving even non-psychic","prey organisms to screaming madness. As its foes writhe in agony,","the Neurotyrant guides the swarms around it to slaughter with","brutal efficiency."]}]},{"id":"40k-index-tyranids-30","name":"LICTOR","subtype":"","keywords":["Infantry","Great Devourer","Lictor"],"weapons":{"ranged":[],"melee":[{"name":"Lictor claws and talons [PRECISION]","range":"Melee","a":"6","bws":"2+","s":"7","ap":"-2","d":"2"}]},"factionKeywords":["Tyranids"],"abilities":{"core":"Fights First, Infiltrators, Lone Operative, Stealth","faction":"Synapse","special":["Feeder Tendrils: Each time this model destroys an enemy Character model, you gain 1CP.","Pheromone Trail: Once per battle round, you can target one model with this ability with the Rapid Ingress Stratagem for 0CP."]},"invulnerable":"5+","damaged":null,"stats":{"m":"8\"","t":"6","sv":"4+","w":"6","ld":"7+","oc":"1"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","None"]},{"name":"UNIT COMPOSITION","values":["■","1 Lictor","This model is equipped with:","Lictor claws and talons.","LICTOR","Lictors are an adaptation of the Tyranid Warrior bioform specialising in","infiltration, scouting and assassination. Hidden by their chameleonic","skin, Lictors pick off their prey opportunistically, always looking for","a chance to crack open their victims’ skulls and suck out the secrets","held within using their feeder tendrils."]}]},{"id":"40k-index-tyranids-32","name":"DEATHLEAPER","subtype":"","keywords":["Infantry","Character","Epic Hero","Great Devourer","Deathleaper"],"weapons":{"ranged":[],"melee":[{"name":"Lictor claws and talons [PRECISION]","range":"Melee","a":"6","bws":"2+","s":"7","ap":"-2","d":"2"}]},"factionKeywords":["Tyranids"],"abilities":{"core":"Fights First, Infiltrators, Lone Operative, Stealth","faction":"Synapse","special":["Feeder Tendrils: Each time this model destroys an enemy Character model, you gain 1CP.","Fear of the Unseen (Aura): While an enemy unit is within 6\" of this model, worsen the Leadership characteristic of models in that unit by 1.","In addition, in the Battle-shock step of your opponent’s Command phase, if such an enemy unit is below its Starting Strength, it must take a Battle-shock test."]},"invulnerable":"4+","damaged":null,"stats":{"m":"8\"","t":"6","sv":"4+","w":"7","ld":"7+","oc":"1"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","None"]},{"name":"UNIT COMPOSITION","values":["■","1 Deathleaper -","Epic Hero","This model is equipped with:","Lictor claws and talons.","HUNTER ORGANISM","This model cannot be your","Warlord",".","DEATHLEAPER","The Deathleaper is an advancement of the Lictor strain intended to act","as a terror weapon. Possessing an instinctive understanding of how","to spread fear through prey populations, it uses its skills in stealth,","infiltration and assassination to sow paranoia and dread before the","hive fleet attacks en masse."]}]},{"id":"40k-index-tyranids-34","name":"MALECEPTOR","subtype":"","keywords":["Monster","Psyker","Great Devourer","Synapse","Maleceptor"],"weapons":{"ranged":[{"name":"Psychic overload [BLAST, PSYCHIC]","range":"18\"","a":"D6+3","bws":"3+","s":"10","ap":"-2","d":"3"}],"melee":[{"name":"Massive scything talons - strike","range":"Melee","a":"3","bws":"3+","s":"9","ap":"-2","d":"D6+1"},{"name":"Massive scything talons - sweep","range":"Melee","a":"6","bws":"3+","s":"7","ap":"-1","d":"2"}]},"factionKeywords":["Tyranids"],"abilities":{"core":"Deadly Demise D3","faction":"Shadow in the Warp, Synapse","special":["Encephalic Diffusion (Aura, Psychic): While an enemy unit is within 6\" of this model, each time a model in that unit makes an attack, subtract 1 from the Hit roll, and, if that enemy unit is Below Half-strength, subtract 1 from the Wound roll as well.","DAMAGED: 1-5 WOUNDS REMAINING While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."]},"invulnerable":"4+","damaged":null,"stats":{"m":"8\"","t":"11","sv":"3+","w":"14","ld":"7+","oc":"4"},"footnotes":{"footnotes":"Before selecting targets for this weapon, select one of its profiles to make attacks with."},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","None"]},{"name":"UNIT COMPOSITION","values":["■","1 Maleceptor","This model is equipped with:","psychic overload; massive","scything talons.","MALECEPTOR","Amongst the most powerful Tyranid psyker-analogues yet known,","Maleceptors wield colossal synaptic power. Ethereal psychic","pseudopods lash about them, able to literally detonate victims’ skulls","with the slightest touch, while the encephalitic orbs set into their","carapaces focus the smothering dread of the Shadow in the Warp."]}]},{"id":"40k-index-tyranids-36","name":"PYROVORES","subtype":"","keywords":["Infantry","Great Devourer","Pyrovores"],"weapons":{"ranged":[{"name":"Flamespurt [IGNORES COVER, TORRENT, TWIN-LINKED]","range":"12\"","a":"D6+1","bws":"N/A","s":"6","ap":"-1","d":"1"}],"melee":[{"name":"Chitin-barbed limbs","range":"Melee","a":"2","bws":"4+","s":"5","ap":"0","d":"1"}]},"factionKeywords":["Tyranids"],"abilities":{"core":"Deadly Demise 1","faction":"Synapse","special":["Burning Spray: In your Shooting phase, after this unit has shot, select one enemy unit hit by one or more of those attacks.","Until the end of the phase, that enemy unit cannot have the Benefit of Cover."]},"invulnerable":"","damaged":null,"stats":{"m":"5\"","t":"6","sv":"3+","w":"4","ld":"8+","oc":"1"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","None"]},{"name":"UNIT COMPOSITION","values":["■","1-3 Pyrovores","Every model is equipped with:","flamespurt;","chitin-barbed limbs.","PYROVORES","Pyrovores exist to predigest biomass. The acids that drip from their","maws are so corrosive they can melt adamantine. Meanwhile, their","flame-spewing dorsal organisms can engulf entire squads of prey in","roiling chemical fire. Even killing these bioforms is perilous, for their","volatile innards can detonate upon death."]}]},{"id":"40k-index-tyranids-38","name":"HARUSPEX","subtype":"","keywords":["Monster","Great Devourer","Haruspex"],"weapons":{"ranged":[{"name":"Grasping tongue [PRECISION]","range":"12\"","a":"1","bws":"3+","s":"6","ap":"-2","d":"D6+1"}],"melee":[{"name":"Ravenous maw","range":"Melee","a":"14","bws":"3+","s":"7","ap":"-1","d":"2"},{"name":"Shovelling claws [EXTRA ATTACKS]","range":"Melee","a":"4","bws":"3+","s":"14","ap":"-2","d":"D6+1"}]},"factionKeywords":["Tyranids"],"abilities":{"core":"Deadly Demise D3","faction":"Synapse","special":["Grisly Spectacle: Each time this model is selected to fight, after resolving its attacks, if one or more enemy units were destroyed by those attacks, each enemy unit within 6\" of this model must take a Battle-shock test.","DAMAGED: 1-5 WOUNDS REMAINING While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."]},"invulnerable":"","damaged":null,"stats":{"m":"8\"","t":"11","sv":"3+","w":"14","ld":"8+","oc":"4"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","None"]},{"name":"UNIT COMPOSITION","values":["■","1 Haruspex","This model is equipped with:","grasping tongue; ravenous maw;","shovelling claws.","HARUSPEX","The infinite hunger of the Haruspex can see it consume an entire","platoon of prey organisms in moments. Nothing escapes its yawning","gullet and lashing tongue for long; its victims meet a horrible end as","they are swallowed down to be gradually dissolved into raw biomass","within the monster’s churning innards."]}]},{"id":"40k-index-tyranids-40","name":"VENOMTHROPES","subtype":"","keywords":["Infantry","Fly","Great Devourer","Venomthropes"],"weapons":{"ranged":[],"melee":[{"name":"Toxic lashes [ANTI-INFANTRY 2+]","range":"Melee","a":"5","bws":"3+","s":"3","ap":"0","d":"1"}]},"factionKeywords":["Tyranids"],"abilities":{"core":"Stealth","faction":"Synapse","special":["Foul Spores (Aura): While a friendly Tyranids unit is within 6\" of this unit, each time a ranged attack targets that unit, models in that unit have the Benefit of Cover against that attack.","In addition, while a friendly Tyranids unit (excluding Monsters ) is within 6\" of this unit, models in that unit have the Stealth ability."]},"invulnerable":"","damaged":null,"stats":{"m":"6\"","t":"5","sv":"4+","w":"3","ld":"8+","oc":"1"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","None"]},{"name":"UNIT COMPOSITION","values":["■","3-6 Venomthropes","Every model is equipped with:","toxic lashes.","VENOMTHROPES","Venomthropes drift forward amidst miasmal clouds of spores that","spew from within their bodies. The touch of their tendrils is extremely","poisonous, and those exposed to the Venomthropes’ spore clouds for","any length of time drown on their own frothing fluids as they dissolve","from the inside out."]}]},{"id":"40k-index-tyranids-42","name":"VON RYAN’S LEAPERS","subtype":"","keywords":["Infantry","Great Devourer","Von Ryan’s Leapers"],"weapons":{"ranged":[],"melee":[{"name":"Leaper’s talons","range":"Melee","a":"6","bws":"3+","s":"5","ap":"-1","d":"1"}]},"factionKeywords":["Tyranids"],"abilities":{"core":"Fights First, Infiltrators, Stealth","faction":"Synapse","special":["Pouncing Leap: You can target this unit with the Heroic Intervention Stratagem for 0CP, and can do so even if you have already used that Stratagem on a different unit this phase."]},"invulnerable":"6+","damaged":null,"stats":{"m":"10\"","t":"5","sv":"4+","w":"3","ld":"8+","oc":"1"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","None"]},{"name":"UNIT COMPOSITION","values":["■","3-6 Von Ryan’s Leapers","Every model is equipped with:","Leaper’s talons.","VON RYAN’S LEAPERS","Stealthy hunters and expert ambushers, Von Ryan’s Leapers are swift,","agile and especially lethal when fighting in dense terrain. Akin to","living mines, they lie still at the optimum locations to cause as much","damage as possible. When they sense the perfect time to strike, they","butcher all around in a murderous frenzy."]}]},{"id":"40k-index-tyranids-44","name":"NEUROGAUNTS","subtype":"MELEE WEAPONS","keywords":["A"],"weapons":{"ranged":[],"melee":[{"name":"Xenos claws and teeth","range":"Melee","a":"1","bws":"4+","s":"3","ap":"0","d":"1"},{"name":"ABILITIES","range":"FACTION:","a":"Synapse","bws":"Neurocytes:","s":"While this unit is within Synapse Range of your","ap":"army, it has the","d":"Synapse"},{"name":"keyword.","range":"M","a":"T","bws":"SV","s":"W","ap":"LD","d":"OC"},{"name":"6\"","range":"3","a":"6+","bws":"1","s":"8+","ap":"1","d":"KEYWORDS:"},{"name":"Infantry, Great Devourer, Endless Multitude, Neurogaunts"}]},"factionKeywords":["Tyranids"],"abilities":{"core":"Synapse","faction":"While this unit is within Synapse Range of your","special":["army, it has the Synapse keyword."]},"invulnerable":"","damaged":null,"stats":{"m":"6\"","t":"3","sv":"6+","w":"1","ld":"8+","oc":"1"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","None"]},{"name":"UNIT COMPOSITION","values":["■","1-2 Neurogaunt Nodebeasts*","■","10-20 Neurogaunts","Every model is equipped with:","xenos claws and teeth.","*","This unit can only contain 2 Neurogaunt Nodebeasts if it contains","20 Neurogaunts.","NEUROGAUNTS","Neurogaunts scuttle forward in seething masses, driven on by the","parasitic neurocytes that cling to their backs. Their primary purpose is","to protect the synaptic node beasts coordinating invasion swarms. It","is a task they go about with single-minded savagery, slashing, biting","and giving their lives without an instant’s hesitation."]}]},{"id":"40k-index-tyranids-46","name":"ZOANTHROPES","subtype":"","keywords":["Infantry","Psyker","Fly","Great Devourer","Synapse","Zoanthropes"],"weapons":{"ranged":[{"name":"Warp Blast - witchfire [BLAST, PSYCHIC]","range":"24\"","a":"D3","bws":"3+","s":"7","ap":"-2","d":"D3"},{"name":"Warp Blast - focused witchfire [LETHAL HITS, PSYCHIC]","range":"24\"","a":"1","bws":"3+","s":"12","ap":"-3","d":"D6+1"}],"melee":[{"name":"Xenos claws and teeth","range":"Melee","a":"2","bws":"5+","s":"3","ap":"0","d":"1"}]},"factionKeywords":["Tyranids"],"abilities":{"core":"Shadow in the Warp, Synapse","faction":"While this unit contains a","special":["Neurothrope, while an enemy unit is within 6\" of this unit, each time that enemy unit fails a Battle-shock test, it suffers D3 mortal wounds and one model in this unit regains up to D3 lost wounds.","Warp Field (Aura, Psychic): While a friendly Tyranids unit is within 6\" of this unit, models in that unit have a 6+ invulnerable save."]},"invulnerable":"4+","damaged":null,"stats":{"m":"5\"","t":"5","sv":"5+","w":"3","ld":"7+","oc":"1"},"footnotes":{"footnotes":"Before selecting targets for this weapon, select one of its profiles to make attacks with."},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","None"]},{"name":"UNIT COMPOSITION","values":["■","1 Neurothrope","■","2-5 Zoanthropes","Every model is equipped with:","Warp Blast; xenos claws","and teeth.","ZOANTHROPES","A Zoanthrope’s physical form is given over to harnessing the might","of the Hive Mind. Not only do they act as synapse nodes, but they","can also draw upon the energies of the Hive Mind to unleash searing","psychic blasts, and to generate fields of defensive power that can stop","an artillery shell dead."]}]},{"id":"40k-index-tyranids-48","name":"GENESTEALERS","subtype":"","keywords":["Infantry","Great Devourer","Genestealers"],"weapons":{"ranged":[],"melee":[{"name":"Genestealer claws and talons","range":"Melee","a":"4","bws":"2+","s":"4","ap":"-2","d":"1"}]},"factionKeywords":["Tyranids"],"abilities":{"core":"Scouts 8\"","faction":"Synapse","special":["Vanguard Predator: Each time a model in this unit makes an attack, re-roll a Wound roll of 1.","If the target is within range of an objective marker, you can re-roll the Wound roll instead."]},"invulnerable":"5+","damaged":null,"stats":{"m":"8\"","t":"4","sv":"5+","w":"2","ld":"7+","oc":"1"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","None"]},{"name":"UNIT COMPOSITION","values":["■","5-10 Genestealers","Every model is equipped with:","Genestealer claws and talons.","GENESTEALERS","Swift vanguard organisms armoured in chitin and possessed of","terrifying strength and agility, Genestealers are peerless predators.","Their broods move ahead of the hive fleets to seek out fresh feeding","grounds. Then, when the invasion swarms descend, the Genestealers","burst from hiding to begin the slaughter."]}]},{"id":"40k-index-tyranids-50","name":"RAVENERS","subtype":"","keywords":["Infantry","Great Devourer","Raveners"],"weapons":{"ranged":[{"name":"Thoracic bio-weapon","range":"12\"","a":"3","bws":"4+","s":"4","ap":"0","d":"1"}],"melee":[{"name":"Ravener claws and talons [TWIN-LINKED]","range":"Melee","a":"7","bws":"3+","s":"5","ap":"-1","d":"1"}]},"factionKeywords":["Tyranids"],"abilities":{"core":"Deep Strike","faction":"Synapse","special":["Death From Below: At the end of your opponent’s turn, if this unit is not within Engagement Range of one or more enemy units, you can remove it from the battlefield and place it into Strategic Reserves."]},"invulnerable":"","damaged":null,"stats":{"m":"10\"","t":"5","sv":"4+","w":"3","ld":"8+","oc":"1"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","Any number of models can each be equipped with 1 thoracic bio-weapon."]},{"name":"UNIT COMPOSITION","values":["■","3-6 Raveners","Every model is equipped with:","Ravener claws and talons.","RAVENERS","Serpentine bioforms capable of a terrifying turn of speed, Raveners","are made doubly dangerous by their ability to tunnel swiftly through","even solid bedrock. Often assaulting their prey from below, Raveners","are especially vicious and predatory warrior organisms used as shock","troops by the Hive Mind."]}]},{"id":"40k-index-tyranids-52","name":"RIPPER SWARMS","subtype":"","keywords":["Swarm","Great Devourer","Ripper Swarms"],"weapons":{"ranged":[{"name":"Spinemaws [PISTOL]","range":"6\"","a":"4","bws":"5+","s":"3","ap":"0","d":"1"}],"melee":[{"name":"Xenos claws and teeth [SUSTAINED HITS 1]","range":"Melee","a":"6","bws":"5+","s":"2","ap":"0","d":"1"}]},"factionKeywords":["Tyranids"],"abilities":{"core":"Deep Strike","faction":"Synapse","special":["Chitinous Horrors (Aura): While an enemy unit is within Engagement Range of this unit, halve the Objective Control characteristic of models in that enemy unit."]},"invulnerable":"","damaged":null,"stats":{"m":"6\"","t":"2","sv":"6+","w":"4","ld":"8+","oc":"0"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","All models in this unit can each be equipped with 1 spinemaws."]},{"name":"UNIT COMPOSITION","values":["■","3-6 Ripper Swarms","Every model is equipped with:","xenos claws and teeth.","RIPPER SWARMS","Living carpets of Rippers squirm across the ground wherever the","Tyranid swarms advance. Little more than simple eating machines,","these chitinous horrors swarm over the wounded and dead alike, and","can even drag down trained warriors in sufficient numbers. Once a","Ripper’s fangs sink home, it will not let go…"]}]},{"id":"40k-index-tyranids-54","name":"PARASITE OF MORTREX","subtype":"","keywords":["Infantry","Character","Fly","Great Devourer","Parasite of Mortrex"],"weapons":{"ranged":[],"melee":[{"name":"Barbed ovipositor [ANTI-INFANTRY 3+, EXTRA ATTACKS]","range":"Melee","a":"1","bws":"2+","s":"3","ap":"-2","d":"3"},{"name":"Clawed limbs","range":"Melee","a":"6","bws":"2+","s":"5","ap":"-1","d":"1"}]},"factionKeywords":["Tyranids"],"abilities":{"core":"Deep Strike, Lone Operative, Stealth","faction":"Synapse","special":["Parasitic Infection: Each time an Infantry model is destroyed by an attack made with this model’s barbed ovipositor, after this model has finished making its attacks, you can add one new Ripper Swarms unit to your army consisting of D3 models and set it up within 3\" of this model.","If you do, that Ripper Swarms unit can be set up within Engagement Range of the destroyed model’s unit (but not within Engagement Range of any other enemy units).","It Itches!: At the start of the Fight phase, select one enemy unit within Engagement Range of this model.","That enemy unit must take a Battle-shock test."]},"invulnerable":"","damaged":null,"stats":{"m":"12\"","t":"5","sv":"4+","w":"5","ld":"8+","oc":"1"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","None"]},{"name":"UNIT COMPOSITION","values":["■","1 Parasite of Mortrex","This model is equipped with:","barbed ovipositor; clawed limbs.","PARASITE OF MORTREX","Swooping on leathery wings, Parasites of Mortrex use their barbed","ovipositors to drive Ripper gestation pods deep into their victims’","bodies, from where the swiftly growing creatures soon eat their way","out. Such was the doom of the defenders of Mortrex, the world first","cursed by the Parasites’ onslaught."]}]},{"id":"40k-index-tyranids-56","name":"MAWLOC","subtype":"","keywords":["Monster","Great Devourer","Mawloc"],"weapons":{"ranged":[],"melee":[{"name":"Distensible jaw [ANTI-INFANTRY 4+, DEVASTATING WOUNDS, EXTRA ATTACKS]","range":"Melee","a":"1","bws":"3+","s":"5","ap":"0","d":"3"},{"name":"Mawloc scything talons","range":"Melee","a":"16","bws":"3+","s":"8","ap":"-2","d":"1"}]},"factionKeywords":["Tyranids"],"abilities":{"core":"Deep Strike","faction":"Synapse","special":["Terror From The Deep: Each time this unit is set up on the battlefield using the Deep Strike ability, roll one D6 for each enemy unit within 12\" of this model: on a 2-4, that unit suffers D3 mortal wounds; on a 5+, that unit suffers 3 mortal wounds and must take a Battle-shock test.","DAMAGED: 1-5 WOUNDS REMAINING While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."]},"invulnerable":"","damaged":null,"stats":{"m":"10\"","t":"10","sv":"3+","w":"14","ld":"8+","oc":"4"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","None"]},{"name":"UNIT COMPOSITION","values":["■","1 Mawloc","This model is equipped with:","distensible jaw; Mawloc","scything talons.","MAWLOC","Vast, burrowing wormforms, Mawlocs hunt by sensing even the","smallest vibrations on the surface above them. Once they have","located prey, the Mawlocs surge upwards in an eruption of bedrock","and soil, yawning maws swallowing everything above them before","they plunge back under the surface again."]}]},{"id":"40k-index-tyranids-58","name":"TRYGON","subtype":"","keywords":["Monster","Great Devourer","Trygon"],"weapons":{"ranged":[{"name":"Bio-electric pulse [SUSTAINED HITS 2]","range":"12\"","a":"6","bws":"3+","s":"5","ap":"0","d":"1"}],"melee":[{"name":"Trygon scything talons","range":"Melee","a":"12","bws":"3+","s":"9","ap":"-2","d":"3"}]},"factionKeywords":["Tyranids"],"abilities":{"special":[]},"invulnerable":"","damaged":null,"stats":{"m":"10\"","t":"10","sv":"3+","w":"14","ld":"8+","oc":"4"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","None"]},{"name":"UNIT COMPOSITION","values":["■","1 Trygon","This model is equipped with:","bio-electric pulse; Trygon","scything talons.","TRYGON","Trygons are battle-tank-sized living tunnelling machines. As they dig","through the substrata of the prey world, they excavate huge tunnels","for other Tyranid beasts to exploit. At the same time, the rasping of","their chitinous plates builds up a powerful bio-electric charge that the","Trygons can unleash as a weapon."]}]},{"id":"40k-index-tyranids-60","name":"MUCOLID SPORES","subtype":"","keywords":["Beast","Fly","Great Devourer","Mucolid Spores"],"weapons":{"ranged":[],"melee":[]},"factionKeywords":["Tyranids"],"abilities":{"core":"Deep Strike","faction":"Synapse","special":["Bio-minefield: Enemy units cannot start or end an Advance move within 6\" of this unit.","Floating Death: Each time an enemy unit ends a move within 3\" of a model in this unit, and each time a model in this unit ends a move within 3\" of an enemy unit, roll one D6: on a 2-5, that enemy unit suffers D3 mortal wounds; on a 6, that enemy unit suffers D6 mortal wounds.","The model in this unit that caused that roll is then destroyed."]},"invulnerable":"","damaged":null,"stats":{"m":"4\"","t":"4","sv":"7+","w":"3","ld":"8+","oc":"0"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","None"]},{"name":"UNIT COMPOSITION","values":["■","1-2 Mucolid Spores","Every model is equipped with:","nothing.","MUCOLID SPORES","These rudimentary organisms are filled with poisonous gases","held under extremely high pressure. Instinct drives them to drift","towards prey formations or up into the path of enemy aircraft,","before detonating in a nauseating spray of poisonous filth and","chitinous shrapnel."]}]},{"id":"40k-index-tyranids-62","name":"SPORE MINES","subtype":"","keywords":["Beast","Fly","Great Devourer","Spore Mines"],"weapons":{"ranged":[],"melee":[]},"factionKeywords":["Tyranids"],"abilities":{"core":"Deep Strike","faction":"Synapse","special":["Bio-minefield: Enemy units cannot start or end an Advance move within 6\" of this unit.","Floating Death: Each time an enemy unit ends a move within 3\" of a model in this unit, and each time a model in this unit ends a move within 3\" of an enemy unit, roll one D6: on a 2-5, that enemy unit suffers 1 mortal wound; on a 6, that enemy unit suffers D3 mortal wounds.","The model in this unit that caused that roll is then destroyed."]},"invulnerable":"","damaged":null,"stats":{"m":"4\"","t":"1","sv":"7+","w":"1","ld":"8+","oc":"0"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","None"]},{"name":"UNIT COMPOSITION","values":["■","3-6 Spore Mines","Every model is equipped with:","nothing.","SPORE MINES","Spore Mines are a form of living mine or bomb, which drift across the","battlefield in shoals and detonate when they detect prey organisms","nearby. Those caught in the blast are torn apart as surely as if they","had caught a brace of live frag grenades. The Hive Mind often uses","Spore Mines to deny areas of the battlefield to the prey."]}]},{"id":"40k-index-tyranids-64","name":"EXOCRINE","subtype":"","keywords":["Monster","Great Devourer","Exocrine"],"weapons":{"ranged":[{"name":"Bio-plasmic cannon [BLAST, HEAVY]","range":"36\"","a":"D6+3","bws":"3+","s":"8","ap":"-3","d":"3"}],"melee":[{"name":"Powerful limbs","range":"Melee","a":"3","bws":"3+","s":"7","ap":"0","d":"2"}]},"factionKeywords":["Tyranids"],"abilities":{"core":"Deadly Demise D3","faction":"Synapse","special":["Symbiotic Targeting: In your Shooting phase, after this model has shot, select one enemy unit hit by one or more of those attacks.","Until the end of the phase, each time a friendly Tyranids model makes an attack that targets that unit, re-roll a Hit roll of 1.","DAMAGED: 1-5 WOUNDS REMAINING While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."]},"invulnerable":"","damaged":null,"stats":{"m":"8\"","t":"10","sv":"3+","w":"14","ld":"8+","oc":"4"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","None"]},{"name":"UNIT COMPOSITION","values":["■","1 Exocrine","This model is equipped with:","bio-plasmic cannon;","powerful limbs.","EXOCRINE","Huge, tough and very stupid, the Exocrine’s only task is to carry the","dorsal cannon organism on its back into an optimal firing position.","Once in place, the bio-plasmic cannon emits a terrible, high-pitched","hiss before unleashing a searing blast of bio-plasma capable of","reducing tanks and bunkers to glowing craters."]}]},{"id":"40k-index-tyranids-66","name":"BIOVORES","subtype":"","keywords":["Infantry","Great Devourer","Biovores"],"weapons":{"ranged":[{"name":"Spore Mine launcher [BLAST, DEVASTATING WOUNDS, HEAVY, INDIRECT FIRE]","range":"48\"","a":"D3","bws":"4+","s":"6","ap":"-1","d":"2"}],"melee":[{"name":"Chitin-barbed limbs","range":"Melee","a":"2","bws":"4+","s":"5","ap":"0","d":"1"}]},"factionKeywords":["Tyranids"],"abilities":{"core":"Deadly Demise 1","faction":"Synapse","special":["Seed Spore Mines: In your Shooting phase, each time this unit is selected to shoot, it can use this ability instead of making any attacks with its ranged weapons.","If it does, you can add a new Spore Mines unit to your army and set it up anywhere on the battlefield that is within 48\" of this unit but more than 9\" horizontally away from all enemy units.","That Spore Mines unit contains 1 model for each model in this unit."]},"invulnerable":"","damaged":null,"stats":{"m":"5\"","t":"6","sv":"4+","w":"4","ld":"8+","oc":"1"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","None"]},{"name":"UNIT COMPOSITION","values":["■","1-3 Biovores","Every model is equipped with:","Spore Mine launcher;","chitin-barbed limbs.","BIOVORES","These living artillery pieces nurture a clutch of Spore Mines within their","bodies. After anchoring themselves to the ground with their chitinous","spurs, the creatures fire their living ammunition in high arcs, allowing","the Spore Mines to drift languidly down into the midst of the foe where","they detonate with sudden violence."]}]},{"id":"40k-index-tyranids-68","name":"CARNIFEXES","subtype":"","keywords":["Monster","Great Devourer","Carnifexes"],"weapons":{"ranged":[{"name":"Bio-plasma [ASSAULT, BLAST]","range":"12\"","a":"D3","bws":"4+","s":"7","ap":"-2","d":"1"},{"name":"Deathspitters with slimer maggots","range":"24\"","a":"6","bws":"4+","s":"7","ap":"-2","d":"1"},{"name":"Devourers with brainleech worms","range":"18\"","a":"12","bws":"4+","s":"6","ap":"0","d":"1"},{"name":"Heavy venom cannon [BLAST]","range":"36\"","a":"D3","bws":"4+","s":"9","ap":"-2","d":"3"},{"name":"Spine banks [ASSAULT]","range":"6\"","a":"5","bws":"4+","s":"5","ap":"0","d":"1"},{"name":"Stranglethorn cannon [BLAST]","range":"36\"","a":"D6+1","bws":"4+","s":"7","ap":"-1","d":"2"}],"melee":[{"name":"Carnifex crushing claws","range":"Melee","a":"4","bws":"4+","s":"12","ap":"-3","d":"D6+1"},{"name":"Carnifex extra scything talons [EXTRA ATTACKS]","range":"Melee","a":"2","bws":"4+","s":"9","ap":"-2","d":"3"},{"name":"Carnifex scything talons","range":"Melee","a":"6","bws":"4+","s":"9","ap":"-2","d":"3"},{"name":"Xenos claws and teeth","range":"Melee","a":"4","bws":"4+","s":"6","ap":"0","d":"1"}]},"factionKeywords":["Tyranids"],"abilities":{"core":"Deadly Demise 1","faction":"Synapse","special":["Blistering Assault: Each time an enemy unit is selected to shoot, after that unit has shot, if any models from this unit lost one or more wounds as a result of those attacks, this unit can make a Blistering Assault move.","To do so, roll one D6, adding 2 to the result: each model in this unit can be moved a distance in inches up to the result, but this unit must finish that move as close as possible to the closest enemy unit.","When doing so, those models can be moved within Engagement Range of that enemy unit.","Each unit can only make one Blistering Assault move per phase."]},"invulnerable":"","damaged":null,"stats":{"m":"8\"","t":"9","sv":"2+","w":"8","ld":"8+","oc":"3"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","Any number of models can each have their Carnifex extra scything talons replaced with one of","the following:","◦","1 deathspitters with slimer maggots","◦","1 devourers with brainleech worms","◦","1 heavy venom cannon","◦","1 stranglethorn cannon","◦","1 Carnifex crushing claws","■","Any number of models can each have their Carnifex scything talons replaced with one of","the following:","◦","1 deathspitters with slimer maggots","◦","1 devourers with brainleech worms","◦","1 Carnifex crushing claws","■","Any number of models can each be equipped with 1 bio-plasma.","■","Any number of models can each be equipped with 1 spine banks."]},{"name":"UNIT COMPOSITION","values":["■","1-2 Carnifexes","Every model is equipped with:","Carnifex scything talons;","Carnifex extra scything talons; xenos claws and teeth.","CARNIFEXES","Carnifexes have been a mainstay of the hive fleets for centuries.","Rugged and adaptable organisms, they can support a great range","of weapon grafts and biomorphs while retaining the raw strength,","durability and armoured ferocity that has seen them smash through","countless prey defence lines like living battering rams."]}]},{"id":"40k-index-tyranids-70","name":"SCREAMER-KILLER","subtype":"","keywords":["Monster","Great Devourer","Screamer-Killer"],"weapons":{"ranged":[{"name":"Bio-plasmic scream [ASSAULT, BLAST]","range":"18\"","a":"D6+3","bws":"4+","s":"8","ap":"-2","d":"1"}],"melee":[{"name":"Screamer-killer talons","range":"Melee","a":"10","bws":"3+","s":"10","ap":"-2","d":"3"}]},"factionKeywords":["Tyranids"],"abilities":{"core":"Deadly Demise 1","faction":"Synapse","special":["Death Scream: In your Shooting phase, after this model has shot, select one unit hit by one or more of those attacks.","That unit must take a Battle-shock test, subtracting 1 from that test."]},"invulnerable":"","damaged":null,"stats":{"m":"8\"","t":"9","sv":"2+","w":"10","ld":"8+","oc":"3"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","None"]},{"name":"UNIT COMPOSITION","values":["■","1 Screamer-Killer","This model is equipped with:","bio-plasmic scream;","Screamer-Killer talons.","SCREAMER-KILLER","An older adaptation of the basic Carnifex strain, the Screamer-Killer","was christened by terrified Imperial troops for the distinctive howl","it emits as it generates then unleashes its bio-plasmic blasts.","Screamer-Killers are often seen at the forefront of a Tyranid assault,","where they can inflict the most damage quickly."]}]},{"id":"40k-index-tyranids-72","name":"HIVE GUARD","subtype":"","keywords":["Infantry","Great Devourer","Hive Guard"],"weapons":{"ranged":[{"name":"Impaler cannon [HEAVY, INDIRECT FIRE]","range":"36\"","a":"4","bws":"4+","s":"5","ap":"-1","d":"1"},{"name":"Shockcannon [ANTI-VEHICLE 2+]","range":"24\"","a":"2","bws":"3+","s":"7","ap":"-1","d":"3"}],"melee":[{"name":"Xenos claws and teeth","range":"Melee","a":"3","bws":"4+","s":"5","ap":"0","d":"1"}]},"factionKeywords":["Tyranids"],"abilities":{"core":"Synapse","faction":"Each time you target this unit with the Fire","special":["Overwatch Stratagem, while resolving that Stratagem, hits are scored on unmodified Hit rolls of 5+, or unmodified Hit rolls of 4+ instead if this unit is within range of an objective marker."]},"invulnerable":"","damaged":null,"stats":{"m":"6\"","t":"7","sv":"3+","w":"4","ld":"8+","oc":"1"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","Any number of models can each have their shockcannon replaced with 1 impaler cannon."]},{"name":"UNIT COMPOSITION","values":["■","3-6 Hive Guard","Every model is equipped with:","shockcannon; xenos claws","and teeth.","HIVE GUARD","Hive Guard are spawned to protect Tyranid bio-architecture and","vital spore-seeding sites. They carry a monstrous arsenal of grafted","bio-weapons and are instinctively driven - or sometimes synaptically","impelled - to lay down heavy hails of firepower against those prey","organisms the Hive Mind wishes to see eradicated."]}]},{"id":"40k-index-tyranids-74","name":"TYRANNOFEX","subtype":"","keywords":["Monster","Great Devourer","Tyrannofex"],"weapons":{"ranged":[{"name":"Acid spray [TORRENT]","range":"18\"","a":"D6+6","bws":"N/A","s":"6","ap":"-2","d":"2"},{"name":"Fleshborer hive [HEAVY, SUSTAINED HITS 1, TWIN-LINKED]","range":"24\"","a":"20","bws":"3+","s":"5","ap":"0","d":"1"},{"name":"Rupture cannon [HEAVY]","range":"48\"","a":"2","bws":"3+","s":"18","ap":"-4","d":"2D6"},{"name":"Stinger salvoes","range":"24\"","a":"8","bws":"3+","s":"5","ap":"0","d":"1"}],"melee":[{"name":"Powerful limbs","range":"Melee","a":"4","bws":"3+","s":"8","ap":"0","d":"2"}]},"factionKeywords":["Tyranids"],"abilities":{"core":"Deadly Demise D6","faction":"Synapse","special":["Resilient Organism: Each time an attack is allocated to this model, subtract 1 from the Damage characteristic of that attack.","DAMAGED: 1-5 WOUNDS REMAINING While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."]},"invulnerable":"","damaged":null,"stats":{"m":"9\"","t":"12","sv":"2+","w":"16","ld":"8+","oc":"5"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","This model’s fleshborer hive can be replaced with one of the following:","◦","1 acid spray","◦","1 rupture cannon"]},{"name":"UNIT COMPOSITION","values":["■","1 Tyrannofex","This model is equipped with:","fleshborer hive; stinger salvoes;","powerful limbs.","TYRANNOFEX","The Tyrannofex is a walking battle tank and heavy weapons platform","of huge size and resilience. These warrior organisms are extremely","well armoured, more than capable of going toe-to-toe with the heaviest","battle tanks of their prey species in a shooting match. Few foes can","stand against even one of these beasts."]}]},{"id":"40k-index-tyranids-76","name":"TYRANNOCYTE","subtype":"","keywords":["Monster","Fly","Transport","Dedicated Transport","Great Devourer"],"weapons":{"ranged":[{"name":"Tyrannocyte bio-weapons","range":"24\"","a":"5","bws":"4+","s":"5","ap":"-1","d":"2"}],"melee":[{"name":"Flensing whips","range":"Melee","a":"6","bws":"4+","s":"7","ap":"-1","d":"2"}]},"factionKeywords":["Tyranids"],"abilities":{"core":"Deadly Demise D3, Deep Strike","faction":"Synapse","special":["Aerial Seeding: This model must start the battle in Reserves, but neither it nor any units embarked within it are counted towards any limits placed on the maximum number of Reserves units you can start the battle with.","This model can be set up in the Reinforcements step of your first, second or third Movement phase, regardless of any mission rules.","Any units embarked within this model must immediately disembark after it has been set up on the battlefield, and they must be set up more than 9\" away from all enemy models.","After this model has been set up on the battlefield, no units can embark within it."]},"invulnerable":"","damaged":null,"stats":{"m":"8\"","t":"9","sv":"3+","w":"10","ld":"8+","oc":"2"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","None"]},{"name":"UNIT COMPOSITION","values":["■","1 Tyrannocyte","This model is equipped with:","Tyrannocyte bio-weapons;","flensing whips."]},{"name":"TRANSPORT","values":["This model has a transport capacity of 20","Tyranids Infantry","models, or 1","Tyranids Monster","model with a Wounds","characteristic of 12 or less. Each","Infantry","model with a","Wounds characteristic of more than 1 takes up the space of","3 models.","TYRANNOCYTE","Tyrannocytes are huge spores, heat-resistant to endure atmospheric","re-entry and with wet, pulsing interior chambers within which broods","of organisms can ride down to a world’s surface. Once its passengers","spill forth into battle, the Tyrannocyte drifts skyward again and goes","hunting for its own prey."]}]},{"id":"40k-index-tyranids-78","name":"HIVE CRONE","subtype":"","keywords":["Monster","Fly","Aircraft","Great Devourer","Hive Crone"],"weapons":{"ranged":[{"name":"Drool cannon [TORRENT]","range":"12\"","a":"2D6","bws":"N/A","s":"6","ap":"-1","d":"1"},{"name":"Stinger salvoes","range":"24\"","a":"8","bws":"3+","s":"5","ap":"0","d":"1"},{"name":"Tentaclids [ANTI-VEHICLE 4+, DEVASTATING WOUNDS]","range":"36\"","a":"4","bws":"3+","s":"7","ap":"0","d":"2"}],"melee":[{"name":"Scything wings","range":"Melee","a":"4","bws":"4+","s":"7","ap":"-1","d":"2"},{"name":"Thorax spur [ANTI-FLY 2+, EXTRA ATTACKS]","range":"Melee","a":"1","bws":"3+","s":"10","ap":"-3","d":"D6"}]},"factionKeywords":["Tyranids"],"abilities":{"core":"Deadly Demise D3, Hover","faction":"Synapse","special":["Airborne Predator: Each time this model makes a ranged attack that targets a unit that can Fly , add 1 to the Hit roll.","DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll.","T SV W LD OC 9 3+ 12 8+ 0 20+\"."]},"invulnerable":"","damaged":null,"stats":{"m":"20+\"","t":"9","sv":"3+","w":"12","ld":"8+","oc":"0"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","None"]},{"name":"UNIT COMPOSITION","values":["■","1 Hive Crone","This model is equipped with:","drool cannon; stinger salvoes;","tentaclids; scything wings; thorax spur.","HIVE CRONE","Hive Crones scour the skies for prey fighter craft. The tentaclids they","release pursue enemy aircraft before erupting in bio-electric pulses","that banish motive force and send the dark, dead machines tumbling","groundward. Then, drool cannons slathering, the Hive Crones dive","down to seek fresh, land-based prey."]}]},{"id":"40k-index-tyranids-80","name":"HARPY","subtype":"","keywords":["Monster","Fly","Aircraft","Great Devourer","Harpy"],"weapons":{"ranged":[{"name":"Stinger salvoes","range":"24\"","a":"8","bws":"3+","s":"5","ap":"0","d":"1"},{"name":"Twin heavy venom cannon [BLAST, TWIN-LINKED]","range":"36\"","a":"D3","bws":"3+","s":"9","ap":"-2","d":"3"},{"name":"Twin stranglethorn cannon [BLAST, TWIN-LINKED]","range":"36\"","a":"D6+1","bws":"2+","s":"7","ap":"-1","d":"2"}],"melee":[{"name":"Scything wings","range":"Melee","a":"4","bws":"4+","s":"7","ap":"-1","d":"2"}]},"factionKeywords":["Tyranids"],"abilities":{"core":"Deadly Demise D3, Hover","faction":"Synapse","special":["Spore Mine Cysts: Each time this model ends a Normal move, you can do one of the following: ■ Select one enemy unit it moved over during that move and roll six D6: for each 3+, that unit suffers 1 mortal wound.","■ Add a new Spore Mines unit containing D3 models to your army and set it up anywhere on the battlefield that is within 6\" of this model and more than 9\" horizontally away from all enemy units.","DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll.","T SV W LD OC 9 3+ 12 8+ 0 20+\"."]},"invulnerable":"","damaged":null,"stats":{"m":"20+\"","t":"9","sv":"3+","w":"12","ld":"8+","oc":"0"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","This model’s twin stranglethorn cannon can be replaced with 1 twin heavy venom cannon."]},{"name":"UNIT COMPOSITION","values":["■","1 Harpy","This model is equipped with:","stinger salvoes; twin","stranglethorn cannon; scything wings.","HARPY","Harpies are flying bioforms whose natural agility allows them to","outmanoeuvre most prey fighter craft. They are often sent in amidst","the first waves of an invasion, dropping organic munitions onto","panicked defenders and diving down to attack."]}]},{"id":"40k-index-tyranids-82","name":"SPOROCYST","subtype":"","keywords":["Monster","Great Devourer","Sporocyst"],"weapons":{"ranged":[{"name":"Sporocyst bio-weapons [HIVE DEFENCES]","range":"24\"","a":"5","bws":"4+","s":"5","ap":"-1","d":"2"},{"name":"Hive Defences:","range":"Each time an enemy unit is set up or ends a Normal, Advance or Fall Back move within","a":"range of this weapon, if that enemy unit is an eligible target, the bearer can shoot with this weapon at","bws":"that unit as if it were your Shooting phase (the bearer can do so up to four times per phase)."}],"melee":[{"name":"Flensing whips","range":"Melee","a":"6","bws":"4+","s":"7","ap":"-1","d":"1"}]},"factionKeywords":["Tyranids"],"abilities":{"core":"Deadly Demise D3","faction":"Synapse","special":["Seed Mucolids: In your Shooting phase, each time this model is selected to shoot, it can use this ability instead of making any attacks with its ranged weapons.","If it does, you can add a new Mucolid Spores unit containing 1 model to your army and set it up anywhere on the battlefield that is within 18\" of this model but more than 9\" horizontally away from all enemy units."]},"invulnerable":"","damaged":null,"stats":{"m":"-","t":"10","sv":"3+","w":"10","ld":"8+","oc":"0"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","None"]},{"name":"UNIT COMPOSITION","values":["■","1 Sporocyst","This model is equipped with:","Sporocyst bio-weapons;","flensing whips.","SPOROCYST","Dropped from orbit, Sporocysts dig into the surface of the prey world","like ticks then begin spewing toxic spores from their living chimneys.","They are able to eject shoals of Mucolid Spores, while prey who","stray too close are subjected to hails of organic projectiles from the","bio-cannons grafted to the Sporocyst’s hide."]}]},{"id":"40k-index-tyranids-84","name":"PSYCHOPHAGE","subtype":"","keywords":["Monster","Great Devourer","Psychophage"],"weapons":{"ranged":[{"name":"Psychoclastic torrent [IGNORES COVER, TORRENT]","range":"12\"","a":"D6","bws":"N/A","s":"6","ap":"-1","d":"1"}],"melee":[{"name":"Talons and betentacled maw [ANTI-PSYKER 2+, DEVASTATING WOUNDS]","range":"Melee","a":"D6+1","bws":"3+","s":"6","ap":"-1","d":"2"}]},"factionKeywords":["Tyranids"],"abilities":{"core":"Deadly Demise 1, Feel No Pain 5+","faction":"Synapse","special":["Bio-stimulus (Aura): While a friendly Tyranids unit is within 6\" of this model, models in that unit have the Feel No Pain 6+ ability.","Feeding Frenzy: Each time this model makes a melee attack that targets a unit that is below its Starting Strength, add 1 to the Hit roll.","If that target is also Below Half-strength, add 1 to the Wound roll as well."]},"invulnerable":"","damaged":null,"stats":{"m":"8\"","t":"9","sv":"3+","w":"10","ld":"8+","oc":"3"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","None"]},{"name":"UNIT COMPOSITION","values":["■","1 Psychophage","This model is equipped with:","psychoclastic torrent; talons","and betentacled maw.","PSYCHOPHAGE","These monsters stampede into battle with frightening speed. They","devour any prey organism in their paths, but especially favour those","victims with psychic abilities. How they metabolise such esoteric","powers is unclear, but doing so allows them to project surges of","psychocorrosive ash that deflagrate their victims’ minds and souls."]}]},{"id":"40k-index-tyranids-86","name":"BARBGAUNTS","subtype":"","keywords":["Infantry","Great Devourer","Barbgaunts"],"weapons":{"ranged":[{"name":"Bio-cannon [BLAST, HEAVY]","range":"24\"","a":"D6","bws":"4+","s":"5","ap":"0","d":"1"}],"melee":[{"name":"Xenos claws and teeth","range":"Melee","a":"1","bws":"4+","s":"4","ap":"0","d":"1"}]},"factionKeywords":["Tyranids"],"abilities":{"core":"Synapse","faction":"In your Shooting phase, after","special":["this unit has shot, if an enemy Infantry unit was hit by one or more of those attacks made by this unit’s bio-cannons, until the end of your opponent’s next turn, that enemy unit is disrupted.","While a unit is disrupted, subtract 2 from its Move characteristic, and subtract 2 from Advance and Charge rolls made for it."]},"invulnerable":"","damaged":null,"stats":{"m":"6\"","t":"4","sv":"4+","w":"2","ld":"8+","oc":"1"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","None"]},{"name":"UNIT COMPOSITION","values":["■","5-10 Barbgaunts","Every model is equipped with:","bio-cannon; xenos claws","and teeth.","BARBGAUNTS","Barbgaunts are little more than living weapons, their bodies and","bio-cannons slaved to the will of a pulsating ganglio-parasite that","piggybacks them into battle. There, they unleash volleys of chitinous","barbs that detonate with the fury of violent muscle-spasms and","transfix nearby victims with hails of jagged projectiles."]}]}]
+[
+  {
+    "id": "40k-index-tyranids-0",
+    "points": [
+      { "per": "1 model", "points": 195}
+    ],
+    "name": "WINGED HIVE TYRANT",
+    "subtype": "",
+    "keywords": [
+      "Monster",
+      "Character",
+      "Psyker",
+      "Fly",
+      "Great Devourer",
+      "Synapse"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Heavy venom cannon [BLAST]",
+          "range": "36\"",
+          "a": "D3",
+          "bws": "2+",
+          "s": "9",
+          "ap": "-2",
+          "d": "3"
+        },
+        {
+          "name": "Stranglethorn cannon [BLAST]",
+          "range": "36\"",
+          "a": "D6+1",
+          "bws": "2+",
+          "s": "7",
+          "ap": "-1",
+          "d": "2"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Monstrous bonesword and lash whip [TWIN-LINKED]",
+          "range": "Melee",
+          "a": "6",
+          "bws": "2+",
+          "s": "9",
+          "ap": "-2",
+          "d": "3"
+        },
+        {
+          "name": "Monstrous scything talons [EXTRA ATTACKS]",
+          "range": "Melee",
+          "a": "4",
+          "bws": "2+",
+          "s": "7",
+          "ap": "-2",
+          "d": "2"
+        },
+        {
+          "name": "Tyrant talons",
+          "range": "Melee",
+          "a": "5",
+          "bws": "2+",
+          "s": "7",
+          "ap": "-2",
+          "d": "2"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Tyranids"
+    ],
+    "abilities": {
+      "core": "Deadly Demise D3, Deep Strike",
+      "faction": "Shadow in the Warp, Synapse",
+      "special": [
+        "Will of the Hive Mind: Once per turn, one friendly Tyranids unit within 12\" of one or more models with this ability can be targeted with a Stratagem for 0CP, even if another unit from your army has already been targeted with that Stratagem this phase.",
+        "Paroxysm (Psychic): At the start of the Fight phase, you can select one enemy unit within 12\" of and visible to this model and roll one D6: on a 1, this Psyker suffers D3 mortal wounds; on a 2+, until the end of the phase, subtract 1 from the Attacks characteristic of weapons equipped by models in that unit."
+      ]
+    },
+    "invulnerable": "4+",
+    "damaged": null,
+    "stats": {
+      "m": "12\"",
+      "t": "9",
+      "sv": "2+",
+      "w": "10",
+      "ld": "7+",
+      "oc": "3"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "This model’s monstrous bonesword and lash whip can be replaced with one of the following:",
+          "◦",
+          "1 heavy venom cannon",
+          "◦",
+          "1 stranglethorn cannon",
+          "◦",
+          "1 monstrous scything talons"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Winged Hive Tyrant",
+          "This model is equipped with:",
+          "monstrous bonesword and lash",
+          "whip; Tyrant talons.",
+          "WINGED HIVE TYRANT",
+          "When the Hive Mind deploys airborne swarms, it spawns Winged Hive",
+          "Tyrants to direct them in battle. Wielding an array of nightmarish",
+          "organic weapons, their monstrous forms singing with the synaptic",
+          "might of the Hive Mind, these dread swarm-leaders spread terror and",
+          "death wherever the dark shadow of their wings falls."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-tyranids-2",
+    "points": [
+      { "per": "1 model", "points": 220}
+    ],
+    "name": "HIVE TYRANT",
+    "subtype": "",
+    "keywords": [
+      "Monster",
+      "Character",
+      "Psyker",
+      "Great Devourer",
+      "Synapse"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Heavy venom cannon [BLAST]",
+          "range": "36\"",
+          "a": "D3",
+          "bws": "2+",
+          "s": "9",
+          "ap": "-2",
+          "d": "3"
+        },
+        {
+          "name": "Stranglethorn cannon [BLAST]",
+          "range": "36\"",
+          "a": "D6+1",
+          "bws": "2+",
+          "s": "7",
+          "ap": "-1",
+          "d": "2"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Monstrous bonesword and lash whip [TWIN-LINKED]",
+          "range": "Melee",
+          "a": "6",
+          "bws": "2+",
+          "s": "9",
+          "ap": "-2",
+          "d": "3"
+        },
+        {
+          "name": "Monstrous scything talons [EXTRA ATTACKS]",
+          "range": "Melee",
+          "a": "4",
+          "bws": "2+",
+          "s": "7",
+          "ap": "-2",
+          "d": "2"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Tyranids"
+    ],
+    "abilities": {
+      "core": "Deadly Demise D3, Leader",
+      "faction": "Shadow in the Warp, Synapse",
+      "special": [
+        "Will of the Hive Mind: Once per turn, one friendly Tyranids unit within 12\" of one or more models with this ability can be targeted with a Stratagem for 0CP, even if another unit from your army has already been targeted with that Stratagem this phase.",
+        "Onslaught (Aura, Psychic): While a friendly Tyranids unit is within 6\" of this model, ranged weapons equipped by models in that unit have the [ASSAULT] ability."
+      ]
+    },
+    "invulnerable": "4+",
+    "damaged": null,
+    "stats": {
+      "m": "8\"",
+      "t": "10",
+      "sv": "2+",
+      "w": "10",
+      "ld": "7+",
+      "oc": "3"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "This model’s monstrous bonesword and lash whip can be replaced with one of the following:",
+          "◦",
+          "1 heavy venom cannon",
+          "◦",
+          "1 stranglethorn cannon",
+          "◦",
+          "1 monstrous scything talons",
+          "■",
+          "This model’s monstrous scything talons can be replaced with one of the following:",
+          "◦",
+          "1 heavy venom cannon*",
+          "◦",
+          "1 stranglethorn cannon*",
+          "*",
+          "This model cannot be equipped with both a stranglethorn cannon and a heavy venom cannon. This model cannot be equipped",
+          "with more than 1 heavy venom cannon, and it cannot be equipped with more than 1 stranglethorn cannon."
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Hive Tyrant",
+          "This model is equipped with:",
+          "monstrous bonesword and lash",
+          "whip; monstrous scything talons."
+        ]
+      },
+      {
+        "name": "LEADER",
+        "values": [
+          "This model can be attached to the following unit:",
+          "■",
+          "Tyrant Guard",
+          "HIVE TYRANT",
+          "Hive Tyrants command the swarm on the Hive Mind’s behalf. Not",
+          "only are they powerful warrior organisms in their own right, but they",
+          "are also possessed of a depth of sentient autonomy and strategic",
+          "cunning that makes them truly deadly foes. Where the Hive Tyrants",
+          "bestride the battlefield, death comes for the prey."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-tyranids-4",
+    "points": [
+      { "per": "1 model", "points": 250}
+    ],
+    "name": "THE SWARMLORD",
+    "subtype": "",
+    "keywords": [
+      "Monster",
+      "Character",
+      "Epic Hero",
+      "Psyker",
+      "Great Devourer"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Synaptic pulse [PSYCHIC, TORRENT]",
+          "range": "18\"",
+          "a": "D6+3",
+          "bws": "N/A",
+          "s": "5",
+          "ap": "-1",
+          "d": "2"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Bone sabres [TWIN-LINKED]",
+          "range": "Melee",
+          "a": "8",
+          "bws": "2+",
+          "s": "9",
+          "ap": "-2",
+          "d": "3"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Tyranids"
+    ],
+    "abilities": {
+      "core": "Deadly Demise D3, Leader",
+      "faction": "Shadow in the Warp, Synapse",
+      "special": [
+        "Hive Commander: At the start of your Command phase, if this model is on the battlefield, you gain 1CP.",
+        "Malign Presence: Once per battle, after your opponent uses a Stratagem, if this model is your Warlord and is on the battlefield, it can use this ability.",
+        "If it does, until the end of the battle, increase that Stratagem’s cost to your opponent by 1CP.",
+        "Domination of the Hive Mind: While a friendly Tyranids unit is within 9\" of this model, that unit is within your army’s Synapse Range."
+      ]
+    },
+    "invulnerable": "4+",
+    "damaged": null,
+    "stats": {
+      "m": "8\"",
+      "t": "10",
+      "sv": "2+",
+      "w": "10",
+      "ld": "7+",
+      "oc": "3"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "None"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Swarmlord -",
+          "Epic Hero",
+          "This model is equipped with:",
+          "synaptic pulse; bone sabres."
+        ]
+      },
+      {
+        "name": "LEADER",
+        "values": [
+          "This model can be attached to the following unit:",
+          "■",
+          "Tyrant Guard",
+          "THE SWARMLORD",
+          "The Swarmlord is the herald of the Hive Mind and may be as old as",
+          "the Tyranid race itself. Upon death, the beast is always absorbed",
+          "through the synaptic link and spawned anew. It has presided over the",
+          "annihilation of countless civilisations, and with every incarnation it",
+          "only becomes more deadly."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-tyranids-6",
+    "points": [
+      { "per": "1 model", "points": 100}
+    ],
+    "name": "BROODLORD",
+    "subtype": "",
+    "keywords": [
+      "Infantry",
+      "Character",
+      "Psyker",
+      "Great Devourer",
+      "Broodlord"
+    ],
+    "weapons": {
+      "ranged": [],
+      "melee": [
+        {
+          "name": "Broodlord claws and talons [DEVASTATING WOUNDS, TWIN-LINKED]",
+          "range": "Melee",
+          "a": "5",
+          "bws": "2+",
+          "s": "6",
+          "ap": "-2",
+          "d": "2"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Tyranids"
+    ],
+    "abilities": {
+      "core": "Leader, Scouts 8\"",
+      "faction": "Synapse",
+      "special": [
+        "Vicious Insight: While this model is leading a unit, weapons equipped by models in that unit have the [DEVASTATING WOUNDS] ability.",
+        "Hypnotic Gaze (Psychic): At the start of the Fight phase, select one enemy unit within Engagement Range of this model.",
+        "Until the end of the phase, each time a model in that unit makes an attack, subtract 1 from the Hit roll."
+      ]
+    },
+    "invulnerable": "4+",
+    "damaged": null,
+    "stats": {
+      "m": "8\"",
+      "t": "5",
+      "sv": "4+",
+      "w": "6",
+      "ld": "7+",
+      "oc": "1"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "None"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Broodlord",
+          "This model is equipped with:",
+          "Broodlord claws and talons."
+        ]
+      },
+      {
+        "name": "LEADER",
+        "values": [
+          "This model can be attached to the following unit:",
+          "■",
+          "Genestealers",
+          "BROODLORD",
+          "Mightiest and most intelligent of the Genestealer bioforms, the",
+          "Broodlord is an insidious predatory infiltrator. Able to act as a forward",
+          "commander for the invasion swarms, it sows carnage through the",
+          "enemy lines while maximising the cunning and lethality of lesser",
+          "warrior organisms around it."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-tyranids-8",
+    "points": [
+      { "per": "1 model", "points": 80}
+    ],
+    "name": "WINGED TYRANID PRIME",
+    "subtype": "",
+    "keywords": [
+      "Infantry",
+      "Character",
+      "Fly",
+      "Great Devourer",
+      "Synapse"
+    ],
+    "weapons": {
+      "ranged": [],
+      "melee": [
+        {
+          "name": "Prime talons",
+          "range": "Melee",
+          "a": "6",
+          "bws": "2+",
+          "s": "6",
+          "ap": "-1",
+          "d": "2"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Tyranids"
+    ],
+    "abilities": {
+      "core": "Deep Strike, Leader",
+      "faction": "Shadow in the Warp, Synapse",
+      "special": [
+        "Alpha Warrior: While this model is leading a unit, weapons equipped by models in that unit have the [SUSTAINED HITS 1] ability.",
+        "Death Blow: If this model is destroyed by a melee attack, if it has not fought this phase, roll one D6: on a 4+, do not remove it from play.",
+        "The destroyed model can fight after the attacking model’s unit has finished making its attacks, and is then removed from play."
+      ]
+    },
+    "invulnerable": "",
+    "damaged": null,
+    "stats": {
+      "m": "12\"",
+      "t": "5",
+      "sv": "4+",
+      "w": "6",
+      "ld": "7+",
+      "oc": "1"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "None"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Winged Tyranid Prime",
+          "This model is equipped with:",
+          "Prime talons."
+        ]
+      },
+      {
+        "name": "LEADER",
+        "values": [
+          "This model can be attached to the following units:",
+          "■",
+          "Gargoyles",
+          "■",
+          "Tyranid Warriors with melee Bio-weapons",
+          "■",
+          "Tyranid Warriors with Ranged Bio-weapons",
+          "WINGED TYRANID PRIME",
+          "Tyranid Primes adapted for flight possess all the physical and synaptic",
+          "might of an alpha war-beast, while also boasting the frightening speed",
+          "and manoeuvrability imparted by huge leathery wings. Swooping",
+          "down into the midst of the foe, they rend and tear until nought remains",
+          "but corpses and fleeing prey."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-tyranids-10",
+    "points": [
+      { "per": "1 model", "points": 200}
+    ],
+    "name": "TERVIGON",
+    "subtype": "",
+    "keywords": [
+      "Monster",
+      "Character",
+      "Psyker",
+      "Great Devourer",
+      "Synapse",
+      "Tervigon"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Stinger salvoes",
+          "range": "24\"",
+          "a": "8",
+          "bws": "3+",
+          "s": "5",
+          "ap": "0",
+          "d": "1"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Massive crushing claws",
+          "range": "Melee",
+          "a": "4",
+          "bws": "4+",
+          "s": "12",
+          "ap": "-3",
+          "d": "D6+1"
+        },
+        {
+          "name": "Massive scything talons - strike",
+          "range": "Melee",
+          "a": "4",
+          "bws": "3+",
+          "s": "9",
+          "ap": "-2",
+          "d": "D6"
+        },
+        {
+          "name": "Massive scything talons - sweep",
+          "range": "Melee",
+          "a": "8",
+          "bws": "3+",
+          "s": "7",
+          "ap": "-1",
+          "d": "2"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Tyranids"
+    ],
+    "abilities": {
+      "core": "Deadly Demise D6",
+      "faction": "Shadow in the Warp, Synapse",
+      "special": [
+        "Spawn Termagants: In your Command phase, you can select one friendly Termagants unit within 6\" of this model and return up to D3+3 destroyed Termagant models to that unit.",
+        "A Termagants unit cannot be selected for this ability more than once per phase.",
+        "Brood Progenitor (Aura, Psychic): While a friendly Termagants unit is within 6\" of this model, ranged weapons equipped by models in that unit have the [LETHAL HITS] ability.",
+        "DAMAGED: 1-5 WOUNDS REMAINING While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
+      ]
+    },
+    "invulnerable": "",
+    "damaged": null,
+    "stats": {
+      "m": "8\"",
+      "t": "11",
+      "sv": "2+",
+      "w": "16",
+      "ld": "7+",
+      "oc": "5"
+    },
+    "footnotes": {
+      "footnotes": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "This model’s massive scything talons can be replaced with 1 massive crushing claws."
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Tervigon",
+          "This model is equipped with:",
+          "stinger salvoes; massive",
+          "scything talons.",
+          "TERVIGON",
+          "Beyond simply being large and powerful synapse beasts, Tervigons",
+          "are also able to spawn skittering masses of Termagant warrior",
+          "organisms from within their bulging abdomens. These dripping spawn",
+          "instinctively protect their broodmother with their lives, their numbers",
+          "growing all the time until they overwhelm the prey."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-tyranids-12",
+    "points": [
+      { "per": "1 model", "points": 140}
+    ],
+    "name": "OLD ONE EYE",
+    "subtype": "",
+    "keywords": [
+      "Monster",
+      "Character",
+      "Epic Hero",
+      "Great Devourer",
+      "Old One Eye"
+    ],
+    "weapons": {
+      "ranged": [],
+      "melee": [
+        {
+          "name": "Old One Eye’s claws and talons - strike",
+          "range": "Melee",
+          "a": "6",
+          "bws": "3+",
+          "s": "14",
+          "ap": "-3",
+          "d": "D6+1"
+        },
+        {
+          "name": "Old One Eye’s claws and talons - sweep",
+          "range": "Melee",
+          "a": "12",
+          "bws": "3+",
+          "s": "6",
+          "ap": "-1",
+          "d": "1"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Tyranids"
+    ],
+    "abilities": {
+      "core": "Feel No Pain 5+, Leader",
+      "faction": "Synapse",
+      "special": [
+        "Alpha Leader: While this model is leading a unit, each time a model in that unit makes an attack, you can re-roll the Hit roll.",
+        "Unstoppable Monster: At the start of each player’s Command phase, this model regains up to D3 lost wounds."
+      ]
+    },
+    "invulnerable": "",
+    "damaged": null,
+    "stats": {
+      "m": "8\"",
+      "t": "9",
+      "sv": "2+",
+      "w": "9",
+      "ld": "8+",
+      "oc": "3"
+    },
+    "footnotes": {
+      "footnotes": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "None"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Old One Eye -",
+          "Epic Hero",
+          "This model is equipped with:",
+          "Old One Eye’s claws and talons."
+        ]
+      },
+      {
+        "name": "LEADER",
+        "values": [
+          "This model can be attached to the following unit:",
+          "■",
+          "Carnifexes",
+          "OLD ONE EYE",
+          "Known as the Beast of Calth, this unstoppable brute was first seen",
+          "during the First Tyrannic War. Though many have thought it slain over",
+          "the centuries, always the scarred monster rises again. Whether it is a",
+          "Tyranid subgenus or the same unstoppable monster come again is a",
+          "mystery few in its path live long enough to ponder."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-tyranids-14",
+    "points": [
+      { "per": "3 models", "points": 70},
+      { "per": "6 models", "points": 140}
+    ],
+    "name": "TYRANID WARRIORS",
+    "subtype": "WITH RANGED BIO-WEAPONS",
+    "keywords": [
+      "Infantry",
+      "Synapse",
+      "Tyranid Warriors with Ranged Bio-weapons"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Barbed strangler [BLAST]",
+          "range": "36\"",
+          "a": "D6+1",
+          "bws": "4+",
+          "s": "6",
+          "ap": "-1",
+          "d": "1"
+        },
+        {
+          "name": "Deathspitter",
+          "range": "24\"",
+          "a": "3",
+          "bws": "4+",
+          "s": "5",
+          "ap": "-1",
+          "d": "1"
+        },
+        {
+          "name": "Devourer",
+          "range": "18\"",
+          "a": "5",
+          "bws": "4+",
+          "s": "4",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Spinefists [ASSAULT, PISTOL, TWIN-LINKED]",
+          "range": "12\"",
+          "a": "2",
+          "bws": "4+",
+          "s": "4",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Venom cannon [BLAST]",
+          "range": "36\"",
+          "a": "D3",
+          "bws": "4+",
+          "s": "9",
+          "ap": "-2",
+          "d": "2"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Bio-weapons",
+          "range": "Melee",
+          "a": "5",
+          "bws": "3+",
+          "s": "5",
+          "ap": "-1",
+          "d": "1"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Tyranids"
+    ],
+    "abilities": {
+      "core": "Shadow in the Warp, Synapse",
+      "faction": "This unit is eligible to shoot and declare",
+      "special": [
+        "a charge in a turn in which it Fell Back."
+      ]
+    },
+    "invulnerable": "",
+    "damaged": null,
+    "stats": {
+      "m": "6\"",
+      "t": "5",
+      "sv": "4+",
+      "w": "3",
+      "ld": "7+",
+      "oc": "2"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "Any number of models can each have their devourer replaced with one of the following:",
+          "◦",
+          "1 deathspitter",
+          "◦",
+          "1 spinefists",
+          "■",
+          "For every 3 models in this unit, 1 model’s devourer can be replaced with 1 barbed strangler.",
+          "■",
+          "For every 3 models in this unit, 1 model’s devourer can be replaced with 1 venom cannon."
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Tyranid Prime",
+          "■",
+          "2-5 Tyranid Warriors",
+          "Every model is equipped with:",
+          "devourer; bio-weapons.",
+          "TYRANID WARRIORS",
+          "WITH RANGED BIO-WEAPONS",
+          "Strong, swift, independently intelligent and amongst the Hive Mind’s",
+          "most adaptable bioforms, Tyranid Warriors are the backbone of many",
+          "Tyranid invasions. Their synaptic link imbues them with advanced",
+          "martial abilities, and also allows them to serve as synaptic linchpins",
+          "within the wider swarms during battle."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-tyranids-16",
+    "points": [
+      { "per": "3 models", "points": 90},
+      { "per": "6 models", "points": 180}
+    ],
+    "name": "TYRANID WARRIORS",
+    "subtype": "WITH MELEE BIO-WEAPONS",
+    "keywords": [
+      "Infantry",
+      "Synapse",
+      "Tyranid Warriors with Melee Bio-weapons"
+    ],
+    "weapons": {
+      "ranged": [],
+      "melee": [
+        {
+          "name": "Bio-weapons [TWIN-LINKED]",
+          "range": "Melee",
+          "a": "6",
+          "bws": "3+",
+          "s": "5",
+          "ap": "-2",
+          "d": "1"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Tyranids"
+    ],
+    "abilities": {
+      "core": "Shadow in the Warp, Synapse",
+      "faction": "At the start of the Fight phase, you",
+      "special": [
+        "can select one of the following abilities to apply to models in this unit until the end of the phase: ■ Aggression Imperative: Each time a model in this unit makes a melee attack, re-roll a Hit roll of 1.",
+        "■ Preservation Imperative: Each time a saving throw is made for a model in this unit, re-roll a saving throw of 1."
+      ]
+    },
+    "invulnerable": "",
+    "damaged": null,
+    "stats": {
+      "m": "6\"",
+      "t": "5",
+      "sv": "4+",
+      "w": "3",
+      "ld": "7+",
+      "oc": "2"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "None"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Tyranid Prime",
+          "■",
+          "2-5 Tyranid Warriors",
+          "Every model is equipped with:",
+          "bio-weapons.",
+          "TYRANID WARRIORS",
+          "WITH MELEE BIO-WEAPONS",
+          "Strong, swift, independently intelligent and amongst the Hive Mind’s",
+          "most adaptable bioforms, Tyranid Warriors are the backbone of many",
+          "Tyranid invasions. Their synaptic link imbues them with advanced",
+          "martial abilities, and also allows them to serve as synaptic linchpins",
+          "within the wider swarms during battle."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-tyranids-18",
+    "points": [
+      { "per": "10 models", "points": 60},
+      { "per": "20 model", "points": 120}
+    ],
+    "name": "TERMAGANTS",
+    "subtype": "",
+    "keywords": [
+      "Infantry",
+      "Battleline",
+      "Great Devourer",
+      "Endless Multitude"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Fleshborer [ASSAULT]",
+          "range": "18\"",
+          "a": "1",
+          "bws": "4+",
+          "s": "5",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Termagant spinefists [ASSAULT, PISTOL, TWIN-LINKED]",
+          "range": "12\"",
+          "a": "2",
+          "bws": "4+",
+          "s": "3",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Termagant devourer",
+          "range": "18\"",
+          "a": "2",
+          "bws": "4+",
+          "s": "4",
+          "ap": "0",
+          "d": "1"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Xenos claws and teeth",
+          "range": "Melee",
+          "a": "1",
+          "bws": "4+",
+          "s": "3",
+          "ap": "0",
+          "d": "1"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Tyranids"
+    ],
+    "abilities": {
+      "core": "Synapse",
+      "faction": "Once per turn, when an enemy unit ends a",
+      "special": [
+        "Normal, Advance or Fall Back move within 9\" of this unit, if this unit is not within Engagement Range of one or more enemy units, it can make a Normal move of up to D6\"."
+      ]
+    },
+    "invulnerable": "",
+    "damaged": null,
+    "stats": {
+      "m": "6\"",
+      "t": "3",
+      "sv": "5+",
+      "w": "1",
+      "ld": "8+",
+      "oc": "2"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "All models in this unit can each have their fleshborer replaced with 1 Termagant devourer.",
+          "■",
+          "All models in this unit can each have their fleshborer replaced with 1 Termagant spinefists."
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "10-20 Termagants",
+          "Every model is equipped with:",
+          "fleshborer; xenos claws",
+          "and teeth.",
+          "TERMAGANTS",
+          "Scuttling predators that attack in huge swarms, Termagants were",
+          "originally spawned to roam the tight arterial passages of hive ships",
+          "and hunt intruders. They harry their prey with a hail of firepower,",
+          "seeking always to outflank and envelop their victims as they erode",
+          "their numbers."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-tyranids-20",
+    "points": [
+      { "per": "10 models", "points": 70},
+      { "per": "2 models", "points": 140}
+    ],
+    "name": "HORMAGAUNTS",
+    "subtype": "",
+    "keywords": [
+      "Infantry",
+      "Battleline",
+      "Great Devourer",
+      "Endless Multitude"
+    ],
+    "weapons": {
+      "ranged": [],
+      "melee": [
+        {
+          "name": "Hormagaunt talons",
+          "range": "Melee",
+          "a": "3",
+          "bws": "4+",
+          "s": "3",
+          "ap": "-1",
+          "d": "1"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Tyranids"
+    ],
+    "abilities": {
+      "core": "Synapse",
+      "faction": "This unit is eligible to declare a charge in a",
+      "special": [
+        "turn in which it Advanced."
+      ]
+    },
+    "invulnerable": "",
+    "damaged": null,
+    "stats": {
+      "m": "10\"",
+      "t": "3",
+      "sv": "5+",
+      "w": "1",
+      "ld": "8+",
+      "oc": "2"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "None"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "10-20 Hormagaunts",
+          "Every model is equipped with:",
+          "Hormagaunt talons.",
+          "HORMAGAUNTS",
+          "Swarming shock troops, Hormagaunts are seeded onto prey worlds in",
+          "their billions. As simple hunter-slayer organisms, they can be left to",
+          "rampage, wearing down defence lines and forcing the prey to expend",
+          "lives and ammunition. Many formidable bastions have been buried in",
+          "literal mountains of these chitinous horrors."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-tyranids-22",
+    "points": [
+      { "per": "10 models", "points": 75},
+      { "per": "20 models", "points": 150}
+    ],
+    "name": "GARGOYLES",
+    "subtype": "",
+    "keywords": [
+      "Infantry",
+      "Battleline",
+      "Fly",
+      "Great Devourer",
+      "Endless Multitude"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Fleshborer [ASSAULT]",
+          "range": "18\"",
+          "a": "1",
+          "bws": "4+",
+          "s": "5",
+          "ap": "0",
+          "d": "1"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Blinding venom",
+          "range": "Melee",
+          "a": "1",
+          "bws": "4+",
+          "s": "3",
+          "ap": "0",
+          "d": "1"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Tyranids"
+    ],
+    "abilities": {
+      "core": "Deep Strike",
+      "faction": "Synapse",
+      "special": [
+        "Winged Swarm: In your Shooting phase, after this unit has shot, if it is not within Engagement Range of any enemy units, it can make a Normal move of up to 6\".",
+        "If it does, until the end of the turn, this unit is not eligible to declare a charge."
+      ]
+    },
+    "invulnerable": "",
+    "damaged": null,
+    "stats": {
+      "m": "12\"",
+      "t": "3",
+      "sv": "6+",
+      "w": "1",
+      "ld": "8+",
+      "oc": "2"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "None"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "10-20 Gargoyles",
+          "Every model is equipped with:",
+          "fleshborer; blinding venom.",
+          "GARGOYLES",
+          "Gargoyles are often the first warrior organisms hurled against a prey",
+          "world. Their teeming swarms darken the skies. Their opportunistic",
+          "attacks spread panic and disarray. Worst of all, the creatures can",
+          "squirm through gaps that appear far too small, bursting through gun",
+          "slits and vent pipes to assail horrified defenders."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-tyranids-24",
+    "points": [
+      { "per": "1 model", "points": 200}
+    ],
+    "name": "TOXICRENE",
+    "subtype": "",
+    "keywords": [
+      "Monster",
+      "Great Devourer",
+      "Toxicrene"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Massive toxic lashes [ANTI-INFANTRY 2+]",
+          "range": "9\"",
+          "a": "2D6",
+          "bws": "3+",
+          "s": "6",
+          "ap": "-1",
+          "d": "2"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Massive toxic lashes [ANTI-INFANTRY 2+]",
+          "range": "Melee",
+          "a": "12",
+          "bws": "3+",
+          "s": "6",
+          "ap": "-1",
+          "d": "2"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Tyranids"
+    ],
+    "abilities": {
+      "core": "Deadly Demise D3",
+      "faction": "Synapse",
+      "special": [
+        "Grasping Tendrils: Each time an enemy unit (excluding Titanic units) within Engagement Range of one or more units from your army with this ability is selected to Fall Back, you can roll one D6: on a 3+, that enemy unit must Remain Stationary instead.",
+        "Hypertoxic Miasma (Aura): At the end of your Movement phase, roll one D6 for each enemy unit within 6\" of this model: on a 2-3, that unit suffers 1 mortal wound; on a 4-5, that unit suffers D3 mortal wounds; on a 6, that unit suffers D6 mortal wounds.",
+        "DAMAGED: 1-5 WOUNDS REMAINING While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
+      ]
+    },
+    "invulnerable": "",
+    "damaged": null,
+    "stats": {
+      "m": "8\"",
+      "t": "11",
+      "sv": "3+",
+      "w": "14",
+      "ld": "8+",
+      "oc": "4"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "None"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Toxicrene",
+          "This model is equipped with:",
+          "massive toxic lashes.",
+          "TOXICRENE",
+          "The semi-sentient spores spewed by the Toxicrene can penetrate even",
+          "sealed armour and enviro-suits before multiplying within the victim’s",
+          "body to burst their organs and dissolve their flesh. Prey not slain in",
+          "this horrible manner soon fall to the Toxicrene’s monstrous bulk and",
+          "vast, lashing tendrils as it rampages ever onwards."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-tyranids-26",
+    "points": [
+      { "per": "3 models", "points": 95},
+      { "per": "6 models", "points": 190}
+    ],
+    "name": "TYRANT GUARD",
+    "subtype": "",
+    "keywords": [
+      "Infantry",
+      "Great Devourer",
+      "Tyrant Guard"
+    ],
+    "weapons": {
+      "ranged": [],
+      "melee": [
+        {
+          "name": "Bone cleaver, lash whip and rending claws [TWIN-LINKED]",
+          "range": "Melee",
+          "a": "3",
+          "bws": "3+",
+          "s": "5",
+          "ap": "-1",
+          "d": "2"
+        },
+        {
+          "name": "Crushing claws and rending claws",
+          "range": "Melee",
+          "a": "3",
+          "bws": "4+",
+          "s": "8",
+          "ap": "-2",
+          "d": "2"
+        },
+        {
+          "name": "Scything talons and rending claws",
+          "range": "Melee",
+          "a": "5",
+          "bws": "3+",
+          "s": "5",
+          "ap": "-1",
+          "d": "1"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Tyranids"
+    ],
+    "abilities": {
+      "core": "Synapse",
+      "faction": "While a",
+      "special": [
+        "Character model is leading this unit, that Character has the Feel No Pain 5+ ability."
+      ]
+    },
+    "invulnerable": "",
+    "damaged": null,
+    "stats": {
+      "m": "6\"",
+      "t": "8",
+      "sv": "3+",
+      "w": "4",
+      "ld": "8+",
+      "oc": "1"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "Any number of models can each have their scything talons and rending claws replaced with one of",
+          "the following:",
+          "◦",
+          "1 bone cleaver, lash whip and rending claws",
+          "◦",
+          "1 crushing claws and rending claws"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "3-6 Tyrant Guard",
+          "Every model is equipped with:",
+          "scything talons and",
+          "rending claws.",
+          "TYRANT GUARD",
+          "Incredibly well armoured and resilient, Tyrant Guard form a mobile",
+          "bulwark around their assigned synapse organism. So extreme is their",
+          "bio-adaptation, they do not even possess weak spots such as eyes.",
+          "Instead, they are guided as extensions of their charge’s synaptic will,",
+          "acting as living weapons and shields."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-tyranids-28",
+    "points": [
+      { "per": "1 model", "points": 105}
+    ],
+    "name": "NEUROTYRANT",
+    "subtype": "RANGED WEAPONS",
+    "keywords": [
+      "A"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Psychic scream [IGNORES COVER, PSYCHIC, TORRENT]",
+          "range": "18\"",
+          "a": "2D6",
+          "bws": "N/A",
+          "s": "5",
+          "ap": "-1",
+          "d": "2"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Neurotyrant claws and lashes",
+          "range": "Melee",
+          "a": "6",
+          "bws": "3+",
+          "s": "5",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "ABILITIES",
+          "range": "CORE:",
+          "a": "Leader",
+          "bws": "FACTION:",
+          "s": "Synapse, Shadow in the Warp",
+          "ap": "Node Lash (Psychic):",
+          "d": "While this model is leading a unit, each"
+        },
+        {
+          "name": "time a model in that unit makes an attack, add 1 to the Hit roll.",
+          "range": "If the target is Battle-shocked, add 1 to the Wound roll as well.",
+          "a": "Psychic Terror (Psychic):",
+          "bws": "If one or more",
+          "s": "Neurotyrants",
+          "ap": "from your army are on the battlefield when you unleash the",
+          "d": "Shadow in the Warp, subtract 1 from the Battle-shock test"
+        },
+        {
+          "name": "each enemy unit on the battlefield must take as a result.",
+          "range": "Synaptic Relays:",
+          "a": "In your Command phase, you can select",
+          "bws": "up to two friendly",
+          "s": "Tyranids",
+          "ap": "units within 12\" of this model’s",
+          "d": "unit. Until the start of your next Command phase, the selected"
+        },
+        {
+          "name": "units are always considered to be within Synapse Range of",
+          "range": "your army.",
+          "a": "Designer’s Note:",
+          "bws": "Place a Synaptic Relay token next to each selected unit to",
+          "s": "remind you.",
+          "ap": "INVULNERABLE SAVE",
+          "d": "4+"
+        },
+        {
+          "name": "M",
+          "range": "T",
+          "a": "SV",
+          "bws": "W",
+          "s": "LD",
+          "ap": "OC",
+          "d": "6\""
+        },
+        {
+          "name": "8",
+          "range": "4+",
+          "a": "9",
+          "bws": "7+",
+          "s": "3",
+          "ap": "KEYWORDS:",
+          "d": "Monster, Character, Fly, Psyker, Great Devourer, Synapse,"
+        },
+        {
+          "name": "Neurotyrant"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Tyranids"
+    ],
+    "abilities": {
+      "core": "Leader",
+      "faction": "Synapse, Shadow in the Warp",
+      "special": [
+        "Node Lash (Psychic): While this model is leading a unit, each time a model in that unit makes an attack, add 1 to the Hit roll.",
+        "If the target is Battle-shocked, add 1 to the Wound roll as well.",
+        "Psychic Terror (Psychic): If one or more Neurotyrants from your army are on the battlefield when you unleash the Shadow in the Warp, subtract 1 from the Battle-shock test each enemy unit on the battlefield must take as a result.",
+        "Synaptic Relays: In your Command phase, you can select up to two friendly Tyranids units within 12\" of this model’s unit.",
+        "Until the start of your next Command phase, the selected units are always considered to be within Synapse Range of your army.",
+        "Designer’s Note: Place a Synaptic Relay token next to each selected unit to remind you."
+      ]
+    },
+    "invulnerable": "4+",
+    "damaged": null,
+    "stats": {
+      "m": "6\"",
+      "t": "8",
+      "sv": "4+",
+      "w": "9",
+      "ld": "7+",
+      "oc": "3"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "None"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Neurotyrant",
+          "This model is equipped with:",
+          "psychic scream; Neurotyrant",
+          "claws and lashes."
+        ]
+      },
+      {
+        "name": "LEADER",
+        "values": [
+          "This model can be attached to the following units:",
+          "■",
+          "Neurogaunts",
+          "■",
+          "Tyrant Guard",
+          "NEUROTYRANT",
+          "The Shadow in the Warp radiating from this immensely powerful",
+          "psyker-analogue creeps in all directions, driving even non-psychic",
+          "prey organisms to screaming madness. As its foes writhe in agony,",
+          "the Neurotyrant guides the swarms around it to slaughter with",
+          "brutal efficiency."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-tyranids-30",
+    "points": [
+      { "per": "1 model", "points": 75}
+    ],
+    "name": "LICTOR",
+    "subtype": "",
+    "keywords": [
+      "Infantry",
+      "Great Devourer",
+      "Lictor"
+    ],
+    "weapons": {
+      "ranged": [],
+      "melee": [
+        {
+          "name": "Lictor claws and talons [PRECISION]",
+          "range": "Melee",
+          "a": "6",
+          "bws": "2+",
+          "s": "7",
+          "ap": "-2",
+          "d": "2"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Tyranids"
+    ],
+    "abilities": {
+      "core": "Fights First, Infiltrators, Lone Operative, Stealth",
+      "faction": "Synapse",
+      "special": [
+        "Feeder Tendrils: Each time this model destroys an enemy Character model, you gain 1CP.",
+        "Pheromone Trail: Once per battle round, you can target one model with this ability with the Rapid Ingress Stratagem for 0CP."
+      ]
+    },
+    "invulnerable": "5+",
+    "damaged": null,
+    "stats": {
+      "m": "8\"",
+      "t": "6",
+      "sv": "4+",
+      "w": "6",
+      "ld": "7+",
+      "oc": "1"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "None"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Lictor",
+          "This model is equipped with:",
+          "Lictor claws and talons.",
+          "LICTOR",
+          "Lictors are an adaptation of the Tyranid Warrior bioform specialising in",
+          "infiltration, scouting and assassination. Hidden by their chameleonic",
+          "skin, Lictors pick off their prey opportunistically, always looking for",
+          "a chance to crack open their victims’ skulls and suck out the secrets",
+          "held within using their feeder tendrils."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-tyranids-32",
+    "points": [
+      { "per": "1 model", "points": 90}
+    ],
+    "name": "DEATHLEAPER",
+    "subtype": "",
+    "keywords": [
+      "Infantry",
+      "Character",
+      "Epic Hero",
+      "Great Devourer",
+      "Deathleaper"
+    ],
+    "weapons": {
+      "ranged": [],
+      "melee": [
+        {
+          "name": "Lictor claws and talons [PRECISION]",
+          "range": "Melee",
+          "a": "6",
+          "bws": "2+",
+          "s": "7",
+          "ap": "-2",
+          "d": "2"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Tyranids"
+    ],
+    "abilities": {
+      "core": "Fights First, Infiltrators, Lone Operative, Stealth",
+      "faction": "Synapse",
+      "special": [
+        "Feeder Tendrils: Each time this model destroys an enemy Character model, you gain 1CP.",
+        "Fear of the Unseen (Aura): While an enemy unit is within 6\" of this model, worsen the Leadership characteristic of models in that unit by 1.",
+        "In addition, in the Battle-shock step of your opponent’s Command phase, if such an enemy unit is below its Starting Strength, it must take a Battle-shock test."
+      ]
+    },
+    "invulnerable": "4+",
+    "damaged": null,
+    "stats": {
+      "m": "8\"",
+      "t": "6",
+      "sv": "4+",
+      "w": "7",
+      "ld": "7+",
+      "oc": "1"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "None"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Deathleaper -",
+          "Epic Hero",
+          "This model is equipped with:",
+          "Lictor claws and talons.",
+          "HUNTER ORGANISM",
+          "This model cannot be your",
+          "Warlord",
+          ".",
+          "DEATHLEAPER",
+          "The Deathleaper is an advancement of the Lictor strain intended to act",
+          "as a terror weapon. Possessing an instinctive understanding of how",
+          "to spread fear through prey populations, it uses its skills in stealth,",
+          "infiltration and assassination to sow paranoia and dread before the",
+          "hive fleet attacks en masse."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-tyranids-34",
+    "points": [
+      { "per": "1 model", "points": 165}
+    ],
+    "name": "MALECEPTOR",
+    "subtype": "",
+    "keywords": [
+      "Monster",
+      "Psyker",
+      "Great Devourer",
+      "Synapse",
+      "Maleceptor"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Psychic overload [BLAST, PSYCHIC]",
+          "range": "18\"",
+          "a": "D6+3",
+          "bws": "3+",
+          "s": "10",
+          "ap": "-2",
+          "d": "3"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Massive scything talons - strike",
+          "range": "Melee",
+          "a": "3",
+          "bws": "3+",
+          "s": "9",
+          "ap": "-2",
+          "d": "D6+1"
+        },
+        {
+          "name": "Massive scything talons - sweep",
+          "range": "Melee",
+          "a": "6",
+          "bws": "3+",
+          "s": "7",
+          "ap": "-1",
+          "d": "2"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Tyranids"
+    ],
+    "abilities": {
+      "core": "Deadly Demise D3",
+      "faction": "Shadow in the Warp, Synapse",
+      "special": [
+        "Encephalic Diffusion (Aura, Psychic): While an enemy unit is within 6\" of this model, each time a model in that unit makes an attack, subtract 1 from the Hit roll, and, if that enemy unit is Below Half-strength, subtract 1 from the Wound roll as well.",
+        "DAMAGED: 1-5 WOUNDS REMAINING While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
+      ]
+    },
+    "invulnerable": "4+",
+    "damaged": null,
+    "stats": {
+      "m": "8\"",
+      "t": "11",
+      "sv": "3+",
+      "w": "14",
+      "ld": "7+",
+      "oc": "4"
+    },
+    "footnotes": {
+      "footnotes": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "None"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Maleceptor",
+          "This model is equipped with:",
+          "psychic overload; massive",
+          "scything talons.",
+          "MALECEPTOR",
+          "Amongst the most powerful Tyranid psyker-analogues yet known,",
+          "Maleceptors wield colossal synaptic power. Ethereal psychic",
+          "pseudopods lash about them, able to literally detonate victims’ skulls",
+          "with the slightest touch, while the encephalitic orbs set into their",
+          "carapaces focus the smothering dread of the Shadow in the Warp."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-tyranids-36",
+    "points": [
+      { "per": "1 model", "points": 30},
+      { "per": "2 models", "points": 60},
+      { "per": "3 models", "points": 90}
+    ],
+    "name": "PYROVORES",
+    "subtype": "",
+    "keywords": [
+      "Infantry",
+      "Great Devourer",
+      "Pyrovores"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Flamespurt [IGNORES COVER, TORRENT, TWIN-LINKED]",
+          "range": "12\"",
+          "a": "D6+1",
+          "bws": "N/A",
+          "s": "6",
+          "ap": "-1",
+          "d": "1"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Chitin-barbed limbs",
+          "range": "Melee",
+          "a": "2",
+          "bws": "4+",
+          "s": "5",
+          "ap": "0",
+          "d": "1"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Tyranids"
+    ],
+    "abilities": {
+      "core": "Deadly Demise 1",
+      "faction": "Synapse",
+      "special": [
+        "Burning Spray: In your Shooting phase, after this unit has shot, select one enemy unit hit by one or more of those attacks.",
+        "Until the end of the phase, that enemy unit cannot have the Benefit of Cover."
+      ]
+    },
+    "invulnerable": "",
+    "damaged": null,
+    "stats": {
+      "m": "5\"",
+      "t": "6",
+      "sv": "3+",
+      "w": "4",
+      "ld": "8+",
+      "oc": "1"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "None"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1-3 Pyrovores",
+          "Every model is equipped with:",
+          "flamespurt;",
+          "chitin-barbed limbs.",
+          "PYROVORES",
+          "Pyrovores exist to predigest biomass. The acids that drip from their",
+          "maws are so corrosive they can melt adamantine. Meanwhile, their",
+          "flame-spewing dorsal organisms can engulf entire squads of prey in",
+          "roiling chemical fire. Even killing these bioforms is perilous, for their",
+          "volatile innards can detonate upon death."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-tyranids-38",
+    "points": [
+      { "per": "1 model", "points": 125}
+    ],
+    "name": "HARUSPEX",
+    "subtype": "",
+    "keywords": [
+      "Monster",
+      "Great Devourer",
+      "Haruspex"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Grasping tongue [PRECISION]",
+          "range": "12\"",
+          "a": "1",
+          "bws": "3+",
+          "s": "6",
+          "ap": "-2",
+          "d": "D6+1"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Ravenous maw",
+          "range": "Melee",
+          "a": "14",
+          "bws": "3+",
+          "s": "7",
+          "ap": "-1",
+          "d": "2"
+        },
+        {
+          "name": "Shovelling claws [EXTRA ATTACKS]",
+          "range": "Melee",
+          "a": "4",
+          "bws": "3+",
+          "s": "14",
+          "ap": "-2",
+          "d": "D6+1"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Tyranids"
+    ],
+    "abilities": {
+      "core": "Deadly Demise D3",
+      "faction": "Synapse",
+      "special": [
+        "Grisly Spectacle: Each time this model is selected to fight, after resolving its attacks, if one or more enemy units were destroyed by those attacks, each enemy unit within 6\" of this model must take a Battle-shock test.",
+        "DAMAGED: 1-5 WOUNDS REMAINING While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
+      ]
+    },
+    "invulnerable": "",
+    "damaged": null,
+    "stats": {
+      "m": "8\"",
+      "t": "11",
+      "sv": "3+",
+      "w": "14",
+      "ld": "8+",
+      "oc": "4"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "None"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Haruspex",
+          "This model is equipped with:",
+          "grasping tongue; ravenous maw;",
+          "shovelling claws.",
+          "HARUSPEX",
+          "The infinite hunger of the Haruspex can see it consume an entire",
+          "platoon of prey organisms in moments. Nothing escapes its yawning",
+          "gullet and lashing tongue for long; its victims meet a horrible end as",
+          "they are swallowed down to be gradually dissolved into raw biomass",
+          "within the monster’s churning innards."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-tyranids-40",
+    "points": [
+      { "per": "3 models", "points": 70},
+      { "per": "6 models", "points": 140}
+    ],
+    "name": "VENOMTHROPES",
+    "subtype": "",
+    "keywords": [
+      "Infantry",
+      "Fly",
+      "Great Devourer",
+      "Venomthropes"
+    ],
+    "weapons": {
+      "ranged": [],
+      "melee": [
+        {
+          "name": "Toxic lashes [ANTI-INFANTRY 2+]",
+          "range": "Melee",
+          "a": "5",
+          "bws": "3+",
+          "s": "3",
+          "ap": "0",
+          "d": "1"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Tyranids"
+    ],
+    "abilities": {
+      "core": "Stealth",
+      "faction": "Synapse",
+      "special": [
+        "Foul Spores (Aura): While a friendly Tyranids unit is within 6\" of this unit, each time a ranged attack targets that unit, models in that unit have the Benefit of Cover against that attack.",
+        "In addition, while a friendly Tyranids unit (excluding Monsters ) is within 6\" of this unit, models in that unit have the Stealth ability."
+      ]
+    },
+    "invulnerable": "",
+    "damaged": null,
+    "stats": {
+      "m": "6\"",
+      "t": "5",
+      "sv": "4+",
+      "w": "3",
+      "ld": "8+",
+      "oc": "1"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "None"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "3-6 Venomthropes",
+          "Every model is equipped with:",
+          "toxic lashes.",
+          "VENOMTHROPES",
+          "Venomthropes drift forward amidst miasmal clouds of spores that",
+          "spew from within their bodies. The touch of their tendrils is extremely",
+          "poisonous, and those exposed to the Venomthropes’ spore clouds for",
+          "any length of time drown on their own frothing fluids as they dissolve",
+          "from the inside out."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-tyranids-42",
+    "points": [
+      { "per": "3 models", "points": 75},
+      { "per": "6 models", "points": 150}
+    ],
+    "name": "VON RYAN’S LEAPERS",
+    "subtype": "",
+    "keywords": [
+      "Infantry",
+      "Great Devourer",
+      "Von Ryan’s Leapers"
+    ],
+    "weapons": {
+      "ranged": [],
+      "melee": [
+        {
+          "name": "Leaper’s talons",
+          "range": "Melee",
+          "a": "6",
+          "bws": "3+",
+          "s": "5",
+          "ap": "-1",
+          "d": "1"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Tyranids"
+    ],
+    "abilities": {
+      "core": "Fights First, Infiltrators, Stealth",
+      "faction": "Synapse",
+      "special": [
+        "Pouncing Leap: You can target this unit with the Heroic Intervention Stratagem for 0CP, and can do so even if you have already used that Stratagem on a different unit this phase."
+      ]
+    },
+    "invulnerable": "6+",
+    "damaged": null,
+    "stats": {
+      "m": "10\"",
+      "t": "5",
+      "sv": "4+",
+      "w": "3",
+      "ld": "8+",
+      "oc": "1"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "None"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "3-6 Von Ryan’s Leapers",
+          "Every model is equipped with:",
+          "Leaper’s talons.",
+          "VON RYAN’S LEAPERS",
+          "Stealthy hunters and expert ambushers, Von Ryan’s Leapers are swift,",
+          "agile and especially lethal when fighting in dense terrain. Akin to",
+          "living mines, they lie still at the optimum locations to cause as much",
+          "damage as possible. When they sense the perfect time to strike, they",
+          "butcher all around in a murderous frenzy."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-tyranids-44",
+    "points": [
+      { "per": "11 models", "points": 45},
+      { "per": "22 model", "points": 90}
+    ],
+    "name": "NEUROGAUNTS",
+    "subtype": "MELEE WEAPONS",
+    "keywords": [
+      "A"
+    ],
+    "weapons": {
+      "ranged": [],
+      "melee": [
+        {
+          "name": "Xenos claws and teeth",
+          "range": "Melee",
+          "a": "1",
+          "bws": "4+",
+          "s": "3",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "ABILITIES",
+          "range": "FACTION:",
+          "a": "Synapse",
+          "bws": "Neurocytes:",
+          "s": "While this unit is within Synapse Range of your",
+          "ap": "army, it has the",
+          "d": "Synapse"
+        },
+        {
+          "name": "keyword.",
+          "range": "M",
+          "a": "T",
+          "bws": "SV",
+          "s": "W",
+          "ap": "LD",
+          "d": "OC"
+        },
+        {
+          "name": "6\"",
+          "range": "3",
+          "a": "6+",
+          "bws": "1",
+          "s": "8+",
+          "ap": "1",
+          "d": "KEYWORDS:"
+        },
+        {
+          "name": "Infantry, Great Devourer, Endless Multitude, Neurogaunts"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Tyranids"
+    ],
+    "abilities": {
+      "core": "Synapse",
+      "faction": "While this unit is within Synapse Range of your",
+      "special": [
+        "army, it has the Synapse keyword."
+      ]
+    },
+    "invulnerable": "",
+    "damaged": null,
+    "stats": {
+      "m": "6\"",
+      "t": "3",
+      "sv": "6+",
+      "w": "1",
+      "ld": "8+",
+      "oc": "1"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "None"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1-2 Neurogaunt Nodebeasts*",
+          "■",
+          "10-20 Neurogaunts",
+          "Every model is equipped with:",
+          "xenos claws and teeth.",
+          "*",
+          "This unit can only contain 2 Neurogaunt Nodebeasts if it contains",
+          "20 Neurogaunts.",
+          "NEUROGAUNTS",
+          "Neurogaunts scuttle forward in seething masses, driven on by the",
+          "parasitic neurocytes that cling to their backs. Their primary purpose is",
+          "to protect the synaptic node beasts coordinating invasion swarms. It",
+          "is a task they go about with single-minded savagery, slashing, biting",
+          "and giving their lives without an instant’s hesitation."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-tyranids-46",
+    "points": [
+      { "per": "3 models", "points": 90},
+      { "per": "6 models", "points": 180}
+    ],
+    "name": "ZOANTHROPES",
+    "subtype": "",
+    "keywords": [
+      "Infantry",
+      "Psyker",
+      "Fly",
+      "Great Devourer",
+      "Synapse",
+      "Zoanthropes"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Warp Blast - witchfire [BLAST, PSYCHIC]",
+          "range": "24\"",
+          "a": "D3",
+          "bws": "3+",
+          "s": "7",
+          "ap": "-2",
+          "d": "D3"
+        },
+        {
+          "name": "Warp Blast - focused witchfire [LETHAL HITS, PSYCHIC]",
+          "range": "24\"",
+          "a": "1",
+          "bws": "3+",
+          "s": "12",
+          "ap": "-3",
+          "d": "D6+1"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Xenos claws and teeth",
+          "range": "Melee",
+          "a": "2",
+          "bws": "5+",
+          "s": "3",
+          "ap": "0",
+          "d": "1"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Tyranids"
+    ],
+    "abilities": {
+      "core": "Shadow in the Warp, Synapse",
+      "faction": "While this unit contains a",
+      "special": [
+        "Neurothrope, while an enemy unit is within 6\" of this unit, each time that enemy unit fails a Battle-shock test, it suffers D3 mortal wounds and one model in this unit regains up to D3 lost wounds.",
+        "Warp Field (Aura, Psychic): While a friendly Tyranids unit is within 6\" of this unit, models in that unit have a 6+ invulnerable save."
+      ]
+    },
+    "invulnerable": "4+",
+    "damaged": null,
+    "stats": {
+      "m": "5\"",
+      "t": "5",
+      "sv": "5+",
+      "w": "3",
+      "ld": "7+",
+      "oc": "1"
+    },
+    "footnotes": {
+      "footnotes": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "None"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Neurothrope",
+          "■",
+          "2-5 Zoanthropes",
+          "Every model is equipped with:",
+          "Warp Blast; xenos claws",
+          "and teeth.",
+          "ZOANTHROPES",
+          "A Zoanthrope’s physical form is given over to harnessing the might",
+          "of the Hive Mind. Not only do they act as synapse nodes, but they",
+          "can also draw upon the energies of the Hive Mind to unleash searing",
+          "psychic blasts, and to generate fields of defensive power that can stop",
+          "an artillery shell dead."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-tyranids-48",
+    "points": [
+      { "per": "5 models", "points": 90},
+      { "per": "10 models", "points": 180}
+    ],
+    "name": "GENESTEALERS",
+    "subtype": "",
+    "keywords": [
+      "Infantry",
+      "Great Devourer",
+      "Genestealers"
+    ],
+    "weapons": {
+      "ranged": [],
+      "melee": [
+        {
+          "name": "Genestealer claws and talons",
+          "range": "Melee",
+          "a": "4",
+          "bws": "2+",
+          "s": "4",
+          "ap": "-2",
+          "d": "1"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Tyranids"
+    ],
+    "abilities": {
+      "core": "Scouts 8\"",
+      "faction": "Synapse",
+      "special": [
+        "Vanguard Predator: Each time a model in this unit makes an attack, re-roll a Wound roll of 1.",
+        "If the target is within range of an objective marker, you can re-roll the Wound roll instead."
+      ]
+    },
+    "invulnerable": "5+",
+    "damaged": null,
+    "stats": {
+      "m": "8\"",
+      "t": "4",
+      "sv": "5+",
+      "w": "2",
+      "ld": "7+",
+      "oc": "1"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "None"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "5-10 Genestealers",
+          "Every model is equipped with:",
+          "Genestealer claws and talons.",
+          "GENESTEALERS",
+          "Swift vanguard organisms armoured in chitin and possessed of",
+          "terrifying strength and agility, Genestealers are peerless predators.",
+          "Their broods move ahead of the hive fleets to seek out fresh feeding",
+          "grounds. Then, when the invasion swarms descend, the Genestealers",
+          "burst from hiding to begin the slaughter."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-tyranids-50",
+    "points": [
+      { "per": "3 models", "points": 75},
+      { "per": "6 models", "points": 150}
+    ],
+    "name": "RAVENERS",
+    "subtype": "",
+    "keywords": [
+      "Infantry",
+      "Great Devourer",
+      "Raveners"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Thoracic bio-weapon",
+          "range": "12\"",
+          "a": "3",
+          "bws": "4+",
+          "s": "4",
+          "ap": "0",
+          "d": "1"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Ravener claws and talons [TWIN-LINKED]",
+          "range": "Melee",
+          "a": "7",
+          "bws": "3+",
+          "s": "5",
+          "ap": "-1",
+          "d": "1"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Tyranids"
+    ],
+    "abilities": {
+      "core": "Deep Strike",
+      "faction": "Synapse",
+      "special": [
+        "Death From Below: At the end of your opponent’s turn, if this unit is not within Engagement Range of one or more enemy units, you can remove it from the battlefield and place it into Strategic Reserves."
+      ]
+    },
+    "invulnerable": "",
+    "damaged": null,
+    "stats": {
+      "m": "10\"",
+      "t": "5",
+      "sv": "4+",
+      "w": "3",
+      "ld": "8+",
+      "oc": "1"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "Any number of models can each be equipped with 1 thoracic bio-weapon."
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "3-6 Raveners",
+          "Every model is equipped with:",
+          "Ravener claws and talons.",
+          "RAVENERS",
+          "Serpentine bioforms capable of a terrifying turn of speed, Raveners",
+          "are made doubly dangerous by their ability to tunnel swiftly through",
+          "even solid bedrock. Often assaulting their prey from below, Raveners",
+          "are especially vicious and predatory warrior organisms used as shock",
+          "troops by the Hive Mind."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-tyranids-52",
+    "points": [
+      { "per": "3 models", "points": 35},
+      { "per": "6 models", "points": 70}
+    ],
+    "name": "RIPPER SWARMS",
+    "subtype": "",
+    "keywords": [
+      "Swarm",
+      "Great Devourer",
+      "Ripper Swarms"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Spinemaws [PISTOL]",
+          "range": "6\"",
+          "a": "4",
+          "bws": "5+",
+          "s": "3",
+          "ap": "0",
+          "d": "1"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Xenos claws and teeth [SUSTAINED HITS 1]",
+          "range": "Melee",
+          "a": "6",
+          "bws": "5+",
+          "s": "2",
+          "ap": "0",
+          "d": "1"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Tyranids"
+    ],
+    "abilities": {
+      "core": "Deep Strike",
+      "faction": "Synapse",
+      "special": [
+        "Chitinous Horrors (Aura): While an enemy unit is within Engagement Range of this unit, halve the Objective Control characteristic of models in that enemy unit."
+      ]
+    },
+    "invulnerable": "",
+    "damaged": null,
+    "stats": {
+      "m": "6\"",
+      "t": "2",
+      "sv": "6+",
+      "w": "4",
+      "ld": "8+",
+      "oc": "0"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "All models in this unit can each be equipped with 1 spinemaws."
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "3-6 Ripper Swarms",
+          "Every model is equipped with:",
+          "xenos claws and teeth.",
+          "RIPPER SWARMS",
+          "Living carpets of Rippers squirm across the ground wherever the",
+          "Tyranid swarms advance. Little more than simple eating machines,",
+          "these chitinous horrors swarm over the wounded and dead alike, and",
+          "can even drag down trained warriors in sufficient numbers. Once a",
+          "Ripper’s fangs sink home, it will not let go…"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-tyranids-54",
+    "points": [
+      { "per": "1 model", "points": 90}
+    ],
+    "name": "PARASITE OF MORTREX",
+    "subtype": "",
+    "keywords": [
+      "Infantry",
+      "Character",
+      "Fly",
+      "Great Devourer",
+      "Parasite of Mortrex"
+    ],
+    "weapons": {
+      "ranged": [],
+      "melee": [
+        {
+          "name": "Barbed ovipositor [ANTI-INFANTRY 3+, EXTRA ATTACKS]",
+          "range": "Melee",
+          "a": "1",
+          "bws": "2+",
+          "s": "3",
+          "ap": "-2",
+          "d": "3"
+        },
+        {
+          "name": "Clawed limbs",
+          "range": "Melee",
+          "a": "6",
+          "bws": "2+",
+          "s": "5",
+          "ap": "-1",
+          "d": "1"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Tyranids"
+    ],
+    "abilities": {
+      "core": "Deep Strike, Lone Operative, Stealth",
+      "faction": "Synapse",
+      "special": [
+        "Parasitic Infection: Each time an Infantry model is destroyed by an attack made with this model’s barbed ovipositor, after this model has finished making its attacks, you can add one new Ripper Swarms unit to your army consisting of D3 models and set it up within 3\" of this model.",
+        "If you do, that Ripper Swarms unit can be set up within Engagement Range of the destroyed model’s unit (but not within Engagement Range of any other enemy units).",
+        "It Itches!: At the start of the Fight phase, select one enemy unit within Engagement Range of this model.",
+        "That enemy unit must take a Battle-shock test."
+      ]
+    },
+    "invulnerable": "",
+    "damaged": null,
+    "stats": {
+      "m": "12\"",
+      "t": "5",
+      "sv": "4+",
+      "w": "5",
+      "ld": "8+",
+      "oc": "1"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "None"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Parasite of Mortrex",
+          "This model is equipped with:",
+          "barbed ovipositor; clawed limbs.",
+          "PARASITE OF MORTREX",
+          "Swooping on leathery wings, Parasites of Mortrex use their barbed",
+          "ovipositors to drive Ripper gestation pods deep into their victims’",
+          "bodies, from where the swiftly growing creatures soon eat their way",
+          "out. Such was the doom of the defenders of Mortrex, the world first",
+          "cursed by the Parasites’ onslaught."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-tyranids-56",
+    "points": [
+      { "per": "1 model", "points": 145}
+    ],
+    "name": "MAWLOC",
+    "subtype": "",
+    "keywords": [
+      "Monster",
+      "Great Devourer",
+      "Mawloc"
+    ],
+    "weapons": {
+      "ranged": [],
+      "melee": [
+        {
+          "name": "Distensible jaw [ANTI-INFANTRY 4+, DEVASTATING WOUNDS, EXTRA ATTACKS]",
+          "range": "Melee",
+          "a": "1",
+          "bws": "3+",
+          "s": "5",
+          "ap": "0",
+          "d": "3"
+        },
+        {
+          "name": "Mawloc scything talons",
+          "range": "Melee",
+          "a": "16",
+          "bws": "3+",
+          "s": "8",
+          "ap": "-2",
+          "d": "1"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Tyranids"
+    ],
+    "abilities": {
+      "core": "Deep Strike",
+      "faction": "Synapse",
+      "special": [
+        "Terror From The Deep: Each time this unit is set up on the battlefield using the Deep Strike ability, roll one D6 for each enemy unit within 12\" of this model: on a 2-4, that unit suffers D3 mortal wounds; on a 5+, that unit suffers 3 mortal wounds and must take a Battle-shock test.",
+        "DAMAGED: 1-5 WOUNDS REMAINING While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
+      ]
+    },
+    "invulnerable": "",
+    "damaged": null,
+    "stats": {
+      "m": "10\"",
+      "t": "10",
+      "sv": "3+",
+      "w": "14",
+      "ld": "8+",
+      "oc": "4"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "None"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Mawloc",
+          "This model is equipped with:",
+          "distensible jaw; Mawloc",
+          "scything talons.",
+          "MAWLOC",
+          "Vast, burrowing wormforms, Mawlocs hunt by sensing even the",
+          "smallest vibrations on the surface above them. Once they have",
+          "located prey, the Mawlocs surge upwards in an eruption of bedrock",
+          "and soil, yawning maws swallowing everything above them before",
+          "they plunge back under the surface again."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-tyranids-58",
+    "points": [
+      { "per": "1 model", "points": 180}
+    ],
+    "name": "TRYGON",
+    "subtype": "",
+    "keywords": [
+      "Monster",
+      "Great Devourer",
+      "Trygon"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Bio-electric pulse [SUSTAINED HITS 2]",
+          "range": "12\"",
+          "a": "6",
+          "bws": "3+",
+          "s": "5",
+          "ap": "0",
+          "d": "1"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Trygon scything talons",
+          "range": "Melee",
+          "a": "12",
+          "bws": "3+",
+          "s": "9",
+          "ap": "-2",
+          "d": "3"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Tyranids"
+    ],
+    "abilities": {
+      "special": []
+    },
+    "invulnerable": "",
+    "damaged": null,
+    "stats": {
+      "m": "10\"",
+      "t": "10",
+      "sv": "3+",
+      "w": "14",
+      "ld": "8+",
+      "oc": "4"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "None"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Trygon",
+          "This model is equipped with:",
+          "bio-electric pulse; Trygon",
+          "scything talons.",
+          "TRYGON",
+          "Trygons are battle-tank-sized living tunnelling machines. As they dig",
+          "through the substrata of the prey world, they excavate huge tunnels",
+          "for other Tyranid beasts to exploit. At the same time, the rasping of",
+          "their chitinous plates builds up a powerful bio-electric charge that the",
+          "Trygons can unleash as a weapon."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-tyranids-60",
+    "points": [
+      { "per": "1 models", "points": 45},
+      { "per": "2 models", "points": 90}
+    ],
+    "name": "MUCOLID SPORES",
+    "subtype": "",
+    "keywords": [
+      "Beast",
+      "Fly",
+      "Great Devourer",
+      "Mucolid Spores"
+    ],
+    "weapons": {
+      "ranged": [],
+      "melee": []
+    },
+    "factionKeywords": [
+      "Tyranids"
+    ],
+    "abilities": {
+      "core": "Deep Strike",
+      "faction": "Synapse",
+      "special": [
+        "Bio-minefield: Enemy units cannot start or end an Advance move within 6\" of this unit.",
+        "Floating Death: Each time an enemy unit ends a move within 3\" of a model in this unit, and each time a model in this unit ends a move within 3\" of an enemy unit, roll one D6: on a 2-5, that enemy unit suffers D3 mortal wounds; on a 6, that enemy unit suffers D6 mortal wounds.",
+        "The model in this unit that caused that roll is then destroyed."
+      ]
+    },
+    "invulnerable": "",
+    "damaged": null,
+    "stats": {
+      "m": "4\"",
+      "t": "4",
+      "sv": "7+",
+      "w": "3",
+      "ld": "8+",
+      "oc": "0"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "None"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1-2 Mucolid Spores",
+          "Every model is equipped with:",
+          "nothing.",
+          "MUCOLID SPORES",
+          "These rudimentary organisms are filled with poisonous gases",
+          "held under extremely high pressure. Instinct drives them to drift",
+          "towards prey formations or up into the path of enemy aircraft,",
+          "before detonating in a nauseating spray of poisonous filth and",
+          "chitinous shrapnel."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-tyranids-62",
+    "points": [
+      { "per": "3 models", "points": 50},
+      { "per": "6 models", "points": 100}
+    ],
+    "name": "SPORE MINES",
+    "subtype": "",
+    "keywords": [
+      "Beast",
+      "Fly",
+      "Great Devourer",
+      "Spore Mines"
+    ],
+    "weapons": {
+      "ranged": [],
+      "melee": []
+    },
+    "factionKeywords": [
+      "Tyranids"
+    ],
+    "abilities": {
+      "core": "Deep Strike",
+      "faction": "Synapse",
+      "special": [
+        "Bio-minefield: Enemy units cannot start or end an Advance move within 6\" of this unit.",
+        "Floating Death: Each time an enemy unit ends a move within 3\" of a model in this unit, and each time a model in this unit ends a move within 3\" of an enemy unit, roll one D6: on a 2-5, that enemy unit suffers 1 mortal wound; on a 6, that enemy unit suffers D3 mortal wounds.",
+        "The model in this unit that caused that roll is then destroyed."
+      ]
+    },
+    "invulnerable": "",
+    "damaged": null,
+    "stats": {
+      "m": "4\"",
+      "t": "1",
+      "sv": "7+",
+      "w": "1",
+      "ld": "8+",
+      "oc": "0"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "None"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "3-6 Spore Mines",
+          "Every model is equipped with:",
+          "nothing.",
+          "SPORE MINES",
+          "Spore Mines are a form of living mine or bomb, which drift across the",
+          "battlefield in shoals and detonate when they detect prey organisms",
+          "nearby. Those caught in the blast are torn apart as surely as if they",
+          "had caught a brace of live frag grenades. The Hive Mind often uses",
+          "Spore Mines to deny areas of the battlefield to the prey."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-tyranids-64",
+    "points": [
+      { "per": "1 model", "points": 135}
+    ],
+    "name": "EXOCRINE",
+    "subtype": "",
+    "keywords": [
+      "Monster",
+      "Great Devourer",
+      "Exocrine"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Bio-plasmic cannon [BLAST, HEAVY]",
+          "range": "36\"",
+          "a": "D6+3",
+          "bws": "3+",
+          "s": "8",
+          "ap": "-3",
+          "d": "3"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Powerful limbs",
+          "range": "Melee",
+          "a": "3",
+          "bws": "3+",
+          "s": "7",
+          "ap": "0",
+          "d": "2"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Tyranids"
+    ],
+    "abilities": {
+      "core": "Deadly Demise D3",
+      "faction": "Synapse",
+      "special": [
+        "Symbiotic Targeting: In your Shooting phase, after this model has shot, select one enemy unit hit by one or more of those attacks.",
+        "Until the end of the phase, each time a friendly Tyranids model makes an attack that targets that unit, re-roll a Hit roll of 1.",
+        "DAMAGED: 1-5 WOUNDS REMAINING While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
+      ]
+    },
+    "invulnerable": "",
+    "damaged": null,
+    "stats": {
+      "m": "8\"",
+      "t": "10",
+      "sv": "3+",
+      "w": "14",
+      "ld": "8+",
+      "oc": "4"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "None"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Exocrine",
+          "This model is equipped with:",
+          "bio-plasmic cannon;",
+          "powerful limbs.",
+          "EXOCRINE",
+          "Huge, tough and very stupid, the Exocrine’s only task is to carry the",
+          "dorsal cannon organism on its back into an optimal firing position.",
+          "Once in place, the bio-plasmic cannon emits a terrible, high-pitched",
+          "hiss before unleashing a searing blast of bio-plasma capable of",
+          "reducing tanks and bunkers to glowing craters."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-tyranids-66",
+    "points": [
+      { "per": "1 models", "points": 40},
+      { "per": "2 models", "points": 80},
+      { "per": "3 models", "points": 120}
+    ],
+    "name": "BIOVORES",
+    "subtype": "",
+    "keywords": [
+      "Infantry",
+      "Great Devourer",
+      "Biovores"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Spore Mine launcher [BLAST, DEVASTATING WOUNDS, HEAVY, INDIRECT FIRE]",
+          "range": "48\"",
+          "a": "D3",
+          "bws": "4+",
+          "s": "6",
+          "ap": "-1",
+          "d": "2"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Chitin-barbed limbs",
+          "range": "Melee",
+          "a": "2",
+          "bws": "4+",
+          "s": "5",
+          "ap": "0",
+          "d": "1"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Tyranids"
+    ],
+    "abilities": {
+      "core": "Deadly Demise 1",
+      "faction": "Synapse",
+      "special": [
+        "Seed Spore Mines: In your Shooting phase, each time this unit is selected to shoot, it can use this ability instead of making any attacks with its ranged weapons.",
+        "If it does, you can add a new Spore Mines unit to your army and set it up anywhere on the battlefield that is within 48\" of this unit but more than 9\" horizontally away from all enemy units.",
+        "That Spore Mines unit contains 1 model for each model in this unit."
+      ]
+    },
+    "invulnerable": "",
+    "damaged": null,
+    "stats": {
+      "m": "5\"",
+      "t": "6",
+      "sv": "4+",
+      "w": "4",
+      "ld": "8+",
+      "oc": "1"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "None"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1-3 Biovores",
+          "Every model is equipped with:",
+          "Spore Mine launcher;",
+          "chitin-barbed limbs.",
+          "BIOVORES",
+          "These living artillery pieces nurture a clutch of Spore Mines within their",
+          "bodies. After anchoring themselves to the ground with their chitinous",
+          "spurs, the creatures fire their living ammunition in high arcs, allowing",
+          "the Spore Mines to drift languidly down into the midst of the foe where",
+          "they detonate with sudden violence."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-tyranids-68",
+    "points": [
+      { "per": "1 model", "points": 125},
+      { "per": "2 models", "points": 250}
+    ],
+    "name": "CARNIFEXES",
+    "subtype": "",
+    "keywords": [
+      "Monster",
+      "Great Devourer",
+      "Carnifexes"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Bio-plasma [ASSAULT, BLAST]",
+          "range": "12\"",
+          "a": "D3",
+          "bws": "4+",
+          "s": "7",
+          "ap": "-2",
+          "d": "1"
+        },
+        {
+          "name": "Deathspitters with slimer maggots",
+          "range": "24\"",
+          "a": "6",
+          "bws": "4+",
+          "s": "7",
+          "ap": "-2",
+          "d": "1"
+        },
+        {
+          "name": "Devourers with brainleech worms",
+          "range": "18\"",
+          "a": "12",
+          "bws": "4+",
+          "s": "6",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Heavy venom cannon [BLAST]",
+          "range": "36\"",
+          "a": "D3",
+          "bws": "4+",
+          "s": "9",
+          "ap": "-2",
+          "d": "3"
+        },
+        {
+          "name": "Spine banks [ASSAULT]",
+          "range": "6\"",
+          "a": "5",
+          "bws": "4+",
+          "s": "5",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Stranglethorn cannon [BLAST]",
+          "range": "36\"",
+          "a": "D6+1",
+          "bws": "4+",
+          "s": "7",
+          "ap": "-1",
+          "d": "2"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Carnifex crushing claws",
+          "range": "Melee",
+          "a": "4",
+          "bws": "4+",
+          "s": "12",
+          "ap": "-3",
+          "d": "D6+1"
+        },
+        {
+          "name": "Carnifex extra scything talons [EXTRA ATTACKS]",
+          "range": "Melee",
+          "a": "2",
+          "bws": "4+",
+          "s": "9",
+          "ap": "-2",
+          "d": "3"
+        },
+        {
+          "name": "Carnifex scything talons",
+          "range": "Melee",
+          "a": "6",
+          "bws": "4+",
+          "s": "9",
+          "ap": "-2",
+          "d": "3"
+        },
+        {
+          "name": "Xenos claws and teeth",
+          "range": "Melee",
+          "a": "4",
+          "bws": "4+",
+          "s": "6",
+          "ap": "0",
+          "d": "1"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Tyranids"
+    ],
+    "abilities": {
+      "core": "Deadly Demise 1",
+      "faction": "Synapse",
+      "special": [
+        "Blistering Assault: Each time an enemy unit is selected to shoot, after that unit has shot, if any models from this unit lost one or more wounds as a result of those attacks, this unit can make a Blistering Assault move.",
+        "To do so, roll one D6, adding 2 to the result: each model in this unit can be moved a distance in inches up to the result, but this unit must finish that move as close as possible to the closest enemy unit.",
+        "When doing so, those models can be moved within Engagement Range of that enemy unit.",
+        "Each unit can only make one Blistering Assault move per phase."
+      ]
+    },
+    "invulnerable": "",
+    "damaged": null,
+    "stats": {
+      "m": "8\"",
+      "t": "9",
+      "sv": "2+",
+      "w": "8",
+      "ld": "8+",
+      "oc": "3"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "Any number of models can each have their Carnifex extra scything talons replaced with one of",
+          "the following:",
+          "◦",
+          "1 deathspitters with slimer maggots",
+          "◦",
+          "1 devourers with brainleech worms",
+          "◦",
+          "1 heavy venom cannon",
+          "◦",
+          "1 stranglethorn cannon",
+          "◦",
+          "1 Carnifex crushing claws",
+          "■",
+          "Any number of models can each have their Carnifex scything talons replaced with one of",
+          "the following:",
+          "◦",
+          "1 deathspitters with slimer maggots",
+          "◦",
+          "1 devourers with brainleech worms",
+          "◦",
+          "1 Carnifex crushing claws",
+          "■",
+          "Any number of models can each be equipped with 1 bio-plasma.",
+          "■",
+          "Any number of models can each be equipped with 1 spine banks."
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1-2 Carnifexes",
+          "Every model is equipped with:",
+          "Carnifex scything talons;",
+          "Carnifex extra scything talons; xenos claws and teeth.",
+          "CARNIFEXES",
+          "Carnifexes have been a mainstay of the hive fleets for centuries.",
+          "Rugged and adaptable organisms, they can support a great range",
+          "of weapon grafts and biomorphs while retaining the raw strength,",
+          "durability and armoured ferocity that has seen them smash through",
+          "countless prey defence lines like living battering rams."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-tyranids-70",
+    "points": [
+      { "per": "1 model", "points": 180}
+    ],
+    "name": "SCREAMER-KILLER",
+    "subtype": "",
+    "keywords": [
+      "Monster",
+      "Great Devourer",
+      "Screamer-Killer"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Bio-plasmic scream [ASSAULT, BLAST]",
+          "range": "18\"",
+          "a": "D6+3",
+          "bws": "4+",
+          "s": "8",
+          "ap": "-2",
+          "d": "1"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Screamer-killer talons",
+          "range": "Melee",
+          "a": "10",
+          "bws": "3+",
+          "s": "10",
+          "ap": "-2",
+          "d": "3"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Tyranids"
+    ],
+    "abilities": {
+      "core": "Deadly Demise 1",
+      "faction": "Synapse",
+      "special": [
+        "Death Scream: In your Shooting phase, after this model has shot, select one unit hit by one or more of those attacks.",
+        "That unit must take a Battle-shock test, subtracting 1 from that test."
+      ]
+    },
+    "invulnerable": "",
+    "damaged": null,
+    "stats": {
+      "m": "8\"",
+      "t": "9",
+      "sv": "2+",
+      "w": "10",
+      "ld": "8+",
+      "oc": "3"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "None"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Screamer-Killer",
+          "This model is equipped with:",
+          "bio-plasmic scream;",
+          "Screamer-Killer talons.",
+          "SCREAMER-KILLER",
+          "An older adaptation of the basic Carnifex strain, the Screamer-Killer",
+          "was christened by terrified Imperial troops for the distinctive howl",
+          "it emits as it generates then unleashes its bio-plasmic blasts.",
+          "Screamer-Killers are often seen at the forefront of a Tyranid assault,",
+          "where they can inflict the most damage quickly."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-tyranids-72",
+    "points": [
+      { "per": "3 models", "points": 100},
+      { "per": "6 models", "points": 200}
+    ],
+    "name": "HIVE GUARD",
+    "subtype": "",
+    "keywords": [
+      "Infantry",
+      "Great Devourer",
+      "Hive Guard"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Impaler cannon [HEAVY, INDIRECT FIRE]",
+          "range": "36\"",
+          "a": "4",
+          "bws": "4+",
+          "s": "5",
+          "ap": "-1",
+          "d": "1"
+        },
+        {
+          "name": "Shockcannon [ANTI-VEHICLE 2+]",
+          "range": "24\"",
+          "a": "2",
+          "bws": "3+",
+          "s": "7",
+          "ap": "-1",
+          "d": "3"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Xenos claws and teeth",
+          "range": "Melee",
+          "a": "3",
+          "bws": "4+",
+          "s": "5",
+          "ap": "0",
+          "d": "1"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Tyranids"
+    ],
+    "abilities": {
+      "core": "Synapse",
+      "faction": "Each time you target this unit with the Fire",
+      "special": [
+        "Overwatch Stratagem, while resolving that Stratagem, hits are scored on unmodified Hit rolls of 5+, or unmodified Hit rolls of 4+ instead if this unit is within range of an objective marker."
+      ]
+    },
+    "invulnerable": "",
+    "damaged": null,
+    "stats": {
+      "m": "6\"",
+      "t": "7",
+      "sv": "3+",
+      "w": "4",
+      "ld": "8+",
+      "oc": "1"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "Any number of models can each have their shockcannon replaced with 1 impaler cannon."
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "3-6 Hive Guard",
+          "Every model is equipped with:",
+          "shockcannon; xenos claws",
+          "and teeth.",
+          "HIVE GUARD",
+          "Hive Guard are spawned to protect Tyranid bio-architecture and",
+          "vital spore-seeding sites. They carry a monstrous arsenal of grafted",
+          "bio-weapons and are instinctively driven - or sometimes synaptically",
+          "impelled - to lay down heavy hails of firepower against those prey",
+          "organisms the Hive Mind wishes to see eradicated."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-tyranids-74",
+    "points": [
+      { "per": "1 model", "points": 200}
+    ],
+    "name": "TYRANNOFEX",
+    "subtype": "",
+    "keywords": [
+      "Monster",
+      "Great Devourer",
+      "Tyrannofex"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Acid spray [TORRENT]",
+          "range": "18\"",
+          "a": "D6+6",
+          "bws": "N/A",
+          "s": "6",
+          "ap": "-2",
+          "d": "2"
+        },
+        {
+          "name": "Fleshborer hive [HEAVY, SUSTAINED HITS 1, TWIN-LINKED]",
+          "range": "24\"",
+          "a": "20",
+          "bws": "3+",
+          "s": "5",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Rupture cannon [HEAVY]",
+          "range": "48\"",
+          "a": "2",
+          "bws": "3+",
+          "s": "18",
+          "ap": "-4",
+          "d": "2D6"
+        },
+        {
+          "name": "Stinger salvoes",
+          "range": "24\"",
+          "a": "8",
+          "bws": "3+",
+          "s": "5",
+          "ap": "0",
+          "d": "1"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Powerful limbs",
+          "range": "Melee",
+          "a": "4",
+          "bws": "3+",
+          "s": "8",
+          "ap": "0",
+          "d": "2"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Tyranids"
+    ],
+    "abilities": {
+      "core": "Deadly Demise D6",
+      "faction": "Synapse",
+      "special": [
+        "Resilient Organism: Each time an attack is allocated to this model, subtract 1 from the Damage characteristic of that attack.",
+        "DAMAGED: 1-5 WOUNDS REMAINING While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
+      ]
+    },
+    "invulnerable": "",
+    "damaged": null,
+    "stats": {
+      "m": "9\"",
+      "t": "12",
+      "sv": "2+",
+      "w": "16",
+      "ld": "8+",
+      "oc": "5"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "This model’s fleshborer hive can be replaced with one of the following:",
+          "◦",
+          "1 acid spray",
+          "◦",
+          "1 rupture cannon"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Tyrannofex",
+          "This model is equipped with:",
+          "fleshborer hive; stinger salvoes;",
+          "powerful limbs.",
+          "TYRANNOFEX",
+          "The Tyrannofex is a walking battle tank and heavy weapons platform",
+          "of huge size and resilience. These warrior organisms are extremely",
+          "well armoured, more than capable of going toe-to-toe with the heaviest",
+          "battle tanks of their prey species in a shooting match. Few foes can",
+          "stand against even one of these beasts."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-tyranids-76",
+    "points": [
+      { "per": "1 model", "points": 105}
+    ],
+    "name": "TYRANNOCYTE",
+    "subtype": "",
+    "keywords": [
+      "Monster",
+      "Fly",
+      "Transport",
+      "Dedicated Transport",
+      "Great Devourer"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Tyrannocyte bio-weapons",
+          "range": "24\"",
+          "a": "5",
+          "bws": "4+",
+          "s": "5",
+          "ap": "-1",
+          "d": "2"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Flensing whips",
+          "range": "Melee",
+          "a": "6",
+          "bws": "4+",
+          "s": "7",
+          "ap": "-1",
+          "d": "2"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Tyranids"
+    ],
+    "abilities": {
+      "core": "Deadly Demise D3, Deep Strike",
+      "faction": "Synapse",
+      "special": [
+        "Aerial Seeding: This model must start the battle in Reserves, but neither it nor any units embarked within it are counted towards any limits placed on the maximum number of Reserves units you can start the battle with.",
+        "This model can be set up in the Reinforcements step of your first, second or third Movement phase, regardless of any mission rules.",
+        "Any units embarked within this model must immediately disembark after it has been set up on the battlefield, and they must be set up more than 9\" away from all enemy models.",
+        "After this model has been set up on the battlefield, no units can embark within it."
+      ]
+    },
+    "invulnerable": "",
+    "damaged": null,
+    "stats": {
+      "m": "8\"",
+      "t": "9",
+      "sv": "3+",
+      "w": "10",
+      "ld": "8+",
+      "oc": "2"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "None"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Tyrannocyte",
+          "This model is equipped with:",
+          "Tyrannocyte bio-weapons;",
+          "flensing whips."
+        ]
+      },
+      {
+        "name": "TRANSPORT",
+        "values": [
+          "This model has a transport capacity of 20",
+          "Tyranids Infantry",
+          "models, or 1",
+          "Tyranids Monster",
+          "model with a Wounds",
+          "characteristic of 12 or less. Each",
+          "Infantry",
+          "model with a",
+          "Wounds characteristic of more than 1 takes up the space of",
+          "3 models.",
+          "TYRANNOCYTE",
+          "Tyrannocytes are huge spores, heat-resistant to endure atmospheric",
+          "re-entry and with wet, pulsing interior chambers within which broods",
+          "of organisms can ride down to a world’s surface. Once its passengers",
+          "spill forth into battle, the Tyrannocyte drifts skyward again and goes",
+          "hunting for its own prey."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-tyranids-78",
+    "points": [
+      { "per": "1 model", "points": 200}
+    ],
+    "name": "HIVE CRONE",
+    "subtype": "",
+    "keywords": [
+      "Monster",
+      "Fly",
+      "Aircraft",
+      "Great Devourer",
+      "Hive Crone"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Drool cannon [TORRENT]",
+          "range": "12\"",
+          "a": "2D6",
+          "bws": "N/A",
+          "s": "6",
+          "ap": "-1",
+          "d": "1"
+        },
+        {
+          "name": "Stinger salvoes",
+          "range": "24\"",
+          "a": "8",
+          "bws": "3+",
+          "s": "5",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Tentaclids [ANTI-VEHICLE 4+, DEVASTATING WOUNDS]",
+          "range": "36\"",
+          "a": "4",
+          "bws": "3+",
+          "s": "7",
+          "ap": "0",
+          "d": "2"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Scything wings",
+          "range": "Melee",
+          "a": "4",
+          "bws": "4+",
+          "s": "7",
+          "ap": "-1",
+          "d": "2"
+        },
+        {
+          "name": "Thorax spur [ANTI-FLY 2+, EXTRA ATTACKS]",
+          "range": "Melee",
+          "a": "1",
+          "bws": "3+",
+          "s": "10",
+          "ap": "-3",
+          "d": "D6"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Tyranids"
+    ],
+    "abilities": {
+      "core": "Deadly Demise D3, Hover",
+      "faction": "Synapse",
+      "special": [
+        "Airborne Predator: Each time this model makes a ranged attack that targets a unit that can Fly , add 1 to the Hit roll.",
+        "DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll.",
+        "T SV W LD OC 9 3+ 12 8+ 0 20+\"."
+      ]
+    },
+    "invulnerable": "",
+    "damaged": null,
+    "stats": {
+      "m": "20+\"",
+      "t": "9",
+      "sv": "3+",
+      "w": "12",
+      "ld": "8+",
+      "oc": "0"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "None"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Hive Crone",
+          "This model is equipped with:",
+          "drool cannon; stinger salvoes;",
+          "tentaclids; scything wings; thorax spur.",
+          "HIVE CRONE",
+          "Hive Crones scour the skies for prey fighter craft. The tentaclids they",
+          "release pursue enemy aircraft before erupting in bio-electric pulses",
+          "that banish motive force and send the dark, dead machines tumbling",
+          "groundward. Then, drool cannons slathering, the Hive Crones dive",
+          "down to seek fresh, land-based prey."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-tyranids-80",
+    "points": [
+      { "per": "1 model", "points": 170}
+    ],
+    "name": "HARPY",
+    "subtype": "",
+    "keywords": [
+      "Monster",
+      "Fly",
+      "Aircraft",
+      "Great Devourer",
+      "Harpy"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Stinger salvoes",
+          "range": "24\"",
+          "a": "8",
+          "bws": "3+",
+          "s": "5",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Twin heavy venom cannon [BLAST, TWIN-LINKED]",
+          "range": "36\"",
+          "a": "D3",
+          "bws": "3+",
+          "s": "9",
+          "ap": "-2",
+          "d": "3"
+        },
+        {
+          "name": "Twin stranglethorn cannon [BLAST, TWIN-LINKED]",
+          "range": "36\"",
+          "a": "D6+1",
+          "bws": "2+",
+          "s": "7",
+          "ap": "-1",
+          "d": "2"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Scything wings",
+          "range": "Melee",
+          "a": "4",
+          "bws": "4+",
+          "s": "7",
+          "ap": "-1",
+          "d": "2"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Tyranids"
+    ],
+    "abilities": {
+      "core": "Deadly Demise D3, Hover",
+      "faction": "Synapse",
+      "special": [
+        "Spore Mine Cysts: Each time this model ends a Normal move, you can do one of the following: ■ Select one enemy unit it moved over during that move and roll six D6: for each 3+, that unit suffers 1 mortal wound.",
+        "■ Add a new Spore Mines unit containing D3 models to your army and set it up anywhere on the battlefield that is within 6\" of this model and more than 9\" horizontally away from all enemy units.",
+        "DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll.",
+        "T SV W LD OC 9 3+ 12 8+ 0 20+\"."
+      ]
+    },
+    "invulnerable": "",
+    "damaged": null,
+    "stats": {
+      "m": "20+\"",
+      "t": "9",
+      "sv": "3+",
+      "w": "12",
+      "ld": "8+",
+      "oc": "0"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "This model’s twin stranglethorn cannon can be replaced with 1 twin heavy venom cannon."
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Harpy",
+          "This model is equipped with:",
+          "stinger salvoes; twin",
+          "stranglethorn cannon; scything wings.",
+          "HARPY",
+          "Harpies are flying bioforms whose natural agility allows them to",
+          "outmanoeuvre most prey fighter craft. They are often sent in amidst",
+          "the first waves of an invasion, dropping organic munitions onto",
+          "panicked defenders and diving down to attack."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-tyranids-82",
+    "points": [
+      { "per": "1 model", "points": 145}
+    ],
+    "name": "SPOROCYST",
+    "subtype": "",
+    "keywords": [
+      "Monster",
+      "Great Devourer",
+      "Sporocyst"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Sporocyst bio-weapons [HIVE DEFENCES]",
+          "range": "24\"",
+          "a": "5",
+          "bws": "4+",
+          "s": "5",
+          "ap": "-1",
+          "d": "2"
+        },
+        {
+          "name": "Hive Defences:",
+          "range": "Each time an enemy unit is set up or ends a Normal, Advance or Fall Back move within",
+          "a": "range of this weapon, if that enemy unit is an eligible target, the bearer can shoot with this weapon at",
+          "bws": "that unit as if it were your Shooting phase (the bearer can do so up to four times per phase)."
+        }
+      ],
+      "melee": [
+        {
+          "name": "Flensing whips",
+          "range": "Melee",
+          "a": "6",
+          "bws": "4+",
+          "s": "7",
+          "ap": "-1",
+          "d": "1"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Tyranids"
+    ],
+    "abilities": {
+      "core": "Deadly Demise D3",
+      "faction": "Synapse",
+      "special": [
+        "Seed Mucolids: In your Shooting phase, each time this model is selected to shoot, it can use this ability instead of making any attacks with its ranged weapons.",
+        "If it does, you can add a new Mucolid Spores unit containing 1 model to your army and set it up anywhere on the battlefield that is within 18\" of this model but more than 9\" horizontally away from all enemy units."
+      ]
+    },
+    "invulnerable": "",
+    "damaged": null,
+    "stats": {
+      "m": "-",
+      "t": "10",
+      "sv": "3+",
+      "w": "10",
+      "ld": "8+",
+      "oc": "0"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "None"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Sporocyst",
+          "This model is equipped with:",
+          "Sporocyst bio-weapons;",
+          "flensing whips.",
+          "SPOROCYST",
+          "Dropped from orbit, Sporocysts dig into the surface of the prey world",
+          "like ticks then begin spewing toxic spores from their living chimneys.",
+          "They are able to eject shoals of Mucolid Spores, while prey who",
+          "stray too close are subjected to hails of organic projectiles from the",
+          "bio-cannons grafted to the Sporocyst’s hide."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-tyranids-84",
+    "points": [
+      { "per": "1 model", "points": 125}
+    ],
+    "name": "PSYCHOPHAGE",
+    "subtype": "",
+    "keywords": [
+      "Monster",
+      "Great Devourer",
+      "Psychophage"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Psychoclastic torrent [IGNORES COVER, TORRENT]",
+          "range": "12\"",
+          "a": "D6",
+          "bws": "N/A",
+          "s": "6",
+          "ap": "-1",
+          "d": "1"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Talons and betentacled maw [ANTI-PSYKER 2+, DEVASTATING WOUNDS]",
+          "range": "Melee",
+          "a": "D6+1",
+          "bws": "3+",
+          "s": "6",
+          "ap": "-1",
+          "d": "2"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Tyranids"
+    ],
+    "abilities": {
+      "core": "Deadly Demise 1, Feel No Pain 5+",
+      "faction": "Synapse",
+      "special": [
+        "Bio-stimulus (Aura): While a friendly Tyranids unit is within 6\" of this model, models in that unit have the Feel No Pain 6+ ability.",
+        "Feeding Frenzy: Each time this model makes a melee attack that targets a unit that is below its Starting Strength, add 1 to the Hit roll.",
+        "If that target is also Below Half-strength, add 1 to the Wound roll as well."
+      ]
+    },
+    "invulnerable": "",
+    "damaged": null,
+    "stats": {
+      "m": "8\"",
+      "t": "9",
+      "sv": "3+",
+      "w": "10",
+      "ld": "8+",
+      "oc": "3"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "None"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Psychophage",
+          "This model is equipped with:",
+          "psychoclastic torrent; talons",
+          "and betentacled maw.",
+          "PSYCHOPHAGE",
+          "These monsters stampede into battle with frightening speed. They",
+          "devour any prey organism in their paths, but especially favour those",
+          "victims with psychic abilities. How they metabolise such esoteric",
+          "powers is unclear, but doing so allows them to project surges of",
+          "psychocorrosive ash that deflagrate their victims’ minds and souls."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-tyranids-86",
+    "points": [
+      { "per": "5 models", "points": 50},
+      { "per": "10 models", "points": 100}
+    ],
+    "name": "BARBGAUNTS",
+    "subtype": "",
+    "keywords": [
+      "Infantry",
+      "Great Devourer",
+      "Barbgaunts"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Bio-cannon [BLAST, HEAVY]",
+          "range": "24\"",
+          "a": "D6",
+          "bws": "4+",
+          "s": "5",
+          "ap": "0",
+          "d": "1"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Xenos claws and teeth",
+          "range": "Melee",
+          "a": "1",
+          "bws": "4+",
+          "s": "4",
+          "ap": "0",
+          "d": "1"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Tyranids"
+    ],
+    "abilities": {
+      "core": "Synapse",
+      "faction": "In your Shooting phase, after",
+      "special": [
+        "this unit has shot, if an enemy Infantry unit was hit by one or more of those attacks made by this unit’s bio-cannons, until the end of your opponent’s next turn, that enemy unit is disrupted.",
+        "While a unit is disrupted, subtract 2 from its Move characteristic, and subtract 2 from Advance and Charge rolls made for it."
+      ]
+    },
+    "invulnerable": "",
+    "damaged": null,
+    "stats": {
+      "m": "6\"",
+      "t": "4",
+      "sv": "4+",
+      "w": "2",
+      "ld": "8+",
+      "oc": "1"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "None"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "5-10 Barbgaunts",
+          "Every model is equipped with:",
+          "bio-cannon; xenos claws",
+          "and teeth.",
+          "BARBGAUNTS",
+          "Barbgaunts are little more than living weapons, their bodies and",
+          "bio-cannons slaved to the will of a pulsating ganglio-parasite that",
+          "piggybacks them into battle. There, they unleash volleys of chitinous",
+          "barbs that detonate with the fury of violent muscle-spasms and",
+          "transfix nearby victims with hails of jagged projectiles."
+        ]
+      }
+    ]
+  }
+]

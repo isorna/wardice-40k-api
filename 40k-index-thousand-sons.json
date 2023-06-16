@@ -1,1 +1,3544 @@
-[{"id":"40k-index-thousand-sons-0","name":"AHRIMAN","subtype":"","keywords":["Infantry","Character","Epic Hero","Psyker","Chaos","Tzeentch","Ahriman"],"weapons":{"ranged":[{"name":"Inferno bolt pistol [PISTOL]","range":"12\"","a":"1","bws":"2+","s":"4","ap":"-1","d":"1"},{"name":"Psychic Stalk [PRECISION, PSYCHIC]","range":"18\"","a":"1","bws":"2+","s":"6","ap":"-1","d":"D6"}],"melee":[{"name":"Black Staff of Ahriman [PSYCHIC]","range":"Melee","a":"5","bws":"2+","s":"7","ap":"-1","d":"3"}]},"factionKeywords":["Thousand Sons"],"abilities":{"core":"Leader","faction":"Cabal of Sorcerers 3","special":["Rubric Lord: While this model is leading a unit, each time a model in that unit makes an attack, add 1 to the Wound roll.","Arch-Sorcerer of Tzeentch (Psychic): Once per battle, you can select this model to use a Ritual for 0 Cabal points (see Cabal of Sorcerers).","If you do, all the other rules for using Rituals still apply."]},"invulnerable":"4+","damaged":null,"stats":{"m":"6\"","t":"4","sv":"3+","w":"5","ld":"6+","oc":"1"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","None"]},{"name":"UNIT COMPOSITION","values":["■","1 Ahriman -","Epic Hero","This model is equipped with:","inferno bolt pistol; Psychic Stalk;","Black Staff of Ahriman."]},{"name":"LEADER","values":["This model can be attached to the following unit:","■","Rubric Marines","AHRIMAN","Your army cannot contain both","Ahriman","and","Ahriman on","Disc of Tzeentch",".","AHRIMAN","Amongst his cursed Legion, Ahriman is second only to his gene-sire in","the potent warp magicks he unleashes in battle. He is a dread sorcerer","and master manipulator, weaving schemes and plots that he enforces","through his cabal of subservient psykers and the ranks of Rubricae","who march at his command."]}]},{"id":"40k-index-thousand-sons-2","name":"AHRIMAN","subtype":"ON DISC OF TZEENTCH","keywords":["Infantry","Character","Epic Hero","Psyker","Fly","Chaos","Tzeentch"],"weapons":{"ranged":[{"name":"Inferno bolt pistol [PISTOL]","range":"12\"","a":"1","bws":"2+","s":"4","ap":"-1","d":"1"},{"name":"Psychic Stalk [PRECISION, PSYCHIC]","range":"18\"","a":"1","bws":"2+","s":"6","ap":"-1","d":"D6"}],"melee":[{"name":"Black Staff of Ahriman [PSYCHIC]","range":"Melee","a":"5","bws":"2+","s":"7","ap":"-1","d":"3"}]},"factionKeywords":["Thousand Sons"],"abilities":{"core":"Leader","faction":"Cabal of Sorcerers 3","special":["Rubric Lord: While this model is leading a unit, each time a model in that unit makes an attack, add 1 to the Wound roll.","Arch-Sorcerer of Tzeentch (Psychic): Once per battle, you can select this model to use a Ritual for 0 Cabal points (see Cabal of Sorcerers).","If you do, all the other rules for using Rituals still apply."]},"invulnerable":"4+","damaged":null,"stats":{"m":"10\"","t":"4","sv":"3+","w":"6","ld":"6+","oc":"1"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","None"]},{"name":"UNIT COMPOSITION","values":["■","1 Ahriman -","Epic Hero","This model is equipped with:","Psychic Stalk; inferno bolt pistol;","Black Staff of Ahriman."]},{"name":"LEADER","values":["This model can be attached to the following unit:","■","Rubric Marines","AHRIMAN","Your army cannot contain both","Ahriman","and","Ahriman on","Disc of Tzeentch",".","AHRIMAN","ON DISC OF TZEENTCH","Ahriman fights with singular focus and frightening determination. At","range he unleashes storms of psychic fury that transmogrify, mutate","and erase from existence all who stand before him. Swooping low upon","his Disc of Tzeentch, the Arch-Sorcerer strikes down any who survive","with his terrifying Black Staff."]}]},{"id":"40k-index-thousand-sons-4","name":"THOUSAND SONS LAND RAIDER","subtype":"","keywords":["Vehicle","Transport","Smoke","Chaos","Tzeentch","Land Raider"],"weapons":{"ranged":[{"name":"Havoc launcher [BLAST]","range":"48\"","a":"D6","bws":"3+","s":"5","ap":"0","d":"1"},{"name":"Inferno combi-bolter [RAPID FIRE 2]","range":"24\"","a":"2","bws":"3+","s":"4","ap":"-1","d":"1"},{"name":"Inferno combi-weapon [ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]","range":"24\"","a":"1","bws":"4+","s":"4","ap":"-1","d":"1"},{"name":"Soulshatter lascannon","range":"48\"","a":"2","bws":"3+","s":"12","ap":"-3","d":"D6+1"},{"name":"Twin inferno heavy bolter [SUSTAINED HITS 1, TWIN-LINKED]","range":"24\"","a":"3","bws":"3+","s":"5","ap":"-2","d":"1"}],"melee":[{"name":"Armoured tracks","range":"Melee","a":"6","bws":"4+","s":"8","ap":"0","d":"1"}]},"factionKeywords":["Thousand Sons"],"abilities":{"core":"Deadly Demise D6","faction":"Each time a unit disembarks from this","special":["Transport after it has made a Normal move, that unit is still eligible to declare a charge this turn.","DAMAGED: 1-5 WOUNDS REMAINING While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."]},"invulnerable":"","damaged":null,"stats":{"m":"10\"","t":"12","sv":"2+","w":"16","ld":"6+","oc":"5"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","This model can be equipped with one of the following:","◦","1 inferno combi-bolter","◦","1 inferno combi-weapon","■","This model can be equipped with 1 havoc launcher."]},{"name":"UNIT COMPOSITION","values":["■","1 Thousand Sons Land Raider","This model is equipped with:","2 soulshatter lascannons;","twin inferno heavy bolter; armoured tracks."]},{"name":"TRANSPORT","values":["This model has a transport capacity of 12","Thousand Sons","Infantry","models (excluding","Cultist","and","Tzaangor","models).","Each","Terminator","model takes up the space of 2 models.","THOUSAND SONS LAND RAIDER","Chaos Land Raiders employed by the Thousand Sons are slab-sided","armoured monsters commonly employed to bear Scarab Occult","Terminators into battle. Their hulls dance with warpflame or writhe","in constant mutagenic peristalsis, even as their arsenal of heavy","weapons blazes without cease."]}]},{"id":"40k-index-thousand-sons-6","name":"THOUSAND SONS PREDATOR ANNIHILATOR","subtype":"","keywords":["Vehicle","Smoke","Chaos","Tzeentch","Predator Annihilator"],"weapons":{"ranged":[{"name":"Havoc launcher [BLAST]","range":"48\"","a":"D6","bws":"3+","s":"5","ap":"0","d":"1"},{"name":"Inferno combi-bolter [RAPID FIRE 2]","range":"24\"","a":"2","bws":"3+","s":"4","ap":"-1","d":"1"},{"name":"Inferno combi-weapon [ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]","range":"24\"","a":"1","bws":"4+","s":"4","ap":"-1","d":"1"},{"name":"Inferno heavy bolter [SUSTAINED HITS 1]","range":"36\"","a":"3","bws":"3+","s":"5","ap":"-2","d":"2"},{"name":"Lascannon","range":"48\"","a":"1","bws":"3+","s":"12","ap":"-3","d":"D6+1"},{"name":"Predator twin lascannon [TWIN-LINKED]","range":"48\"","a":"1","bws":"3+","s":"14","ap":"-3","d":"D6+1"}],"melee":[{"name":"Armoured tracks","range":"Melee","a":"3","bws":"4+","s":"6","ap":"0","d":"1"}]},"factionKeywords":["Thousand Sons"],"abilities":{"core":"Deadly Demise D3","faction":"Each time this model makes a ranged attack that","special":["targets a Monster or Vehicle unit, re-roll a Damage roll of 1.","DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."]},"invulnerable":"","damaged":null,"stats":{"m":"10\"","t":"10","sv":"3+","w":"11","ld":"6+","oc":"4"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","This model can be equipped with one of the following:","◦","2 lascannons","◦","2 inferno heavy bolters","■","This model can be equipped with one of the following:","◦","1 inferno combi-bolter","◦","1 inferno combi-weapon","■","This model can be equipped with 1 havoc launcher."]},{"name":"UNIT COMPOSITION","values":["■","1 Thousand Sons Predator Annihilator","This model is equipped with:","Predator twin lascannon;","armoured tracks.","THOUSAND SONS PREDATOR ANNIHILATOR","Each blast of searing laser energy these vehicles unleash is guided","by the precognitive whispers of unnatural entities, while the fires","of their engines are stoked by the undying hatred of their crews."]}]},{"id":"40k-index-thousand-sons-8","name":"THOUSAND SONS PREDATOR DESTRUCTOR","subtype":"","keywords":["Vehicle","Smoke","Chaos","Tzeentch","Predator Destructor"],"weapons":{"ranged":[{"name":"Havoc launcher [BLAST]","range":"48\"","a":"D6","bws":"3+","s":"5","ap":"0","d":"1"},{"name":"Inferno combi-bolter [RAPID FIRE 2]","range":"24\"","a":"2","bws":"3+","s":"4","ap":"-1","d":"1"},{"name":"Inferno combi-weapon [ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]","range":"24\"","a":"1","bws":"4+","s":"4","ap":"-1","d":"1"},{"name":"Inferno heavy bolter [SUSTAINED HITS 1]","range":"36\"","a":"3","bws":"3+","s":"5","ap":"-2","d":"2"},{"name":"Lascannon","range":"48\"","a":"1","bws":"3+","s":"12","ap":"-3","d":"D6+1"},{"name":"Predator autocannon [RAPID FIRE 2]","range":"48\"","a":"4","bws":"3+","s":"9","ap":"-1","d":"3"}],"melee":[{"name":"Armoured tracks","range":"Melee","a":"3","bws":"4+","s":"6","ap":"0","d":"1"}]},"factionKeywords":["Thousand Sons"],"abilities":{"core":"Deadly Demise D3","faction":"Each time this model makes a ranged attack that","special":["targets an Infantry unit, improve the Armour Penetration characteristic of that attack by 1.","DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."]},"invulnerable":"","damaged":null,"stats":{"m":"10\"","t":"10","sv":"3+","w":"11","ld":"6+","oc":"4"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","This model can be equipped with one of the following:","◦","2 lascannons","◦","2 inferno heavy bolters","■","This model can be equipped with one of the following:","◦","1 inferno combi-bolter","◦","1 inferno combi-weapon","■","This model can be equipped with 1 havoc launcher."]},{"name":"UNIT COMPOSITION","values":["■","1 Thousand Sons Predator Destructor","This model is equipped with:","Predator autocannon;","armoured tracks.","THOUSAND SONS PREDATOR DESTRUCTOR","These Predator Destructors rapidly fire streams of shells that dance","with unnatural energies, the cackle of their possessor cacodaemons","mingling with the chatter of their guns and the screams of","their victims."]}]},{"id":"40k-index-thousand-sons-10","name":"THOUSAND SONS RHINO","subtype":"","keywords":["Vehicle","Transport","Smoke","Chaos","Tzeentch","Rhino"],"weapons":{"ranged":[{"name":"Havoc launcher [BLAST]","range":"48\"","a":"D6","bws":"3+","s":"5","ap":"0","d":"1"},{"name":"Inferno combi-bolter [RAPID FIRE 2]","range":"24\"","a":"2","bws":"3+","s":"4","ap":"-1","d":"1"},{"name":"Inferno combi-weapon [ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]","range":"24\"","a":"1","bws":"4+","s":"4","ap":"-1","d":"1"}],"melee":[{"name":"Armoured tracks","range":"Melee","a":"3","bws":"4+","s":"6","ap":"0","d":"1"}]},"factionKeywords":["Thousand Sons"],"abilities":{"core":"Deadly Demise D3","faction":"At the start of your Command phase, this model","special":["regains 1 lost wound."]},"invulnerable":"","damaged":null,"stats":{"m":"12\"","t":"9","sv":"3+","w":"10","ld":"6+","oc":"2"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","This model can be equipped with one of the following:","◦","1 additional inferno combi-bolter","◦","1 inferno combi-weapon","■","This model can be equipped with 1 havoc launcher."]},{"name":"UNIT COMPOSITION","values":["■","1 Thousand Sons Rhino","This model is equipped with:","inferno combi-bolter;","armoured tracks."]},{"name":"TRANSPORT","values":["This model has a transport capacity of 12","Thousand","Sons Infantry","models (excluding","Cultist",",","Tzaangor","and","Terminator","models).","THOUSAND SONS RHINO","Many of the Rhino APCs employed by the Thousand Sons are ancient","vehicles, their once-noble machine spirits saturated by the malice","of the warp, their hulls mutated and discoloured by the energies of","unfettered change. Still they bear the foot soldiers of Tzeentch swiftly","into battle, guns hammering as they go."]}]},{"id":"40k-index-thousand-sons-12","name":"THOUSAND SONS CHAOS SPAWN","subtype":"","keywords":["Beast","Chaos","Tzeentch","Spawn"],"weapons":{"ranged":[],"melee":[{"name":"Hideous mutations","range":"Melee","a":"D6+2","bws":"4+","s":"5","ap":"-1","d":"2"}]},"factionKeywords":["Thousand Sons"],"abilities":{"core":"Feel No Pain 5+","faction":"At the start of each player’s","special":["Command phase, one model in this unit regains up to D3 lost wounds."]},"invulnerable":"5+","damaged":null,"stats":{"m":"8\"","t":"5","sv":"4+","w":"4","ld":"7+","oc":"1"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","None"]},{"name":"UNIT COMPOSITION","values":["■","2 Chaos Spawn","Every model is equipped with:","hideous mutations.","THOUSAND SONS CHAOS SPAWN","Chaos Spawn are roiling masses of mutating flesh and bone that","lurch towards the foe with mindless ferocity. They wail and slobber","from fanged maws as they lash wildly about themselves with barbed","pseudopods, snapping claws and clubbing limbs, tearing and crushing","all who do not flee in horror."]}]},{"id":"40k-index-thousand-sons-14","name":"THOUSAND SONS VINDICATOR","subtype":"","keywords":["Vehicle","Smoke","Chaos","Tzeentch","Vindicator"],"weapons":{"ranged":[{"name":"Demolisher cannon [BLAST]","range":"24\"","a":"D6+3","bws":"3+","s":"14","ap":"-3","d":"D6"},{"name":"Havoc launcher [BLAST]","range":"48\"","a":"D6","bws":"3+","s":"5","ap":"0","d":"1"},{"name":"Inferno combi-bolter [RAPID FIRE 2]","range":"24\"","a":"2","bws":"3+","s":"4","ap":"-1","d":"1"},{"name":"Inferno combi-weapon [ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]","range":"24\"","a":"1","bws":"4+","s":"4","ap":"-1","d":"1"}],"melee":[{"name":"Armoured tracks","range":"Melee","a":"3","bws":"4+","s":"6","ap":"0","d":"1"}]},"factionKeywords":["Thousand Sons"],"abilities":{"core":"Deadly Demise D3","faction":"When making ranged attacks with its","special":["demolisher cannon, this model can target enemy units within Engagement Range of it (provided no other friendly units are also within Engagement Range of that enemy unit).","In addition, when making ranged attacks, this model does not suffer the penalty to its Hit rolls for being within Engagement Range of one or more enemy units.","DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."]},"invulnerable":"","damaged":null,"stats":{"m":"10\"","t":"11","sv":"2+","w":"11","ld":"6+","oc":"3"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","This model can be equipped with one of the following:","◦","1 inferno combi-bolter","◦","1 inferno combi-weapon","■","This model can be equipped with 1 havoc launcher."]},{"name":"UNIT COMPOSITION","values":["■","1 Thousand Sons Vindicator","This model is equipped with:","demolisher cannon;","armoured tracks.","THOUSAND SONS VINDICATOR","The Chaos Vindicator is a brutish siege tank whose demolisher cannon","fires devastatingly destructive shells that can flatten bunkers, breach","fortress walls or vaporise entire squads of foes in a single hit. The","Thousand Sons delight in fielding these vehicles, which effect sudden","and catastrophic change with every shot."]}]},{"id":"40k-index-thousand-sons-16","name":"THOUSAND SONS DEFILER","subtype":"","keywords":["Vehicle","Walker","Daemon","Smoke","Chaos","Tzeentch","Defiler"],"weapons":{"ranged":[{"name":"Defiler cannon [BLAST]","range":"48\"","a":"D6+3","bws":"3+","s":"10","ap":"-1","d":"3"},{"name":"Havoc launcher [BLAST]","range":"48\"","a":"D6","bws":"3+","s":"5","ap":"0","d":"1"},{"name":"Inferno combi-bolter [RAPID FIRE 2]","range":"24\"","a":"2","bws":"3+","s":"4","ap":"-1","d":"1"},{"name":"Inferno combi-weapon [ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]","range":"24\"","a":"1","bws":"4+","s":"4","ap":"-1","d":"1"},{"name":"Reaper autocannon [DEVASTATING WOUNDS, SUSTAINED HITS 1]","range":"36\"","a":"4","bws":"3+","s":"7","ap":"-1","d":"1"},{"name":"Twin heavy flamer [IGNORES COVER, TORRENT, TWIN-LINKED]","range":"12\"","a":"D6","bws":"N/A","s":"5","ap":"-1","d":"1"},{"name":"Twin inferno heavy bolter [SUSTAINED HITS 1, TWIN-LINKED]","range":"36\"","a":"3","bws":"3+","s":"5","ap":"-2","d":"2"},{"name":"Twin lascannon [TWIN-LINKED]","range":"48\"","a":"1","bws":"3+","s":"9","ap":"-3","d":"D6+1"}],"melee":[{"name":"Defiler claws","range":"Melee","a":"5","bws":"3+","s":"16","ap":"-3","d":"D6+1"},{"name":"Defiler scourge [EXTRA ATTACKS]","range":"Melee","a":"3","bws":"3+","s":"12","ap":"-1","d":"2"}]},"factionKeywords":["Thousand Sons"],"abilities":{"core":"Deadly Demise D3","faction":"Each time this model makes a Normal,","special":["Advance or Fall Back move, it can move over friendly Monster and Vehicle models and terrain features that are 4\" or less in height as if they were not there.","DAMAGED: 1-5 WOUNDS REMAINING While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."]},"invulnerable":"5+","damaged":null,"stats":{"m":"8\"","t":"10","sv":"3+","w":"14","ld":"6+","oc":"5"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","This model’s twin heavy flamer can be replaced with one of the following:","◦","1 Defiler scourge","◦","1 havoc launcher","■","This model’s reaper autocannon can be replaced with one of the following:","◦","1 twin lascannon","◦","1 twin inferno heavy bolter","■","This model can be equipped with 1 inferno combi-weapon."]},{"name":"UNIT COMPOSITION","values":["■","1 Thousand Sons Defiler","This model is equipped with:","Defiler cannon; reaper","autocannon; twin heavy flamer; Defiler claws.","THOUSAND SONS DEFILER","These towering war engines advance upon iron-bound arachnid limbs","that crush and rend even as their array of heavy guns rain fire on the","foe. Wreathed in infernal warpflame, they shrug off enemy fire by","transmuting incoming projectiles, or flow like reknitting flesh to repair","damage as swiftly as it is inflicted."]}]},{"id":"40k-index-thousand-sons-18","name":"EXALTED SORCERER","subtype":"","keywords":["Infantry","Character","Grenades","Psyker","Chaos","Tzeentch"],"weapons":{"ranged":[{"name":"Astral Blast [BLAST, DEVASTATING WOUNDS, PSYCHIC]","range":"18\"","a":"D6","bws":"2+","s":"6","ap":"-2","d":"D3"},{"name":"Inferno bolt pistol [PISTOL]","range":"12\"","a":"1","bws":"2+","s":"4","ap":"-1","d":"1"},{"name":"Plasma pistol - standard [PISTOL]","range":"12\"","a":"1","bws":"2+","s":"7","ap":"-2","d":"1"},{"name":"Plasma pistol - supercharge [HAZARDOUS, PISTOL]","range":"12\"","a":"1","bws":"2+","s":"8","ap":"-3","d":"2"},{"name":"Warpflame pistol [IGNORES COVER, PISTOL, TORRENT]","range":"12\"","a":"D6","bws":"N/A","s":"3","ap":"-1","d":"1"}],"melee":[{"name":"Force weapon [PSYCHIC]","range":"Melee","a":"5","bws":"2+","s":"6","ap":"-1","d":"D3"},{"name":"Prosperine khopesh","range":"Melee","a":"4","bws":"3+","s":"5","ap":"-2","d":"2"}]},"factionKeywords":["Thousand Sons"],"abilities":{"core":"Leader","faction":"Cabal of Sorcerers 2","special":["Arcane Shield (Psychic): While this model is leading a unit, models in that unit have a 4+ invulnerable save.","Rebind Rubricae (Psychic): In your Command phase, if this model is leading a unit, you can roll one D6: on a 1, that unit suffers D3 mortal wounds; on a 2-5, you can return 1 destroyed Bodyguard model to that unit; on a 6, you can return up to 2 destroyed Bodyguard models to that unit."]},"invulnerable":"4+","damaged":null,"stats":{"m":"6\"","t":"4","sv":"3+","w":"5","ld":"6+","oc":"1"},"footnotes":{"footnotes":"Before selecting targets for this weapon, select one of its profiles to make attacks with."},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","This model’s inferno bolt pistol can be replaced with one of the following:","◦","1 plasma pistol","◦","1 warpflame pistol","■","This model can be equipped with 1 Prosperine khopesh."]},{"name":"UNIT COMPOSITION","values":["■","1 Exalted Sorcerer","This model is equipped with:","Astral Blast; inferno bolt pistol;","force weapon."]},{"name":"LEADER","values":["This model can be attached to the following unit:","■","Rubric Marines","EXALTED SORCERER","Greatest amongst Magnus’ lieutenants, each Exalted Sorcerer is an","embodiment of forbidden power and monstrous ambition. From the","soul-burning gouts of their warpflame pistols to the unfettered might","of their sorcery and the shimmering shields cast by their corrupt sigils","of Tzeentch, they are terrifyingly potent warriors."]}]},{"id":"40k-index-thousand-sons-20","name":"EXALTED SORCERER","subtype":"ON DISC OF TZEENTCH","keywords":["Infantry","Character","Fly","Psyker","Chaos","Tzeentch"],"weapons":{"ranged":[{"name":"Arcane Fire [IGNORES COVER, PSYCHIC, TORRENT]","range":"18\"","a":"D6","bws":"N/A","s":"6","ap":"-2","d":"D3"},{"name":"Inferno bolt pistol [PISTOL]","range":"12\"","a":"1","bws":"2+","s":"4","ap":"-1","d":"1"},{"name":"Plasma pistol - standard [PISTOL]","range":"12\"","a":"1","bws":"2+","s":"7","ap":"-2","d":"1"},{"name":"Plasma pistol - supercharge [HAZARDOUS, PISTOL]","range":"12\"","a":"1","bws":"2+","s":"8","ap":"-3","d":"2"},{"name":"Warpflame pistol [IGNORES COVER, PISTOL, TORRENT]","range":"12\"","a":"D6","bws":"N/A","s":"3","ap":"-1","d":"1"}],"melee":[{"name":"Force weapon [PSYCHIC]","range":"Melee","a":"5","bws":"2+","s":"6","ap":"-1","d":"D3"},{"name":"Prosperine khopesh","range":"Melee","a":"4","bws":"3+","s":"5","ap":"-2","d":"2"}]},"factionKeywords":["Thousand Sons"],"abilities":{"core":"Leader","faction":"Cabal of Sorcerers 2","special":["Arcane Shield (Psychic): While this model is leading a unit, models in that unit a 4+ invulnerable save.","Binding Tendrils (Psychic): At the end of your Movement phase, you can select one enemy unit within 18\" of and visible to this Psyker and roll one D6: on a 1, this Psyker ’s unit suffers D3 mortal wounds; on a 2+, until the start of your next Movement phase, halve the Move characteristic of models in that unit and halve Advance and Charge rolls made for that unit."]},"invulnerable":"4+","damaged":null,"stats":{"m":"12\"","t":"4","sv":"3+","w":"6","ld":"6+","oc":"1"},"footnotes":{"footnotes":"Before selecting targets for this weapon, select one of its profiles to make attacks with."},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","This model’s inferno bolt pistol can be replaced with one of the following:","◦","1 plasma pistol","◦","1 warpflame pistol","■","This model can be equipped with 1 Prosperine khopesh."]},{"name":"UNIT COMPOSITION","values":["■","1 Exalted Sorcerer","This model is equipped with:","Arcane Fire; inferno bolt pistol;","force weapon."]},{"name":"LEADER","values":["This model can be attached to the following unit:","■","Rubric Marines","EXALTED SORCERER","ON DISC OF TZEENTCH","Only the greatest wielders of esoteric power are said to be granted one","of Tzeentch’s daemonic steeds. Exalted Sorcerers ride these soaring","Discs on plumes of arcane flame while they manipulate coruscating","energy in twisting firestorms."]}]},{"id":"40k-index-thousand-sons-22","name":"THOUSAND SONS FORGEFIEND","subtype":"","keywords":["Vehicle","Walker","Daemon","Chaos","Tzeentch","Forgefiend"],"weapons":{"ranged":[{"name":"Ectoplasma cannon [BLAST]","range":"36\"","a":"D3","bws":"3+","s":"10","ap":"-3","d":"3"},{"name":"Hades autocannon","range":"36\"","a":"6","bws":"3+","s":"8","ap":"-1","d":"2"}],"melee":[{"name":"Forgefiend claws","range":"Melee","a":"3","bws":"3+","s":"6","ap":"0","d":"1"},{"name":"Forgefiend jaws","range":"Melee","a":"5","bws":"3+","s":"7","ap":"0","d":"2"}]},"factionKeywords":["Thousand Sons"],"abilities":{"core":"Deadly Demise D3","faction":"In your Shooting phase, after this model","special":["has shot, select one enemy unit that was hit by one or more of those attacks.","Until the start of your next turn, that enemy unit is suppressed.","While a unit is suppressed, each time a model in that unit makes an attack, subtract 1 from the Hit roll.","DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."]},"invulnerable":"5+","damaged":null,"stats":{"m":"8\"","t":"10","sv":"3+","w":"12","ld":"6+","oc":"3"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","This model’s 2 Hades autocannons can be replaced with 2 ectoplasma cannons.","■","This model’s Forgefiend jaws can be replaced with 1 ectoplasma cannon and 1 Forgefiend claws."]},{"name":"UNIT COMPOSITION","values":["■","1 Thousand Sons Forgefiend","This model is equipped with:","2 Hades autocannons;","1 Forgefiend jaws.","THOUSAND SONS FORGEFIEND","The ectoplasma cannons and Hades autocannons of the Forgefiends","draw their furious energies direct from the blazing daemon forges","at the heart of each murderous artillery engine. So do they unleash","salvoes of blazing weaponised hatred that eradicate the Thousand","Sons’ enemies in droves."]}]},{"id":"40k-index-thousand-sons-24","name":"THOUSAND SONS HELBRUTE","subtype":"","keywords":["Vehicle","Walker","Chaos","Tzeentch","Helbrute"],"weapons":{"ranged":[{"name":"Heavy flamer [IGNORES COVER, TORRENT]","range":"12\"","a":"D6","bws":"N/A","s":"5","ap":"-1","d":"1"},{"name":"Helbrute plasma cannon [BLAST, HAZARDOUS]","range":"36\"","a":"D3","bws":"3+","s":"8","ap":"-3","d":"3"},{"name":"Inferno combi-bolter [RAPID FIRE 2]","range":"24\"","a":"2","bws":"3+","s":"4","ap":"-1","d":"1"},{"name":"Missile launcher - frag [BLAST]","range":"48\"","a":"D6","bws":"3+","s":"4","ap":"0","d":"1"},{"name":"Missile launcher - krak","range":"48\"","a":"1","bws":"3+","s":"9","ap":"-2","d":"D6"},{"name":"Multi-melta [MELTA 2]","range":"18\"","a":"2","bws":"3+","s":"9","ap":"-4","d":"D6"},{"name":"Twin autocannon [TWIN-LINKED]","range":"48\"","a":"2","bws":"3+","s":"9","ap":"-1","d":"3"},{"name":"Twin inferno heavy bolter [SUSTAINED HITS 1, TWIN-LINKED]","range":"36\"","a":"3","bws":"3+","s":"5","ap":"-2","d":"2"},{"name":"Twin lascannon [TWIN-LINKED]","range":"48\"","a":"1","bws":"3+","s":"12","ap":"-3","d":"D6+1"}],"melee":[{"name":"Close combat weapon","range":"Melee","a":"5","bws":"3+","s":"6","ap":"0","d":"1"},{"name":"Helbrute fist","range":"Melee","a":"5","bws":"3+","s":"12","ap":"-2","d":"3"},{"name":"Helbrute hammer","range":"Melee","a":"5","bws":"4+","s":"14","ap":"-3","d":"D6+1"},{"name":"Power scourge","range":"Melee","a":"8","bws":"3+","s":"7","ap":"-1","d":"2"}]},"factionKeywords":["Thousand Sons"],"abilities":{"core":"Deadly Demise 1","faction":"Each","special":["time a friendly Thousand Sons Psyker model within 9\" of this model is selected to use a Ritual, you gain 1 Cabal point.","Helbrute Fists: If this model is equipped with two Helbrute fists, those weapons have the [TWIN-LINKED] ability."]},"invulnerable":"5+","damaged":null,"stats":{"m":"6\"","t":"9","sv":"2+","w":"8","ld":"6+","oc":"3"},"footnotes":{"footnotes":"Before selecting targets for this weapon, select one of its profiles to make attacks with."},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","This model’s multi-melta can be replaced with one of the following:","◦","1 Helbrute plasma cannon","◦","1 twin autocannon","◦","1 twin inferno heavy bolter","◦","1 twin lascannon","◦","1 Helbrute fist","■","This model’s missile launcher can be replaced with one of the following:","◦","1 Helbrute fist","◦","1 Helbrute hammer","◦","1 power scourge","■","For each Helbrute fist this model is equipped with, it can be equipped with one of the following:","◦","1 inferno combi-bolter","◦","1 heavy flamer"]},{"name":"UNIT COMPOSITION","values":["■","1 Thousand Sons Helbrute","This model is equipped with:","missile launcher; multi-melta;","close combat weapon.","THOUSAND SONS HELBRUTE","Each Thousand Sons Helbrute is a walking torture chamber, piloted","by a mutilated Chaos Space Marine lured and bound by the Legion’s","Sorcerers into volunteering for this hideous pact. Blending martial","might and armoured resilience with murderous insanity, these vile","machines are deadly indeed."]}]},{"id":"40k-index-thousand-sons-26","name":"THOUSAND SONS HELDRAKE","subtype":"","keywords":["Vehicle","Aircraft","Fly","Daemon","Chaos","Tzeentch","Heldrake"],"weapons":{"ranged":[{"name":"Baleflamer [IGNORES COVER, TORRENT]","range":"12\"","a":"D6+3","bws":"N/A","s":"6","ap":"-1","d":"2"},{"name":"Hades autocannon","range":"36\"","a":"6","bws":"3+","s":"8","ap":"-1","d":"2"}],"melee":[{"name":"Heldrake claws [ANTI-FLY 2+, DEVASTATING WOUNDS]","range":"Melee","a":"5","bws":"3+","s":"7","ap":"-1","d":"2"}]},"factionKeywords":["Thousand Sons"],"abilities":{"core":"Deadly Demise D3, Hover","faction":"Each time this model ends a Normal move,","special":["you can select one enemy unit it moved over during that move.","Until the end of the turn, models in that unit cannot have the Benefit of Cover.","DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."]},"invulnerable":"5+","damaged":null,"stats":{"m":"20+\"","t":"9","sv":"3+","w":"12","ld":"6+","oc":"0"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","This model’s Hades autocannon can be replaced with 1 baleflamer."]},{"name":"UNIT COMPOSITION","values":["■","1 Thousand Sons Heldrake","This model is equipped with:","Hades autocannon;","Heldrake claws.","THOUSAND SONS HELDRAKE","Swooping low over the battlefield upon flame-wreathed wings,","Heldrakes send their enemies diving for cover. Weaving and jinking","like living beasts, they unleash torrents of fire from their blazing","jaw-guns, tear enemy aircraft from the skies with their vicious","talons, and honour Tzeentch with every sacrificial kill."]}]},{"id":"40k-index-thousand-sons-28","name":"INFERNAL MASTER","subtype":"","keywords":["Infantry","Character","Grenades","Psyker","Chaos","Tzeentch"],"weapons":{"ranged":[{"name":"Inferno bolt pistol [PISTOL]","range":"12\"","a":"1","bws":"2+","s":"4","ap":"-1","d":"1"},{"name":"Screamer Invocation - witchfire [PSYCHIC, TORRENT]","range":"18\"","a":"2D3","bws":"N/A","s":"6","ap":"-2","d":"1"},{"name":"Screamer Invocation - focused witchfire [HAZARDOUS, PSYCHIC, TORRENT]","range":"18\"","a":"2D6","bws":"N/A","s":"6","ap":"-2","d":"1"}],"melee":[{"name":"Force weapon [PSYCHIC]","range":"Melee","a":"4","bws":"3+","s":"6","ap":"-1","d":"D3"}]},"factionKeywords":["Thousand Sons"],"abilities":{"core":"Leader","faction":"Cabal of Sorcerers 2","special":["Malefic Maelstrom (Psychic): While this model is leading a unit, weapons equipped by models in that unit have the [SUSTAINED HITS 1] ability.","Glimpse of Eternity (Psychic): Once per turn, you can change the result of one Hit roll, one Wound roll, one Damage roll or one saving throw made for this model to an unmodified 6."]},"invulnerable":"5+","damaged":null,"stats":{"m":"6\"","t":"4","sv":"3+","w":"4","ld":"6+","oc":"1"},"footnotes":{"footnotes":"Before selecting targets for this weapon, select one of its profiles to make attacks with."},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","None"]},{"name":"UNIT COMPOSITION","values":["■","1 Infernal Master","This model is equipped with:","inferno bolt pistol; Screamer","Invocation; force weapon."]},{"name":"LEADER","values":["This model can be attached to the following unit:","■","Rubric Marines","INFERNAL MASTER","Infernal Masters forge pacts with daemonic entities, euphemistically","called tutelaries. Upon the battlefield they can unleash the powers of","these malign familiars to engulf their foes in swarms of momentarily","corporeal terrors, to divine whispers of the future or to master the","currents of the empyrean itself."]}]},{"id":"40k-index-thousand-sons-30","name":"MAGNUS THE RED","subtype":"","keywords":["Monster","Psyker","Fly","Character","Epic Hero","Daemon","Chaos"],"weapons":{"ranged":[{"name":"Gaze of Magnus [DEVASTATING WOUNDS, PSYCHIC]","range":"24\"","a":"3D3","bws":"2+","s":"9","ap":"-2","d":"3"},{"name":"Tzeentch’s Firestorm [BLAST, PSYCHIC]","range":"24\"","a":"D6+3","bws":"2+","s":"5","ap":"-1","d":"2"}],"melee":[{"name":"Blade of Magnus - strike [DEVASTATING WOUNDS, PSYCHIC]","range":"Melee","a":"7","bws":"2+","s":"16","ap":"-3","d":"3"},{"name":"Blade of Magnus - sweep [PSYCHIC]","range":"Melee","a":"14","bws":"2+","s":"8","ap":"-1","d":"1"},{"name":"CRIMSON KING","range":"Impossible Form (Psychic):","a":"Each time an attack is made against this","bws":"Psyker","s":"(excluding Psychic","ap":"Attacks), subtract 1 from that attack’s Damage characteristic.","d":"Treason of Tzeentch (Psychic):"},{"name":"At the start of your opponent’s Shooting phase, you can select one","range":"enemy unit within 24\" of and visible to this","a":"Psyker","bws":". Until the end of the phase, ranged weapons","s":"equipped by models in that unit have the [HAZARDOUS]","ap":"ability.","d":"Time Flux (Aura, Psychic):"},{"name":"While a friendly","range":"Thousand Sons","a":"unit is within 6\" of this","bws":"Psyker","s":", add 2\" to the","ap":"Move characteristic of models in that unit."}]},"factionKeywords":["Thousand Sons"],"abilities":{"core":"Deadly Demise D6, Deep Strike","faction":"Cabal of Sorcerers 4","special":["Unearthly Power: At the start of the battle round, select one of the abilities in the Crimson King section (see left).","Until the start of the next battle round, this model has that ability.","Lord of the Planet of the Sorcerers (Aura): While a friendly Thousand Sons Psyker unit is within 6\" of this model, each time a model in that unit makes a Psychic Attack, add 1 to the Hit roll and add 1 to the Wound roll.","DAMAGED: 1-6 WOUNDS REMAINING While this model has 1-6 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."]},"invulnerable":"4+","damaged":null,"stats":{"m":"14\"","t":"11","sv":"2+","w":"16","ld":"5+","oc":"6"},"footnotes":{"footnotes":"Before selecting targets for this weapon, select one of its profiles to make attacks with."},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","None"]},{"name":"UNIT COMPOSITION","values":["■","1 Magnus the Red -","Epic Hero","This model is equipped with:","Gaze of Magnus; Tzeentch’s","Firestorm; Blade of Magnus."]},{"name":"SUPREME COMMANDER","values":[]}]},{"id":"40k-index-thousand-sons-32","name":"THOUSAND SONS MAULERFIEND","subtype":"","keywords":["Vehicle","Walker","Daemon","Chaos","Tzeentch","Maulerfiend"],"weapons":{"ranged":[{"name":"Magma cutter [MELTA 2]","range":"6\"","a":"2","bws":"3+","s":"9","ap":"-4","d":"D6"}],"melee":[{"name":"Lasher tendrils [EXTRA ATTACKS]","range":"Melee","a":"6","bws":"3+","s":"7","ap":"-1","d":"1"},{"name":"Maulerfiend fists","range":"Melee","a":"6","bws":"3+","s":"14","ap":"-2","d":"D6+1"}]},"factionKeywords":["Thousand Sons"],"abilities":{"core":"Deadly Demise D3","faction":"You can target this unit with the Heroic","special":["Intervention Stratagem for 0CP, and can do so even if you have already used that Stratagem on a different unit this phase.","DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."]},"invulnerable":"5+","damaged":null,"stats":{"m":"10\"","t":"10","sv":"3+","w":"12","ld":"6+","oc":"3"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","This model’s lasher tendrils can be replaced with 2 magma cutters."]},{"name":"UNIT COMPOSITION","values":["■","1 Thousand Sons Maulerfiend","This model is equipped with:","lasher tendrils;","Maulerfiend fists.","THOUSAND SONS MAULERFIEND","Maulerfiends are ferocious Daemon Engines capable of scaling even","sheer fortress walls with their wicked metal talons. Those employed","by the Thousand Sons are inescapable, for the daemons within them","hunt as much by tracking their prey’s future choices as by the lights of","their soulspoor."]}]},{"id":"40k-index-thousand-sons-34","name":"MUTALITH VORTEX BEAST","subtype":"","keywords":["Monster","Daemon","Chaos","Tzeentch","Mutalith Vortex Beast"],"weapons":{"ranged":[{"name":"Warp vortex - blast [BLAST]","range":"24\"","a":"D6+3","bws":"3+","s":"9","ap":"-2","d":"2"},{"name":"Warp vortex - beam [DEVASTATING WOUNDS]","range":"24\"","a":"1","bws":"3+","s":"18","ap":"-4","d":"D6+6"},{"name":"Warp vortex - torrent [IGNORES COVER, TORRENT]","range":"12\"","a":"2D6","bws":"N/A","s":"6","ap":"-1","d":"1"}],"melee":[{"name":"Betentacled maw","range":"Melee","a":"15","bws":"3+","s":"7","ap":"0","d":"1"},{"name":"Mutalith claws","range":"Melee","a":"5","bws":"3+","s":"9","ap":"-2","d":"4"}]},"factionKeywords":["Thousand Sons"],"abilities":{"core":"Deadly Demise D6, Feel No Pain 5+","faction":"At the end of your Movement phase,","special":["roll one D6 for each enemy unit within 6\" of this model: on a 2-3, that unit suffers 1 mortal wound; on a 4-5, that unit suffers D3 mortal wounds; on a 6, that unit suffers D6 mortal wounds.","Each enemy unit within range of this ability must then take a Battle-shock test.","Immaterial Flare (Aura): While a friendly Thousand Sons Psyker unit is within 6\" of this model, each time that unit uses a Ritual that specifies a range, you can double that range while resolving that Ritual.","DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."]},"invulnerable":"5+","damaged":null,"stats":{"m":"10\"","t":"10","sv":"4+","w":"13","ld":"6+","oc":"4"},"footnotes":{"footnotes":"Before selecting targets for this weapon, select one of its profiles to make attacks with."},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","None"]},{"name":"UNIT COMPOSITION","values":["■","1 Mutalith Vortex Beast","This model is equipped with:","warp vortex; betentacled maw;","Mutalith claws.","MUTALITH VORTEX BEAST","This foul beast is an offence against sanity and all natural order. Its","constantly mutating form drags in and expels empyric energy in a wild","tempest that twists all about it ever further out of true. Those foes not","driven insane by the monster’s mere presence are soon warped into","fresh horrors by its foul energies."]}]},{"id":"40k-index-thousand-sons-36","name":"RUBRIC MARINES","subtype":"","keywords":["Rubric Marines"],"weapons":{"ranged":[{"name":"Inferno bolt pistol [PISTOL]","range":"12\"","a":"1","bws":"3+","s":"4","ap":"-1","d":"1"},{"name":"Inferno boltgun","range":"24\"","a":"2","bws":"3+","s":"4","ap":"-1","d":"1"},{"name":"Plasma pistol - standard [PISTOL]","range":"12\"","a":"1","bws":"3+","s":"7","ap":"-2","d":"1"},{"name":"Plasma pistol - supercharge [HAZARDOUS, PISTOL]","range":"12\"","a":"1","bws":"3+","s":"8","ap":"-3","d":"2"},{"name":"Soulreaper cannon [DEVASTATING WOUNDS]","range":"24\"","a":"6","bws":"3+","s":"6","ap":"-1","d":"1"},{"name":"Warpsmite [ANTI-INFANTRY 4+, DEVASTATING WOUNDS, PISTOL, PSYCHIC]","range":"18\"","a":"2","bws":"3+","s":"4","ap":"-3","d":"1"},{"name":"Warpflame pistol [PISTOL, IGNORES COVER, TORRENT]","range":"12\"","a":"D6","bws":"N/A","s":"3","ap":"-1","d":"1"},{"name":"Warpflamer [IGNORES COVER, TORRENT]","range":"12\"","a":"D6","bws":"N/A","s":"4","ap":"-1","d":"1"}],"melee":[{"name":"Close combat weapon","range":"Melee","a":"2","bws":"3+","s":"4","ap":"0","d":"1"},{"name":"Force weapon [PSYCHIC]","range":"Melee","a":"3","bws":"3+","s":"6","ap":"-1","d":"D3"}]},"factionKeywords":["Thousand Sons"],"abilities":{"core":"Cabal of Sorcerers 1*","faction":"Bringers of Change:","special":["Each time a model in this unit makes a ranged attack, re-roll a Wound roll of 1.","If the target of that attack is within range of an objective marker you do not control, you can re-roll the Wound roll instead.","WARGEAR ABILITIES Icon of Flame: Each time a model in the bearer’s unit makes a ranged attack, if a Critical Wound is scored, improve the Armour Penetration characteristic of that attack by 1."]},"invulnerable":"5+","damaged":null,"stats":{"m":"5\"","t":"4","sv":"3+","w":"2","ld":"6+","oc":"2"},"footnotes":{"footnotes":"Before selecting targets for this weapon, select one of its profiles to make attacks with."},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","The Aspiring Sorcerer’s inferno bolt pistol can be replaced with one of the following:","◦","1 plasma pistol","◦","1 warpflame pistol","■","Any number of Rubric Marines can each have their inferno boltgun replaced with 1 warpflamer.","■","1 Rubric Marine’s inferno boltgun can be replaced with 1 soulreaper cannon.","■","1 Rubric Marine can be equipped with 1 icon of flame."]},{"name":"UNIT COMPOSITION","values":["■","1 Aspiring Sorcerer","■","4-9 Rubric Marines","The Aspiring Sorcerer is equipped with:","inferno bolt pistol;","Warpsmite; force weapon.","Every Rubric Marine is equipped with:","inferno boltgun;","close combat weapon.","RUBRIC MARINES","Advancing relentlessly, the Rubric Marines lay down withering hails","of fire. Sorcerous shells from their inferno weapons and soulreaper","cannons blast the enemy apart with ruinous force, while gouts of","mutagenic fire from their warpflamers burn and twist flesh and soul","alike. Against such an onslaught none can stand for long.","KEYWORDS - ALL MODELS:","Infantry, Battleline, Chaos, Tzeentch,","Rubric Marines","| ASPIRING","SORCERER",":","Psyker"]}]},{"id":"40k-index-thousand-sons-38","name":"SCARAB OCCULT TERMINATORS","subtype":"","keywords":["Scarab Occult Terminators"],"weapons":{"ranged":[{"name":"Heavy warpflamer [IGNORES COVER, TORRENT]","range":"12\"","a":"D6","bws":"N/A","s":"5","ap":"-2","d":"1"},{"name":"Hellfyre missile rack","range":"36\"","a":"2","bws":"3+","s":"10","ap":"-2","d":"3"},{"name":"Inferno combi-bolter [RAPID FIRE 2]","range":"24\"","a":"2","bws":"3+","s":"4","ap":"-1","d":"1"},{"name":"Soulreaper cannon [DEVASTATING WOUNDS]","range":"24\"","a":"6","bws":"3+","s":"6","ap":"-1","d":"1"},{"name":"Warpsmite [ANTI-INFANTRY 4+, DEVASTATING WOUNDS, PISTOL, PSYCHIC]","range":"18\"","a":"3","bws":"3+","s":"4","ap":"-3","d":"1"}],"melee":[{"name":"Force weapon [PSYCHIC]","range":"Melee","a":"4","bws":"3+","s":"6","ap":"-1","d":"D3"},{"name":"Prosperine khopesh","range":"Melee","a":"3","bws":"3+","s":"5","ap":"-2","d":"2"}]},"factionKeywords":["Thousand Sons"],"abilities":{"core":"Deep Strike","faction":"Cabal of Sorcerers 1*","special":["*Scarab Occult Sorcerer model only Implacable Guardians: While this unit contains one or more Psyker models, each time an attack is made against this unit, if the Strength characteristic of that attack is greater than this unit’s Toughness characteristic, subtract 1 from the Wound roll."]},"invulnerable":"4+","damaged":null,"stats":{"m":"5\"","t":"5","sv":"2+","w":"3","ld":"6+","oc":"1"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","The Scarab Occult Sorcerer’s inferno combi-bolter can be replaced with 1 Prosperine khopesh.","■","For every 5 models in this unit, 1 Scarab Occult Terminator’s inferno combi-bolter can be replaced","with one of the following:","◦","1 heavy warpflamer","◦","1 soulreaper cannon","■","For every 5 models in this unit, 1 Scarab Occult Terminator can be equipped with 1 hellfyre","missile rack."]},{"name":"UNIT COMPOSITION","values":["■","1 Scarab Occult Sorcerer","■","4-9 Scarab Occult Terminators","The Scarab Occult Sorcerer is equipped with:","inferno","combi-bolter; Warpsmite; force weapon.","Every Scarab Occult Terminator is equipped with:","inferno","combi-bolter; Prosperine khopesh.","SCARAB OCCULT TERMINATORS","The Scarab Occult fight with all the merciless skill they did when they","were Magnus’ living bodyguards, often striking into the heart of the","foe via sorcerous teleportation. Wielding vicious ritual blades based on","the ancient Prosperine khopesh, they cleave through those victims not","laid low by their salvoes of lethal firepower.","KEYWORDS - ALL MODELS:","Infantry, Terminator, Chaos, Tzeentch,","Scarab Occult Terminators","| SCARAB OCCULT SORCERER:","Psyker"]}]},{"id":"40k-index-thousand-sons-40","name":"THOUSAND SONS SORCERER","subtype":"","keywords":["Infantry","Character","Psyker","Grenades","Chaos","Tzeentch"],"weapons":{"ranged":[{"name":"Fires of the Abyss [PISTOL, PSYCHIC, SUSTAINED HITS 3]","range":"12\"","a":"2D6","bws":"2+","s":"5","ap":"-1","d":"1"},{"name":"Inferno bolt pistol [PISTOL]","range":"12\"","a":"1","bws":"2+","s":"4","ap":"-1","d":"1"},{"name":"Plasma pistol - standard [PISTOL]","range":"12\"","a":"1","bws":"2+","s":"7","ap":"-2","d":"1"},{"name":"Plasma pistol - supercharge [HAZARDOUS, PISTOL]","range":"12\"","a":"1","bws":"2+","s":"8","ap":"-3","d":"2"},{"name":"Warpflame pistol [IGNORES COVER, PISTOL, TORRENT]","range":"12\"","a":"D6","bws":"N/A","s":"3","ap":"-1","d":"1"}],"melee":[{"name":"Force weapon [PSYCHIC]","range":"Melee","a":"4","bws":"3+","s":"6","ap":"-1","d":"D3"}]},"factionKeywords":["Thousand Sons"],"abilities":{"core":"Leader","faction":"Cabal of Sorcerers 1","special":["Empyric Guidance (Psychic): While this model is leading a unit, weapons equipped by models in that unit have the [LETHAL HITS] ability.","Illusions of Tzeentch (Psychic): While this model is leading a unit, that unit can only be selected as the target of a ranged attack if the attacking model is within 18\"."]},"invulnerable":"5+","damaged":null,"stats":{"m":"6\"","t":"4","sv":"3+","w":"4","ld":"6+","oc":"1"},"footnotes":{"footnotes":"Before selecting targets for this weapon, select one of its profiles to make attacks with."},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","This model’s inferno bolt pistol can be replaced with one of the following:","◦","1 plasma pistol","◦","1 warpflame pistol"]},{"name":"UNIT COMPOSITION","values":["■","1 Thousand Sons Sorcerer","This model is equipped with:","Fires of the Abyss; inferno bolt","pistol; force weapon."]},{"name":"LEADER","values":["This model can be attached to the following unit:","■","Rubric Marines","THOUSAND SONS SORCERER","The Sorcerers of the Thousand Sons direct the ranks of Rubricae in","battle. All the while they wield their twisted sorceries to wrack the","foe with rampant mutation, unleash unnatural firestorms upon the","enemy or veil their own warriors behind flickering illusions, protected","throughout by the fickle favour of Tzeentch."]}]},{"id":"40k-index-thousand-sons-42","name":"THOUSAND SONS SORCERER","subtype":"IN TERMINATOR ARMOUR","keywords":["Infantry","Character","Psyker","Terminator","Chaos","Tzeentch"],"weapons":{"ranged":[{"name":"Coruscating Flames [ANTI-MONSTER 4+, ANTI-VEHICLE 4+, DEVASTATING WOUNDS, PSYCHIC]","range":"18\"","a":"3","bws":"3+","s":"4","ap":"-3","d":"2"},{"name":"Inferno combi-bolter [RAPID FIRE 2]","range":"24\"","a":"2","bws":"3+","s":"4","ap":"-1","d":"1"},{"name":"Inferno combi-weapon [ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]","range":"24\"","a":"1","bws":"4+","s":"4","ap":"-1","d":"1"}],"melee":[{"name":"Force weapon [PSYCHIC]","range":"Melee","a":"5","bws":"3+","s":"6","ap":"-1","d":"D3"},{"name":"Prosperine khopesh","range":"Melee","a":"4","bws":"3+","s":"5","ap":"-2","d":"2"}]},"factionKeywords":["Thousand Sons"],"abilities":{"core":"Deep Strike, Leader","faction":"Cabal of Sorcerers 2","special":["Empyric Guidance (Psychic): While this model is leading a unit, weapons equipped by models in that unit have the [LETHAL HITS] ability.","Marked by Fate (Psychic): In your Shooting phase, you can select one enemy unit within 18\" of and visible to this model.","Until the end of the turn, each time a friendly Thousand Sons model makes an attack that targets that unit, re-roll a Hit roll of 1."]},"invulnerable":"4+","damaged":null,"stats":{"m":"5\"","t":"5","sv":"2+","w":"5","ld":"6+","oc":"1"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","This model’s inferno combi-bolter can be replaced with one of the following:","◦","1 inferno combi-weapon","◦","1 Prosperine khopesh"]},{"name":"UNIT COMPOSITION","values":["■","1 Thousand Sons Sorcerer in Terminator Armour","This model is equipped with:","Coruscating Flames;","inferno combi-bolter; force weapon."]},{"name":"LEADER","values":["This model can be attached to the following unit:","■","Scarab Occult Terminators","THOUSAND SONS SORCERER","IN TERMINATOR ARMOUR","Clad in hulking Terminator plate, a Sorcerer of the Thousand Sons can shrug off even","the punishing fire of anti-tank weaponry. So protected, they are free to unleash their","mutative magicks with impunity, leading offensives into even the most heavily","defended enemy strongpoints and laying low any who bar their path."]}]},{"id":"40k-index-thousand-sons-44","name":"THOUSAND SONS CULTISTS","subtype":"","keywords":["Infantry","Chaos","Tzeentch","Cultists"],"weapons":{"ranged":[{"name":"Cultist firearm","range":"24\"","a":"1","bws":"4+","s":"3","ap":"0","d":"1"},{"name":"Flamer [IGNORES COVER, TORRENT]","range":"12\"","a":"D6","bws":"N/A","s":"4","ap":"0","d":"1"},{"name":"Grenade launcher - frag [BLAST]","range":"24\"","a":"D3","bws":"4+","s":"4","ap":"0","d":"1"},{"name":"Grenade launcher - krak","range":"24\"","a":"1","bws":"4+","s":"9","ap":"-2","d":"D3"},{"name":"Heavy stubber [RAPID FIRE 3]","range":"36\"","a":"3","bws":"4+","s":"4","ap":"0","d":"1"}],"melee":[{"name":"Brutal assault weapon","range":"Melee","a":"2","bws":"4+","s":"3","ap":"0","d":"1"}]},"factionKeywords":["Thousand Sons"],"abilities":{"core":"Scouts 6\"","faction":"Each time this unit destroys an enemy unit,","special":["roll one D6: on a 2+, you gain 1CP.","When this unit is destroyed, roll one D6: on a 2+, you gain 1CP."]},"invulnerable":"6+","damaged":null,"stats":{"m":"6\"","t":"3","sv":"6+","w":"1","ld":"7+","oc":"1"},"footnotes":{"footnotes":"Before selecting targets for this weapon, select one of its profiles to make attacks with."},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","For every 10 models in this unit, 1 Thousand Sons Cultist’s Cultist firearm can be replaced with","1 flamer.","■","For every 10 models in this unit, 1 Thousand Sons Cultist’s Cultist firearm can be replaced with","1 heavy stubber.","■","For every 10 models in this unit, 1 Thousand Sons Cultist’s Cultist Firearm can be replaced with","1 grenade launcher."]},{"name":"UNIT COMPOSITION","values":["■","1 Thousand Sons Cultist Champion","■","9-19 Thousand Sons Cultists","Every model is equipped with:","Cultist firearm; brutal","assault weapon.","THOUSAND SONS CULTISTS","Countless mortals offer up their souls to Tzeentch in the hopes of","reward. For most, this comes in the unenviable form of desperate","battle against their former oppressors, being hurled into the enemy’s","ranks as fodder - sacrificed en masse upon the altar of the battlefield","by their uncaring Thousand Sons masters."]}]},{"id":"40k-index-thousand-sons-46","name":"THOUSAND SONS DAEMON PRINCE","subtype":"","keywords":["Monster","Character","Daemon","Psyker","Chaos","Tzeentch"],"weapons":{"ranged":[{"name":"Infernal cannon","range":"24\"","a":"6","bws":"2+","s":"5","ap":"-1","d":"2"}],"melee":[{"name":"Hellforged weapons - strike [PSYCHIC]","range":"Melee","a":"6","bws":"2+","s":"8","ap":"-2","d":"3"},{"name":"Hellforged weapons - sweep [PSYCHIC]","range":"Melee","a":"14","bws":"2+","s":"6","ap":"0","d":"1"}]},"factionKeywords":["Thousand Sons"],"abilities":{"core":"Deadly Demise D3","faction":"Cabal of Sorcerers 2","special":["The Weave of Fate (Psychic): Once per battle, at the start of any phase, you can select one friendly Rubric Marines or Scarab Occult Terminators unit within 6\" of this model.","Until the end of the phase, weapons equipped by models in that unit have the [PRECISION] ability.","Glamour of Tzeentch (Aura, Psychic): While a friendly Thousand Sons unit is within 6\" of this model, models in that unit have the Stealth ability."]},"invulnerable":"4+","damaged":null,"stats":{"m":"7\"","t":"10","sv":"2+","w":"10","ld":"6+","oc":"3"},"footnotes":{"footnotes":"Before selecting targets for this weapon, select one of its profiles to make attacks with."},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","None"]},{"name":"UNIT COMPOSITION","values":["■","1 Thousand Sons Daemon Prince","This model is equipped with:","infernal cannon;","hellforged weapons.","THOUSAND SONS DAEMON PRINCE","The Daemon Princes of the Thousand Sons are potent sorcerers and","monstrous warriors both, terrifying in their martial might. Moreover,","their mere presence bends the weave of fate into forms more fortuitous","for their designs, ensuring that the warriors they lead to battle strike","their enemies down with unnatural precision."]}]},{"id":"40k-index-thousand-sons-48","name":"THOUSAND SONS DAEMON PRINCE","subtype":"WITH WINGS","keywords":["Monster","Character","Daemon","Psyker","Fly","Chaos","Tzeentch"],"weapons":{"ranged":[{"name":"Infernal cannon","range":"24\"","a":"6","bws":"2+","s":"5","ap":"-1","d":"2"}],"melee":[{"name":"Hellforged weapons - strike [PSYCHIC]","range":"Melee","a":"6","bws":"2+","s":"8","ap":"-2","d":"3"},{"name":"Hellforged weapons - sweep [PSYCHIC]","range":"Melee","a":"14","bws":"2+","s":"6","ap":"0","d":"1"}]},"factionKeywords":["Thousand Sons"],"abilities":{"core":"Deadly Demise D3","faction":"Cabal of Sorcerers 2","special":["Sorcerous Fire (Psychic): Each time this model ends a Normal move, you can select one enemy unit it moved over this phase and roll nine D6: for each 6, that unit suffers 1 mortal wound.","Aetherstride (Psychic): At the end of your opponent’s turn, if this model is not within Engagement Range of any enemy units, you can remove it from the battlefield and then, in the Reinforcements step of your next Movement phase, set it up anywhere on the battlefield that is more than 9\" horizontally away from all enemy models.","If the battle ends and this model is not on the battlefield, it is destroyed."]},"invulnerable":"4+","damaged":null,"stats":{"m":"11\"","t":"9","sv":"2+","w":"10","ld":"6+","oc":"3"},"footnotes":{"footnotes":"Before selecting targets for this weapon, select one of its profiles to make attacks with."},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","None"]},{"name":"UNIT COMPOSITION","values":["■","1 Thousand Sons Daemon Prince with Wings","This model is equipped with:","infernal cannon;","hellforged weapons.","THOUSAND SONS DAEMON PRINCE","WITH WINGS","Buoyed upon sorcerous zephyrs or borne aloft by wings of mutated","flesh, these Daemon Princes revel in hurling arcane fire from on","high, reinforcing their megalomaniacal superiority over their foes."]}]},{"id":"40k-index-thousand-sons-50","name":"TZAANGOR ENLIGHTENED","subtype":"","keywords":["Mounted","Fly","Chaos","Tzeentch","Tzaangor Enlightened"],"weapons":{"ranged":[{"name":"Autopistol [PISTOL]","range":"12\"","a":"1","bws":"4+","s":"3","ap":"0","d":"1"},{"name":"Fatecaster greatbow [LETHAL HITS, PRECISION]","range":"30\"","a":"2","bws":"4+","s":"5","ap":"-1","d":"2"}],"melee":[{"name":"Chainsword","range":"Melee","a":"4","bws":"4+","s":"4","ap":"0","d":"1"},{"name":"Close combat weapon","range":"Melee","a":"2","bws":"4+","s":"4","ap":"0","d":"1"},{"name":"Divining spear [LANCE, PRECISION]","range":"Melee","a":"3","bws":"4+","s":"5","ap":"-2","d":"1"}]},"factionKeywords":["Thousand Sons"],"abilities":{"core":"Once per turn, when an enemy unit ends a","faction":"this unit is not within Engagement Range of any enemy units,","special":["it can make a Normal move of up to D6\" as if it were your Movement phase."]},"invulnerable":"6+","damaged":null,"stats":{"m":"10\"","t":"4","sv":"5+","w":"2","ld":"7+","oc":"2"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","Any number of models can each have their divining spear replaced with one of the following:","◦","1 autopistol and 1 chainsword","◦","1 fatecaster greatbow and 1 close combat weapon"]},{"name":"UNIT COMPOSITION","values":["■","1 Aviarch","■","2-5 Enlightened","Every model is equipped with:","divining spear.","TZAANGOR ENLIGHTENED","Most blessed of all their kind, the Enlightened see the skeins of","fate through communion with Tzeentch. They surge to battle atop","daemonic Discs, their divining spears humming as they sense their","predestined prey, their fatecaster greatbows launching ensorcelled","arrows from ectoplasmic strings with lethal effect."]}]},{"id":"40k-index-thousand-sons-52","name":"TZAANGOR SHAMAN","subtype":"","keywords":["Mounted","Character","Fly","Psyker","Chaos","Tzeentch"],"weapons":{"ranged":[{"name":"Mutating orbs [BLAST, DEVASTATING WOUNDS, PSYCHIC]","range":"18\"","a":"D6","bws":"3+","s":"9","ap":"0","d":"1"}],"melee":[{"name":"Shaman’s stave [PSYCHIC]","range":"Melee","a":"3","bws":"3+","s":"5","ap":"-1","d":"D3"}]},"factionKeywords":["Thousand Sons"],"abilities":{"core":"Leader","faction":"Cabal of Sorcerers 1","special":["Dark Blessing (Psychic): While this model is leading a unit, models in that unit have the Feel No Pain 5+ ability.","Bestial Prophet: While this model is leading a unit, each time a model in that unit makes an attack, add 1 to the Hit roll."]},"invulnerable":"6+","damaged":null,"stats":{"m":"10\"","t":"4","sv":"5+","w":"4","ld":"7+","oc":"1"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","None"]},{"name":"UNIT COMPOSITION","values":["■","1 Tzaangor Shaman","This model is equipped with:","mutating orbs; Shaman’s stave."]},{"name":"LEADER","values":["This model can be attached to the following units:","■","Tzaangor Enlightened","■","Tzaangors","TZAANGOR SHAMAN","Tzaangor Shamans possess prodigious sorcerous abilities that stem","from their faith in Tzeentch, and can unleash ferocious psychic","bombardments against the foe as they soar high upon their daemonic","Discs. The mere presence of these bestial champions inspires the","herds they lead to ever greater heights of violence."]}]},{"id":"40k-index-thousand-sons-54","name":"TZAANGORS","subtype":"","keywords":["Infantry","Battleline","Chaos","Tzeentch","Tzaangors"],"weapons":{"ranged":[{"name":"Autopistol [PISTOL]","range":"12\"","a":"1","bws":"4+","s":"3","ap":"0","d":"1"}],"melee":[{"name":"Chainsword","range":"Melee","a":"3","bws":"4+","s":"4","ap":"0","d":"1"},{"name":"Tzaangor blades","range":"Melee","a":"2","bws":"4+","s":"5","ap":"-1","d":"1"}]},"factionKeywords":["Thousand Sons"],"abilities":{"core":"At the end of your Command phase, roll one","faction":"units from your army with this ability within range of it: for","special":["each 4+, you gain 1 Cabal point.","WARGEAR ABILITIES Herd Banner: You can re-roll Battle-shock tests taken for the bearer’s unit.","Brayhorn: You can re-roll Advance and Charge rolls made for the bearer’s unit."]},"invulnerable":"6+","damaged":null,"stats":{"m":"6\"","t":"4","sv":"6+","w":"1","ld":"7+","oc":"2"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","Any number of models can each have their Tzaangor blades replaced with:","◦","1 autopistol and 1 chainsword","■","1 Tzaangor not equipped with a herd banner can be equipped with 1 brayhorn.","■","1 Tzaangor not equipped with a brayhorn can be equipped with 1 herd banner."]},{"name":"UNIT COMPOSITION","values":["■","1 Twistbray","■","9-19 Tzaangors","Every model is equipped with:","Tzaangor blades.","TZAANGORS","Brayhorn blasts and avian shrieks herald the onset of the Tzaangors.","These mutated shock troops surge into battle wielding baroque blades","or roaring chainswords with vicious skill. Return shots and blows","are deflected by whirling skeins of dark sorcery, for these creatures","belong to Tzeentch body and soul."]}]}]
+[
+  {
+    "id": "40k-index-thousand-sons-0",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "AHRIMAN",
+    "subtype": "",
+    "keywords": [
+      "Infantry",
+      "Character",
+      "Epic Hero",
+      "Psyker",
+      "Chaos",
+      "Tzeentch",
+      "Ahriman"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Inferno bolt pistol [PISTOL]",
+          "range": "12\"",
+          "a": "1",
+          "bws": "2+",
+          "s": "4",
+          "ap": "-1",
+          "d": "1"
+        },
+        {
+          "name": "Psychic Stalk [PRECISION, PSYCHIC]",
+          "range": "18\"",
+          "a": "1",
+          "bws": "2+",
+          "s": "6",
+          "ap": "-1",
+          "d": "D6"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Black Staff of Ahriman [PSYCHIC]",
+          "range": "Melee",
+          "a": "5",
+          "bws": "2+",
+          "s": "7",
+          "ap": "-1",
+          "d": "3"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Thousand Sons"
+    ],
+    "abilities": {
+      "core": "Leader",
+      "faction": "Cabal of Sorcerers 3",
+      "special": [
+        "Rubric Lord: While this model is leading a unit, each time a model in that unit makes an attack, add 1 to the Wound roll.",
+        "Arch-Sorcerer of Tzeentch (Psychic): Once per battle, you can select this model to use a Ritual for 0 Cabal points (see Cabal of Sorcerers).",
+        "If you do, all the other rules for using Rituals still apply."
+      ]
+    },
+    "invulnerable": "4+",
+    "damaged": null,
+    "stats": {
+      "m": "6\"",
+      "t": "4",
+      "sv": "3+",
+      "w": "5",
+      "ld": "6+",
+      "oc": "1"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "None"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Ahriman -",
+          "Epic Hero",
+          "This model is equipped with:",
+          "inferno bolt pistol; Psychic Stalk;",
+          "Black Staff of Ahriman."
+        ]
+      },
+      {
+        "name": "LEADER",
+        "values": [
+          "This model can be attached to the following unit:",
+          "■",
+          "Rubric Marines",
+          "AHRIMAN",
+          "Your army cannot contain both",
+          "Ahriman",
+          "and",
+          "Ahriman on",
+          "Disc of Tzeentch",
+          ".",
+          "AHRIMAN",
+          "Amongst his cursed Legion, Ahriman is second only to his gene-sire in",
+          "the potent warp magicks he unleashes in battle. He is a dread sorcerer",
+          "and master manipulator, weaving schemes and plots that he enforces",
+          "through his cabal of subservient psykers and the ranks of Rubricae",
+          "who march at his command."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-thousand-sons-2",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "AHRIMAN",
+    "subtype": "ON DISC OF TZEENTCH",
+    "keywords": [
+      "Infantry",
+      "Character",
+      "Epic Hero",
+      "Psyker",
+      "Fly",
+      "Chaos",
+      "Tzeentch"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Inferno bolt pistol [PISTOL]",
+          "range": "12\"",
+          "a": "1",
+          "bws": "2+",
+          "s": "4",
+          "ap": "-1",
+          "d": "1"
+        },
+        {
+          "name": "Psychic Stalk [PRECISION, PSYCHIC]",
+          "range": "18\"",
+          "a": "1",
+          "bws": "2+",
+          "s": "6",
+          "ap": "-1",
+          "d": "D6"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Black Staff of Ahriman [PSYCHIC]",
+          "range": "Melee",
+          "a": "5",
+          "bws": "2+",
+          "s": "7",
+          "ap": "-1",
+          "d": "3"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Thousand Sons"
+    ],
+    "abilities": {
+      "core": "Leader",
+      "faction": "Cabal of Sorcerers 3",
+      "special": [
+        "Rubric Lord: While this model is leading a unit, each time a model in that unit makes an attack, add 1 to the Wound roll.",
+        "Arch-Sorcerer of Tzeentch (Psychic): Once per battle, you can select this model to use a Ritual for 0 Cabal points (see Cabal of Sorcerers).",
+        "If you do, all the other rules for using Rituals still apply."
+      ]
+    },
+    "invulnerable": "4+",
+    "damaged": null,
+    "stats": {
+      "m": "10\"",
+      "t": "4",
+      "sv": "3+",
+      "w": "6",
+      "ld": "6+",
+      "oc": "1"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "None"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Ahriman -",
+          "Epic Hero",
+          "This model is equipped with:",
+          "Psychic Stalk; inferno bolt pistol;",
+          "Black Staff of Ahriman."
+        ]
+      },
+      {
+        "name": "LEADER",
+        "values": [
+          "This model can be attached to the following unit:",
+          "■",
+          "Rubric Marines",
+          "AHRIMAN",
+          "Your army cannot contain both",
+          "Ahriman",
+          "and",
+          "Ahriman on",
+          "Disc of Tzeentch",
+          ".",
+          "AHRIMAN",
+          "ON DISC OF TZEENTCH",
+          "Ahriman fights with singular focus and frightening determination. At",
+          "range he unleashes storms of psychic fury that transmogrify, mutate",
+          "and erase from existence all who stand before him. Swooping low upon",
+          "his Disc of Tzeentch, the Arch-Sorcerer strikes down any who survive",
+          "with his terrifying Black Staff."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-thousand-sons-4",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "THOUSAND SONS LAND RAIDER",
+    "subtype": "",
+    "keywords": [
+      "Vehicle",
+      "Transport",
+      "Smoke",
+      "Chaos",
+      "Tzeentch",
+      "Land Raider"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Havoc launcher [BLAST]",
+          "range": "48\"",
+          "a": "D6",
+          "bws": "3+",
+          "s": "5",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Inferno combi-bolter [RAPID FIRE 2]",
+          "range": "24\"",
+          "a": "2",
+          "bws": "3+",
+          "s": "4",
+          "ap": "-1",
+          "d": "1"
+        },
+        {
+          "name": "Inferno combi-weapon [ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]",
+          "range": "24\"",
+          "a": "1",
+          "bws": "4+",
+          "s": "4",
+          "ap": "-1",
+          "d": "1"
+        },
+        {
+          "name": "Soulshatter lascannon",
+          "range": "48\"",
+          "a": "2",
+          "bws": "3+",
+          "s": "12",
+          "ap": "-3",
+          "d": "D6+1"
+        },
+        {
+          "name": "Twin inferno heavy bolter [SUSTAINED HITS 1, TWIN-LINKED]",
+          "range": "24\"",
+          "a": "3",
+          "bws": "3+",
+          "s": "5",
+          "ap": "-2",
+          "d": "1"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Armoured tracks",
+          "range": "Melee",
+          "a": "6",
+          "bws": "4+",
+          "s": "8",
+          "ap": "0",
+          "d": "1"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Thousand Sons"
+    ],
+    "abilities": {
+      "core": "Deadly Demise D6",
+      "faction": "Each time a unit disembarks from this",
+      "special": [
+        "Transport after it has made a Normal move, that unit is still eligible to declare a charge this turn.",
+        "DAMAGED: 1-5 WOUNDS REMAINING While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
+      ]
+    },
+    "invulnerable": "",
+    "damaged": null,
+    "stats": {
+      "m": "10\"",
+      "t": "12",
+      "sv": "2+",
+      "w": "16",
+      "ld": "6+",
+      "oc": "5"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "This model can be equipped with one of the following:",
+          "◦",
+          "1 inferno combi-bolter",
+          "◦",
+          "1 inferno combi-weapon",
+          "■",
+          "This model can be equipped with 1 havoc launcher."
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Thousand Sons Land Raider",
+          "This model is equipped with:",
+          "2 soulshatter lascannons;",
+          "twin inferno heavy bolter; armoured tracks."
+        ]
+      },
+      {
+        "name": "TRANSPORT",
+        "values": [
+          "This model has a transport capacity of 12",
+          "Thousand Sons",
+          "Infantry",
+          "models (excluding",
+          "Cultist",
+          "and",
+          "Tzaangor",
+          "models).",
+          "Each",
+          "Terminator",
+          "model takes up the space of 2 models.",
+          "THOUSAND SONS LAND RAIDER",
+          "Chaos Land Raiders employed by the Thousand Sons are slab-sided",
+          "armoured monsters commonly employed to bear Scarab Occult",
+          "Terminators into battle. Their hulls dance with warpflame or writhe",
+          "in constant mutagenic peristalsis, even as their arsenal of heavy",
+          "weapons blazes without cease."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-thousand-sons-6",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "THOUSAND SONS PREDATOR ANNIHILATOR",
+    "subtype": "",
+    "keywords": [
+      "Vehicle",
+      "Smoke",
+      "Chaos",
+      "Tzeentch",
+      "Predator Annihilator"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Havoc launcher [BLAST]",
+          "range": "48\"",
+          "a": "D6",
+          "bws": "3+",
+          "s": "5",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Inferno combi-bolter [RAPID FIRE 2]",
+          "range": "24\"",
+          "a": "2",
+          "bws": "3+",
+          "s": "4",
+          "ap": "-1",
+          "d": "1"
+        },
+        {
+          "name": "Inferno combi-weapon [ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]",
+          "range": "24\"",
+          "a": "1",
+          "bws": "4+",
+          "s": "4",
+          "ap": "-1",
+          "d": "1"
+        },
+        {
+          "name": "Inferno heavy bolter [SUSTAINED HITS 1]",
+          "range": "36\"",
+          "a": "3",
+          "bws": "3+",
+          "s": "5",
+          "ap": "-2",
+          "d": "2"
+        },
+        {
+          "name": "Lascannon",
+          "range": "48\"",
+          "a": "1",
+          "bws": "3+",
+          "s": "12",
+          "ap": "-3",
+          "d": "D6+1"
+        },
+        {
+          "name": "Predator twin lascannon [TWIN-LINKED]",
+          "range": "48\"",
+          "a": "1",
+          "bws": "3+",
+          "s": "14",
+          "ap": "-3",
+          "d": "D6+1"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Armoured tracks",
+          "range": "Melee",
+          "a": "3",
+          "bws": "4+",
+          "s": "6",
+          "ap": "0",
+          "d": "1"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Thousand Sons"
+    ],
+    "abilities": {
+      "core": "Deadly Demise D3",
+      "faction": "Each time this model makes a ranged attack that",
+      "special": [
+        "targets a Monster or Vehicle unit, re-roll a Damage roll of 1.",
+        "DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
+      ]
+    },
+    "invulnerable": "",
+    "damaged": null,
+    "stats": {
+      "m": "10\"",
+      "t": "10",
+      "sv": "3+",
+      "w": "11",
+      "ld": "6+",
+      "oc": "4"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "This model can be equipped with one of the following:",
+          "◦",
+          "2 lascannons",
+          "◦",
+          "2 inferno heavy bolters",
+          "■",
+          "This model can be equipped with one of the following:",
+          "◦",
+          "1 inferno combi-bolter",
+          "◦",
+          "1 inferno combi-weapon",
+          "■",
+          "This model can be equipped with 1 havoc launcher."
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Thousand Sons Predator Annihilator",
+          "This model is equipped with:",
+          "Predator twin lascannon;",
+          "armoured tracks.",
+          "THOUSAND SONS PREDATOR ANNIHILATOR",
+          "Each blast of searing laser energy these vehicles unleash is guided",
+          "by the precognitive whispers of unnatural entities, while the fires",
+          "of their engines are stoked by the undying hatred of their crews."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-thousand-sons-8",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "THOUSAND SONS PREDATOR DESTRUCTOR",
+    "subtype": "",
+    "keywords": [
+      "Vehicle",
+      "Smoke",
+      "Chaos",
+      "Tzeentch",
+      "Predator Destructor"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Havoc launcher [BLAST]",
+          "range": "48\"",
+          "a": "D6",
+          "bws": "3+",
+          "s": "5",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Inferno combi-bolter [RAPID FIRE 2]",
+          "range": "24\"",
+          "a": "2",
+          "bws": "3+",
+          "s": "4",
+          "ap": "-1",
+          "d": "1"
+        },
+        {
+          "name": "Inferno combi-weapon [ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]",
+          "range": "24\"",
+          "a": "1",
+          "bws": "4+",
+          "s": "4",
+          "ap": "-1",
+          "d": "1"
+        },
+        {
+          "name": "Inferno heavy bolter [SUSTAINED HITS 1]",
+          "range": "36\"",
+          "a": "3",
+          "bws": "3+",
+          "s": "5",
+          "ap": "-2",
+          "d": "2"
+        },
+        {
+          "name": "Lascannon",
+          "range": "48\"",
+          "a": "1",
+          "bws": "3+",
+          "s": "12",
+          "ap": "-3",
+          "d": "D6+1"
+        },
+        {
+          "name": "Predator autocannon [RAPID FIRE 2]",
+          "range": "48\"",
+          "a": "4",
+          "bws": "3+",
+          "s": "9",
+          "ap": "-1",
+          "d": "3"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Armoured tracks",
+          "range": "Melee",
+          "a": "3",
+          "bws": "4+",
+          "s": "6",
+          "ap": "0",
+          "d": "1"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Thousand Sons"
+    ],
+    "abilities": {
+      "core": "Deadly Demise D3",
+      "faction": "Each time this model makes a ranged attack that",
+      "special": [
+        "targets an Infantry unit, improve the Armour Penetration characteristic of that attack by 1.",
+        "DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
+      ]
+    },
+    "invulnerable": "",
+    "damaged": null,
+    "stats": {
+      "m": "10\"",
+      "t": "10",
+      "sv": "3+",
+      "w": "11",
+      "ld": "6+",
+      "oc": "4"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "This model can be equipped with one of the following:",
+          "◦",
+          "2 lascannons",
+          "◦",
+          "2 inferno heavy bolters",
+          "■",
+          "This model can be equipped with one of the following:",
+          "◦",
+          "1 inferno combi-bolter",
+          "◦",
+          "1 inferno combi-weapon",
+          "■",
+          "This model can be equipped with 1 havoc launcher."
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Thousand Sons Predator Destructor",
+          "This model is equipped with:",
+          "Predator autocannon;",
+          "armoured tracks.",
+          "THOUSAND SONS PREDATOR DESTRUCTOR",
+          "These Predator Destructors rapidly fire streams of shells that dance",
+          "with unnatural energies, the cackle of their possessor cacodaemons",
+          "mingling with the chatter of their guns and the screams of",
+          "their victims."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-thousand-sons-10",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "THOUSAND SONS RHINO",
+    "subtype": "",
+    "keywords": [
+      "Vehicle",
+      "Transport",
+      "Smoke",
+      "Chaos",
+      "Tzeentch",
+      "Rhino"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Havoc launcher [BLAST]",
+          "range": "48\"",
+          "a": "D6",
+          "bws": "3+",
+          "s": "5",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Inferno combi-bolter [RAPID FIRE 2]",
+          "range": "24\"",
+          "a": "2",
+          "bws": "3+",
+          "s": "4",
+          "ap": "-1",
+          "d": "1"
+        },
+        {
+          "name": "Inferno combi-weapon [ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]",
+          "range": "24\"",
+          "a": "1",
+          "bws": "4+",
+          "s": "4",
+          "ap": "-1",
+          "d": "1"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Armoured tracks",
+          "range": "Melee",
+          "a": "3",
+          "bws": "4+",
+          "s": "6",
+          "ap": "0",
+          "d": "1"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Thousand Sons"
+    ],
+    "abilities": {
+      "core": "Deadly Demise D3",
+      "faction": "At the start of your Command phase, this model",
+      "special": [
+        "regains 1 lost wound."
+      ]
+    },
+    "invulnerable": "",
+    "damaged": null,
+    "stats": {
+      "m": "12\"",
+      "t": "9",
+      "sv": "3+",
+      "w": "10",
+      "ld": "6+",
+      "oc": "2"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "This model can be equipped with one of the following:",
+          "◦",
+          "1 additional inferno combi-bolter",
+          "◦",
+          "1 inferno combi-weapon",
+          "■",
+          "This model can be equipped with 1 havoc launcher."
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Thousand Sons Rhino",
+          "This model is equipped with:",
+          "inferno combi-bolter;",
+          "armoured tracks."
+        ]
+      },
+      {
+        "name": "TRANSPORT",
+        "values": [
+          "This model has a transport capacity of 12",
+          "Thousand",
+          "Sons Infantry",
+          "models (excluding",
+          "Cultist",
+          ",",
+          "Tzaangor",
+          "and",
+          "Terminator",
+          "models).",
+          "THOUSAND SONS RHINO",
+          "Many of the Rhino APCs employed by the Thousand Sons are ancient",
+          "vehicles, their once-noble machine spirits saturated by the malice",
+          "of the warp, their hulls mutated and discoloured by the energies of",
+          "unfettered change. Still they bear the foot soldiers of Tzeentch swiftly",
+          "into battle, guns hammering as they go."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-thousand-sons-12",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "THOUSAND SONS CHAOS SPAWN",
+    "subtype": "",
+    "keywords": [
+      "Beast",
+      "Chaos",
+      "Tzeentch",
+      "Spawn"
+    ],
+    "weapons": {
+      "ranged": [],
+      "melee": [
+        {
+          "name": "Hideous mutations",
+          "range": "Melee",
+          "a": "D6+2",
+          "bws": "4+",
+          "s": "5",
+          "ap": "-1",
+          "d": "2"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Thousand Sons"
+    ],
+    "abilities": {
+      "core": "Feel No Pain 5+",
+      "faction": "At the start of each player’s",
+      "special": [
+        "Command phase, one model in this unit regains up to D3 lost wounds."
+      ]
+    },
+    "invulnerable": "5+",
+    "damaged": null,
+    "stats": {
+      "m": "8\"",
+      "t": "5",
+      "sv": "4+",
+      "w": "4",
+      "ld": "7+",
+      "oc": "1"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "None"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "2 Chaos Spawn",
+          "Every model is equipped with:",
+          "hideous mutations.",
+          "THOUSAND SONS CHAOS SPAWN",
+          "Chaos Spawn are roiling masses of mutating flesh and bone that",
+          "lurch towards the foe with mindless ferocity. They wail and slobber",
+          "from fanged maws as they lash wildly about themselves with barbed",
+          "pseudopods, snapping claws and clubbing limbs, tearing and crushing",
+          "all who do not flee in horror."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-thousand-sons-14",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "THOUSAND SONS VINDICATOR",
+    "subtype": "",
+    "keywords": [
+      "Vehicle",
+      "Smoke",
+      "Chaos",
+      "Tzeentch",
+      "Vindicator"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Demolisher cannon [BLAST]",
+          "range": "24\"",
+          "a": "D6+3",
+          "bws": "3+",
+          "s": "14",
+          "ap": "-3",
+          "d": "D6"
+        },
+        {
+          "name": "Havoc launcher [BLAST]",
+          "range": "48\"",
+          "a": "D6",
+          "bws": "3+",
+          "s": "5",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Inferno combi-bolter [RAPID FIRE 2]",
+          "range": "24\"",
+          "a": "2",
+          "bws": "3+",
+          "s": "4",
+          "ap": "-1",
+          "d": "1"
+        },
+        {
+          "name": "Inferno combi-weapon [ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]",
+          "range": "24\"",
+          "a": "1",
+          "bws": "4+",
+          "s": "4",
+          "ap": "-1",
+          "d": "1"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Armoured tracks",
+          "range": "Melee",
+          "a": "3",
+          "bws": "4+",
+          "s": "6",
+          "ap": "0",
+          "d": "1"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Thousand Sons"
+    ],
+    "abilities": {
+      "core": "Deadly Demise D3",
+      "faction": "When making ranged attacks with its",
+      "special": [
+        "demolisher cannon, this model can target enemy units within Engagement Range of it (provided no other friendly units are also within Engagement Range of that enemy unit).",
+        "In addition, when making ranged attacks, this model does not suffer the penalty to its Hit rolls for being within Engagement Range of one or more enemy units.",
+        "DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
+      ]
+    },
+    "invulnerable": "",
+    "damaged": null,
+    "stats": {
+      "m": "10\"",
+      "t": "11",
+      "sv": "2+",
+      "w": "11",
+      "ld": "6+",
+      "oc": "3"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "This model can be equipped with one of the following:",
+          "◦",
+          "1 inferno combi-bolter",
+          "◦",
+          "1 inferno combi-weapon",
+          "■",
+          "This model can be equipped with 1 havoc launcher."
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Thousand Sons Vindicator",
+          "This model is equipped with:",
+          "demolisher cannon;",
+          "armoured tracks.",
+          "THOUSAND SONS VINDICATOR",
+          "The Chaos Vindicator is a brutish siege tank whose demolisher cannon",
+          "fires devastatingly destructive shells that can flatten bunkers, breach",
+          "fortress walls or vaporise entire squads of foes in a single hit. The",
+          "Thousand Sons delight in fielding these vehicles, which effect sudden",
+          "and catastrophic change with every shot."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-thousand-sons-16",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "THOUSAND SONS DEFILER",
+    "subtype": "",
+    "keywords": [
+      "Vehicle",
+      "Walker",
+      "Daemon",
+      "Smoke",
+      "Chaos",
+      "Tzeentch",
+      "Defiler"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Defiler cannon [BLAST]",
+          "range": "48\"",
+          "a": "D6+3",
+          "bws": "3+",
+          "s": "10",
+          "ap": "-1",
+          "d": "3"
+        },
+        {
+          "name": "Havoc launcher [BLAST]",
+          "range": "48\"",
+          "a": "D6",
+          "bws": "3+",
+          "s": "5",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Inferno combi-bolter [RAPID FIRE 2]",
+          "range": "24\"",
+          "a": "2",
+          "bws": "3+",
+          "s": "4",
+          "ap": "-1",
+          "d": "1"
+        },
+        {
+          "name": "Inferno combi-weapon [ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]",
+          "range": "24\"",
+          "a": "1",
+          "bws": "4+",
+          "s": "4",
+          "ap": "-1",
+          "d": "1"
+        },
+        {
+          "name": "Reaper autocannon [DEVASTATING WOUNDS, SUSTAINED HITS 1]",
+          "range": "36\"",
+          "a": "4",
+          "bws": "3+",
+          "s": "7",
+          "ap": "-1",
+          "d": "1"
+        },
+        {
+          "name": "Twin heavy flamer [IGNORES COVER, TORRENT, TWIN-LINKED]",
+          "range": "12\"",
+          "a": "D6",
+          "bws": "N/A",
+          "s": "5",
+          "ap": "-1",
+          "d": "1"
+        },
+        {
+          "name": "Twin inferno heavy bolter [SUSTAINED HITS 1, TWIN-LINKED]",
+          "range": "36\"",
+          "a": "3",
+          "bws": "3+",
+          "s": "5",
+          "ap": "-2",
+          "d": "2"
+        },
+        {
+          "name": "Twin lascannon [TWIN-LINKED]",
+          "range": "48\"",
+          "a": "1",
+          "bws": "3+",
+          "s": "9",
+          "ap": "-3",
+          "d": "D6+1"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Defiler claws",
+          "range": "Melee",
+          "a": "5",
+          "bws": "3+",
+          "s": "16",
+          "ap": "-3",
+          "d": "D6+1"
+        },
+        {
+          "name": "Defiler scourge [EXTRA ATTACKS]",
+          "range": "Melee",
+          "a": "3",
+          "bws": "3+",
+          "s": "12",
+          "ap": "-1",
+          "d": "2"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Thousand Sons"
+    ],
+    "abilities": {
+      "core": "Deadly Demise D3",
+      "faction": "Each time this model makes a Normal,",
+      "special": [
+        "Advance or Fall Back move, it can move over friendly Monster and Vehicle models and terrain features that are 4\" or less in height as if they were not there.",
+        "DAMAGED: 1-5 WOUNDS REMAINING While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
+      ]
+    },
+    "invulnerable": "5+",
+    "damaged": null,
+    "stats": {
+      "m": "8\"",
+      "t": "10",
+      "sv": "3+",
+      "w": "14",
+      "ld": "6+",
+      "oc": "5"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "This model’s twin heavy flamer can be replaced with one of the following:",
+          "◦",
+          "1 Defiler scourge",
+          "◦",
+          "1 havoc launcher",
+          "■",
+          "This model’s reaper autocannon can be replaced with one of the following:",
+          "◦",
+          "1 twin lascannon",
+          "◦",
+          "1 twin inferno heavy bolter",
+          "■",
+          "This model can be equipped with 1 inferno combi-weapon."
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Thousand Sons Defiler",
+          "This model is equipped with:",
+          "Defiler cannon; reaper",
+          "autocannon; twin heavy flamer; Defiler claws.",
+          "THOUSAND SONS DEFILER",
+          "These towering war engines advance upon iron-bound arachnid limbs",
+          "that crush and rend even as their array of heavy guns rain fire on the",
+          "foe. Wreathed in infernal warpflame, they shrug off enemy fire by",
+          "transmuting incoming projectiles, or flow like reknitting flesh to repair",
+          "damage as swiftly as it is inflicted."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-thousand-sons-18",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "EXALTED SORCERER",
+    "subtype": "",
+    "keywords": [
+      "Infantry",
+      "Character",
+      "Grenades",
+      "Psyker",
+      "Chaos",
+      "Tzeentch"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Astral Blast [BLAST, DEVASTATING WOUNDS, PSYCHIC]",
+          "range": "18\"",
+          "a": "D6",
+          "bws": "2+",
+          "s": "6",
+          "ap": "-2",
+          "d": "D3"
+        },
+        {
+          "name": "Inferno bolt pistol [PISTOL]",
+          "range": "12\"",
+          "a": "1",
+          "bws": "2+",
+          "s": "4",
+          "ap": "-1",
+          "d": "1"
+        },
+        {
+          "name": "Plasma pistol - standard [PISTOL]",
+          "range": "12\"",
+          "a": "1",
+          "bws": "2+",
+          "s": "7",
+          "ap": "-2",
+          "d": "1"
+        },
+        {
+          "name": "Plasma pistol - supercharge [HAZARDOUS, PISTOL]",
+          "range": "12\"",
+          "a": "1",
+          "bws": "2+",
+          "s": "8",
+          "ap": "-3",
+          "d": "2"
+        },
+        {
+          "name": "Warpflame pistol [IGNORES COVER, PISTOL, TORRENT]",
+          "range": "12\"",
+          "a": "D6",
+          "bws": "N/A",
+          "s": "3",
+          "ap": "-1",
+          "d": "1"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Force weapon [PSYCHIC]",
+          "range": "Melee",
+          "a": "5",
+          "bws": "2+",
+          "s": "6",
+          "ap": "-1",
+          "d": "D3"
+        },
+        {
+          "name": "Prosperine khopesh",
+          "range": "Melee",
+          "a": "4",
+          "bws": "3+",
+          "s": "5",
+          "ap": "-2",
+          "d": "2"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Thousand Sons"
+    ],
+    "abilities": {
+      "core": "Leader",
+      "faction": "Cabal of Sorcerers 2",
+      "special": [
+        "Arcane Shield (Psychic): While this model is leading a unit, models in that unit have a 4+ invulnerable save.",
+        "Rebind Rubricae (Psychic): In your Command phase, if this model is leading a unit, you can roll one D6: on a 1, that unit suffers D3 mortal wounds; on a 2-5, you can return 1 destroyed Bodyguard model to that unit; on a 6, you can return up to 2 destroyed Bodyguard models to that unit."
+      ]
+    },
+    "invulnerable": "4+",
+    "damaged": null,
+    "stats": {
+      "m": "6\"",
+      "t": "4",
+      "sv": "3+",
+      "w": "5",
+      "ld": "6+",
+      "oc": "1"
+    },
+    "footnotes": {
+      "footnotes": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "This model’s inferno bolt pistol can be replaced with one of the following:",
+          "◦",
+          "1 plasma pistol",
+          "◦",
+          "1 warpflame pistol",
+          "■",
+          "This model can be equipped with 1 Prosperine khopesh."
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Exalted Sorcerer",
+          "This model is equipped with:",
+          "Astral Blast; inferno bolt pistol;",
+          "force weapon."
+        ]
+      },
+      {
+        "name": "LEADER",
+        "values": [
+          "This model can be attached to the following unit:",
+          "■",
+          "Rubric Marines",
+          "EXALTED SORCERER",
+          "Greatest amongst Magnus’ lieutenants, each Exalted Sorcerer is an",
+          "embodiment of forbidden power and monstrous ambition. From the",
+          "soul-burning gouts of their warpflame pistols to the unfettered might",
+          "of their sorcery and the shimmering shields cast by their corrupt sigils",
+          "of Tzeentch, they are terrifyingly potent warriors."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-thousand-sons-20",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "EXALTED SORCERER",
+    "subtype": "ON DISC OF TZEENTCH",
+    "keywords": [
+      "Infantry",
+      "Character",
+      "Fly",
+      "Psyker",
+      "Chaos",
+      "Tzeentch"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Arcane Fire [IGNORES COVER, PSYCHIC, TORRENT]",
+          "range": "18\"",
+          "a": "D6",
+          "bws": "N/A",
+          "s": "6",
+          "ap": "-2",
+          "d": "D3"
+        },
+        {
+          "name": "Inferno bolt pistol [PISTOL]",
+          "range": "12\"",
+          "a": "1",
+          "bws": "2+",
+          "s": "4",
+          "ap": "-1",
+          "d": "1"
+        },
+        {
+          "name": "Plasma pistol - standard [PISTOL]",
+          "range": "12\"",
+          "a": "1",
+          "bws": "2+",
+          "s": "7",
+          "ap": "-2",
+          "d": "1"
+        },
+        {
+          "name": "Plasma pistol - supercharge [HAZARDOUS, PISTOL]",
+          "range": "12\"",
+          "a": "1",
+          "bws": "2+",
+          "s": "8",
+          "ap": "-3",
+          "d": "2"
+        },
+        {
+          "name": "Warpflame pistol [IGNORES COVER, PISTOL, TORRENT]",
+          "range": "12\"",
+          "a": "D6",
+          "bws": "N/A",
+          "s": "3",
+          "ap": "-1",
+          "d": "1"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Force weapon [PSYCHIC]",
+          "range": "Melee",
+          "a": "5",
+          "bws": "2+",
+          "s": "6",
+          "ap": "-1",
+          "d": "D3"
+        },
+        {
+          "name": "Prosperine khopesh",
+          "range": "Melee",
+          "a": "4",
+          "bws": "3+",
+          "s": "5",
+          "ap": "-2",
+          "d": "2"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Thousand Sons"
+    ],
+    "abilities": {
+      "core": "Leader",
+      "faction": "Cabal of Sorcerers 2",
+      "special": [
+        "Arcane Shield (Psychic): While this model is leading a unit, models in that unit a 4+ invulnerable save.",
+        "Binding Tendrils (Psychic): At the end of your Movement phase, you can select one enemy unit within 18\" of and visible to this Psyker and roll one D6: on a 1, this Psyker ’s unit suffers D3 mortal wounds; on a 2+, until the start of your next Movement phase, halve the Move characteristic of models in that unit and halve Advance and Charge rolls made for that unit."
+      ]
+    },
+    "invulnerable": "4+",
+    "damaged": null,
+    "stats": {
+      "m": "12\"",
+      "t": "4",
+      "sv": "3+",
+      "w": "6",
+      "ld": "6+",
+      "oc": "1"
+    },
+    "footnotes": {
+      "footnotes": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "This model’s inferno bolt pistol can be replaced with one of the following:",
+          "◦",
+          "1 plasma pistol",
+          "◦",
+          "1 warpflame pistol",
+          "■",
+          "This model can be equipped with 1 Prosperine khopesh."
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Exalted Sorcerer",
+          "This model is equipped with:",
+          "Arcane Fire; inferno bolt pistol;",
+          "force weapon."
+        ]
+      },
+      {
+        "name": "LEADER",
+        "values": [
+          "This model can be attached to the following unit:",
+          "■",
+          "Rubric Marines",
+          "EXALTED SORCERER",
+          "ON DISC OF TZEENTCH",
+          "Only the greatest wielders of esoteric power are said to be granted one",
+          "of Tzeentch’s daemonic steeds. Exalted Sorcerers ride these soaring",
+          "Discs on plumes of arcane flame while they manipulate coruscating",
+          "energy in twisting firestorms."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-thousand-sons-22",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "THOUSAND SONS FORGEFIEND",
+    "subtype": "",
+    "keywords": [
+      "Vehicle",
+      "Walker",
+      "Daemon",
+      "Chaos",
+      "Tzeentch",
+      "Forgefiend"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Ectoplasma cannon [BLAST]",
+          "range": "36\"",
+          "a": "D3",
+          "bws": "3+",
+          "s": "10",
+          "ap": "-3",
+          "d": "3"
+        },
+        {
+          "name": "Hades autocannon",
+          "range": "36\"",
+          "a": "6",
+          "bws": "3+",
+          "s": "8",
+          "ap": "-1",
+          "d": "2"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Forgefiend claws",
+          "range": "Melee",
+          "a": "3",
+          "bws": "3+",
+          "s": "6",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Forgefiend jaws",
+          "range": "Melee",
+          "a": "5",
+          "bws": "3+",
+          "s": "7",
+          "ap": "0",
+          "d": "2"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Thousand Sons"
+    ],
+    "abilities": {
+      "core": "Deadly Demise D3",
+      "faction": "In your Shooting phase, after this model",
+      "special": [
+        "has shot, select one enemy unit that was hit by one or more of those attacks.",
+        "Until the start of your next turn, that enemy unit is suppressed.",
+        "While a unit is suppressed, each time a model in that unit makes an attack, subtract 1 from the Hit roll.",
+        "DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
+      ]
+    },
+    "invulnerable": "5+",
+    "damaged": null,
+    "stats": {
+      "m": "8\"",
+      "t": "10",
+      "sv": "3+",
+      "w": "12",
+      "ld": "6+",
+      "oc": "3"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "This model’s 2 Hades autocannons can be replaced with 2 ectoplasma cannons.",
+          "■",
+          "This model’s Forgefiend jaws can be replaced with 1 ectoplasma cannon and 1 Forgefiend claws."
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Thousand Sons Forgefiend",
+          "This model is equipped with:",
+          "2 Hades autocannons;",
+          "1 Forgefiend jaws.",
+          "THOUSAND SONS FORGEFIEND",
+          "The ectoplasma cannons and Hades autocannons of the Forgefiends",
+          "draw their furious energies direct from the blazing daemon forges",
+          "at the heart of each murderous artillery engine. So do they unleash",
+          "salvoes of blazing weaponised hatred that eradicate the Thousand",
+          "Sons’ enemies in droves."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-thousand-sons-24",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "THOUSAND SONS HELBRUTE",
+    "subtype": "",
+    "keywords": [
+      "Vehicle",
+      "Walker",
+      "Chaos",
+      "Tzeentch",
+      "Helbrute"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Heavy flamer [IGNORES COVER, TORRENT]",
+          "range": "12\"",
+          "a": "D6",
+          "bws": "N/A",
+          "s": "5",
+          "ap": "-1",
+          "d": "1"
+        },
+        {
+          "name": "Helbrute plasma cannon [BLAST, HAZARDOUS]",
+          "range": "36\"",
+          "a": "D3",
+          "bws": "3+",
+          "s": "8",
+          "ap": "-3",
+          "d": "3"
+        },
+        {
+          "name": "Inferno combi-bolter [RAPID FIRE 2]",
+          "range": "24\"",
+          "a": "2",
+          "bws": "3+",
+          "s": "4",
+          "ap": "-1",
+          "d": "1"
+        },
+        {
+          "name": "Missile launcher - frag [BLAST]",
+          "range": "48\"",
+          "a": "D6",
+          "bws": "3+",
+          "s": "4",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Missile launcher - krak",
+          "range": "48\"",
+          "a": "1",
+          "bws": "3+",
+          "s": "9",
+          "ap": "-2",
+          "d": "D6"
+        },
+        {
+          "name": "Multi-melta [MELTA 2]",
+          "range": "18\"",
+          "a": "2",
+          "bws": "3+",
+          "s": "9",
+          "ap": "-4",
+          "d": "D6"
+        },
+        {
+          "name": "Twin autocannon [TWIN-LINKED]",
+          "range": "48\"",
+          "a": "2",
+          "bws": "3+",
+          "s": "9",
+          "ap": "-1",
+          "d": "3"
+        },
+        {
+          "name": "Twin inferno heavy bolter [SUSTAINED HITS 1, TWIN-LINKED]",
+          "range": "36\"",
+          "a": "3",
+          "bws": "3+",
+          "s": "5",
+          "ap": "-2",
+          "d": "2"
+        },
+        {
+          "name": "Twin lascannon [TWIN-LINKED]",
+          "range": "48\"",
+          "a": "1",
+          "bws": "3+",
+          "s": "12",
+          "ap": "-3",
+          "d": "D6+1"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Close combat weapon",
+          "range": "Melee",
+          "a": "5",
+          "bws": "3+",
+          "s": "6",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Helbrute fist",
+          "range": "Melee",
+          "a": "5",
+          "bws": "3+",
+          "s": "12",
+          "ap": "-2",
+          "d": "3"
+        },
+        {
+          "name": "Helbrute hammer",
+          "range": "Melee",
+          "a": "5",
+          "bws": "4+",
+          "s": "14",
+          "ap": "-3",
+          "d": "D6+1"
+        },
+        {
+          "name": "Power scourge",
+          "range": "Melee",
+          "a": "8",
+          "bws": "3+",
+          "s": "7",
+          "ap": "-1",
+          "d": "2"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Thousand Sons"
+    ],
+    "abilities": {
+      "core": "Deadly Demise 1",
+      "faction": "Each",
+      "special": [
+        "time a friendly Thousand Sons Psyker model within 9\" of this model is selected to use a Ritual, you gain 1 Cabal point.",
+        "Helbrute Fists: If this model is equipped with two Helbrute fists, those weapons have the [TWIN-LINKED] ability."
+      ]
+    },
+    "invulnerable": "5+",
+    "damaged": null,
+    "stats": {
+      "m": "6\"",
+      "t": "9",
+      "sv": "2+",
+      "w": "8",
+      "ld": "6+",
+      "oc": "3"
+    },
+    "footnotes": {
+      "footnotes": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "This model’s multi-melta can be replaced with one of the following:",
+          "◦",
+          "1 Helbrute plasma cannon",
+          "◦",
+          "1 twin autocannon",
+          "◦",
+          "1 twin inferno heavy bolter",
+          "◦",
+          "1 twin lascannon",
+          "◦",
+          "1 Helbrute fist",
+          "■",
+          "This model’s missile launcher can be replaced with one of the following:",
+          "◦",
+          "1 Helbrute fist",
+          "◦",
+          "1 Helbrute hammer",
+          "◦",
+          "1 power scourge",
+          "■",
+          "For each Helbrute fist this model is equipped with, it can be equipped with one of the following:",
+          "◦",
+          "1 inferno combi-bolter",
+          "◦",
+          "1 heavy flamer"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Thousand Sons Helbrute",
+          "This model is equipped with:",
+          "missile launcher; multi-melta;",
+          "close combat weapon.",
+          "THOUSAND SONS HELBRUTE",
+          "Each Thousand Sons Helbrute is a walking torture chamber, piloted",
+          "by a mutilated Chaos Space Marine lured and bound by the Legion’s",
+          "Sorcerers into volunteering for this hideous pact. Blending martial",
+          "might and armoured resilience with murderous insanity, these vile",
+          "machines are deadly indeed."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-thousand-sons-26",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "THOUSAND SONS HELDRAKE",
+    "subtype": "",
+    "keywords": [
+      "Vehicle",
+      "Aircraft",
+      "Fly",
+      "Daemon",
+      "Chaos",
+      "Tzeentch",
+      "Heldrake"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Baleflamer [IGNORES COVER, TORRENT]",
+          "range": "12\"",
+          "a": "D6+3",
+          "bws": "N/A",
+          "s": "6",
+          "ap": "-1",
+          "d": "2"
+        },
+        {
+          "name": "Hades autocannon",
+          "range": "36\"",
+          "a": "6",
+          "bws": "3+",
+          "s": "8",
+          "ap": "-1",
+          "d": "2"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Heldrake claws [ANTI-FLY 2+, DEVASTATING WOUNDS]",
+          "range": "Melee",
+          "a": "5",
+          "bws": "3+",
+          "s": "7",
+          "ap": "-1",
+          "d": "2"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Thousand Sons"
+    ],
+    "abilities": {
+      "core": "Deadly Demise D3, Hover",
+      "faction": "Each time this model ends a Normal move,",
+      "special": [
+        "you can select one enemy unit it moved over during that move.",
+        "Until the end of the turn, models in that unit cannot have the Benefit of Cover.",
+        "DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
+      ]
+    },
+    "invulnerable": "5+",
+    "damaged": null,
+    "stats": {
+      "m": "20+\"",
+      "t": "9",
+      "sv": "3+",
+      "w": "12",
+      "ld": "6+",
+      "oc": "0"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "This model’s Hades autocannon can be replaced with 1 baleflamer."
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Thousand Sons Heldrake",
+          "This model is equipped with:",
+          "Hades autocannon;",
+          "Heldrake claws.",
+          "THOUSAND SONS HELDRAKE",
+          "Swooping low over the battlefield upon flame-wreathed wings,",
+          "Heldrakes send their enemies diving for cover. Weaving and jinking",
+          "like living beasts, they unleash torrents of fire from their blazing",
+          "jaw-guns, tear enemy aircraft from the skies with their vicious",
+          "talons, and honour Tzeentch with every sacrificial kill."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-thousand-sons-28",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "INFERNAL MASTER",
+    "subtype": "",
+    "keywords": [
+      "Infantry",
+      "Character",
+      "Grenades",
+      "Psyker",
+      "Chaos",
+      "Tzeentch"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Inferno bolt pistol [PISTOL]",
+          "range": "12\"",
+          "a": "1",
+          "bws": "2+",
+          "s": "4",
+          "ap": "-1",
+          "d": "1"
+        },
+        {
+          "name": "Screamer Invocation - witchfire [PSYCHIC, TORRENT]",
+          "range": "18\"",
+          "a": "2D3",
+          "bws": "N/A",
+          "s": "6",
+          "ap": "-2",
+          "d": "1"
+        },
+        {
+          "name": "Screamer Invocation - focused witchfire [HAZARDOUS, PSYCHIC, TORRENT]",
+          "range": "18\"",
+          "a": "2D6",
+          "bws": "N/A",
+          "s": "6",
+          "ap": "-2",
+          "d": "1"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Force weapon [PSYCHIC]",
+          "range": "Melee",
+          "a": "4",
+          "bws": "3+",
+          "s": "6",
+          "ap": "-1",
+          "d": "D3"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Thousand Sons"
+    ],
+    "abilities": {
+      "core": "Leader",
+      "faction": "Cabal of Sorcerers 2",
+      "special": [
+        "Malefic Maelstrom (Psychic): While this model is leading a unit, weapons equipped by models in that unit have the [SUSTAINED HITS 1] ability.",
+        "Glimpse of Eternity (Psychic): Once per turn, you can change the result of one Hit roll, one Wound roll, one Damage roll or one saving throw made for this model to an unmodified 6."
+      ]
+    },
+    "invulnerable": "5+",
+    "damaged": null,
+    "stats": {
+      "m": "6\"",
+      "t": "4",
+      "sv": "3+",
+      "w": "4",
+      "ld": "6+",
+      "oc": "1"
+    },
+    "footnotes": {
+      "footnotes": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "None"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Infernal Master",
+          "This model is equipped with:",
+          "inferno bolt pistol; Screamer",
+          "Invocation; force weapon."
+        ]
+      },
+      {
+        "name": "LEADER",
+        "values": [
+          "This model can be attached to the following unit:",
+          "■",
+          "Rubric Marines",
+          "INFERNAL MASTER",
+          "Infernal Masters forge pacts with daemonic entities, euphemistically",
+          "called tutelaries. Upon the battlefield they can unleash the powers of",
+          "these malign familiars to engulf their foes in swarms of momentarily",
+          "corporeal terrors, to divine whispers of the future or to master the",
+          "currents of the empyrean itself."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-thousand-sons-30",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "MAGNUS THE RED",
+    "subtype": "",
+    "keywords": [
+      "Monster",
+      "Psyker",
+      "Fly",
+      "Character",
+      "Epic Hero",
+      "Daemon",
+      "Chaos"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Gaze of Magnus [DEVASTATING WOUNDS, PSYCHIC]",
+          "range": "24\"",
+          "a": "3D3",
+          "bws": "2+",
+          "s": "9",
+          "ap": "-2",
+          "d": "3"
+        },
+        {
+          "name": "Tzeentch’s Firestorm [BLAST, PSYCHIC]",
+          "range": "24\"",
+          "a": "D6+3",
+          "bws": "2+",
+          "s": "5",
+          "ap": "-1",
+          "d": "2"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Blade of Magnus - strike [DEVASTATING WOUNDS, PSYCHIC]",
+          "range": "Melee",
+          "a": "7",
+          "bws": "2+",
+          "s": "16",
+          "ap": "-3",
+          "d": "3"
+        },
+        {
+          "name": "Blade of Magnus - sweep [PSYCHIC]",
+          "range": "Melee",
+          "a": "14",
+          "bws": "2+",
+          "s": "8",
+          "ap": "-1",
+          "d": "1"
+        },
+        {
+          "name": "CRIMSON KING",
+          "range": "Impossible Form (Psychic):",
+          "a": "Each time an attack is made against this",
+          "bws": "Psyker",
+          "s": "(excluding Psychic",
+          "ap": "Attacks), subtract 1 from that attack’s Damage characteristic.",
+          "d": "Treason of Tzeentch (Psychic):"
+        },
+        {
+          "name": "At the start of your opponent’s Shooting phase, you can select one",
+          "range": "enemy unit within 24\" of and visible to this",
+          "a": "Psyker",
+          "bws": ". Until the end of the phase, ranged weapons",
+          "s": "equipped by models in that unit have the [HAZARDOUS]",
+          "ap": "ability.",
+          "d": "Time Flux (Aura, Psychic):"
+        },
+        {
+          "name": "While a friendly",
+          "range": "Thousand Sons",
+          "a": "unit is within 6\" of this",
+          "bws": "Psyker",
+          "s": ", add 2\" to the",
+          "ap": "Move characteristic of models in that unit."
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Thousand Sons"
+    ],
+    "abilities": {
+      "core": "Deadly Demise D6, Deep Strike",
+      "faction": "Cabal of Sorcerers 4",
+      "special": [
+        "Unearthly Power: At the start of the battle round, select one of the abilities in the Crimson King section (see left).",
+        "Until the start of the next battle round, this model has that ability.",
+        "Lord of the Planet of the Sorcerers (Aura): While a friendly Thousand Sons Psyker unit is within 6\" of this model, each time a model in that unit makes a Psychic Attack, add 1 to the Hit roll and add 1 to the Wound roll.",
+        "DAMAGED: 1-6 WOUNDS REMAINING While this model has 1-6 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
+      ]
+    },
+    "invulnerable": "4+",
+    "damaged": null,
+    "stats": {
+      "m": "14\"",
+      "t": "11",
+      "sv": "2+",
+      "w": "16",
+      "ld": "5+",
+      "oc": "6"
+    },
+    "footnotes": {
+      "footnotes": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "None"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Magnus the Red -",
+          "Epic Hero",
+          "This model is equipped with:",
+          "Gaze of Magnus; Tzeentch’s",
+          "Firestorm; Blade of Magnus."
+        ]
+      },
+      {
+        "name": "SUPREME COMMANDER",
+        "values": []
+      }
+    ]
+  },
+  {
+    "id": "40k-index-thousand-sons-32",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "THOUSAND SONS MAULERFIEND",
+    "subtype": "",
+    "keywords": [
+      "Vehicle",
+      "Walker",
+      "Daemon",
+      "Chaos",
+      "Tzeentch",
+      "Maulerfiend"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Magma cutter [MELTA 2]",
+          "range": "6\"",
+          "a": "2",
+          "bws": "3+",
+          "s": "9",
+          "ap": "-4",
+          "d": "D6"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Lasher tendrils [EXTRA ATTACKS]",
+          "range": "Melee",
+          "a": "6",
+          "bws": "3+",
+          "s": "7",
+          "ap": "-1",
+          "d": "1"
+        },
+        {
+          "name": "Maulerfiend fists",
+          "range": "Melee",
+          "a": "6",
+          "bws": "3+",
+          "s": "14",
+          "ap": "-2",
+          "d": "D6+1"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Thousand Sons"
+    ],
+    "abilities": {
+      "core": "Deadly Demise D3",
+      "faction": "You can target this unit with the Heroic",
+      "special": [
+        "Intervention Stratagem for 0CP, and can do so even if you have already used that Stratagem on a different unit this phase.",
+        "DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
+      ]
+    },
+    "invulnerable": "5+",
+    "damaged": null,
+    "stats": {
+      "m": "10\"",
+      "t": "10",
+      "sv": "3+",
+      "w": "12",
+      "ld": "6+",
+      "oc": "3"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "This model’s lasher tendrils can be replaced with 2 magma cutters."
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Thousand Sons Maulerfiend",
+          "This model is equipped with:",
+          "lasher tendrils;",
+          "Maulerfiend fists.",
+          "THOUSAND SONS MAULERFIEND",
+          "Maulerfiends are ferocious Daemon Engines capable of scaling even",
+          "sheer fortress walls with their wicked metal talons. Those employed",
+          "by the Thousand Sons are inescapable, for the daemons within them",
+          "hunt as much by tracking their prey’s future choices as by the lights of",
+          "their soulspoor."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-thousand-sons-34",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "MUTALITH VORTEX BEAST",
+    "subtype": "",
+    "keywords": [
+      "Monster",
+      "Daemon",
+      "Chaos",
+      "Tzeentch",
+      "Mutalith Vortex Beast"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Warp vortex - blast [BLAST]",
+          "range": "24\"",
+          "a": "D6+3",
+          "bws": "3+",
+          "s": "9",
+          "ap": "-2",
+          "d": "2"
+        },
+        {
+          "name": "Warp vortex - beam [DEVASTATING WOUNDS]",
+          "range": "24\"",
+          "a": "1",
+          "bws": "3+",
+          "s": "18",
+          "ap": "-4",
+          "d": "D6+6"
+        },
+        {
+          "name": "Warp vortex - torrent [IGNORES COVER, TORRENT]",
+          "range": "12\"",
+          "a": "2D6",
+          "bws": "N/A",
+          "s": "6",
+          "ap": "-1",
+          "d": "1"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Betentacled maw",
+          "range": "Melee",
+          "a": "15",
+          "bws": "3+",
+          "s": "7",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Mutalith claws",
+          "range": "Melee",
+          "a": "5",
+          "bws": "3+",
+          "s": "9",
+          "ap": "-2",
+          "d": "4"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Thousand Sons"
+    ],
+    "abilities": {
+      "core": "Deadly Demise D6, Feel No Pain 5+",
+      "faction": "At the end of your Movement phase,",
+      "special": [
+        "roll one D6 for each enemy unit within 6\" of this model: on a 2-3, that unit suffers 1 mortal wound; on a 4-5, that unit suffers D3 mortal wounds; on a 6, that unit suffers D6 mortal wounds.",
+        "Each enemy unit within range of this ability must then take a Battle-shock test.",
+        "Immaterial Flare (Aura): While a friendly Thousand Sons Psyker unit is within 6\" of this model, each time that unit uses a Ritual that specifies a range, you can double that range while resolving that Ritual.",
+        "DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
+      ]
+    },
+    "invulnerable": "5+",
+    "damaged": null,
+    "stats": {
+      "m": "10\"",
+      "t": "10",
+      "sv": "4+",
+      "w": "13",
+      "ld": "6+",
+      "oc": "4"
+    },
+    "footnotes": {
+      "footnotes": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "None"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Mutalith Vortex Beast",
+          "This model is equipped with:",
+          "warp vortex; betentacled maw;",
+          "Mutalith claws.",
+          "MUTALITH VORTEX BEAST",
+          "This foul beast is an offence against sanity and all natural order. Its",
+          "constantly mutating form drags in and expels empyric energy in a wild",
+          "tempest that twists all about it ever further out of true. Those foes not",
+          "driven insane by the monster’s mere presence are soon warped into",
+          "fresh horrors by its foul energies."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-thousand-sons-36",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "RUBRIC MARINES",
+    "subtype": "",
+    "keywords": [
+      "Rubric Marines"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Inferno bolt pistol [PISTOL]",
+          "range": "12\"",
+          "a": "1",
+          "bws": "3+",
+          "s": "4",
+          "ap": "-1",
+          "d": "1"
+        },
+        {
+          "name": "Inferno boltgun",
+          "range": "24\"",
+          "a": "2",
+          "bws": "3+",
+          "s": "4",
+          "ap": "-1",
+          "d": "1"
+        },
+        {
+          "name": "Plasma pistol - standard [PISTOL]",
+          "range": "12\"",
+          "a": "1",
+          "bws": "3+",
+          "s": "7",
+          "ap": "-2",
+          "d": "1"
+        },
+        {
+          "name": "Plasma pistol - supercharge [HAZARDOUS, PISTOL]",
+          "range": "12\"",
+          "a": "1",
+          "bws": "3+",
+          "s": "8",
+          "ap": "-3",
+          "d": "2"
+        },
+        {
+          "name": "Soulreaper cannon [DEVASTATING WOUNDS]",
+          "range": "24\"",
+          "a": "6",
+          "bws": "3+",
+          "s": "6",
+          "ap": "-1",
+          "d": "1"
+        },
+        {
+          "name": "Warpsmite [ANTI-INFANTRY 4+, DEVASTATING WOUNDS, PISTOL, PSYCHIC]",
+          "range": "18\"",
+          "a": "2",
+          "bws": "3+",
+          "s": "4",
+          "ap": "-3",
+          "d": "1"
+        },
+        {
+          "name": "Warpflame pistol [PISTOL, IGNORES COVER, TORRENT]",
+          "range": "12\"",
+          "a": "D6",
+          "bws": "N/A",
+          "s": "3",
+          "ap": "-1",
+          "d": "1"
+        },
+        {
+          "name": "Warpflamer [IGNORES COVER, TORRENT]",
+          "range": "12\"",
+          "a": "D6",
+          "bws": "N/A",
+          "s": "4",
+          "ap": "-1",
+          "d": "1"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Close combat weapon",
+          "range": "Melee",
+          "a": "2",
+          "bws": "3+",
+          "s": "4",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Force weapon [PSYCHIC]",
+          "range": "Melee",
+          "a": "3",
+          "bws": "3+",
+          "s": "6",
+          "ap": "-1",
+          "d": "D3"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Thousand Sons"
+    ],
+    "abilities": {
+      "core": "Cabal of Sorcerers 1*",
+      "faction": "Bringers of Change:",
+      "special": [
+        "Each time a model in this unit makes a ranged attack, re-roll a Wound roll of 1.",
+        "If the target of that attack is within range of an objective marker you do not control, you can re-roll the Wound roll instead.",
+        "WARGEAR ABILITIES Icon of Flame: Each time a model in the bearer’s unit makes a ranged attack, if a Critical Wound is scored, improve the Armour Penetration characteristic of that attack by 1."
+      ]
+    },
+    "invulnerable": "5+",
+    "damaged": null,
+    "stats": {
+      "m": "5\"",
+      "t": "4",
+      "sv": "3+",
+      "w": "2",
+      "ld": "6+",
+      "oc": "2"
+    },
+    "footnotes": {
+      "footnotes": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "The Aspiring Sorcerer’s inferno bolt pistol can be replaced with one of the following:",
+          "◦",
+          "1 plasma pistol",
+          "◦",
+          "1 warpflame pistol",
+          "■",
+          "Any number of Rubric Marines can each have their inferno boltgun replaced with 1 warpflamer.",
+          "■",
+          "1 Rubric Marine’s inferno boltgun can be replaced with 1 soulreaper cannon.",
+          "■",
+          "1 Rubric Marine can be equipped with 1 icon of flame."
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Aspiring Sorcerer",
+          "■",
+          "4-9 Rubric Marines",
+          "The Aspiring Sorcerer is equipped with:",
+          "inferno bolt pistol;",
+          "Warpsmite; force weapon.",
+          "Every Rubric Marine is equipped with:",
+          "inferno boltgun;",
+          "close combat weapon.",
+          "RUBRIC MARINES",
+          "Advancing relentlessly, the Rubric Marines lay down withering hails",
+          "of fire. Sorcerous shells from their inferno weapons and soulreaper",
+          "cannons blast the enemy apart with ruinous force, while gouts of",
+          "mutagenic fire from their warpflamers burn and twist flesh and soul",
+          "alike. Against such an onslaught none can stand for long.",
+          "KEYWORDS - ALL MODELS:",
+          "Infantry, Battleline, Chaos, Tzeentch,",
+          "Rubric Marines",
+          "| ASPIRING",
+          "SORCERER",
+          ":",
+          "Psyker"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-thousand-sons-38",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "SCARAB OCCULT TERMINATORS",
+    "subtype": "",
+    "keywords": [
+      "Scarab Occult Terminators"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Heavy warpflamer [IGNORES COVER, TORRENT]",
+          "range": "12\"",
+          "a": "D6",
+          "bws": "N/A",
+          "s": "5",
+          "ap": "-2",
+          "d": "1"
+        },
+        {
+          "name": "Hellfyre missile rack",
+          "range": "36\"",
+          "a": "2",
+          "bws": "3+",
+          "s": "10",
+          "ap": "-2",
+          "d": "3"
+        },
+        {
+          "name": "Inferno combi-bolter [RAPID FIRE 2]",
+          "range": "24\"",
+          "a": "2",
+          "bws": "3+",
+          "s": "4",
+          "ap": "-1",
+          "d": "1"
+        },
+        {
+          "name": "Soulreaper cannon [DEVASTATING WOUNDS]",
+          "range": "24\"",
+          "a": "6",
+          "bws": "3+",
+          "s": "6",
+          "ap": "-1",
+          "d": "1"
+        },
+        {
+          "name": "Warpsmite [ANTI-INFANTRY 4+, DEVASTATING WOUNDS, PISTOL, PSYCHIC]",
+          "range": "18\"",
+          "a": "3",
+          "bws": "3+",
+          "s": "4",
+          "ap": "-3",
+          "d": "1"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Force weapon [PSYCHIC]",
+          "range": "Melee",
+          "a": "4",
+          "bws": "3+",
+          "s": "6",
+          "ap": "-1",
+          "d": "D3"
+        },
+        {
+          "name": "Prosperine khopesh",
+          "range": "Melee",
+          "a": "3",
+          "bws": "3+",
+          "s": "5",
+          "ap": "-2",
+          "d": "2"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Thousand Sons"
+    ],
+    "abilities": {
+      "core": "Deep Strike",
+      "faction": "Cabal of Sorcerers 1*",
+      "special": [
+        "*Scarab Occult Sorcerer model only Implacable Guardians: While this unit contains one or more Psyker models, each time an attack is made against this unit, if the Strength characteristic of that attack is greater than this unit’s Toughness characteristic, subtract 1 from the Wound roll."
+      ]
+    },
+    "invulnerable": "4+",
+    "damaged": null,
+    "stats": {
+      "m": "5\"",
+      "t": "5",
+      "sv": "2+",
+      "w": "3",
+      "ld": "6+",
+      "oc": "1"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "The Scarab Occult Sorcerer’s inferno combi-bolter can be replaced with 1 Prosperine khopesh.",
+          "■",
+          "For every 5 models in this unit, 1 Scarab Occult Terminator’s inferno combi-bolter can be replaced",
+          "with one of the following:",
+          "◦",
+          "1 heavy warpflamer",
+          "◦",
+          "1 soulreaper cannon",
+          "■",
+          "For every 5 models in this unit, 1 Scarab Occult Terminator can be equipped with 1 hellfyre",
+          "missile rack."
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Scarab Occult Sorcerer",
+          "■",
+          "4-9 Scarab Occult Terminators",
+          "The Scarab Occult Sorcerer is equipped with:",
+          "inferno",
+          "combi-bolter; Warpsmite; force weapon.",
+          "Every Scarab Occult Terminator is equipped with:",
+          "inferno",
+          "combi-bolter; Prosperine khopesh.",
+          "SCARAB OCCULT TERMINATORS",
+          "The Scarab Occult fight with all the merciless skill they did when they",
+          "were Magnus’ living bodyguards, often striking into the heart of the",
+          "foe via sorcerous teleportation. Wielding vicious ritual blades based on",
+          "the ancient Prosperine khopesh, they cleave through those victims not",
+          "laid low by their salvoes of lethal firepower.",
+          "KEYWORDS - ALL MODELS:",
+          "Infantry, Terminator, Chaos, Tzeentch,",
+          "Scarab Occult Terminators",
+          "| SCARAB OCCULT SORCERER:",
+          "Psyker"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-thousand-sons-40",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "THOUSAND SONS SORCERER",
+    "subtype": "",
+    "keywords": [
+      "Infantry",
+      "Character",
+      "Psyker",
+      "Grenades",
+      "Chaos",
+      "Tzeentch"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Fires of the Abyss [PISTOL, PSYCHIC, SUSTAINED HITS 3]",
+          "range": "12\"",
+          "a": "2D6",
+          "bws": "2+",
+          "s": "5",
+          "ap": "-1",
+          "d": "1"
+        },
+        {
+          "name": "Inferno bolt pistol [PISTOL]",
+          "range": "12\"",
+          "a": "1",
+          "bws": "2+",
+          "s": "4",
+          "ap": "-1",
+          "d": "1"
+        },
+        {
+          "name": "Plasma pistol - standard [PISTOL]",
+          "range": "12\"",
+          "a": "1",
+          "bws": "2+",
+          "s": "7",
+          "ap": "-2",
+          "d": "1"
+        },
+        {
+          "name": "Plasma pistol - supercharge [HAZARDOUS, PISTOL]",
+          "range": "12\"",
+          "a": "1",
+          "bws": "2+",
+          "s": "8",
+          "ap": "-3",
+          "d": "2"
+        },
+        {
+          "name": "Warpflame pistol [IGNORES COVER, PISTOL, TORRENT]",
+          "range": "12\"",
+          "a": "D6",
+          "bws": "N/A",
+          "s": "3",
+          "ap": "-1",
+          "d": "1"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Force weapon [PSYCHIC]",
+          "range": "Melee",
+          "a": "4",
+          "bws": "3+",
+          "s": "6",
+          "ap": "-1",
+          "d": "D3"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Thousand Sons"
+    ],
+    "abilities": {
+      "core": "Leader",
+      "faction": "Cabal of Sorcerers 1",
+      "special": [
+        "Empyric Guidance (Psychic): While this model is leading a unit, weapons equipped by models in that unit have the [LETHAL HITS] ability.",
+        "Illusions of Tzeentch (Psychic): While this model is leading a unit, that unit can only be selected as the target of a ranged attack if the attacking model is within 18\"."
+      ]
+    },
+    "invulnerable": "5+",
+    "damaged": null,
+    "stats": {
+      "m": "6\"",
+      "t": "4",
+      "sv": "3+",
+      "w": "4",
+      "ld": "6+",
+      "oc": "1"
+    },
+    "footnotes": {
+      "footnotes": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "This model’s inferno bolt pistol can be replaced with one of the following:",
+          "◦",
+          "1 plasma pistol",
+          "◦",
+          "1 warpflame pistol"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Thousand Sons Sorcerer",
+          "This model is equipped with:",
+          "Fires of the Abyss; inferno bolt",
+          "pistol; force weapon."
+        ]
+      },
+      {
+        "name": "LEADER",
+        "values": [
+          "This model can be attached to the following unit:",
+          "■",
+          "Rubric Marines",
+          "THOUSAND SONS SORCERER",
+          "The Sorcerers of the Thousand Sons direct the ranks of Rubricae in",
+          "battle. All the while they wield their twisted sorceries to wrack the",
+          "foe with rampant mutation, unleash unnatural firestorms upon the",
+          "enemy or veil their own warriors behind flickering illusions, protected",
+          "throughout by the fickle favour of Tzeentch."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-thousand-sons-42",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "THOUSAND SONS SORCERER",
+    "subtype": "IN TERMINATOR ARMOUR",
+    "keywords": [
+      "Infantry",
+      "Character",
+      "Psyker",
+      "Terminator",
+      "Chaos",
+      "Tzeentch"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Coruscating Flames [ANTI-MONSTER 4+, ANTI-VEHICLE 4+, DEVASTATING WOUNDS, PSYCHIC]",
+          "range": "18\"",
+          "a": "3",
+          "bws": "3+",
+          "s": "4",
+          "ap": "-3",
+          "d": "2"
+        },
+        {
+          "name": "Inferno combi-bolter [RAPID FIRE 2]",
+          "range": "24\"",
+          "a": "2",
+          "bws": "3+",
+          "s": "4",
+          "ap": "-1",
+          "d": "1"
+        },
+        {
+          "name": "Inferno combi-weapon [ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]",
+          "range": "24\"",
+          "a": "1",
+          "bws": "4+",
+          "s": "4",
+          "ap": "-1",
+          "d": "1"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Force weapon [PSYCHIC]",
+          "range": "Melee",
+          "a": "5",
+          "bws": "3+",
+          "s": "6",
+          "ap": "-1",
+          "d": "D3"
+        },
+        {
+          "name": "Prosperine khopesh",
+          "range": "Melee",
+          "a": "4",
+          "bws": "3+",
+          "s": "5",
+          "ap": "-2",
+          "d": "2"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Thousand Sons"
+    ],
+    "abilities": {
+      "core": "Deep Strike, Leader",
+      "faction": "Cabal of Sorcerers 2",
+      "special": [
+        "Empyric Guidance (Psychic): While this model is leading a unit, weapons equipped by models in that unit have the [LETHAL HITS] ability.",
+        "Marked by Fate (Psychic): In your Shooting phase, you can select one enemy unit within 18\" of and visible to this model.",
+        "Until the end of the turn, each time a friendly Thousand Sons model makes an attack that targets that unit, re-roll a Hit roll of 1."
+      ]
+    },
+    "invulnerable": "4+",
+    "damaged": null,
+    "stats": {
+      "m": "5\"",
+      "t": "5",
+      "sv": "2+",
+      "w": "5",
+      "ld": "6+",
+      "oc": "1"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "This model’s inferno combi-bolter can be replaced with one of the following:",
+          "◦",
+          "1 inferno combi-weapon",
+          "◦",
+          "1 Prosperine khopesh"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Thousand Sons Sorcerer in Terminator Armour",
+          "This model is equipped with:",
+          "Coruscating Flames;",
+          "inferno combi-bolter; force weapon."
+        ]
+      },
+      {
+        "name": "LEADER",
+        "values": [
+          "This model can be attached to the following unit:",
+          "■",
+          "Scarab Occult Terminators",
+          "THOUSAND SONS SORCERER",
+          "IN TERMINATOR ARMOUR",
+          "Clad in hulking Terminator plate, a Sorcerer of the Thousand Sons can shrug off even",
+          "the punishing fire of anti-tank weaponry. So protected, they are free to unleash their",
+          "mutative magicks with impunity, leading offensives into even the most heavily",
+          "defended enemy strongpoints and laying low any who bar their path."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-thousand-sons-44",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "THOUSAND SONS CULTISTS",
+    "subtype": "",
+    "keywords": [
+      "Infantry",
+      "Chaos",
+      "Tzeentch",
+      "Cultists"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Cultist firearm",
+          "range": "24\"",
+          "a": "1",
+          "bws": "4+",
+          "s": "3",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Flamer [IGNORES COVER, TORRENT]",
+          "range": "12\"",
+          "a": "D6",
+          "bws": "N/A",
+          "s": "4",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Grenade launcher - frag [BLAST]",
+          "range": "24\"",
+          "a": "D3",
+          "bws": "4+",
+          "s": "4",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Grenade launcher - krak",
+          "range": "24\"",
+          "a": "1",
+          "bws": "4+",
+          "s": "9",
+          "ap": "-2",
+          "d": "D3"
+        },
+        {
+          "name": "Heavy stubber [RAPID FIRE 3]",
+          "range": "36\"",
+          "a": "3",
+          "bws": "4+",
+          "s": "4",
+          "ap": "0",
+          "d": "1"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Brutal assault weapon",
+          "range": "Melee",
+          "a": "2",
+          "bws": "4+",
+          "s": "3",
+          "ap": "0",
+          "d": "1"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Thousand Sons"
+    ],
+    "abilities": {
+      "core": "Scouts 6\"",
+      "faction": "Each time this unit destroys an enemy unit,",
+      "special": [
+        "roll one D6: on a 2+, you gain 1CP.",
+        "When this unit is destroyed, roll one D6: on a 2+, you gain 1CP."
+      ]
+    },
+    "invulnerable": "6+",
+    "damaged": null,
+    "stats": {
+      "m": "6\"",
+      "t": "3",
+      "sv": "6+",
+      "w": "1",
+      "ld": "7+",
+      "oc": "1"
+    },
+    "footnotes": {
+      "footnotes": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "For every 10 models in this unit, 1 Thousand Sons Cultist’s Cultist firearm can be replaced with",
+          "1 flamer.",
+          "■",
+          "For every 10 models in this unit, 1 Thousand Sons Cultist’s Cultist firearm can be replaced with",
+          "1 heavy stubber.",
+          "■",
+          "For every 10 models in this unit, 1 Thousand Sons Cultist’s Cultist Firearm can be replaced with",
+          "1 grenade launcher."
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Thousand Sons Cultist Champion",
+          "■",
+          "9-19 Thousand Sons Cultists",
+          "Every model is equipped with:",
+          "Cultist firearm; brutal",
+          "assault weapon.",
+          "THOUSAND SONS CULTISTS",
+          "Countless mortals offer up their souls to Tzeentch in the hopes of",
+          "reward. For most, this comes in the unenviable form of desperate",
+          "battle against their former oppressors, being hurled into the enemy’s",
+          "ranks as fodder - sacrificed en masse upon the altar of the battlefield",
+          "by their uncaring Thousand Sons masters."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-thousand-sons-46",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "THOUSAND SONS DAEMON PRINCE",
+    "subtype": "",
+    "keywords": [
+      "Monster",
+      "Character",
+      "Daemon",
+      "Psyker",
+      "Chaos",
+      "Tzeentch"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Infernal cannon",
+          "range": "24\"",
+          "a": "6",
+          "bws": "2+",
+          "s": "5",
+          "ap": "-1",
+          "d": "2"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Hellforged weapons - strike [PSYCHIC]",
+          "range": "Melee",
+          "a": "6",
+          "bws": "2+",
+          "s": "8",
+          "ap": "-2",
+          "d": "3"
+        },
+        {
+          "name": "Hellforged weapons - sweep [PSYCHIC]",
+          "range": "Melee",
+          "a": "14",
+          "bws": "2+",
+          "s": "6",
+          "ap": "0",
+          "d": "1"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Thousand Sons"
+    ],
+    "abilities": {
+      "core": "Deadly Demise D3",
+      "faction": "Cabal of Sorcerers 2",
+      "special": [
+        "The Weave of Fate (Psychic): Once per battle, at the start of any phase, you can select one friendly Rubric Marines or Scarab Occult Terminators unit within 6\" of this model.",
+        "Until the end of the phase, weapons equipped by models in that unit have the [PRECISION] ability.",
+        "Glamour of Tzeentch (Aura, Psychic): While a friendly Thousand Sons unit is within 6\" of this model, models in that unit have the Stealth ability."
+      ]
+    },
+    "invulnerable": "4+",
+    "damaged": null,
+    "stats": {
+      "m": "7\"",
+      "t": "10",
+      "sv": "2+",
+      "w": "10",
+      "ld": "6+",
+      "oc": "3"
+    },
+    "footnotes": {
+      "footnotes": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "None"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Thousand Sons Daemon Prince",
+          "This model is equipped with:",
+          "infernal cannon;",
+          "hellforged weapons.",
+          "THOUSAND SONS DAEMON PRINCE",
+          "The Daemon Princes of the Thousand Sons are potent sorcerers and",
+          "monstrous warriors both, terrifying in their martial might. Moreover,",
+          "their mere presence bends the weave of fate into forms more fortuitous",
+          "for their designs, ensuring that the warriors they lead to battle strike",
+          "their enemies down with unnatural precision."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-thousand-sons-48",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "THOUSAND SONS DAEMON PRINCE",
+    "subtype": "WITH WINGS",
+    "keywords": [
+      "Monster",
+      "Character",
+      "Daemon",
+      "Psyker",
+      "Fly",
+      "Chaos",
+      "Tzeentch"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Infernal cannon",
+          "range": "24\"",
+          "a": "6",
+          "bws": "2+",
+          "s": "5",
+          "ap": "-1",
+          "d": "2"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Hellforged weapons - strike [PSYCHIC]",
+          "range": "Melee",
+          "a": "6",
+          "bws": "2+",
+          "s": "8",
+          "ap": "-2",
+          "d": "3"
+        },
+        {
+          "name": "Hellforged weapons - sweep [PSYCHIC]",
+          "range": "Melee",
+          "a": "14",
+          "bws": "2+",
+          "s": "6",
+          "ap": "0",
+          "d": "1"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Thousand Sons"
+    ],
+    "abilities": {
+      "core": "Deadly Demise D3",
+      "faction": "Cabal of Sorcerers 2",
+      "special": [
+        "Sorcerous Fire (Psychic): Each time this model ends a Normal move, you can select one enemy unit it moved over this phase and roll nine D6: for each 6, that unit suffers 1 mortal wound.",
+        "Aetherstride (Psychic): At the end of your opponent’s turn, if this model is not within Engagement Range of any enemy units, you can remove it from the battlefield and then, in the Reinforcements step of your next Movement phase, set it up anywhere on the battlefield that is more than 9\" horizontally away from all enemy models.",
+        "If the battle ends and this model is not on the battlefield, it is destroyed."
+      ]
+    },
+    "invulnerable": "4+",
+    "damaged": null,
+    "stats": {
+      "m": "11\"",
+      "t": "9",
+      "sv": "2+",
+      "w": "10",
+      "ld": "6+",
+      "oc": "3"
+    },
+    "footnotes": {
+      "footnotes": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "None"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Thousand Sons Daemon Prince with Wings",
+          "This model is equipped with:",
+          "infernal cannon;",
+          "hellforged weapons.",
+          "THOUSAND SONS DAEMON PRINCE",
+          "WITH WINGS",
+          "Buoyed upon sorcerous zephyrs or borne aloft by wings of mutated",
+          "flesh, these Daemon Princes revel in hurling arcane fire from on",
+          "high, reinforcing their megalomaniacal superiority over their foes."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-thousand-sons-50",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "TZAANGOR ENLIGHTENED",
+    "subtype": "",
+    "keywords": [
+      "Mounted",
+      "Fly",
+      "Chaos",
+      "Tzeentch",
+      "Tzaangor Enlightened"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Autopistol [PISTOL]",
+          "range": "12\"",
+          "a": "1",
+          "bws": "4+",
+          "s": "3",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Fatecaster greatbow [LETHAL HITS, PRECISION]",
+          "range": "30\"",
+          "a": "2",
+          "bws": "4+",
+          "s": "5",
+          "ap": "-1",
+          "d": "2"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Chainsword",
+          "range": "Melee",
+          "a": "4",
+          "bws": "4+",
+          "s": "4",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Close combat weapon",
+          "range": "Melee",
+          "a": "2",
+          "bws": "4+",
+          "s": "4",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Divining spear [LANCE, PRECISION]",
+          "range": "Melee",
+          "a": "3",
+          "bws": "4+",
+          "s": "5",
+          "ap": "-2",
+          "d": "1"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Thousand Sons"
+    ],
+    "abilities": {
+      "core": "Once per turn, when an enemy unit ends a",
+      "faction": "this unit is not within Engagement Range of any enemy units,",
+      "special": [
+        "it can make a Normal move of up to D6\" as if it were your Movement phase."
+      ]
+    },
+    "invulnerable": "6+",
+    "damaged": null,
+    "stats": {
+      "m": "10\"",
+      "t": "4",
+      "sv": "5+",
+      "w": "2",
+      "ld": "7+",
+      "oc": "2"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "Any number of models can each have their divining spear replaced with one of the following:",
+          "◦",
+          "1 autopistol and 1 chainsword",
+          "◦",
+          "1 fatecaster greatbow and 1 close combat weapon"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Aviarch",
+          "■",
+          "2-5 Enlightened",
+          "Every model is equipped with:",
+          "divining spear.",
+          "TZAANGOR ENLIGHTENED",
+          "Most blessed of all their kind, the Enlightened see the skeins of",
+          "fate through communion with Tzeentch. They surge to battle atop",
+          "daemonic Discs, their divining spears humming as they sense their",
+          "predestined prey, their fatecaster greatbows launching ensorcelled",
+          "arrows from ectoplasmic strings with lethal effect."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-thousand-sons-52",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "TZAANGOR SHAMAN",
+    "subtype": "",
+    "keywords": [
+      "Mounted",
+      "Character",
+      "Fly",
+      "Psyker",
+      "Chaos",
+      "Tzeentch"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Mutating orbs [BLAST, DEVASTATING WOUNDS, PSYCHIC]",
+          "range": "18\"",
+          "a": "D6",
+          "bws": "3+",
+          "s": "9",
+          "ap": "0",
+          "d": "1"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Shaman’s stave [PSYCHIC]",
+          "range": "Melee",
+          "a": "3",
+          "bws": "3+",
+          "s": "5",
+          "ap": "-1",
+          "d": "D3"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Thousand Sons"
+    ],
+    "abilities": {
+      "core": "Leader",
+      "faction": "Cabal of Sorcerers 1",
+      "special": [
+        "Dark Blessing (Psychic): While this model is leading a unit, models in that unit have the Feel No Pain 5+ ability.",
+        "Bestial Prophet: While this model is leading a unit, each time a model in that unit makes an attack, add 1 to the Hit roll."
+      ]
+    },
+    "invulnerable": "6+",
+    "damaged": null,
+    "stats": {
+      "m": "10\"",
+      "t": "4",
+      "sv": "5+",
+      "w": "4",
+      "ld": "7+",
+      "oc": "1"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "None"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Tzaangor Shaman",
+          "This model is equipped with:",
+          "mutating orbs; Shaman’s stave."
+        ]
+      },
+      {
+        "name": "LEADER",
+        "values": [
+          "This model can be attached to the following units:",
+          "■",
+          "Tzaangor Enlightened",
+          "■",
+          "Tzaangors",
+          "TZAANGOR SHAMAN",
+          "Tzaangor Shamans possess prodigious sorcerous abilities that stem",
+          "from their faith in Tzeentch, and can unleash ferocious psychic",
+          "bombardments against the foe as they soar high upon their daemonic",
+          "Discs. The mere presence of these bestial champions inspires the",
+          "herds they lead to ever greater heights of violence."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-thousand-sons-54",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "TZAANGORS",
+    "subtype": "",
+    "keywords": [
+      "Infantry",
+      "Battleline",
+      "Chaos",
+      "Tzeentch",
+      "Tzaangors"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Autopistol [PISTOL]",
+          "range": "12\"",
+          "a": "1",
+          "bws": "4+",
+          "s": "3",
+          "ap": "0",
+          "d": "1"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Chainsword",
+          "range": "Melee",
+          "a": "3",
+          "bws": "4+",
+          "s": "4",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Tzaangor blades",
+          "range": "Melee",
+          "a": "2",
+          "bws": "4+",
+          "s": "5",
+          "ap": "-1",
+          "d": "1"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Thousand Sons"
+    ],
+    "abilities": {
+      "core": "At the end of your Command phase, roll one",
+      "faction": "units from your army with this ability within range of it: for",
+      "special": [
+        "each 4+, you gain 1 Cabal point.",
+        "WARGEAR ABILITIES Herd Banner: You can re-roll Battle-shock tests taken for the bearer’s unit.",
+        "Brayhorn: You can re-roll Advance and Charge rolls made for the bearer’s unit."
+      ]
+    },
+    "invulnerable": "6+",
+    "damaged": null,
+    "stats": {
+      "m": "6\"",
+      "t": "4",
+      "sv": "6+",
+      "w": "1",
+      "ld": "7+",
+      "oc": "2"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "Any number of models can each have their Tzaangor blades replaced with:",
+          "◦",
+          "1 autopistol and 1 chainsword",
+          "■",
+          "1 Tzaangor not equipped with a herd banner can be equipped with 1 brayhorn.",
+          "■",
+          "1 Tzaangor not equipped with a brayhorn can be equipped with 1 herd banner."
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Twistbray",
+          "■",
+          "9-19 Tzaangors",
+          "Every model is equipped with:",
+          "Tzaangor blades.",
+          "TZAANGORS",
+          "Brayhorn blasts and avian shrieks herald the onset of the Tzaangors.",
+          "These mutated shock troops surge into battle wielding baroque blades",
+          "or roaring chainswords with vicious skill. Return shots and blows",
+          "are deflected by whirling skeins of dark sorcery, for these creatures",
+          "belong to Tzeentch body and soul."
+        ]
+      }
+    ]
+  }
+]

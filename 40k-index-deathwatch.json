@@ -1,1 +1,2247 @@
-[{"id":"40k-index-deathwatch-0","name":"WATCH MASTER","subtype":"","keywords":["Infantry","Character","Grenades","Imperium","Captain","Watch Master"],"weapons":{"ranged":[{"name":"Vigil spear","range":"24\"","a":"2","bws":"2+","s":"4","ap":"0","d":"2"}],"melee":[{"name":"Vigil spear [LANCE]","range":"Melee","a":"6","bws":"2+","s":"6","ap":"-2","d":"D3"}]},"factionKeywords":["Adeptus Astartes","Deathwatch"],"abilities":{"core":"Leader","faction":"Oath of Moment","special":["FACTION: Oath of Moment Strategic Knowledge: While this model is leading a unit, that unit is eligible to shoot and declare a charge in a turn in which it Advanced or Fell Back}.","Watch Master: Once per battle, after your opponent uses a Stratagem, if this model is your Warlord and is on the battlefield, it can use this ability}.","If it does, until the end of the battle, increase the cost of that Stratagem to your opponent by 1CP}."]},"invulnerable":"4+","damaged":null,"stats":{"m":"6\"","t":"4","sv":"2+","w":"5","ld":"6+","oc":"1"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","None"]},{"name":"UNIT COMPOSITION","values":["■","1 Watch Master","This model is equipped with:","vigil spear."]},{"name":"LEADER","values":["This model can be attached to the following units:","■","Deathwatch Veterans","■","Proteus Kill Team","WATCH MASTER","The galaxy’s foremost xenos hunters, each Watch Master commands","one of the Chapter’s vigilant fortresses. These leaders possess","centuries of strategic and esoteric knowledge of the horrors assailing","Mankind. In battle, the crackling blades and tailored bolts of their vigil","spears destroy any xenos before them."]}]},{"id":"40k-index-deathwatch-2","name":"WATCH CAPTAIN ARTEMIS","subtype":"","keywords":["Infantry","Character","Epic Hero","Grenades","Imperium","Captain"],"weapons":{"ranged":[{"name":"Hellfire Extremis [ANTI-INFANTRY 4+, DEVASTATING WOUNDS,IGNORES COVER, TORRENT]","range":"12\"","a":"D6","bws":"N/A","s":"4","ap":"-1","d":"1"}],"melee":[{"name":"Master-crafted power weapon","range":"Melee","a":"6","bws":"2+","s":"5","ap":"-2","d":"2"}]},"factionKeywords":["Adeptus Astartes","Deathwatch"],"abilities":{"core":"Feel No Pain 6+, Leader","faction":"Oath of Moment","special":["FACTION: Oath of Moment Tactical Instinct: While this model is leading a unit, you can target that unit with a Stratagem even if that Stratagem has already been used on another unit from your army this phase}.","In addition, that unit can be targeted with a Stratagem even while it is Battle-shocked}.","Unstoppable Champion: The first time this model is destroyed, roll one D6 at the end of the phase}.","On a 2+, set this model back up on the battlefield, as close as possible to where it was destroyed and not within Engagement Range of any enemy units, with 1 wound remaining}."]},"invulnerable":"4+","damaged":null,"stats":{"m":"6\"","t":"4","sv":"3+","w":"4","ld":"6+","oc":"1"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","None"]},{"name":"UNIT COMPOSITION","values":["■","1 Watch Captain Artemis","This model is equipped with:","Hellfire Extremis; master-crafted","power weapon."]},{"name":"LEADER","values":["This model can be attached to the following units:","■","Deathwatch Veterans","■","Proteus Kill Team","WATCH CAPTAIN ARTEMIS","Born survivor of a feral world and formerly of the macabre Mortifactors","Chapter, Artemis leads a Watch Company of Talasa Prime. Known for","his instinct for xenos trickery, he still relishes the prospect of violence,","whether with his blade, the mutagenic acid-fire of Hellfire Extremis or a","time-warping stasis grenade."]}]},{"id":"40k-index-deathwatch-4","name":"KILL TEAM CASSIUS","subtype":"RANGED WEAPONS","keywords":["A"],"weapons":{"ranged":[{"name":"Bolt pistol [PISTOL]","range":"12\"","a":"1","bws":"3+","s":"4","ap":"0","d":"1"},{"name":"Boltgun","range":"24\"","a":"2","bws":"3+","s":"4","ap":"0","d":"1"},{"name":"Deathwatch twin boltgun","range":"24\"","a":"4","bws":"3+","s":"4","ap":"0","d":"1"},{"name":"Frag cannon [BLAST, HEAVY, RAPID FIRE D3]","range":"18\"","a":"D3","bws":"4+","s":"7","ap":"-1","d":"2"},{"name":"Heavy flamer [IGNORES COVER, TORRENT]","range":"12\"","a":"D6","bws":"N/A","s":"2","ap":"0","d":"1"},{"name":"Long Vigil ranged weapon [ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]","range":"24\"","a":"1","bws":"4+","s":"4","ap":"0","d":"1"},{"name":"Psychic Cleanse [PSYCHIC]","range":"24\"","a":"D6","bws":"3+","s":"5","ap":"-1","d":"D3"},{"passive":"*","text":""}],"melee":[{"name":"Artificer crozius","range":"Melee","a":"5","bws":"2+","s":"6","ap":"-1","d":"2"},{"name":"Close combat weapon","range":"Melee","a":"3","bws":"3+","s":"5","ap":"-2","d":"1"},{"name":"Force weapon [PSYCHIC]","range":"Melee","a":"5","bws":"2+","s":"5","ap":"-3","d":"D3"},{"name":"Long Vigil melee weapon","range":"Melee","a":"4","bws":"3+","s":"4","ap":"-1","d":"1"},{"name":"Power fist","range":"Melee","a":"3","bws":"3+","s":"8","ap":"-2","d":"2"},{"name":"Twin lightning claws [TWIN-LINKED]","range":"Melee","a":"4","bws":"3+","s":"5","ap":"-2","d":"1"},{"name":"ABILITIES","range":"CORE:","a":"Deep Strike","bws":"FACTION:","s":"Oath of Moment, Kill Team","ap":"Catechism of Death:","d":"While this unit contains Chaplain"},{"name":"Cassius, melee weapons equipped by models in this unit","range":"have the [DEVASTATING WOUNDS]","a":"ability.","bws":"Unflinching:","s":"Each time this unit takes a Battle-shock or","ap":"Leadership test, you can re-roll that test.","d":"WARGEAR ABILITIES"},{"name":"Jump Pack:","range":"The bearer has a Move characteristic of 12\" and","a":"can move over models and terrain as if they were not there.","bws":"Psychic Hood:","s":"Models in the bearer’s unit have the","ap":"Feel No Pain 4+ ability against Psychic Attacks.","d":"INVULNERABLE SAVE"},{"passive":"*","text":"4+ M T SV W LD OC M T SV W LD OC 6\" 4 3+ 4 5+ 2 5\" 5 2+ 3 6+ 2 6\" 4 3+ 2 6+ 2 12\" 5 3+ 3 6+ 2 KILL TEAM VETERAN KILL TEAM BIKER CHAPLAIN CASSIUS KILL TEAM TERMINATOR KEYWORDS - ALL MODELS: Infantry, Kill Team, Grenades, Imperium, Kill Team Cassius | CHAPLAIN CASSIUS: Character, Epic Hero"}]},"factionKeywords":["Adeptus Astartes","Deathwatch"],"abilities":{"core":"Deep Strike","faction":"Oath of Moment, Kill Team","special":["FACTION: Oath of Moment, Kill Team Catechism of Death: While this unit contains Chaplain Cassius, melee weapons equipped by models in this unit have the [DEVASTATING WOUNDS] ability}.","Unflinching: Each time this unit takes a Battle-shock or Leadership test, you can re-roll that test}.","WARGEAR ABILITIES Jump Pack: The bearer has a Move characteristic of 12\" and can move over models and terrain as if they were not there}.","Psychic Hood: Models in the bearer’s unit have the Feel No Pain 4+ ability against Psychic Attacks}."]},"invulnerable":"*","damaged":null,"stats":{"m":"M","t":"T","sv":"SV","w":"W","ld":"LD","oc":"OC"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","Chaplain Cassius is equipped with: artificer crozius; bolt pistol.","■","Vael Donatus is equipped with: boltgun; bolt pistol; close combat weapon.","■","Zameon Gydrael is equipped with: Long Vigil ranged weapon; Long Vigil melee weapon.","■","Rodricus Grytt is equipped with: frag cannon; bolt pistol; close combat weapon.","■","Antor Delassio is equipped with: Long Vigil ranged weapon; Long Vigil melee weapon, jump pack.","■","Edryc Setorax is equipped with: twin lightning claws, jump pack.","■","Jensus Natorian is equipped with: psychic Cleanse; bolt pistol; force weapon; psychic hood.","■","Drenn Redblade is equipped with: Long Vigil melee weapon; boltgun.","■","Garran Branatar is equipped with: heavy flamer; Long Vigil ranged weapon; power fist.","■","Ennox Sorrlock is equipped with: Long Vigil ranged weapon; close combat weapon.","■","Jetek Suberei is equipped with: Deathwatch twin boltgun; Long Vigil melee weapon."]},{"name":"UNIT COMPOSITION","values":["■","1 Chaplain Cassius -","Epic Hero","■","8 Kill Team Veterans:","◦","Vael Donatus","◦","Zameon Gydrael","◦","Rodricus Grytt","◦","Antor Delassio","◦","Edryc Setorax","◦","Jensus Natorian","◦","Drenn Redblade","◦","Ennox Sorrlock","■","1 Kill Team Terminator (Garran Branatar)","■","1 Kill Team Biker (Jetek Suberei)","CASSIUS","Your army cannot contain both","Chaplain Cassius","and","Kill","Team Cassius",".","KILL TEAM CASSIUS","Kill Team Cassius is an elite squad of specialists, even amongst","Talasa Prime’s ranks of Veterans. Hand-picked by Chaplain Cassius for","an unauthorised mission, the kill team uncovered the first recorded","Genestealer Cult alongside him on Ghosar Quintus. They have fought","together many times since, and baulk at no xenos horror.","KEYWORDS - ALL MODELS:","Infantry, Kill Team, Grenades, Imperium,","Kill Team Cassius","| CHAPLAIN CASSIUS:","Character, Epic Hero"]}]},{"id":"40k-index-deathwatch-6","name":"DEATHWATCH VETERANS","subtype":"RANGED WEAPONS","keywords":["A"],"weapons":{"ranged":[{"name":"Boltgun","range":"24\"","a":"2","bws":"3+","s":"4","ap":"0","d":"1"},{"name":"Frag cannon [BLAST, HEAVY, RAPID FIRE D3]","range":"18\"","a":"D3","bws":"4+","s":"7","ap":"-1","d":"2"},{"name":"Infernus heavy bolter - heavy bolter [HEAVY, SUSTAINED HITS 1]","range":"36\"","a":"3","bws":"4+","s":"5","ap":"-1","d":"2"},{"name":"Infernus heavy bolter - heavy flamer [IGNORES COVER, TORRENT]","range":"12\"","a":"D6","bws":"N/A","s":"5","ap":"-1","d":"1"},{"name":"Long Vigil ranged weapon [ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]","range":"24\"","a":"1","bws":"4+","s":"4","ap":"0","d":"1"},{"name":"Missile launcher - frag [BLAST, HEAVY]","range":"48\"","a":"D6","bws":"4+","s":"4","ap":"0","d":"1"},{"name":"Missile launcher - krak [HEAVY]","range":"48\"","a":"1","bws":"4+","s":"9","ap":"-2","d":"D6"}],"melee":[{"name":"Close combat weapon","range":"Melee","a":"3","bws":"3+","s":"4","ap":"0","d":"1"},{"name":"Deathwatch thunder hammer [DEVASTATING WOUNDS]","range":"Melee","a":"3","bws":"4+","s":"10","ap":"-2","d":"3"},{"name":"Long Vigil melee weapon","range":"Melee","a":"3","bws":"3+","s":"5","ap":"-2","d":"1"},{"name":"Xenophase blade [DEVASTATING WOUNDS]","range":"Melee","a":"4","bws":"3+","s":"5","ap":"-2","d":"1"},{"name":"ABILITIES","range":"FACTION:","a":"Oath of Moment","bws":"Death to the Alien:","s":"Each time a model in this unit makes","ap":"an attack, re-roll a Hit roll of 1. If the target of that attack","d":"does not have the"},{"name":"Imperium","range":"or","a":"Chaos","bws":"keywords, you can","s":"re-roll the Hit roll instead.","ap":"WARGEAR ABILITIES","d":"Astartes Shield:"},{"name":"The bearer has a 4+ invulnerable save.","range":"M","a":"T","bws":"SV","s":"W","ap":"LD","d":"OC"},{"name":"6\"","range":"4","a":"3+","bws":"2","s":"6+","ap":"2","d":"KEYWORDS:"},{"name":"Infantry, Battleline, Kill Team, Grenades, Imperium,","range":"Deathwatch Veterans"}]},"factionKeywords":["Adeptus Astartes","Deathwatch"],"abilities":{"core":null,"faction":"Oath of Moment","special":["Death to the Alien: Each time a model in this unit makes an attack, re-roll a Hit roll of 1}.","If the target of that attack does not have the Imperium or Chaos keywords, you can re-roll the Hit roll instead}.","WARGEAR ABILITIES Astartes Shield: The bearer has a 4+ invulnerable save}."]},"invulnerable":"","damaged":null,"stats":{"m":"6\"","t":"4","sv":"3+","w":"2","ld":"6+","oc":"2"},"footnotes":{"footnotes":"Before selecting targets for this weapon, select one of its profiles to make attacks with."},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","Any number of models can each have their","boltgun and Long Vigil melee weapon replaced","with one of the following:","◦","1 Long Vigil ranged weapon and 1 close","combat weapon","◦","1 Astartes shield, 1 boltgun and 1 close","combat weapon","◦","1 Astartes shield and 1 Long Vigil melee","weapon","■","For every 5 models in this unit, up to 2 models","can each have their boltgun and Long Vigil","melee weapon replaced with 1 Deathwatch","thunder hammer.","■","For every 5 models in this unit, up to 2","models can each have their boltgun and Long","Vigil melee weapon replaced with one of","the following:","◦","1 frag cannon and 1 close combat weapon","◦","1 infernus heavy bolter and 1 close combat","weapon","◦","1 missile launcher and 1 close combat","weapon","■","The Watch Sergeant’s Long Vigil melee weapon","can be replaced with 1 xenophase blade.","■","The Watch Sergeant’s boltgun can be replaced","with 1 Long Vigil ranged weapon."]},{"name":"UNIT COMPOSITION","values":["■","1 Watch Sergeant","■","4-9 Deathwatch Veterans","Every model is equipped with:","boltgun; Long Vigil","melee weapon.","ATTACHED UNIT","If a","Character","from your army with the Leader ability can be","attached to a","Vanguard Veteran Squad",", it can be attached to","this unit instead.","DEATHWATCH VETERANS","Deathwatch Veterans’ skills have been honed in their former Chapter","for decades, sometimes centuries. Throughout their long vigil against","the manifold xenos threats, each Veteran learns to arm himself so as","to best contribute to the mission at hand, and squads carry an array","of weapons to fell any foe."]}]},{"id":"40k-index-deathwatch-8","name":"DEATHWATCH TERMINATOR SQUAD","subtype":"","keywords":["Infantry","Imperium","Terminator","Deathwatch Terminator Squad"],"weapons":{"ranged":[{"name":"Assault cannon [DEVASTATING WOUNDS]","range":"24\"","a":"6","bws":"3+","s":"6","ap":"0","d":"1"},{"name":"Cyclone missile launcher - frag [BLAST]","range":"36\"","a":"2D6","bws":"3+","s":"4","ap":"0","d":"1"},{"name":"Cyclone missile launcher - krak","range":"36\"","a":"2","bws":"3+","s":"9","ap":"-2","d":"D6"},{"name":"Heavy flamer [IGNORES COVER, TORRENT]","range":"12\"","a":"D6","bws":"N/A","s":"5","ap":"-1","d":"1"},{"name":"Plasma cannon - standard [BLAST]","range":"36\"","a":"D3","bws":"3+","s":"7","ap":"-2","d":"1"},{"name":"Plasma cannon - supercharge [BLAST, HAZARDOUS]","range":"36\"","a":"D3","bws":"3+","s":"8","ap":"-3","d":"2"},{"name":"Storm bolter [RAPID FIRE 2]","range":"24\"","a":"2","bws":"3+","s":"4","ap":"0","d":"1"}],"melee":[{"name":"Chainfist [ANTI-VEHICLE 3+]","range":"Melee","a":"3","bws":"4+","s":"8","ap":"-2","d":"2"},{"name":"Power fist","range":"Melee","a":"3","bws":"3+","s":"8","ap":"-2","d":"2"},{"name":"Power weapon","range":"Melee","a":"4","bws":"3+","s":"5","ap":"-2","d":"1"},{"name":"Thunder hammer [DEVASTATING WOUNDS]","range":"Melee","a":"3","bws":"4+","s":"8","ap":"-2","d":"2"},{"name":"Twin lightning claws [TWIN-LINKED]","range":"Melee","a":"5","bws":"3+","s":"5","ap":"-2","d":"1"}]},"factionKeywords":["Adeptus Astartes","Deathwatch"],"abilities":{"core":"Deep Strike","faction":"Oath of Moment","special":["FACTION: Oath of Moment Terminatus Assault: Each time this unit ends a Charge move, each enemy unit within Engagement Range of this unit must take a Battle-shock test}.","Teleport Homer: At the start of the battle, you can set up one Teleport Homer token for this unit anywhere on the battlefield that is not in your opponent’s deployment zone}.","If you do, once per battle, you can target this unit with the Rapid Ingress Stratagem for 0CP, but when resolving that Stratagem, you must set this unit up within 3\" of that token and not within 9\" of any enemy models}.","That token is then removed}.","WARGEAR ABILITIES Storm Shield: The bearer has a Wounds characteristic of 4}."]},"invulnerable":"4+","damaged":null,"stats":{"m":"5\"","t":"5","sv":"2+","w":"3","ld":"6+","oc":"1"},"footnotes":{"footnotes":"Before selecting targets for this weapon, select one of its profiles to make attacks with."},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","Up to 3 Deathwatch Terminators can each have their storm bolter replaced with one of the following:","◦","1 assault cannon","◦","1 heavy flamer","◦","1 plasma cannon","◦","1 cyclone missile launcher and 1 storm bolter (this model’s storm bolter cannot be replaced)","■","Any number of models can each have their power fist and storm bolter replaced with one of","the following:","◦","1 storm bolter and 1 power weapon","◦","1 storm bolter and 1 chainfist","◦","1 twin lightning claws","◦","1 thunder hammer and 1 storm shield"]},{"name":"UNIT COMPOSITION","values":["■","1 Deathwatch Terminator Sergeant","■","4-9 Deathwatch Terminators","Every model is equipped with:","power fist; storm bolter.","ATTACHED UNIT","If a","Character","from your army with the Leader ability can be","attached to a","Terminator Squad",", it can be attached to this","unit instead.","DEATHWATCH TERMINATOR SQUAD","The indomitable warriors honoured to wear hulking suits of Terminator","armour are an inspiring sight to their brethren. Deathwatch","Terminators carry the most powerful close combat weapons, and","the strength and durability of their armour allows them to take the","heaviest firepower directly into hidden xenos lairs."]}]},{"id":"40k-index-deathwatch-10","name":"VETERAN BIKE SQUAD","subtype":"","keywords":["Mounted","Grenades","Imperium","Veteran Bike Squad"],"weapons":{"ranged":[{"name":"Bolt pistol [PISTOL]","range":"12\"","a":"1","bws":"3+","s":"4","ap":"0","d":"1"},{"name":"Long Vigil ranged weapon [ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]","range":"24\"","a":"1","bws":"4+","s":"4","ap":"0","d":"1"},{"name":"Twin boltgun [TWIN-LINKED]","range":"24\"","a":"2","bws":"3+","s":"4","ap":"0","d":"1"}],"melee":[{"name":"Close combat weapon","range":"Melee","a":"3","bws":"3+","s":"4","ap":"0","d":"1"},{"name":"Long Vigil melee weapon","range":"Melee","a":"3","bws":"3+","s":"5","ap":"-2","d":"1"},{"name":"Xenophase blade [DEVASTATING WOUNDS]","range":"Melee","a":"4","bws":"3+","s":"5","ap":"-2","d":"1"}]},"factionKeywords":["Adeptus Astartes","Deathwatch"],"abilities":{"core":null,"faction":"Oath of Moment","special":["Turbo-boost: Each time this unit Advances, do not make an Advance roll for it}.","Instead, until the end of the phase, add 6\" to the Move characteristic of models in this unit}.","WARGEAR ABILITIES Astartes Shield: The bearer has a 4+ invulnerable save}."]},"invulnerable":"","damaged":null,"stats":{"m":"12\"","t":"5","sv":"3+","w":"3","ld":"6+","oc":"2"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","The Veteran Biker Sergeant can be equipped with one of the following:","◦","1 Long Vigil ranged weapon","◦","1 Long Vigil melee weapon","◦","1 xenophase blade","◦","1 Astartes shield","■","Any number of Veteran Biker models can each be equipped with 1 Long Vigil melee weapon."]},{"name":"UNIT COMPOSITION","values":["■","1 Veteran Biker Sergeant","■","2-5 Veteran Bikers","Every model is equipped with:","bolt pistol; close combat","weapon; twin boltgun.","ATTACHED UNIT","If a","Character","from your army with the Leader ability can","be attached to a","Outrider Squad",", it can be attached to this","unit instead.","VETERAN BIKE SQUAD","Matching their speed, strength and firepower against the swiftest","xenos, Veteran Bikers are expert hunters. Undertaking extended","missions in dangerous territory, they assess their enemy’s every","weakness, close off escape routes and use their velocity to enact","sudden strikes from unexpected angles."]}]},{"id":"40k-index-deathwatch-12","name":"CORVUS BLACKSTAR","subtype":"","keywords":["Vehicle","Aircraft","Fly","Imperium","Transport","Corvus Blackstar"],"weapons":{"ranged":[{"name":"Blackstar rocket launcher [BLAST]","range":"30\"","a":"D6+1","bws":"3+","s":"5","ap":"0","d":"1"},{"name":"Hurricane bolter [RAPID FIRE 6, TWIN-LINKED]","range":"24\"","a":"6","bws":"3+","s":"4","ap":"0","d":"1"},{"name":"Stormstrike missile launcher","range":"48\"","a":"1","bws":"3+","s":"10","ap":"-2","d":"3"},{"name":"Twin assault cannon [DEVASTATING WOUNDS, TWIN-LINKED]","range":"24\"","a":"6","bws":"3+","s":"6","ap":"0","d":"1"},{"name":"Twin lascannon [TWIN-LINKED]","range":"48\"","a":"1","bws":"3+","s":"12","ap":"-3","d":"D6+1"}],"melee":[{"name":"Armoured hull","range":"Melee","a":"3","bws":"4+","s":"6","ap":"0","d":"1"}]},"factionKeywords":["Adeptus Astartes","Deathwatch"],"abilities":{"core":"Deadly Demise D6, Hover, Stealth","faction":"Oath of Moment","special":["FACTION: Oath of Moment Blackstar Cluster Launcher: Each time this model ends a Normal move, you can select one enemy unit it moved over during that move and roll six D6: for each 5+, that unit suffers 1 mortal wound}.","WARGEAR ABILITIES Auspex Array: Ranged weapons equipped by the bearer have the [IGNORES COVER] ability}.","Infernum Halo-launcher: The bearer has the Smoke keyword}.","DAMAGED: 1-5 WOUNDS REMAINING While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll}.","T SV W LD OC 10 3+ 14 6+ 0 20+\"}."]},"invulnerable":"","damaged":null,"stats":{"m":"20+\"","t":"10","sv":"3+","w":"14","ld":"6+","oc":"0"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","This model’s twin assault cannon can be replaced with 1 twin lascannon.","■","This model’s 2 Blackstar rocket launchers can be replaced with 2 stormstrike missile launchers.","■","This model can be equipped with 1 hurricane bolter.","■","This model can be equipped with one of the following:","◦","1 auspex array","◦","1 infernum halo-launcher"]},{"name":"UNIT COMPOSITION","values":["■","1 Corvus Blackstar","This model is equipped with:","2 Blackstar rocket launchers;","twin assault cannon; armoured hull."]},{"name":"TRANSPORT","values":["This model has a transport capacity of 12","Adeptus Astartes","Infantry","models or one","Kill Team","unit. Each","Jump Pack",",","Gravis","or","Terminator","model takes up the space of 2 models","and each","Mounted","model takes up the space of 3 models.","CORVUS BLACKSTAR","Corvus Blackstars are sleek and shrouded aircraft used to insert kill","teams into heavily infested landing zones or even xenos strongholds.","With a barrage of missiles, Blackstars secure aerial supremacy and","sweep the target site clear before firing their hover jets and delivering","their deadly payload of elite warriors."]}]},{"id":"40k-index-deathwatch-14","name":"PROTEUS KILL TEAM","subtype":"RANGED WEAPONS","keywords":["A"],"weapons":{"ranged":[{"name":"Boltgun","range":"24\"","a":"2","bws":"3+","s":"4","ap":"0","d":"1"},{"name":"Frag cannon [BLAST, HEAVY, RAPID FIRE D3]","range":"18\"","a":"D3","bws":"4+","s":"7","ap":"-1","d":"2"},{"name":"Storm bolter [RAPID FIRE 2]","range":"24\"","a":"2","bws":"3+","s":"4","ap":"0","d":"1"},{"name":"Twin boltgun [TWIN-LINKED]","range":"24\"","a":"1","bws":"3+","s":"4","ap":"0","d":"1"},{"passive":"*","text":""}],"melee":[{"name":"Close combat weapon","range":"Melee","a":"3","bws":"3+","s":"4","ap":"0","d":"1"},{"name":"Chainfist [ANTI-VEHICLE 3+]","range":"Melee","a":"3","bws":"4+","s":"8","ap":"-2","d":"2"},{"name":"Deathwatch thunder hammer [DEVASTATING WOUNDS]","range":"Melee","a":"3","bws":"4+","s":"10","ap":"-2","d":"3"},{"name":"Long Vigil melee weapon","range":"Melee","a":"3","bws":"3+","s":"5","ap":"-2","d":"1"},{"name":"Power fist","range":"Melee","a":"3","bws":"3+","s":"8","ap":"-2","d":"2"},{"name":"Power weapon","range":"Melee","a":"4","bws":"3+","s":"5","ap":"-2","d":"1"},{"name":"Terminator thunder hammer [DEVASTATING WOUNDS]","range":"Melee","a":"4","bws":"3+","s":"8","ap":"-2","d":"2"},{"name":"Twin lightning claws [TWIN-LINKED]","range":"Melee","a":"5","bws":"3+","s":"5","ap":"-2","d":"1"},{"name":"ABILITIES","range":"FACTION:","a":"Kill Team, Oath of Moment","bws":"Proteus Doctrines:","s":"Each time a model in this unit makes an","ap":"attack that targets a unit that is not Below Half-strength, add","d":"1 to the Hit roll."},{"name":"WARGEAR ABILITIES","range":"Astartes Shield:","a":"The bearer has a 4+ invulnerable save.","bws":"Jump Pack:","s":"The bearer has a Move characteristic of 12\" and","ap":"can move over models and terrain features as if they were","d":"not there."},{"name":"Storm Shield:","range":"The bearer has a Wounds characteristic of 4.","a":"INVULNERABLE SAVE"},{"passive":"*","text":"4+ M T SV W LD OC M T SV W LD OC 6\" 4 3+ 2 6+ 1 5\" 5 2+ 3 6+ 1 12\" 5 3+ 3 6+ 2 KILL TEAM BIKER KILL TEAM VETERANS KILL TEAM TERMINATOR KEYWORDS: Infantry, Kill Team, Grenades, Imperium, Proteus Kill Team"}]},"factionKeywords":["Adeptus Astartes","Deathwatch"],"abilities":{"core":null,"faction":"Kill Team, Oath of Moment","special":["Proteus Doctrines: Each time a model in this unit makes an attack that targets a unit that is not Below Half-strength, add 1 to the Hit roll}.","WARGEAR ABILITIES Astartes Shield: The bearer has a 4+ invulnerable save}.","Jump Pack: The bearer has a Move characteristic of 12\" and can move over models and terrain features as if they were not there}.","Storm Shield: The bearer has a Wounds characteristic of 4}."]},"invulnerable":"*","damaged":null,"stats":{"m":"M","t":"T","sv":"SV","w":"W","ld":"LD","oc":"OC"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","Any number of Kill Team Veterans can replace","their boltgun and Long Vigil melee weapon with:","◦","1 Long Vigil ranged weapon*","◦","1 boltgun and 1 Astartes shield","◦","1 Long Vigil melee weapon and 1 Astartes","shield","■","For every 5 models in this unit, up to 2 models","can replace their boltgun and Long Vigil melee","weapon with 1 Deathwatch thunder hammer.","■","For every 5 models in the unit, up to 2 models","can replace their boltgun and Long Vigil melee","weapon with one of the following:","◦","1 frag cannon","◦","1 Infernus heavy bolter*","■","Any number of Kill Team Biker models can be","equipped with one of the following:","◦","1 bolt pistol","◦","1 Long Vigil melee weapon","■","Up to 3 models can each have their storm bolter","replaced with one of the following:","◦","1 assault cannon*","◦","1 heavy flamer*","◦","1 plasma cannon*","◦","1 cyclone missile launcher* and 1 storm","bolter (this model’s storm bolter cannot be","replaced)","■","Any number of Kill Team Terminator models can","replace their power fist and storm bolter with","one of the following:","◦","1 storm bolter and 1 power weapon","◦","1 storm bolter and 1 chainfist","◦","1 twin lightning claws","◦","1 Terminator thunder hammer and 1 storm","shield","*","The profile for this weapon can be found on the Deathwatch","Armoury card.","UNIT COMPOSITION (10 MODELS MAXIMUM)","■","5-10 Kill Team Veterans","■","0-4 Kill Team Veterans with Jump Packs","■","0-2 Kill Team Bikers","■","0-4 Kill Team Terminators","Every Kill Team Veteran is equipped with:","boltgun; Long Vigil","melee weapon; close combat weapon.","Every Kill Team Veteran with Jump Pack is equipped with:","Long Vigil melee weapon; close combat weapon; jump pack.","Every Kill Team Biker is equipped with:","twin boltgun; close","combat weapon.","Every Kill Team Terminator is equipped with:","storm bolter;","power fist.","ATTACHED UNIT","If a","Character","from your army with the Leader ability can be","attached to a","Vanguard Veterans Squad",", it can be attached","to this unit instead.","PROTEUS KILL TEAM","The sheer versatility of their weapon loadout, coupled with their","durability and manoeuvrability, make it little wonder that Proteus Kill","Teams have worked miraculous feats of arms on countless hostile","worlds over the course of the Imperium’s history."]}]},{"id":"40k-index-deathwatch-16","name":"FORTIS KILL TEAM","subtype":"RANGED WEAPONS","keywords":["A"],"weapons":{"ranged":[{"name":"Bolt pistol [PISTOL]","range":"12\"","a":"1","bws":"3+","s":"4","ap":"0","d":"1"},{"name":"Bolt rifle [ASSAULT, HEAVY]","range":"24\"","a":"2","bws":"3+","s":"4","ap":"-1","d":"1"},{"name":"Hand flamer [IGNORES COVER, PISTOL, TORRENT]","range":"12\"","a":"D6","bws":"N/A","s":"3","ap":"0","d":"1"},{"name":"Heavy bolt pistol [PISTOL]","range":"18\"","a":"1","bws":"3+","s":"4","ap":"-1","d":"1"},{"name":"Long Vigil ranged weapon [ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]","range":"24\"","a":"1","bws":"4+","s":"4","ap":"0","d":"1"},{"name":"Plasma incinerator - standard [ASSAULT, HEAVY]","range":"24\"","a":"2","bws":"3+","s":"7","ap":"-2","d":"1"},{"name":"Plasma incinerator - supercharge [ASSAULT, HAZARDOUS, HEAVY]","range":"24\"","a":"2","bws":"3+","s":"8","ap":"-3","d":"2"},{"name":"Storm bolter [RAPID FIRE 2]","range":"24\"","a":"2","bws":"3+","s":"4","ap":"0","d":"1"},{"name":"Twin bolt rifle [TWIN-LINKED]","range":"24\"","a":"2","bws":"3+","s":"4","ap":"-1","d":"1"}],"melee":[{"name":"Astartes chainsword","range":"Melee","a":"4","bws":"4+","s":"4","ap":"-1","d":"1"},{"name":"Close combat weapon","range":"Melee","a":"3","bws":"3+","s":"4","ap":"0","d":"1"},{"name":"Long Vigil melee weapon","range":"Melee","a":"3","bws":"3+","s":"5","ap":"-2","d":"1"},{"name":"ABILITIES","range":"FACTION:","a":"Kill Team, Oath of Moment","bws":"Fortis Doctrines:","s":"Each time a model in this unit makes an","ap":"attack that targets a unit that is Below Half-strength, add 1 to","d":"the Hit roll."},{"name":"M","range":"T","a":"SV","bws":"W","s":"LD","ap":"OC","d":"6\""},{"name":"4","range":"3+","a":"2","bws":"6+","s":"1","ap":"12\"","d":"5"},{"name":"3+","range":"4","a":"6+","bws":"2","s":"KILL TEAM","ap":"OUTRIDER","d":"KILL TEAM"},{"name":"INTERCESSOR","range":"KEYWORDS:","a":"Infantry, Kill Team, Grenades, Imperium, Tacticus,","bws":"Fortis Kill Team"}]},"factionKeywords":["Adeptus Astartes","Deathwatch"],"abilities":{"core":null,"faction":"Kill Team, Oath of Moment","special":["Fortis Doctrines: Each time a model in this unit makes an attack that targets a unit that is Below Half-strength, add 1 to the Hit roll}."]},"invulnerable":"","damaged":null,"stats":{"m":"6\"","t":"4","sv":"3+","w":"2","ld":"6+","oc":"1"},"footnotes":{"footnotes":"Before selecting targets for this weapon, select one of its profiles to make attacks with."},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","1 Kill Team Intercessor’s bolt rifle can be","replaced with one of the following:","◦","1 hand flamer","◦","1 plasma pistol","◦","1 Astartes chainsword","◦","1 Long Vigil melee weapon","■","1 model equipped with a bolt rifle can replace its","close combat weapon with one of the following:","◦","1 Astartes chainsword","◦","1 Long Vigil melee weapon","■","For every 5 models in this unit, 1 model’s","bolt rifle can be replaced with 1 Long Vigil","ranged weapon.","■","Any number of Kill Team Intercessors with","plasma incinerators can each have their bolt","pistol replaced with 1 plasma pistol.*","*","The profile for this weapon can be found on the Deathwatch","Armoury card.","UNIT COMPOSITION (10 MODELS MAXIMUM)","■","5-10 Kill Team Intercessors","■","0-4 Kill Team Intercessors with plasma incinerators","■","0-4 Kill Team Intercessors with heavy bolt pistols","■","0-2 Kill Team Outriders","Every Kill Team Intercessor is equipped with:","bolt pistol; bolt","rifle; close combat weapon.","Every Kill Team Intercessor with plasma incinerator","is equipped with:","bolt pistol; plasma incinerator; close","combat weapon.","Every Kill Team Intercessor with heavy bolt pistol is","equipped with:","heavy bolt pistol; Astartes chainsword.","Every Kill Team Outrider is equipped with:","bolt pistol; twin","bolt rifle; Astartes chainsword.","ATTACHED UNIT","If a","Character","from your army with the Leader ability can be","attached to an","Intercessor Squad",", it can be attached to this","unit instead.","FORTIS KILL TEAM","Further refined from Watch Master Mordelai’s original concept, Fortis","Kill Teams exemplify the supreme adaptability of the Tacticus variant","of Mk X power armour, seamlessly merging a variety of close support","roles and deadly firepower."]}]},{"id":"40k-index-deathwatch-18","name":"INDOMITOR KILL TEAM","subtype":"RANGED WEAPONS","keywords":["A"],"weapons":{"ranged":[{"name":"Assault bolters [ASSAULT, PISTOL, SUSTAINED HITS 2, TWIN -LINKED]","range":"18\"","a":"3","bws":"3+","s":"5","ap":"-1","d":"2"},{"name":"Auto boltstorm gauntlets [TWIN-LINKED]","range":"18\"","a":"3","bws":"3+","s":"4","ap":"0","d":"1"},{"name":"Fragstorm grenade launcher [BLAST]","range":"18\"","a":"D6","bws":"3+","s":"4","ap":"0","d":"1"},{"name":"Heavy bolt rifle [ASSAULT, HEAVY]","range":"30\"","a":"2","bws":"3+","s":"5","ap":"-1","d":"1"},{"name":"Heavy bolter [ASSAULT, HEAVY, SUSTAINED HITS 1]","range":"36\"","a":"3","bws":"4+","s":"5","ap":"-1","d":"2"},{"name":"Flamestorm gauntlets [IGNORES COVER, TORRENT, TWIN-LINKED]","range":"12\"","a":"D6+1","bws":"N/A","s":"4","ap":"0","d":"1"},{"name":"Melta rifle [HEAVY, MELTA 2]","range":"18\"","a":"1","bws":"3+","s":"9","ap":"-4","d":"D6"},{"name":"Multi-melta [HEAVY, MELTA 2]","range":"18\"","a":"2","bws":"4+","s":"9","ap":"-4","d":"D6"},{"name":"Plasma exterminators - standard [ASSAULT, PISTOL, TWIN-LINKED]","range":"18\"","a":"2","bws":"3+","s":"7","ap":"-2","d":"2"},{"name":"Plasma exterminators - supercharge [ASSAULT, HAZARDOUS, PISTOL, TWIN-LINKED]","range":"18\"","a":"2","bws":"3+","s":"8","ap":"-3","d":"3"}],"melee":[{"name":"Close combat weapon","range":"Melee","a":"3","bws":"3+","s":"4","ap":"0","d":"1"},{"name":"Power fists [TWIN -LINKED]","range":"Melee","a":"3","bws":"4+","s":"8","ap":"-2","d":"2"},{"name":"ABILITIES","range":"FACTION:","a":"Kill Team, Oath of Moment","bws":"Indomitor Doctrines:","s":"Each time a model in this unit makes","ap":"an attack, add 1 to the Hit roll if this unit is below its Starting","d":"Strength, and add 1 to the Wound roll as well if this unit is"},{"name":"Below Half-strength.","range":"WARGEAR ABILITIES","a":"Jump Pack:","bws":"The bearer has a Move characteristic of 10\" and","s":"can move over models and terrain features as if they were","ap":"not there.","d":"M"},{"name":"T","range":"SV","a":"W","bws":"LD","s":"OC","ap":"5\"","d":"6"},{"name":"3+","range":"3","a":"6+","bws":"1","s":"KEYWORDS:","ap":"Infantry, Kill Team, Grenades, Imperium, Gravis,","d":"Indomitor Kill Team"}]},"factionKeywords":["Adeptus Astartes","Deathwatch"],"abilities":{"core":null,"faction":"Kill Team, Oath of Moment","special":["Indomitor Doctrines: Each time a model in this unit makes an attack, add 1 to the Hit roll if this unit is below its Starting Strength, and add 1 to the Wound roll as well if this unit is Below Half-strength}.","WARGEAR ABILITIES Jump Pack: The bearer has a Move characteristic of 10\" and can move over models and terrain features as if they were not there}."]},"invulnerable":"","damaged":null,"stats":{"m":"5\"","t":"6","sv":"3+","w":"3","ld":"6+","oc":"1"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","For every 5 models in this unit, 1 model equipped with a heavy bolt rifle can have its heavy bolt rifle","replaced with 1 heavy bolter.","■","1 model equipped with a melta rifle can have its melta rifle replaced with 1 multi-melta.","■","Any number of models equipped with flamestorm gauntlets can each have their flamestorm","gauntlets replaced with 1 auto boltstorm gauntlets and 1 fragstorm grenade launcher.","■","Any number of models equipped with assault bolters can each have their assault bolters replaced","with 1 plasma exterminators.","ATTACHED UNIT","If a","Character","unit from your army can be attached to a","Heavy Intercessor Squad",", it can be attached","to this unit instead.","UNIT COMPOSITION (10 MODELS MAXIMUM)","■","5-10 Kill Team Heavy Intercessors","■","0-2 Kill Team Heavy Intercessors with power fists","■","0-2 Kill Team Heavy Intercessors with melta rifles","■","0-2 Kill Team Heavy Intercessors with jump packs","Every Kill Team Heavy Intercessor is equipped with:","bolt","pistol*; heavy bolt rifle; close combat weapon.","Every Kill Team Heavy Intercessor with power fists is","equipped with:","flamestorm gauntlets; power fists.","Every Kill Team Heavy Intercessor with melta rifle is","equipped with:","bolt pistol*; melta rifle; close combat weapon.","Every Kill Team Heavy Intercessor with jump pack is","equipped with:","assault bolters; close combat weapon;","jump pack.","*","The profile for this weapon can be found on the Deathwatch Armoury card.","INDOMITOR KILL TEAM","Comprising warriors wearing the heavier Gravis variant of Mk X armour,","Indomitor Kill Teams are mobile bastions capable of unleashing the","firepower of a squadron of battle tanks. Before them, hordes of xenos","and monstrous beasts alike are torn apart."]}]},{"id":"40k-index-deathwatch-20","name":"SPECTRUS KILL TEAM","subtype":"RANGED WEAPONS","keywords":["A"],"weapons":{"ranged":[{"name":"Accelerator autocannon [HEAVY]","range":"48\"","a":"3","bws":"4+","s":"8","ap":"-1","d":"2"},{"name":"Bolt pistol [PISTOL]","range":"12\"","a":"1","bws":"3+","s":"4","ap":"0","d":"1"},{"name":"Bolt carbine [PRECISION]","range":"24\"","a":"2","bws":"3+","s":"4","ap":"0","d":"1"},{"name":"Bolt sniper rifle [HEAVY, PRECISION]","range":"36\"","a":"1","bws":"3+","s":"5","ap":"-2","d":"3"},{"name":"Las fusil [HEAVY]","range":"36\"","a":"1","bws":"3+","s":"9","ap":"-3","d":"D6"},{"name":"Marksman bolt carbine [HEAVY]","range":"24\"","a":"2","bws":"3+","s":"4","ap":"0","d":"1"},{"name":"Occulus bolt carbine [ASSAULT, IGNORES COVER]","range":"24\"","a":"2","bws":"3+","s":"4","ap":"0","d":"1"},{"name":"Special-issue bolt pistol [PISTOL, PRECISION]","range":"12\"","a":"3","bws":"3+","s":"4","ap":"-1","d":"1"}],"melee":[{"name":"Close combat weapon","range":"Melee","a":"3","bws":"3+","s":"4","ap":"0","d":"1"},{"name":"Combat knife [PRECISION]","range":"Melee","a":"4","bws":"3+","s":"4","ap":"0","d":"1"},{"name":"Paired combat blades [SUSTAINED HITS 1]","range":"Melee","a":"3","bws":"3+","s":"4","ap":"0","d":"1"},{"name":"ABILITIES","range":"CORE:","a":"Infiltrators, Scouts 6\"","bws":"FACTION:","s":"Kill Team, Oath of Moment","ap":"Spectrus Doctrines:","d":"At the end of your opponent’s turn, if"},{"name":"this unit is more than 6\" away from all enemy units, you","range":"can remove this unit from the battlefield and place it into","a":"Strategic Reserves. It will arrive back on the battlefield in the","bws":"Reinforcements step of your next Movement phase.","s":"WARGEAR ABILITIES","ap":"Helix Gauntlet:","d":"Models in the bearer’s unit have the"},{"name":"Feel No Pain 6+","range":"ability.","a":"Infiltrator Comms Array:","bws":"Each time you target the bearer’s","s":"unit with a Stratagem, roll one D6: on a 5+, you gain 1CP.","ap":"Jump Pack:","d":"The bearer has a Move characteristic of 12\" and"},{"name":"can move over models and terrain features as if they were","range":"not there.","a":"M","bws":"T","s":"SV","ap":"W","d":"LD"},{"name":"OC","range":"6\"","a":"4","bws":"3+","s":"2","ap":"6+","d":"1"},{"name":"KEYWORDS:","range":"Infantry, Kill Team, Smoke, Grenades, Imperium, Phobos,","a":"Spectrus Kill Team"}]},"factionKeywords":["Adeptus Astartes","Deathwatch"],"abilities":{"core":"Infiltrators, Scouts 6\"","faction":"Kill Team, Oath of Moment","special":["FACTION: Kill Team, Oath of Moment Spectrus Doctrines: At the end of your opponent’s turn, if this unit is more than 6\" away from all enemy units, you can remove this unit from the battlefield and place it into Strategic Reserves}.","It will arrive back on the battlefield in the Reinforcements step of your next Movement phase}.","WARGEAR ABILITIES Helix Gauntlet: Models in the bearer’s unit have the Feel No Pain 6+ ability}.","Infiltrator Comms Array: Each time you target the bearer’s unit with a Stratagem, roll one D6: on a 5+, you gain 1CP}.","Jump Pack: The bearer has a Move characteristic of 12\" and can move over models and terrain features as if they were not there}."]},"invulnerable":"","damaged":null,"stats":{"m":"6\"","t":"4","sv":"3+","w":"2","ld":"6+","oc":"1"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","One model equipped with a marksman bolt carbine can be equipped with one of the following:","◦","1 helix gauntlet","◦","1 Infiltrator comms array","ATTACHED UNIT","If a","Character","from your army with the Leader ability can be attached to an","Infiltrator Squad",", it can","be attached to this unit instead.","UNIT COMPOSITION (10 MODELS MAXIMUM)","■","5-10 Kill Team Infiltrators","■","0-2 Kill Team Infiltrators with bolt sniper rifles","■","0-2 Kill Team Infiltrators with jump packs","■","0-4 Kill Team Infiltrators with occulus bolt carbines","■","0-4 Kill Team Infiltrators with combat knives","Every Kill Team Infiltrator is equipped with:","bolt pistol;","marksman bolt carbine; close combat weapon.","Every Kill Team Infiltrator with bolt sniper rifle is equipped","with:","bolt pistol; bolt sniper rifle; close combat weapon.","Every Kill Team Infiltrator with jump pack is equipped with:","bolt pistol; accelerator autocannon; close combat weapon;","jump pack.","Every Kill Team Infiltrator with occulus bolt carbine is","equipped with:","bolt pistol; occulus bolt carbine; paired","combat blades.","Every Kill Team Infiltrator with combat knife is equipped","with:","special-issue bolt pistol; combat knife.","SPECTRUS KILL TEAM","Sinister, silent and all but invisible until they strike, Spectrus Kill","Teams are adept in inflicting death from both near and far. Clad in","close-fitting Mk X Phobos battle plate, they specialise in battlefield","control and enemy destabilisation."]}]}]
+[
+  {
+    "id": "40k-index-deathwatch-0",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "WATCH MASTER",
+    "subtype": "",
+    "keywords": [
+      "Infantry",
+      "Character",
+      "Grenades",
+      "Imperium",
+      "Captain",
+      "Watch Master"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Vigil spear",
+          "range": "24\"",
+          "a": "2",
+          "bws": "2+",
+          "s": "4",
+          "ap": "0",
+          "d": "2"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Vigil spear [LANCE]",
+          "range": "Melee",
+          "a": "6",
+          "bws": "2+",
+          "s": "6",
+          "ap": "-2",
+          "d": "D3"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Adeptus Astartes",
+      "Deathwatch"
+    ],
+    "abilities": {
+      "core": "Leader",
+      "faction": "Oath of Moment",
+      "special": [
+        "FACTION: Oath of Moment Strategic Knowledge: While this model is leading a unit, that unit is eligible to shoot and declare a charge in a turn in which it Advanced or Fell Back}.",
+        "Watch Master: Once per battle, after your opponent uses a Stratagem, if this model is your Warlord and is on the battlefield, it can use this ability}.",
+        "If it does, until the end of the battle, increase the cost of that Stratagem to your opponent by 1CP}."
+      ]
+    },
+    "invulnerable": "4+",
+    "damaged": null,
+    "stats": {
+      "m": "6\"",
+      "t": "4",
+      "sv": "2+",
+      "w": "5",
+      "ld": "6+",
+      "oc": "1"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "None"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Watch Master",
+          "This model is equipped with:",
+          "vigil spear."
+        ]
+      },
+      {
+        "name": "LEADER",
+        "values": [
+          "This model can be attached to the following units:",
+          "■",
+          "Deathwatch Veterans",
+          "■",
+          "Proteus Kill Team",
+          "WATCH MASTER",
+          "The galaxy’s foremost xenos hunters, each Watch Master commands",
+          "one of the Chapter’s vigilant fortresses. These leaders possess",
+          "centuries of strategic and esoteric knowledge of the horrors assailing",
+          "Mankind. In battle, the crackling blades and tailored bolts of their vigil",
+          "spears destroy any xenos before them."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-deathwatch-2",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "WATCH CAPTAIN ARTEMIS",
+    "subtype": "",
+    "keywords": [
+      "Infantry",
+      "Character",
+      "Epic Hero",
+      "Grenades",
+      "Imperium",
+      "Captain"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Hellfire Extremis [ANTI-INFANTRY 4+, DEVASTATING WOUNDS,IGNORES COVER, TORRENT]",
+          "range": "12\"",
+          "a": "D6",
+          "bws": "N/A",
+          "s": "4",
+          "ap": "-1",
+          "d": "1"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Master-crafted power weapon",
+          "range": "Melee",
+          "a": "6",
+          "bws": "2+",
+          "s": "5",
+          "ap": "-2",
+          "d": "2"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Adeptus Astartes",
+      "Deathwatch"
+    ],
+    "abilities": {
+      "core": "Feel No Pain 6+, Leader",
+      "faction": "Oath of Moment",
+      "special": [
+        "FACTION: Oath of Moment Tactical Instinct: While this model is leading a unit, you can target that unit with a Stratagem even if that Stratagem has already been used on another unit from your army this phase}.",
+        "In addition, that unit can be targeted with a Stratagem even while it is Battle-shocked}.",
+        "Unstoppable Champion: The first time this model is destroyed, roll one D6 at the end of the phase}.",
+        "On a 2+, set this model back up on the battlefield, as close as possible to where it was destroyed and not within Engagement Range of any enemy units, with 1 wound remaining}."
+      ]
+    },
+    "invulnerable": "4+",
+    "damaged": null,
+    "stats": {
+      "m": "6\"",
+      "t": "4",
+      "sv": "3+",
+      "w": "4",
+      "ld": "6+",
+      "oc": "1"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "None"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Watch Captain Artemis",
+          "This model is equipped with:",
+          "Hellfire Extremis; master-crafted",
+          "power weapon."
+        ]
+      },
+      {
+        "name": "LEADER",
+        "values": [
+          "This model can be attached to the following units:",
+          "■",
+          "Deathwatch Veterans",
+          "■",
+          "Proteus Kill Team",
+          "WATCH CAPTAIN ARTEMIS",
+          "Born survivor of a feral world and formerly of the macabre Mortifactors",
+          "Chapter, Artemis leads a Watch Company of Talasa Prime. Known for",
+          "his instinct for xenos trickery, he still relishes the prospect of violence,",
+          "whether with his blade, the mutagenic acid-fire of Hellfire Extremis or a",
+          "time-warping stasis grenade."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-deathwatch-4",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "KILL TEAM CASSIUS",
+    "subtype": "RANGED WEAPONS",
+    "keywords": [
+      "A"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Bolt pistol [PISTOL]",
+          "range": "12\"",
+          "a": "1",
+          "bws": "3+",
+          "s": "4",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Boltgun",
+          "range": "24\"",
+          "a": "2",
+          "bws": "3+",
+          "s": "4",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Deathwatch twin boltgun",
+          "range": "24\"",
+          "a": "4",
+          "bws": "3+",
+          "s": "4",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Frag cannon [BLAST, HEAVY, RAPID FIRE D3]",
+          "range": "18\"",
+          "a": "D3",
+          "bws": "4+",
+          "s": "7",
+          "ap": "-1",
+          "d": "2"
+        },
+        {
+          "name": "Heavy flamer [IGNORES COVER, TORRENT]",
+          "range": "12\"",
+          "a": "D6",
+          "bws": "N/A",
+          "s": "2",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Long Vigil ranged weapon [ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]",
+          "range": "24\"",
+          "a": "1",
+          "bws": "4+",
+          "s": "4",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Psychic Cleanse [PSYCHIC]",
+          "range": "24\"",
+          "a": "D6",
+          "bws": "3+",
+          "s": "5",
+          "ap": "-1",
+          "d": "D3"
+        },
+        {
+          "passive": "*",
+          "text": ""
+        }
+      ],
+      "melee": [
+        {
+          "name": "Artificer crozius",
+          "range": "Melee",
+          "a": "5",
+          "bws": "2+",
+          "s": "6",
+          "ap": "-1",
+          "d": "2"
+        },
+        {
+          "name": "Close combat weapon",
+          "range": "Melee",
+          "a": "3",
+          "bws": "3+",
+          "s": "5",
+          "ap": "-2",
+          "d": "1"
+        },
+        {
+          "name": "Force weapon [PSYCHIC]",
+          "range": "Melee",
+          "a": "5",
+          "bws": "2+",
+          "s": "5",
+          "ap": "-3",
+          "d": "D3"
+        },
+        {
+          "name": "Long Vigil melee weapon",
+          "range": "Melee",
+          "a": "4",
+          "bws": "3+",
+          "s": "4",
+          "ap": "-1",
+          "d": "1"
+        },
+        {
+          "name": "Power fist",
+          "range": "Melee",
+          "a": "3",
+          "bws": "3+",
+          "s": "8",
+          "ap": "-2",
+          "d": "2"
+        },
+        {
+          "name": "Twin lightning claws [TWIN-LINKED]",
+          "range": "Melee",
+          "a": "4",
+          "bws": "3+",
+          "s": "5",
+          "ap": "-2",
+          "d": "1"
+        },
+        {
+          "name": "ABILITIES",
+          "range": "CORE:",
+          "a": "Deep Strike",
+          "bws": "FACTION:",
+          "s": "Oath of Moment, Kill Team",
+          "ap": "Catechism of Death:",
+          "d": "While this unit contains Chaplain"
+        },
+        {
+          "name": "Cassius, melee weapons equipped by models in this unit",
+          "range": "have the [DEVASTATING WOUNDS]",
+          "a": "ability.",
+          "bws": "Unflinching:",
+          "s": "Each time this unit takes a Battle-shock or",
+          "ap": "Leadership test, you can re-roll that test.",
+          "d": "WARGEAR ABILITIES"
+        },
+        {
+          "name": "Jump Pack:",
+          "range": "The bearer has a Move characteristic of 12\" and",
+          "a": "can move over models and terrain as if they were not there.",
+          "bws": "Psychic Hood:",
+          "s": "Models in the bearer’s unit have the",
+          "ap": "Feel No Pain 4+ ability against Psychic Attacks.",
+          "d": "INVULNERABLE SAVE"
+        },
+        {
+          "passive": "*",
+          "text": "4+ M T SV W LD OC M T SV W LD OC 6\" 4 3+ 4 5+ 2 5\" 5 2+ 3 6+ 2 6\" 4 3+ 2 6+ 2 12\" 5 3+ 3 6+ 2 KILL TEAM VETERAN KILL TEAM BIKER CHAPLAIN CASSIUS KILL TEAM TERMINATOR KEYWORDS - ALL MODELS: Infantry, Kill Team, Grenades, Imperium, Kill Team Cassius | CHAPLAIN CASSIUS: Character, Epic Hero"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Adeptus Astartes",
+      "Deathwatch"
+    ],
+    "abilities": {
+      "core": "Deep Strike",
+      "faction": "Oath of Moment, Kill Team",
+      "special": [
+        "FACTION: Oath of Moment, Kill Team Catechism of Death: While this unit contains Chaplain Cassius, melee weapons equipped by models in this unit have the [DEVASTATING WOUNDS] ability}.",
+        "Unflinching: Each time this unit takes a Battle-shock or Leadership test, you can re-roll that test}.",
+        "WARGEAR ABILITIES Jump Pack: The bearer has a Move characteristic of 12\" and can move over models and terrain as if they were not there}.",
+        "Psychic Hood: Models in the bearer’s unit have the Feel No Pain 4+ ability against Psychic Attacks}."
+      ]
+    },
+    "invulnerable": "*",
+    "damaged": null,
+    "stats": {
+      "m": "M",
+      "t": "T",
+      "sv": "SV",
+      "w": "W",
+      "ld": "LD",
+      "oc": "OC"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "Chaplain Cassius is equipped with: artificer crozius; bolt pistol.",
+          "■",
+          "Vael Donatus is equipped with: boltgun; bolt pistol; close combat weapon.",
+          "■",
+          "Zameon Gydrael is equipped with: Long Vigil ranged weapon; Long Vigil melee weapon.",
+          "■",
+          "Rodricus Grytt is equipped with: frag cannon; bolt pistol; close combat weapon.",
+          "■",
+          "Antor Delassio is equipped with: Long Vigil ranged weapon; Long Vigil melee weapon, jump pack.",
+          "■",
+          "Edryc Setorax is equipped with: twin lightning claws, jump pack.",
+          "■",
+          "Jensus Natorian is equipped with: psychic Cleanse; bolt pistol; force weapon; psychic hood.",
+          "■",
+          "Drenn Redblade is equipped with: Long Vigil melee weapon; boltgun.",
+          "■",
+          "Garran Branatar is equipped with: heavy flamer; Long Vigil ranged weapon; power fist.",
+          "■",
+          "Ennox Sorrlock is equipped with: Long Vigil ranged weapon; close combat weapon.",
+          "■",
+          "Jetek Suberei is equipped with: Deathwatch twin boltgun; Long Vigil melee weapon."
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Chaplain Cassius -",
+          "Epic Hero",
+          "■",
+          "8 Kill Team Veterans:",
+          "◦",
+          "Vael Donatus",
+          "◦",
+          "Zameon Gydrael",
+          "◦",
+          "Rodricus Grytt",
+          "◦",
+          "Antor Delassio",
+          "◦",
+          "Edryc Setorax",
+          "◦",
+          "Jensus Natorian",
+          "◦",
+          "Drenn Redblade",
+          "◦",
+          "Ennox Sorrlock",
+          "■",
+          "1 Kill Team Terminator (Garran Branatar)",
+          "■",
+          "1 Kill Team Biker (Jetek Suberei)",
+          "CASSIUS",
+          "Your army cannot contain both",
+          "Chaplain Cassius",
+          "and",
+          "Kill",
+          "Team Cassius",
+          ".",
+          "KILL TEAM CASSIUS",
+          "Kill Team Cassius is an elite squad of specialists, even amongst",
+          "Talasa Prime’s ranks of Veterans. Hand-picked by Chaplain Cassius for",
+          "an unauthorised mission, the kill team uncovered the first recorded",
+          "Genestealer Cult alongside him on Ghosar Quintus. They have fought",
+          "together many times since, and baulk at no xenos horror.",
+          "KEYWORDS - ALL MODELS:",
+          "Infantry, Kill Team, Grenades, Imperium,",
+          "Kill Team Cassius",
+          "| CHAPLAIN CASSIUS:",
+          "Character, Epic Hero"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-deathwatch-6",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "DEATHWATCH VETERANS",
+    "subtype": "RANGED WEAPONS",
+    "keywords": [
+      "A"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Boltgun",
+          "range": "24\"",
+          "a": "2",
+          "bws": "3+",
+          "s": "4",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Frag cannon [BLAST, HEAVY, RAPID FIRE D3]",
+          "range": "18\"",
+          "a": "D3",
+          "bws": "4+",
+          "s": "7",
+          "ap": "-1",
+          "d": "2"
+        },
+        {
+          "name": "Infernus heavy bolter - heavy bolter [HEAVY, SUSTAINED HITS 1]",
+          "range": "36\"",
+          "a": "3",
+          "bws": "4+",
+          "s": "5",
+          "ap": "-1",
+          "d": "2"
+        },
+        {
+          "name": "Infernus heavy bolter - heavy flamer [IGNORES COVER, TORRENT]",
+          "range": "12\"",
+          "a": "D6",
+          "bws": "N/A",
+          "s": "5",
+          "ap": "-1",
+          "d": "1"
+        },
+        {
+          "name": "Long Vigil ranged weapon [ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]",
+          "range": "24\"",
+          "a": "1",
+          "bws": "4+",
+          "s": "4",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Missile launcher - frag [BLAST, HEAVY]",
+          "range": "48\"",
+          "a": "D6",
+          "bws": "4+",
+          "s": "4",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Missile launcher - krak [HEAVY]",
+          "range": "48\"",
+          "a": "1",
+          "bws": "4+",
+          "s": "9",
+          "ap": "-2",
+          "d": "D6"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Close combat weapon",
+          "range": "Melee",
+          "a": "3",
+          "bws": "3+",
+          "s": "4",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Deathwatch thunder hammer [DEVASTATING WOUNDS]",
+          "range": "Melee",
+          "a": "3",
+          "bws": "4+",
+          "s": "10",
+          "ap": "-2",
+          "d": "3"
+        },
+        {
+          "name": "Long Vigil melee weapon",
+          "range": "Melee",
+          "a": "3",
+          "bws": "3+",
+          "s": "5",
+          "ap": "-2",
+          "d": "1"
+        },
+        {
+          "name": "Xenophase blade [DEVASTATING WOUNDS]",
+          "range": "Melee",
+          "a": "4",
+          "bws": "3+",
+          "s": "5",
+          "ap": "-2",
+          "d": "1"
+        },
+        {
+          "name": "ABILITIES",
+          "range": "FACTION:",
+          "a": "Oath of Moment",
+          "bws": "Death to the Alien:",
+          "s": "Each time a model in this unit makes",
+          "ap": "an attack, re-roll a Hit roll of 1. If the target of that attack",
+          "d": "does not have the"
+        },
+        {
+          "name": "Imperium",
+          "range": "or",
+          "a": "Chaos",
+          "bws": "keywords, you can",
+          "s": "re-roll the Hit roll instead.",
+          "ap": "WARGEAR ABILITIES",
+          "d": "Astartes Shield:"
+        },
+        {
+          "name": "The bearer has a 4+ invulnerable save.",
+          "range": "M",
+          "a": "T",
+          "bws": "SV",
+          "s": "W",
+          "ap": "LD",
+          "d": "OC"
+        },
+        {
+          "name": "6\"",
+          "range": "4",
+          "a": "3+",
+          "bws": "2",
+          "s": "6+",
+          "ap": "2",
+          "d": "KEYWORDS:"
+        },
+        {
+          "name": "Infantry, Battleline, Kill Team, Grenades, Imperium,",
+          "range": "Deathwatch Veterans"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Adeptus Astartes",
+      "Deathwatch"
+    ],
+    "abilities": {
+      "core": null,
+      "faction": "Oath of Moment",
+      "special": [
+        "Death to the Alien: Each time a model in this unit makes an attack, re-roll a Hit roll of 1}.",
+        "If the target of that attack does not have the Imperium or Chaos keywords, you can re-roll the Hit roll instead}.",
+        "WARGEAR ABILITIES Astartes Shield: The bearer has a 4+ invulnerable save}."
+      ]
+    },
+    "invulnerable": "",
+    "damaged": null,
+    "stats": {
+      "m": "6\"",
+      "t": "4",
+      "sv": "3+",
+      "w": "2",
+      "ld": "6+",
+      "oc": "2"
+    },
+    "footnotes": {
+      "footnotes": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "Any number of models can each have their",
+          "boltgun and Long Vigil melee weapon replaced",
+          "with one of the following:",
+          "◦",
+          "1 Long Vigil ranged weapon and 1 close",
+          "combat weapon",
+          "◦",
+          "1 Astartes shield, 1 boltgun and 1 close",
+          "combat weapon",
+          "◦",
+          "1 Astartes shield and 1 Long Vigil melee",
+          "weapon",
+          "■",
+          "For every 5 models in this unit, up to 2 models",
+          "can each have their boltgun and Long Vigil",
+          "melee weapon replaced with 1 Deathwatch",
+          "thunder hammer.",
+          "■",
+          "For every 5 models in this unit, up to 2",
+          "models can each have their boltgun and Long",
+          "Vigil melee weapon replaced with one of",
+          "the following:",
+          "◦",
+          "1 frag cannon and 1 close combat weapon",
+          "◦",
+          "1 infernus heavy bolter and 1 close combat",
+          "weapon",
+          "◦",
+          "1 missile launcher and 1 close combat",
+          "weapon",
+          "■",
+          "The Watch Sergeant’s Long Vigil melee weapon",
+          "can be replaced with 1 xenophase blade.",
+          "■",
+          "The Watch Sergeant’s boltgun can be replaced",
+          "with 1 Long Vigil ranged weapon."
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Watch Sergeant",
+          "■",
+          "4-9 Deathwatch Veterans",
+          "Every model is equipped with:",
+          "boltgun; Long Vigil",
+          "melee weapon.",
+          "ATTACHED UNIT",
+          "If a",
+          "Character",
+          "from your army with the Leader ability can be",
+          "attached to a",
+          "Vanguard Veteran Squad",
+          ", it can be attached to",
+          "this unit instead.",
+          "DEATHWATCH VETERANS",
+          "Deathwatch Veterans’ skills have been honed in their former Chapter",
+          "for decades, sometimes centuries. Throughout their long vigil against",
+          "the manifold xenos threats, each Veteran learns to arm himself so as",
+          "to best contribute to the mission at hand, and squads carry an array",
+          "of weapons to fell any foe."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-deathwatch-8",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "DEATHWATCH TERMINATOR SQUAD",
+    "subtype": "",
+    "keywords": [
+      "Infantry",
+      "Imperium",
+      "Terminator",
+      "Deathwatch Terminator Squad"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Assault cannon [DEVASTATING WOUNDS]",
+          "range": "24\"",
+          "a": "6",
+          "bws": "3+",
+          "s": "6",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Cyclone missile launcher - frag [BLAST]",
+          "range": "36\"",
+          "a": "2D6",
+          "bws": "3+",
+          "s": "4",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Cyclone missile launcher - krak",
+          "range": "36\"",
+          "a": "2",
+          "bws": "3+",
+          "s": "9",
+          "ap": "-2",
+          "d": "D6"
+        },
+        {
+          "name": "Heavy flamer [IGNORES COVER, TORRENT]",
+          "range": "12\"",
+          "a": "D6",
+          "bws": "N/A",
+          "s": "5",
+          "ap": "-1",
+          "d": "1"
+        },
+        {
+          "name": "Plasma cannon - standard [BLAST]",
+          "range": "36\"",
+          "a": "D3",
+          "bws": "3+",
+          "s": "7",
+          "ap": "-2",
+          "d": "1"
+        },
+        {
+          "name": "Plasma cannon - supercharge [BLAST, HAZARDOUS]",
+          "range": "36\"",
+          "a": "D3",
+          "bws": "3+",
+          "s": "8",
+          "ap": "-3",
+          "d": "2"
+        },
+        {
+          "name": "Storm bolter [RAPID FIRE 2]",
+          "range": "24\"",
+          "a": "2",
+          "bws": "3+",
+          "s": "4",
+          "ap": "0",
+          "d": "1"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Chainfist [ANTI-VEHICLE 3+]",
+          "range": "Melee",
+          "a": "3",
+          "bws": "4+",
+          "s": "8",
+          "ap": "-2",
+          "d": "2"
+        },
+        {
+          "name": "Power fist",
+          "range": "Melee",
+          "a": "3",
+          "bws": "3+",
+          "s": "8",
+          "ap": "-2",
+          "d": "2"
+        },
+        {
+          "name": "Power weapon",
+          "range": "Melee",
+          "a": "4",
+          "bws": "3+",
+          "s": "5",
+          "ap": "-2",
+          "d": "1"
+        },
+        {
+          "name": "Thunder hammer [DEVASTATING WOUNDS]",
+          "range": "Melee",
+          "a": "3",
+          "bws": "4+",
+          "s": "8",
+          "ap": "-2",
+          "d": "2"
+        },
+        {
+          "name": "Twin lightning claws [TWIN-LINKED]",
+          "range": "Melee",
+          "a": "5",
+          "bws": "3+",
+          "s": "5",
+          "ap": "-2",
+          "d": "1"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Adeptus Astartes",
+      "Deathwatch"
+    ],
+    "abilities": {
+      "core": "Deep Strike",
+      "faction": "Oath of Moment",
+      "special": [
+        "FACTION: Oath of Moment Terminatus Assault: Each time this unit ends a Charge move, each enemy unit within Engagement Range of this unit must take a Battle-shock test}.",
+        "Teleport Homer: At the start of the battle, you can set up one Teleport Homer token for this unit anywhere on the battlefield that is not in your opponent’s deployment zone}.",
+        "If you do, once per battle, you can target this unit with the Rapid Ingress Stratagem for 0CP, but when resolving that Stratagem, you must set this unit up within 3\" of that token and not within 9\" of any enemy models}.",
+        "That token is then removed}.",
+        "WARGEAR ABILITIES Storm Shield: The bearer has a Wounds characteristic of 4}."
+      ]
+    },
+    "invulnerable": "4+",
+    "damaged": null,
+    "stats": {
+      "m": "5\"",
+      "t": "5",
+      "sv": "2+",
+      "w": "3",
+      "ld": "6+",
+      "oc": "1"
+    },
+    "footnotes": {
+      "footnotes": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "Up to 3 Deathwatch Terminators can each have their storm bolter replaced with one of the following:",
+          "◦",
+          "1 assault cannon",
+          "◦",
+          "1 heavy flamer",
+          "◦",
+          "1 plasma cannon",
+          "◦",
+          "1 cyclone missile launcher and 1 storm bolter (this model’s storm bolter cannot be replaced)",
+          "■",
+          "Any number of models can each have their power fist and storm bolter replaced with one of",
+          "the following:",
+          "◦",
+          "1 storm bolter and 1 power weapon",
+          "◦",
+          "1 storm bolter and 1 chainfist",
+          "◦",
+          "1 twin lightning claws",
+          "◦",
+          "1 thunder hammer and 1 storm shield"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Deathwatch Terminator Sergeant",
+          "■",
+          "4-9 Deathwatch Terminators",
+          "Every model is equipped with:",
+          "power fist; storm bolter.",
+          "ATTACHED UNIT",
+          "If a",
+          "Character",
+          "from your army with the Leader ability can be",
+          "attached to a",
+          "Terminator Squad",
+          ", it can be attached to this",
+          "unit instead.",
+          "DEATHWATCH TERMINATOR SQUAD",
+          "The indomitable warriors honoured to wear hulking suits of Terminator",
+          "armour are an inspiring sight to their brethren. Deathwatch",
+          "Terminators carry the most powerful close combat weapons, and",
+          "the strength and durability of their armour allows them to take the",
+          "heaviest firepower directly into hidden xenos lairs."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-deathwatch-10",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "VETERAN BIKE SQUAD",
+    "subtype": "",
+    "keywords": [
+      "Mounted",
+      "Grenades",
+      "Imperium",
+      "Veteran Bike Squad"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Bolt pistol [PISTOL]",
+          "range": "12\"",
+          "a": "1",
+          "bws": "3+",
+          "s": "4",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Long Vigil ranged weapon [ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]",
+          "range": "24\"",
+          "a": "1",
+          "bws": "4+",
+          "s": "4",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Twin boltgun [TWIN-LINKED]",
+          "range": "24\"",
+          "a": "2",
+          "bws": "3+",
+          "s": "4",
+          "ap": "0",
+          "d": "1"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Close combat weapon",
+          "range": "Melee",
+          "a": "3",
+          "bws": "3+",
+          "s": "4",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Long Vigil melee weapon",
+          "range": "Melee",
+          "a": "3",
+          "bws": "3+",
+          "s": "5",
+          "ap": "-2",
+          "d": "1"
+        },
+        {
+          "name": "Xenophase blade [DEVASTATING WOUNDS]",
+          "range": "Melee",
+          "a": "4",
+          "bws": "3+",
+          "s": "5",
+          "ap": "-2",
+          "d": "1"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Adeptus Astartes",
+      "Deathwatch"
+    ],
+    "abilities": {
+      "core": null,
+      "faction": "Oath of Moment",
+      "special": [
+        "Turbo-boost: Each time this unit Advances, do not make an Advance roll for it}.",
+        "Instead, until the end of the phase, add 6\" to the Move characteristic of models in this unit}.",
+        "WARGEAR ABILITIES Astartes Shield: The bearer has a 4+ invulnerable save}."
+      ]
+    },
+    "invulnerable": "",
+    "damaged": null,
+    "stats": {
+      "m": "12\"",
+      "t": "5",
+      "sv": "3+",
+      "w": "3",
+      "ld": "6+",
+      "oc": "2"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "The Veteran Biker Sergeant can be equipped with one of the following:",
+          "◦",
+          "1 Long Vigil ranged weapon",
+          "◦",
+          "1 Long Vigil melee weapon",
+          "◦",
+          "1 xenophase blade",
+          "◦",
+          "1 Astartes shield",
+          "■",
+          "Any number of Veteran Biker models can each be equipped with 1 Long Vigil melee weapon."
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Veteran Biker Sergeant",
+          "■",
+          "2-5 Veteran Bikers",
+          "Every model is equipped with:",
+          "bolt pistol; close combat",
+          "weapon; twin boltgun.",
+          "ATTACHED UNIT",
+          "If a",
+          "Character",
+          "from your army with the Leader ability can",
+          "be attached to a",
+          "Outrider Squad",
+          ", it can be attached to this",
+          "unit instead.",
+          "VETERAN BIKE SQUAD",
+          "Matching their speed, strength and firepower against the swiftest",
+          "xenos, Veteran Bikers are expert hunters. Undertaking extended",
+          "missions in dangerous territory, they assess their enemy’s every",
+          "weakness, close off escape routes and use their velocity to enact",
+          "sudden strikes from unexpected angles."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-deathwatch-12",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "CORVUS BLACKSTAR",
+    "subtype": "",
+    "keywords": [
+      "Vehicle",
+      "Aircraft",
+      "Fly",
+      "Imperium",
+      "Transport",
+      "Corvus Blackstar"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Blackstar rocket launcher [BLAST]",
+          "range": "30\"",
+          "a": "D6+1",
+          "bws": "3+",
+          "s": "5",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Hurricane bolter [RAPID FIRE 6, TWIN-LINKED]",
+          "range": "24\"",
+          "a": "6",
+          "bws": "3+",
+          "s": "4",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Stormstrike missile launcher",
+          "range": "48\"",
+          "a": "1",
+          "bws": "3+",
+          "s": "10",
+          "ap": "-2",
+          "d": "3"
+        },
+        {
+          "name": "Twin assault cannon [DEVASTATING WOUNDS, TWIN-LINKED]",
+          "range": "24\"",
+          "a": "6",
+          "bws": "3+",
+          "s": "6",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Twin lascannon [TWIN-LINKED]",
+          "range": "48\"",
+          "a": "1",
+          "bws": "3+",
+          "s": "12",
+          "ap": "-3",
+          "d": "D6+1"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Armoured hull",
+          "range": "Melee",
+          "a": "3",
+          "bws": "4+",
+          "s": "6",
+          "ap": "0",
+          "d": "1"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Adeptus Astartes",
+      "Deathwatch"
+    ],
+    "abilities": {
+      "core": "Deadly Demise D6, Hover, Stealth",
+      "faction": "Oath of Moment",
+      "special": [
+        "FACTION: Oath of Moment Blackstar Cluster Launcher: Each time this model ends a Normal move, you can select one enemy unit it moved over during that move and roll six D6: for each 5+, that unit suffers 1 mortal wound}.",
+        "WARGEAR ABILITIES Auspex Array: Ranged weapons equipped by the bearer have the [IGNORES COVER] ability}.",
+        "Infernum Halo-launcher: The bearer has the Smoke keyword}.",
+        "DAMAGED: 1-5 WOUNDS REMAINING While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll}.",
+        "T SV W LD OC 10 3+ 14 6+ 0 20+\"}."
+      ]
+    },
+    "invulnerable": "",
+    "damaged": null,
+    "stats": {
+      "m": "20+\"",
+      "t": "10",
+      "sv": "3+",
+      "w": "14",
+      "ld": "6+",
+      "oc": "0"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "This model’s twin assault cannon can be replaced with 1 twin lascannon.",
+          "■",
+          "This model’s 2 Blackstar rocket launchers can be replaced with 2 stormstrike missile launchers.",
+          "■",
+          "This model can be equipped with 1 hurricane bolter.",
+          "■",
+          "This model can be equipped with one of the following:",
+          "◦",
+          "1 auspex array",
+          "◦",
+          "1 infernum halo-launcher"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Corvus Blackstar",
+          "This model is equipped with:",
+          "2 Blackstar rocket launchers;",
+          "twin assault cannon; armoured hull."
+        ]
+      },
+      {
+        "name": "TRANSPORT",
+        "values": [
+          "This model has a transport capacity of 12",
+          "Adeptus Astartes",
+          "Infantry",
+          "models or one",
+          "Kill Team",
+          "unit. Each",
+          "Jump Pack",
+          ",",
+          "Gravis",
+          "or",
+          "Terminator",
+          "model takes up the space of 2 models",
+          "and each",
+          "Mounted",
+          "model takes up the space of 3 models.",
+          "CORVUS BLACKSTAR",
+          "Corvus Blackstars are sleek and shrouded aircraft used to insert kill",
+          "teams into heavily infested landing zones or even xenos strongholds.",
+          "With a barrage of missiles, Blackstars secure aerial supremacy and",
+          "sweep the target site clear before firing their hover jets and delivering",
+          "their deadly payload of elite warriors."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-deathwatch-14",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "PROTEUS KILL TEAM",
+    "subtype": "RANGED WEAPONS",
+    "keywords": [
+      "A"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Boltgun",
+          "range": "24\"",
+          "a": "2",
+          "bws": "3+",
+          "s": "4",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Frag cannon [BLAST, HEAVY, RAPID FIRE D3]",
+          "range": "18\"",
+          "a": "D3",
+          "bws": "4+",
+          "s": "7",
+          "ap": "-1",
+          "d": "2"
+        },
+        {
+          "name": "Storm bolter [RAPID FIRE 2]",
+          "range": "24\"",
+          "a": "2",
+          "bws": "3+",
+          "s": "4",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Twin boltgun [TWIN-LINKED]",
+          "range": "24\"",
+          "a": "1",
+          "bws": "3+",
+          "s": "4",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "passive": "*",
+          "text": ""
+        }
+      ],
+      "melee": [
+        {
+          "name": "Close combat weapon",
+          "range": "Melee",
+          "a": "3",
+          "bws": "3+",
+          "s": "4",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Chainfist [ANTI-VEHICLE 3+]",
+          "range": "Melee",
+          "a": "3",
+          "bws": "4+",
+          "s": "8",
+          "ap": "-2",
+          "d": "2"
+        },
+        {
+          "name": "Deathwatch thunder hammer [DEVASTATING WOUNDS]",
+          "range": "Melee",
+          "a": "3",
+          "bws": "4+",
+          "s": "10",
+          "ap": "-2",
+          "d": "3"
+        },
+        {
+          "name": "Long Vigil melee weapon",
+          "range": "Melee",
+          "a": "3",
+          "bws": "3+",
+          "s": "5",
+          "ap": "-2",
+          "d": "1"
+        },
+        {
+          "name": "Power fist",
+          "range": "Melee",
+          "a": "3",
+          "bws": "3+",
+          "s": "8",
+          "ap": "-2",
+          "d": "2"
+        },
+        {
+          "name": "Power weapon",
+          "range": "Melee",
+          "a": "4",
+          "bws": "3+",
+          "s": "5",
+          "ap": "-2",
+          "d": "1"
+        },
+        {
+          "name": "Terminator thunder hammer [DEVASTATING WOUNDS]",
+          "range": "Melee",
+          "a": "4",
+          "bws": "3+",
+          "s": "8",
+          "ap": "-2",
+          "d": "2"
+        },
+        {
+          "name": "Twin lightning claws [TWIN-LINKED]",
+          "range": "Melee",
+          "a": "5",
+          "bws": "3+",
+          "s": "5",
+          "ap": "-2",
+          "d": "1"
+        },
+        {
+          "name": "ABILITIES",
+          "range": "FACTION:",
+          "a": "Kill Team, Oath of Moment",
+          "bws": "Proteus Doctrines:",
+          "s": "Each time a model in this unit makes an",
+          "ap": "attack that targets a unit that is not Below Half-strength, add",
+          "d": "1 to the Hit roll."
+        },
+        {
+          "name": "WARGEAR ABILITIES",
+          "range": "Astartes Shield:",
+          "a": "The bearer has a 4+ invulnerable save.",
+          "bws": "Jump Pack:",
+          "s": "The bearer has a Move characteristic of 12\" and",
+          "ap": "can move over models and terrain features as if they were",
+          "d": "not there."
+        },
+        {
+          "name": "Storm Shield:",
+          "range": "The bearer has a Wounds characteristic of 4.",
+          "a": "INVULNERABLE SAVE"
+        },
+        {
+          "passive": "*",
+          "text": "4+ M T SV W LD OC M T SV W LD OC 6\" 4 3+ 2 6+ 1 5\" 5 2+ 3 6+ 1 12\" 5 3+ 3 6+ 2 KILL TEAM BIKER KILL TEAM VETERANS KILL TEAM TERMINATOR KEYWORDS: Infantry, Kill Team, Grenades, Imperium, Proteus Kill Team"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Adeptus Astartes",
+      "Deathwatch"
+    ],
+    "abilities": {
+      "core": null,
+      "faction": "Kill Team, Oath of Moment",
+      "special": [
+        "Proteus Doctrines: Each time a model in this unit makes an attack that targets a unit that is not Below Half-strength, add 1 to the Hit roll}.",
+        "WARGEAR ABILITIES Astartes Shield: The bearer has a 4+ invulnerable save}.",
+        "Jump Pack: The bearer has a Move characteristic of 12\" and can move over models and terrain features as if they were not there}.",
+        "Storm Shield: The bearer has a Wounds characteristic of 4}."
+      ]
+    },
+    "invulnerable": "*",
+    "damaged": null,
+    "stats": {
+      "m": "M",
+      "t": "T",
+      "sv": "SV",
+      "w": "W",
+      "ld": "LD",
+      "oc": "OC"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "Any number of Kill Team Veterans can replace",
+          "their boltgun and Long Vigil melee weapon with:",
+          "◦",
+          "1 Long Vigil ranged weapon*",
+          "◦",
+          "1 boltgun and 1 Astartes shield",
+          "◦",
+          "1 Long Vigil melee weapon and 1 Astartes",
+          "shield",
+          "■",
+          "For every 5 models in this unit, up to 2 models",
+          "can replace their boltgun and Long Vigil melee",
+          "weapon with 1 Deathwatch thunder hammer.",
+          "■",
+          "For every 5 models in the unit, up to 2 models",
+          "can replace their boltgun and Long Vigil melee",
+          "weapon with one of the following:",
+          "◦",
+          "1 frag cannon",
+          "◦",
+          "1 Infernus heavy bolter*",
+          "■",
+          "Any number of Kill Team Biker models can be",
+          "equipped with one of the following:",
+          "◦",
+          "1 bolt pistol",
+          "◦",
+          "1 Long Vigil melee weapon",
+          "■",
+          "Up to 3 models can each have their storm bolter",
+          "replaced with one of the following:",
+          "◦",
+          "1 assault cannon*",
+          "◦",
+          "1 heavy flamer*",
+          "◦",
+          "1 plasma cannon*",
+          "◦",
+          "1 cyclone missile launcher* and 1 storm",
+          "bolter (this model’s storm bolter cannot be",
+          "replaced)",
+          "■",
+          "Any number of Kill Team Terminator models can",
+          "replace their power fist and storm bolter with",
+          "one of the following:",
+          "◦",
+          "1 storm bolter and 1 power weapon",
+          "◦",
+          "1 storm bolter and 1 chainfist",
+          "◦",
+          "1 twin lightning claws",
+          "◦",
+          "1 Terminator thunder hammer and 1 storm",
+          "shield",
+          "*",
+          "The profile for this weapon can be found on the Deathwatch",
+          "Armoury card.",
+          "UNIT COMPOSITION (10 MODELS MAXIMUM)",
+          "■",
+          "5-10 Kill Team Veterans",
+          "■",
+          "0-4 Kill Team Veterans with Jump Packs",
+          "■",
+          "0-2 Kill Team Bikers",
+          "■",
+          "0-4 Kill Team Terminators",
+          "Every Kill Team Veteran is equipped with:",
+          "boltgun; Long Vigil",
+          "melee weapon; close combat weapon.",
+          "Every Kill Team Veteran with Jump Pack is equipped with:",
+          "Long Vigil melee weapon; close combat weapon; jump pack.",
+          "Every Kill Team Biker is equipped with:",
+          "twin boltgun; close",
+          "combat weapon.",
+          "Every Kill Team Terminator is equipped with:",
+          "storm bolter;",
+          "power fist.",
+          "ATTACHED UNIT",
+          "If a",
+          "Character",
+          "from your army with the Leader ability can be",
+          "attached to a",
+          "Vanguard Veterans Squad",
+          ", it can be attached",
+          "to this unit instead.",
+          "PROTEUS KILL TEAM",
+          "The sheer versatility of their weapon loadout, coupled with their",
+          "durability and manoeuvrability, make it little wonder that Proteus Kill",
+          "Teams have worked miraculous feats of arms on countless hostile",
+          "worlds over the course of the Imperium’s history."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-deathwatch-16",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "FORTIS KILL TEAM",
+    "subtype": "RANGED WEAPONS",
+    "keywords": [
+      "A"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Bolt pistol [PISTOL]",
+          "range": "12\"",
+          "a": "1",
+          "bws": "3+",
+          "s": "4",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Bolt rifle [ASSAULT, HEAVY]",
+          "range": "24\"",
+          "a": "2",
+          "bws": "3+",
+          "s": "4",
+          "ap": "-1",
+          "d": "1"
+        },
+        {
+          "name": "Hand flamer [IGNORES COVER, PISTOL, TORRENT]",
+          "range": "12\"",
+          "a": "D6",
+          "bws": "N/A",
+          "s": "3",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Heavy bolt pistol [PISTOL]",
+          "range": "18\"",
+          "a": "1",
+          "bws": "3+",
+          "s": "4",
+          "ap": "-1",
+          "d": "1"
+        },
+        {
+          "name": "Long Vigil ranged weapon [ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]",
+          "range": "24\"",
+          "a": "1",
+          "bws": "4+",
+          "s": "4",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Plasma incinerator - standard [ASSAULT, HEAVY]",
+          "range": "24\"",
+          "a": "2",
+          "bws": "3+",
+          "s": "7",
+          "ap": "-2",
+          "d": "1"
+        },
+        {
+          "name": "Plasma incinerator - supercharge [ASSAULT, HAZARDOUS, HEAVY]",
+          "range": "24\"",
+          "a": "2",
+          "bws": "3+",
+          "s": "8",
+          "ap": "-3",
+          "d": "2"
+        },
+        {
+          "name": "Storm bolter [RAPID FIRE 2]",
+          "range": "24\"",
+          "a": "2",
+          "bws": "3+",
+          "s": "4",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Twin bolt rifle [TWIN-LINKED]",
+          "range": "24\"",
+          "a": "2",
+          "bws": "3+",
+          "s": "4",
+          "ap": "-1",
+          "d": "1"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Astartes chainsword",
+          "range": "Melee",
+          "a": "4",
+          "bws": "4+",
+          "s": "4",
+          "ap": "-1",
+          "d": "1"
+        },
+        {
+          "name": "Close combat weapon",
+          "range": "Melee",
+          "a": "3",
+          "bws": "3+",
+          "s": "4",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Long Vigil melee weapon",
+          "range": "Melee",
+          "a": "3",
+          "bws": "3+",
+          "s": "5",
+          "ap": "-2",
+          "d": "1"
+        },
+        {
+          "name": "ABILITIES",
+          "range": "FACTION:",
+          "a": "Kill Team, Oath of Moment",
+          "bws": "Fortis Doctrines:",
+          "s": "Each time a model in this unit makes an",
+          "ap": "attack that targets a unit that is Below Half-strength, add 1 to",
+          "d": "the Hit roll."
+        },
+        {
+          "name": "M",
+          "range": "T",
+          "a": "SV",
+          "bws": "W",
+          "s": "LD",
+          "ap": "OC",
+          "d": "6\""
+        },
+        {
+          "name": "4",
+          "range": "3+",
+          "a": "2",
+          "bws": "6+",
+          "s": "1",
+          "ap": "12\"",
+          "d": "5"
+        },
+        {
+          "name": "3+",
+          "range": "4",
+          "a": "6+",
+          "bws": "2",
+          "s": "KILL TEAM",
+          "ap": "OUTRIDER",
+          "d": "KILL TEAM"
+        },
+        {
+          "name": "INTERCESSOR",
+          "range": "KEYWORDS:",
+          "a": "Infantry, Kill Team, Grenades, Imperium, Tacticus,",
+          "bws": "Fortis Kill Team"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Adeptus Astartes",
+      "Deathwatch"
+    ],
+    "abilities": {
+      "core": null,
+      "faction": "Kill Team, Oath of Moment",
+      "special": [
+        "Fortis Doctrines: Each time a model in this unit makes an attack that targets a unit that is Below Half-strength, add 1 to the Hit roll}."
+      ]
+    },
+    "invulnerable": "",
+    "damaged": null,
+    "stats": {
+      "m": "6\"",
+      "t": "4",
+      "sv": "3+",
+      "w": "2",
+      "ld": "6+",
+      "oc": "1"
+    },
+    "footnotes": {
+      "footnotes": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "1 Kill Team Intercessor’s bolt rifle can be",
+          "replaced with one of the following:",
+          "◦",
+          "1 hand flamer",
+          "◦",
+          "1 plasma pistol",
+          "◦",
+          "1 Astartes chainsword",
+          "◦",
+          "1 Long Vigil melee weapon",
+          "■",
+          "1 model equipped with a bolt rifle can replace its",
+          "close combat weapon with one of the following:",
+          "◦",
+          "1 Astartes chainsword",
+          "◦",
+          "1 Long Vigil melee weapon",
+          "■",
+          "For every 5 models in this unit, 1 model’s",
+          "bolt rifle can be replaced with 1 Long Vigil",
+          "ranged weapon.",
+          "■",
+          "Any number of Kill Team Intercessors with",
+          "plasma incinerators can each have their bolt",
+          "pistol replaced with 1 plasma pistol.*",
+          "*",
+          "The profile for this weapon can be found on the Deathwatch",
+          "Armoury card.",
+          "UNIT COMPOSITION (10 MODELS MAXIMUM)",
+          "■",
+          "5-10 Kill Team Intercessors",
+          "■",
+          "0-4 Kill Team Intercessors with plasma incinerators",
+          "■",
+          "0-4 Kill Team Intercessors with heavy bolt pistols",
+          "■",
+          "0-2 Kill Team Outriders",
+          "Every Kill Team Intercessor is equipped with:",
+          "bolt pistol; bolt",
+          "rifle; close combat weapon.",
+          "Every Kill Team Intercessor with plasma incinerator",
+          "is equipped with:",
+          "bolt pistol; plasma incinerator; close",
+          "combat weapon.",
+          "Every Kill Team Intercessor with heavy bolt pistol is",
+          "equipped with:",
+          "heavy bolt pistol; Astartes chainsword.",
+          "Every Kill Team Outrider is equipped with:",
+          "bolt pistol; twin",
+          "bolt rifle; Astartes chainsword.",
+          "ATTACHED UNIT",
+          "If a",
+          "Character",
+          "from your army with the Leader ability can be",
+          "attached to an",
+          "Intercessor Squad",
+          ", it can be attached to this",
+          "unit instead.",
+          "FORTIS KILL TEAM",
+          "Further refined from Watch Master Mordelai’s original concept, Fortis",
+          "Kill Teams exemplify the supreme adaptability of the Tacticus variant",
+          "of Mk X power armour, seamlessly merging a variety of close support",
+          "roles and deadly firepower."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-deathwatch-18",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "INDOMITOR KILL TEAM",
+    "subtype": "RANGED WEAPONS",
+    "keywords": [
+      "A"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Assault bolters [ASSAULT, PISTOL, SUSTAINED HITS 2, TWIN -LINKED]",
+          "range": "18\"",
+          "a": "3",
+          "bws": "3+",
+          "s": "5",
+          "ap": "-1",
+          "d": "2"
+        },
+        {
+          "name": "Auto boltstorm gauntlets [TWIN-LINKED]",
+          "range": "18\"",
+          "a": "3",
+          "bws": "3+",
+          "s": "4",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Fragstorm grenade launcher [BLAST]",
+          "range": "18\"",
+          "a": "D6",
+          "bws": "3+",
+          "s": "4",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Heavy bolt rifle [ASSAULT, HEAVY]",
+          "range": "30\"",
+          "a": "2",
+          "bws": "3+",
+          "s": "5",
+          "ap": "-1",
+          "d": "1"
+        },
+        {
+          "name": "Heavy bolter [ASSAULT, HEAVY, SUSTAINED HITS 1]",
+          "range": "36\"",
+          "a": "3",
+          "bws": "4+",
+          "s": "5",
+          "ap": "-1",
+          "d": "2"
+        },
+        {
+          "name": "Flamestorm gauntlets [IGNORES COVER, TORRENT, TWIN-LINKED]",
+          "range": "12\"",
+          "a": "D6+1",
+          "bws": "N/A",
+          "s": "4",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Melta rifle [HEAVY, MELTA 2]",
+          "range": "18\"",
+          "a": "1",
+          "bws": "3+",
+          "s": "9",
+          "ap": "-4",
+          "d": "D6"
+        },
+        {
+          "name": "Multi-melta [HEAVY, MELTA 2]",
+          "range": "18\"",
+          "a": "2",
+          "bws": "4+",
+          "s": "9",
+          "ap": "-4",
+          "d": "D6"
+        },
+        {
+          "name": "Plasma exterminators - standard [ASSAULT, PISTOL, TWIN-LINKED]",
+          "range": "18\"",
+          "a": "2",
+          "bws": "3+",
+          "s": "7",
+          "ap": "-2",
+          "d": "2"
+        },
+        {
+          "name": "Plasma exterminators - supercharge [ASSAULT, HAZARDOUS, PISTOL, TWIN-LINKED]",
+          "range": "18\"",
+          "a": "2",
+          "bws": "3+",
+          "s": "8",
+          "ap": "-3",
+          "d": "3"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Close combat weapon",
+          "range": "Melee",
+          "a": "3",
+          "bws": "3+",
+          "s": "4",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Power fists [TWIN -LINKED]",
+          "range": "Melee",
+          "a": "3",
+          "bws": "4+",
+          "s": "8",
+          "ap": "-2",
+          "d": "2"
+        },
+        {
+          "name": "ABILITIES",
+          "range": "FACTION:",
+          "a": "Kill Team, Oath of Moment",
+          "bws": "Indomitor Doctrines:",
+          "s": "Each time a model in this unit makes",
+          "ap": "an attack, add 1 to the Hit roll if this unit is below its Starting",
+          "d": "Strength, and add 1 to the Wound roll as well if this unit is"
+        },
+        {
+          "name": "Below Half-strength.",
+          "range": "WARGEAR ABILITIES",
+          "a": "Jump Pack:",
+          "bws": "The bearer has a Move characteristic of 10\" and",
+          "s": "can move over models and terrain features as if they were",
+          "ap": "not there.",
+          "d": "M"
+        },
+        {
+          "name": "T",
+          "range": "SV",
+          "a": "W",
+          "bws": "LD",
+          "s": "OC",
+          "ap": "5\"",
+          "d": "6"
+        },
+        {
+          "name": "3+",
+          "range": "3",
+          "a": "6+",
+          "bws": "1",
+          "s": "KEYWORDS:",
+          "ap": "Infantry, Kill Team, Grenades, Imperium, Gravis,",
+          "d": "Indomitor Kill Team"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Adeptus Astartes",
+      "Deathwatch"
+    ],
+    "abilities": {
+      "core": null,
+      "faction": "Kill Team, Oath of Moment",
+      "special": [
+        "Indomitor Doctrines: Each time a model in this unit makes an attack, add 1 to the Hit roll if this unit is below its Starting Strength, and add 1 to the Wound roll as well if this unit is Below Half-strength}.",
+        "WARGEAR ABILITIES Jump Pack: The bearer has a Move characteristic of 10\" and can move over models and terrain features as if they were not there}."
+      ]
+    },
+    "invulnerable": "",
+    "damaged": null,
+    "stats": {
+      "m": "5\"",
+      "t": "6",
+      "sv": "3+",
+      "w": "3",
+      "ld": "6+",
+      "oc": "1"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "For every 5 models in this unit, 1 model equipped with a heavy bolt rifle can have its heavy bolt rifle",
+          "replaced with 1 heavy bolter.",
+          "■",
+          "1 model equipped with a melta rifle can have its melta rifle replaced with 1 multi-melta.",
+          "■",
+          "Any number of models equipped with flamestorm gauntlets can each have their flamestorm",
+          "gauntlets replaced with 1 auto boltstorm gauntlets and 1 fragstorm grenade launcher.",
+          "■",
+          "Any number of models equipped with assault bolters can each have their assault bolters replaced",
+          "with 1 plasma exterminators.",
+          "ATTACHED UNIT",
+          "If a",
+          "Character",
+          "unit from your army can be attached to a",
+          "Heavy Intercessor Squad",
+          ", it can be attached",
+          "to this unit instead.",
+          "UNIT COMPOSITION (10 MODELS MAXIMUM)",
+          "■",
+          "5-10 Kill Team Heavy Intercessors",
+          "■",
+          "0-2 Kill Team Heavy Intercessors with power fists",
+          "■",
+          "0-2 Kill Team Heavy Intercessors with melta rifles",
+          "■",
+          "0-2 Kill Team Heavy Intercessors with jump packs",
+          "Every Kill Team Heavy Intercessor is equipped with:",
+          "bolt",
+          "pistol*; heavy bolt rifle; close combat weapon.",
+          "Every Kill Team Heavy Intercessor with power fists is",
+          "equipped with:",
+          "flamestorm gauntlets; power fists.",
+          "Every Kill Team Heavy Intercessor with melta rifle is",
+          "equipped with:",
+          "bolt pistol*; melta rifle; close combat weapon.",
+          "Every Kill Team Heavy Intercessor with jump pack is",
+          "equipped with:",
+          "assault bolters; close combat weapon;",
+          "jump pack.",
+          "*",
+          "The profile for this weapon can be found on the Deathwatch Armoury card.",
+          "INDOMITOR KILL TEAM",
+          "Comprising warriors wearing the heavier Gravis variant of Mk X armour,",
+          "Indomitor Kill Teams are mobile bastions capable of unleashing the",
+          "firepower of a squadron of battle tanks. Before them, hordes of xenos",
+          "and monstrous beasts alike are torn apart."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-deathwatch-20",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "SPECTRUS KILL TEAM",
+    "subtype": "RANGED WEAPONS",
+    "keywords": [
+      "A"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Accelerator autocannon [HEAVY]",
+          "range": "48\"",
+          "a": "3",
+          "bws": "4+",
+          "s": "8",
+          "ap": "-1",
+          "d": "2"
+        },
+        {
+          "name": "Bolt pistol [PISTOL]",
+          "range": "12\"",
+          "a": "1",
+          "bws": "3+",
+          "s": "4",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Bolt carbine [PRECISION]",
+          "range": "24\"",
+          "a": "2",
+          "bws": "3+",
+          "s": "4",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Bolt sniper rifle [HEAVY, PRECISION]",
+          "range": "36\"",
+          "a": "1",
+          "bws": "3+",
+          "s": "5",
+          "ap": "-2",
+          "d": "3"
+        },
+        {
+          "name": "Las fusil [HEAVY]",
+          "range": "36\"",
+          "a": "1",
+          "bws": "3+",
+          "s": "9",
+          "ap": "-3",
+          "d": "D6"
+        },
+        {
+          "name": "Marksman bolt carbine [HEAVY]",
+          "range": "24\"",
+          "a": "2",
+          "bws": "3+",
+          "s": "4",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Occulus bolt carbine [ASSAULT, IGNORES COVER]",
+          "range": "24\"",
+          "a": "2",
+          "bws": "3+",
+          "s": "4",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Special-issue bolt pistol [PISTOL, PRECISION]",
+          "range": "12\"",
+          "a": "3",
+          "bws": "3+",
+          "s": "4",
+          "ap": "-1",
+          "d": "1"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Close combat weapon",
+          "range": "Melee",
+          "a": "3",
+          "bws": "3+",
+          "s": "4",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Combat knife [PRECISION]",
+          "range": "Melee",
+          "a": "4",
+          "bws": "3+",
+          "s": "4",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Paired combat blades [SUSTAINED HITS 1]",
+          "range": "Melee",
+          "a": "3",
+          "bws": "3+",
+          "s": "4",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "ABILITIES",
+          "range": "CORE:",
+          "a": "Infiltrators, Scouts 6\"",
+          "bws": "FACTION:",
+          "s": "Kill Team, Oath of Moment",
+          "ap": "Spectrus Doctrines:",
+          "d": "At the end of your opponent’s turn, if"
+        },
+        {
+          "name": "this unit is more than 6\" away from all enemy units, you",
+          "range": "can remove this unit from the battlefield and place it into",
+          "a": "Strategic Reserves. It will arrive back on the battlefield in the",
+          "bws": "Reinforcements step of your next Movement phase.",
+          "s": "WARGEAR ABILITIES",
+          "ap": "Helix Gauntlet:",
+          "d": "Models in the bearer’s unit have the"
+        },
+        {
+          "name": "Feel No Pain 6+",
+          "range": "ability.",
+          "a": "Infiltrator Comms Array:",
+          "bws": "Each time you target the bearer’s",
+          "s": "unit with a Stratagem, roll one D6: on a 5+, you gain 1CP.",
+          "ap": "Jump Pack:",
+          "d": "The bearer has a Move characteristic of 12\" and"
+        },
+        {
+          "name": "can move over models and terrain features as if they were",
+          "range": "not there.",
+          "a": "M",
+          "bws": "T",
+          "s": "SV",
+          "ap": "W",
+          "d": "LD"
+        },
+        {
+          "name": "OC",
+          "range": "6\"",
+          "a": "4",
+          "bws": "3+",
+          "s": "2",
+          "ap": "6+",
+          "d": "1"
+        },
+        {
+          "name": "KEYWORDS:",
+          "range": "Infantry, Kill Team, Smoke, Grenades, Imperium, Phobos,",
+          "a": "Spectrus Kill Team"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Adeptus Astartes",
+      "Deathwatch"
+    ],
+    "abilities": {
+      "core": "Infiltrators, Scouts 6\"",
+      "faction": "Kill Team, Oath of Moment",
+      "special": [
+        "FACTION: Kill Team, Oath of Moment Spectrus Doctrines: At the end of your opponent’s turn, if this unit is more than 6\" away from all enemy units, you can remove this unit from the battlefield and place it into Strategic Reserves}.",
+        "It will arrive back on the battlefield in the Reinforcements step of your next Movement phase}.",
+        "WARGEAR ABILITIES Helix Gauntlet: Models in the bearer’s unit have the Feel No Pain 6+ ability}.",
+        "Infiltrator Comms Array: Each time you target the bearer’s unit with a Stratagem, roll one D6: on a 5+, you gain 1CP}.",
+        "Jump Pack: The bearer has a Move characteristic of 12\" and can move over models and terrain features as if they were not there}."
+      ]
+    },
+    "invulnerable": "",
+    "damaged": null,
+    "stats": {
+      "m": "6\"",
+      "t": "4",
+      "sv": "3+",
+      "w": "2",
+      "ld": "6+",
+      "oc": "1"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "One model equipped with a marksman bolt carbine can be equipped with one of the following:",
+          "◦",
+          "1 helix gauntlet",
+          "◦",
+          "1 Infiltrator comms array",
+          "ATTACHED UNIT",
+          "If a",
+          "Character",
+          "from your army with the Leader ability can be attached to an",
+          "Infiltrator Squad",
+          ", it can",
+          "be attached to this unit instead.",
+          "UNIT COMPOSITION (10 MODELS MAXIMUM)",
+          "■",
+          "5-10 Kill Team Infiltrators",
+          "■",
+          "0-2 Kill Team Infiltrators with bolt sniper rifles",
+          "■",
+          "0-2 Kill Team Infiltrators with jump packs",
+          "■",
+          "0-4 Kill Team Infiltrators with occulus bolt carbines",
+          "■",
+          "0-4 Kill Team Infiltrators with combat knives",
+          "Every Kill Team Infiltrator is equipped with:",
+          "bolt pistol;",
+          "marksman bolt carbine; close combat weapon.",
+          "Every Kill Team Infiltrator with bolt sniper rifle is equipped",
+          "with:",
+          "bolt pistol; bolt sniper rifle; close combat weapon.",
+          "Every Kill Team Infiltrator with jump pack is equipped with:",
+          "bolt pistol; accelerator autocannon; close combat weapon;",
+          "jump pack.",
+          "Every Kill Team Infiltrator with occulus bolt carbine is",
+          "equipped with:",
+          "bolt pistol; occulus bolt carbine; paired",
+          "combat blades.",
+          "Every Kill Team Infiltrator with combat knife is equipped",
+          "with:",
+          "special-issue bolt pistol; combat knife.",
+          "SPECTRUS KILL TEAM",
+          "Sinister, silent and all but invisible until they strike, Spectrus Kill",
+          "Teams are adept in inflicting death from both near and far. Clad in",
+          "close-fitting Mk X Phobos battle plate, they specialise in battlefield",
+          "control and enemy destabilisation."
+        ]
+      }
+    ]
+  }
+]

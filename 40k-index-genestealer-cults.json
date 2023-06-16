@@ -1,1 +1,2490 @@
-[{"id":"40k-index-genestealer-cults-0","points":0,"name":"ABERRANTS","subtype":"","keywords":["Infantry","Great Devourer","Aberrants"],"weapons":{"ranged":[],"melee":[{"name":"Heavy improvised weapon","range":"Melee","a":"5","bws":"3+","s":"6","ap":"0","d":"2"},{"name":"Heavy power weapon","range":"Melee","a":"3","bws":"3+","s":"8","ap":"-2","d":"3"},{"name":"Hypermorph tail [EXTRA ATTACKS]","range":"Melee","a":"1","bws":"3+","s":"5","ap":"0","d":"1"}]},"factionKeywords":["Genestealer Cults"],"abilities":{"core":"Deep Strike, Feel No Pain 4+","faction":"Cult Ambush","special":["FACTION: Cult Ambush Hulking Bodyguards: While a Character is leading this unit, each time an attack targets this unit, if the Strength characteristic of that attack is greater than the Toughness characteristic of this unit, subtract 1 from the Wound roll}."]},"invulnerable":"","damaged":null,"stats":{"m":"6\"","t":"6","sv":"5+","w":"3","ld":"7+","oc":"1"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","The Aberrant Hypermorph’s heavy power weapon can be replaced with 1 heavy improvised weapon."]},{"name":"UNIT COMPOSITION","values":["■","1 Aberrant Hypermorph","■","4-9 Aberrants","The Aberrant Hypermorph is equipped with:","heavy power","weapon; hypermorph tail.","Every Aberrant is equipped with:","heavy power weapon.","ABERRANTS","No one truly knows what causes Aberrants to spring up amidst the","brood cycle, yet the uses of these lumpen gene-deviants are obvious.","Possessed of immense strength and resilience coupled with simplistic","loyalty to the cult, they are hurled into battle as line breakers or","massed as hulking, expendable bodyguards."]}]},{"id":"40k-index-genestealer-cults-2","points":0,"name":"ABOMINANT","subtype":"","keywords":["Infantry","Character","Great Devourer","Abominant"],"weapons":{"ranged":[],"melee":[{"name":"Power sledgehammer","range":"Melee","a":"3","bws":"3+","s":"12","ap":"-2","d":"D6+1"}]},"factionKeywords":["Genestealer Cults"],"abilities":{"core":"Deep Strike, Feel No Pain 4+, Leader","faction":null,"special":["The Chosen One: While this model is leading a unit, melee weapons equipped by models in that unit have the [SUSTAINED HITS 1] ability}.","Regenerating Gene-mass: The first time this model is destroyed, roll one D6 at the end of the phase}.","On a 2+, set this model back up on the battlefield as close as possible to where it was destroyed and not within Engagement Range of any enemy units, with its full wounds remaining}."]},"invulnerable":"","damaged":null,"stats":{"m":"6\"","t":"6","sv":"5+","w":"5","ld":"7+","oc":"1"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","None"]},{"name":"UNIT COMPOSITION","values":["■","1 Abominant","This model is equipped with:","power sledgehammer."]},{"name":"LEADER","values":["This model can be attached to the following unit:","■","Aberrants","ABOMINANT","Born from the sting of a mindwyrm familiar, the Abominant is an","Aberrant tainted with the Patriarch’s own gene-mass. This transforms","the beast into a mountain of mutated chitin and muscle that can","regenerate as swiftly as its foes can harm it, and whose raw might is a","lethal battlefield asset."]}]},{"id":"40k-index-genestealer-cults-4","points":0,"name":"ACHILLES RIDGERUNNERS","subtype":"","keywords":["Vehicle","Great Devourer","Achilles Ridgerunners"],"weapons":{"ranged":[{"name":"Achilles missile launcher","range":"36\"","a":"3","bws":"4+","s":"9","ap":"-2","d":"3"},{"name":"Heavy mining laser [BLAST]","range":"36\"","a":"D3","bws":"4+","s":"12","ap":"-3","d":"D6+1"},{"name":"Heavy mortar [BLAST, INDIRECT FIRE]","range":"48\"","a":"D6+3","bws":"4+","s":"6","ap":"0","d":"1"},{"name":"Twin heavy stubber [TWIN-LINKED, RAPID FIRE 3]","range":"36\"","a":"3","bws":"4+","s":"4","ap":"0","d":"1"}],"melee":[{"name":"Ridgerunner wheels","range":"Melee","a":"3","bws":"4+","s":"5","ap":"0","d":"1"}]},"factionKeywords":["Genestealer Cults"],"abilities":{"core":"Deadly Demise 1, Scouts 9\"","faction":null,"special":["Crossfire: Each time this unit has shot, select one enemy unit that was hit by one or more attacks made by this unit this phase. Until the end of the phase, each time a friendly Genestealer Cults unit makes an attack that targets that enemy unit, improve the Armour Penetration characteristic of that attack by 1}.","The same enemy unit can only be affected by this ability once per phase}.","WARGEAR ABILITIES Flare Launcher: The bearer’s unit has the Smoke keyword}.","Spotter: The bearer’s ranged weapons have a Ballistic Skill characteristic of 3+}.","Survey Augur: Each time the bearer’s unit has shot, select one enemy unit that was hit by one or more attacks made by the bearer this phase. Until the end of the phase, each time a friendly Genestealer Cults model makes an attack against that unit, that attack has the [IGNORES COVER] ability}."]},"invulnerable":"","damaged":null,"stats":{"m":"12\"","t":"7","sv":"3+","w":"8","ld":"7+","oc":"3"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","Any number of models can each have their heavy mining laser replaced with one of the following:","◦","1 achilles missile launcher","◦","1 heavy mortar","■","Any number of models can each have their flare launcher replaced with one of the following:","◦","1 spotter","◦","1 survey augur"]},{"name":"UNIT COMPOSITION","values":["■","1-2 Achilles Ridgerunners","Every model is equipped with:","heavy mining laser;","twin heavy stubbers; Ridgerunner wheels; flare launcher.","ACHILLES RIDGERUNNERS","These lightweight but rugged scout vehicles serve as the eyes","and ears of the uprising, as well as coordinating lethal armoured","ambushes that eliminate isolated foes or sever communication and","supply lines. They can mount a versatile range of heavy weapons,","allowing them to serve well whatever the Patriarch’s needs."]}]},{"id":"40k-index-genestealer-cults-6","points":0,"name":"ACOLYTE HYBRIDS","subtype":"","keywords":["Infantry","Battleline","Grenades","Great Devourer","Acolyte Hybrids"],"weapons":{"ranged":[{"name":"Autopistol [PISTOL]","range":"12\"","a":"1","bws":"4+","s":"3","ap":"0","d":"1"},{"name":"Demolition charges [ASSAULT, BLAST, HAZARDOUS, ONE SHOT]","range":"6\"","a":"D6+3","bws":"5+","s":"12","ap":"-2","d":"2"},{"name":"One Shot:","range":"The bearer can only shoot with this weapon once per battle.","a":"Hand flamer [IGNORES COVER, PISTOL, TORRENT]","bws":"12\"","s":"D6","ap":"N/A","d":"3"},{"name":"0","range":"1"}],"melee":[{"name":"Cult claws and knife","range":"Melee","a":"3","bws":"3+","s":"4","ap":"-1","d":"1"},{"name":"Heavy mining tool","range":"Melee","a":"2","bws":"3+","s":"10","ap":"-2","d":"3"},{"name":"Leader’s cult weapons","range":"Melee","a":"5","bws":"3+","s":"5","ap":"-2","d":"1"}]},"factionKeywords":["Genestealer Cults"],"abilities":{"core":"Deep Strike","faction":"Cult Ambush","special":["FACTION: Cult Ambush Vile Insurrectionists: Each time a model in this unit makes an attack, re-roll a Hit roll of 1}.","If the target of that attack is an enemy unit within range of an objective marker, re-roll a Wound roll of 1 as well}.","WARGEAR ABILITIES Cult Icon: In the Reinforcements step of your Movement phase, you can return up to D3 destroyed models to the bearer’s unit}.","If the bearer’s unit is within range of an objective marker you control, you can return up to 3 destroyed models to that unit instead}.","This ability cannot be used to return destroyed Character models in Attached units}."]},"invulnerable":"","damaged":null,"stats":{"m":"6\"","t":"4","sv":"5+","w":"1","ld":"7+","oc":"2"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","Any number of models can each have their autopistol replaced with 1 hand flamer.","■","One Acolyte Hybrid’s autopistol can be replaced with 1 cult icon.","■","For every 5 models in this unit, up to 2 Acolyte Hybrids can each have their autopistol and cult claws","and knife replaced with one of the following:","◦","1 demolition charges and 1 cult claws and knife","◦","1 heavy mining tool","■","The Acolyte Leader’s cult claws and knife can be replaced with 1 Leader’s cult weapons."]},{"name":"UNIT COMPOSITION","values":["■","1 Acolyte Leader","■","4-9 Acolyte Hybrids","Every model is equipped with:","autopistol; cult claws","and knife.","ACOLYTE HYBRIDS","Acolyte Hybrids are the offspring of the first hosts infected by the","Genestealer Curse, and they are accordingly monstrous in body and","mind. Possessed of hulking strength and the skill to manipulate","complex mechanisms, they bear repurposed industrial tools and","deadly close-quarters firearms into battle."]}]},{"id":"40k-index-genestealer-cults-8","points":0,"name":"ACOLYTE ICONWARD","subtype":"","keywords":["Infantry","Character","Grenades","Great Devourer"],"weapons":{"ranged":[{"name":"Autopistol [PISTOL]","range":"12\"","a":"1","bws":"3+","s":"3","ap":"0","d":"1"}],"melee":[{"name":"Cult claws","range":"Melee","a":"4","bws":"3+","s":"4","ap":"-1","d":"1"}]},"factionKeywords":["Genestealer Cults"],"abilities":{"core":"Deep Strike, Leader","faction":null,"special":["Nexus of Devotion: While this model is leading a unit, models in that unit have the Feel No Pain 5+ ability}.","Summon the Cult: Once per battle, when you have to remove a Cult Ambush marker because your opponent has moved too close to it, if one or more models from your army with this ability are on the battlefield, you can use this ability}.","If you do, instead of removing that marker, you can place it anywhere on the battlefield that is within 12\" of a model from your army with this ability and more than 9\" horizontally away from all enemy units (if this is not possible, this ability is not considered to have been used and that marker is removed as normal)}."]},"invulnerable":"","damaged":null,"stats":{"m":"6\"","t":"4","sv":"5+","w":"3","ld":"6+","oc":"1"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","None"]},{"name":"UNIT COMPOSITION","values":["■","1 Acolyte Iconward","This model is equipped with:","autopistol; cult claws."]},{"name":"LEADER","values":["This model can be attached to the following units:","■","Acolyte Hybrids","■","Hybrid Metamorphs","■","Neophyte Hybrids","ACOLYTE ICONWARD","It is a great honour to bear the cult’s sigil aloft, out in the open for all","to see. These banners are hung with pseudo-sacred artefacts, some","stemming from the secretions or body of the Patriarch itself. The","effect of the Acolyte Iconward’s presence upon nearby cult warriors is","electrifying, driving them to new heights of violence."]}]},{"id":"40k-index-genestealer-cults-10","points":0,"name":"ATALAN JACKALS","subtype":"","keywords":["Mounted","Grenades","Great Devourer","Atalan Jackals"],"weapons":{"ranged":[{"name":"Atalan incinerator [IGNORES COVER, TORRENT]","range":"12\"","a":"D6","bws":"N/A","s":"5","ap":"-1","d":"1"},{"name":"Atalan small arms [PISTOL]","range":"12\"","a":"2","bws":"4+","s":"4","ap":"0","d":"1"},{"name":"Grenade launcher - frag [BLAST]","range":"24\"","a":"D3","bws":"4+","s":"4","ap":"0","d":"1"},{"name":"Grenade launcher - krak","range":"24\"","a":"1","bws":"4+","s":"9","ap":"-2","d":"D3"},{"name":"Heavy stubber [RAPID FIRE 3]","range":"36\"","a":"3","bws":"4+","s":"4","ap":"0","d":"1"},{"name":"Mining laser","range":"24\"","a":"1","bws":"4+","s":"12","ap":"-3","d":"D6+1"}],"melee":[{"name":"Atalan power weapon","range":"Melee","a":"2","bws":"4+","s":"4","ap":"-2","d":"1"},{"name":"Close combat weapon","range":"Melee","a":"2","bws":"4+","s":"3","ap":"0","d":"1"}]},"factionKeywords":["Genestealer Cults"],"abilities":{"core":"Scouts 9\"","faction":"Cult Ambush","special":["FACTION: Cult Ambush Outrider Gangs: Each time you use the Cult Ambush ability to set this unit back up on the battlefield, in addition to the normal rules, all of its models must be set up wholly within 6\" of a battlefield edge and at least one of its models must be touching one of your Cult Ambush markers (that marker is then removed from the battlefield)}.","If this cannot be done, this unit cannot be set back up}.","Demolition Run: Each time this unit ends a Normal move, you can select one enemy unit within 6\" of and visible to this unit and roll one D6 for each model in this unit: for each 4+, that enemy unit suffers 1 mortal wound}."]},"invulnerable":"","damaged":null,"stats":{"m":"12\"","t":"4","sv":"5+","w":"2","ld":"7+","oc":"1"},"footnotes":{"footnotes":"Before selecting targets for this weapon, select one of its profiles to make attacks with."},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","Any number of Atalan Jackals can each replace their close combat weapon with 1 Atalan","power weapon.","■","For every 4 Atalan Jackals in this unit, 1 Atalan Jackal’s Atalan small arms can be replaced with 1","grenade launcher.","■","Any number of Atalan Wolfquads can each have their heavy stubber replaced with one of","the following:","◦","1 Atalan incinerator","◦","1 mining laser"]},{"name":"UNIT COMPOSITION","values":["■","4-8 Atalan Jackals","■","1-2 Atalan Wolfquads*","*","This unit can only contain 2 Atalan Wolfquads if it also contains 8","Atalan Jackals.","Every Atalan Jackal is equipped with:","Atalan small arms;","close combat weapon.","Every Atalan Wolfquad is equipped with:","Atalan small arms;","heavy stubber; close combat weapon.","ATALAN JACKALS","Atalan Jackals share a mental link that allows them to coordinate","in hunting packs and ride in tight formations at high speeds with","no risk of mishap. They harass the foe with hit-and-run strikes,","their Wolfquads unleashing heavy firepower to augment the guns,","bludgeons and mining charges of their packmates."]}]},{"id":"40k-index-genestealer-cults-12","points":0,"name":"BIOPHAGUS","subtype":"","keywords":["Infantry","Character","Great Devourer","Biophagus"],"weapons":{"ranged":[{"name":"Autopistol [PISTOL]","range":"12\"","a":"1","bws":"3+","s":"3","ap":"0","d":"1"},{"name":"Chemical vials [ANTI-INFANTRY 2+]","range":"6\"","a":"1","bws":"3+","s":"1","ap":"-1","d":"2"}],"melee":[{"name":"Injector goad [ANTI-INFANTRY 2+]","range":"Melee","a":"1","bws":"3+","s":"2","ap":"0","d":"D3"}]},"factionKeywords":["Genestealer Cults"],"abilities":{"core":"Deep Strike, Leader","faction":null,"special":["Twisted Science: While this model is leading a unit, melee weapons equipped by models in that unit have the [LETHAL HITS] ability}.","Biological Warfare: Oncer per battle, when this model’s unit is selected to fight, this model can use this ability}.","If it does, until the end of the phase, improve the Attacks and Damage characteristics of its injector goad by 3}.","WARGEAR ABILITIES Alchemicus Familiar: Once per battle, when the bearer’s unit is selected to fight, the bearer can use its alchemicus familiar}.","If it does, until the end of the phase, melee weapons equipped by models in that unit have the [ANTI-INFANTRY 2+] ability}.","Designer’s Note: Place an Alchemicus Familiar token next to the bearer, removing it once this ability has been used}."]},"invulnerable":"","damaged":null,"stats":{"m":"6\"","t":"3","sv":"5+","w":"3","ld":"7+","oc":"1"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","This model can be equipped with 1 alchemicus familiar."]},{"name":"UNIT COMPOSITION","values":["■","1 Biophagus","This model is equipped with:","autopistol; chemical vials;","injector goad."]},{"name":"LEADER","values":["This model can be attached to the following units:","■","Aberrants","■","Acolyte Hybrids","■","Hybrid Metamorphs","■","Neophyte Hybrids","You can attach this model to a","Genestealer Cults","Battleline","unit, even if a","Primus",",","Magus","or","Acolyte","Iconward","model has already been attached to it. If you","do, and that Bodyguard unit is destroyed, the Leader units","attached to it become separate units, with their original","Starting Strengths.","BIOPHAGUS","The Biophagus is a scientist-surgeon whose injector goad can be used","to enhance the unholy might of Aberrants and other favoured cultists,","or to dose enemies with a mutagenic cocktail that rapidly dissolves","them from within. Coupled with hurled vials of bio-acids, this arsenal","renders the Biophagus a deadly agent of biological warfare."]}]},{"id":"40k-index-genestealer-cults-14","points":0,"name":"CLAMAVUS","subtype":"","keywords":["Infantry","Character","Great Devourer","Clamavus"],"weapons":{"ranged":[{"name":"Autopistol [PISTOL]","range":"12\"","a":"1","bws":"3+","s":"3","ap":"0","d":"1"}],"melee":[{"name":"Close combat weapon","range":"Melee","a":"2","bws":"3+","s":"3","ap":"0","d":"1"}]},"factionKeywords":["Genestealer Cults"],"abilities":{"core":"Deep Strike, Leader","faction":null,"special":["Voice of New Truths (Aura): While an enemy unit is within 12\" of this model, subtract 1 from Battle-shock tests taken for that unit and, if that unit fails a Battle-shock test, it suffers 1 mortal wound}.","Scrambler Array: Enemy units that are set up on the battlefield as Reinforcements cannot be set up within 12\" of this model}."]},"invulnerable":"","damaged":null,"stats":{"m":"6\"","t":"3","sv":"5+","w":"3","ld":"6+","oc":"1"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","None"]},{"name":"UNIT COMPOSITION","values":["■","1 Clamavus","This model is equipped with:","autopistol; close","combat weapon."]},{"name":"LEADER","values":["This model can be attached to the following units:","■","Acolyte Hybrids","■","Hybrid Metamorphs","■","Neophyte Hybrids","You can attach this model to a","Genestealer Cults","Battleline","unit, even if a","Primus",",","Magus","or","Acolyte","Iconward","model has already been attached to it. If you","do, and that Bodyguard unit is destroyed, the Leader units","attached to it become separate units, with their original","Starting Strengths.","CLAMAVUS","Vox-hacker and information assassin supreme, the Clamavus scythes","into enemy communications networks for intelligence. It seeds the","amplified psychic signal of the Broodmind through the foe’s comms","to spread dismay from a distance, while up close it can rupture its","victims’ brains with its savage audial symphony."]}]},{"id":"40k-index-genestealer-cults-16","points":0,"name":"GOLIATH ROCKGRINDER","subtype":"","keywords":["Vehicle","Transport","Great Devourer","Goliath Rockgrinder"],"weapons":{"ranged":[{"name":"Clearance incinerator [IGNORES COVER, TORRENT]","range":"12\"","a":"2D6","bws":"N/A","s":"6","ap":"-1","d":"1"},{"name":"Demolition charge cache [ASSAULT, BLAST, HAZARDOUS]","range":"6\"","a":"D6+3","bws":"5+","s":"12","ap":"-2","d":"2"},{"name":"Heavy mining laser [BLAST]","range":"36\"","a":"D3","bws":"4+","s":"12","ap":"-3","d":"D6+1"},{"name":"Heavy seismic cannon [RAPID FIRE 2]","range":"24\"","a":"4","bws":"4+","s":"8","ap":"-2","d":"D3"},{"name":"Heavy stubber [RAPID FIRE 3]","range":"36\"","a":"3","bws":"4+","s":"4","ap":"0","d":"1"}],"melee":[{"name":"Drilldozer blade [SUSTAINED HITS 1]","range":"Melee","a":"6","bws":"3+","s":"10","ap":"-2","d":"2"}]},"factionKeywords":["Genestealer Cults"],"abilities":{"core":"Deadly Demise D3, Firing Deck 6","faction":null,"special":["Grinding Clearance: Each time this model ends a Charge move, select one enemy unit within Engagement Range of it and roll six D6: for each 4+, that enemy unit suffers 1 mortal wound}.","DAMAGED: 1-3 WOUNDS REMAINING While this model has 1-3 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll}."]},"invulnerable":"","damaged":null,"stats":{"m":"12\"","t":"10","sv":"3+","w":"10","ld":"7+","oc":"3"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","This model’s heavy mining laser can be replaced with one of the following:","◦","1 clearance incinerator","◦","1 heavy seismic cannon"]},{"name":"UNIT COMPOSITION","values":["■","1 Goliath Rockgrinder","This model is equipped with:","heavy mining laser; heavy","stubber; drilldozer blade; demolition charge cache."]},{"name":"TRANSPORT","values":["This model has a transport capacity of 6","Genestealer Cults","Infantry","models. It cannot transport a","Patriarch",".","GOLIATH ROCKGRINDER","The drilldozer blade fitted to the Goliath Rockgrinder is intended","for gouging tunnels deep into solid rock faces in search of mineral","riches. However, it works just as well as both an ablative shield and","a hideously bloody line-breaking weapon, mangling a crimson path","through the luckless foe."]}]},{"id":"40k-index-genestealer-cults-18","points":0,"name":"GOLIATH TRUCK","subtype":"","keywords":["Vehicle","Transport","Dedicated Transport","Great Devourer"],"weapons":{"ranged":[{"name":"Demolition charge cache [ASSAULT, BLAST, HAZARDOUS]","range":"6\"","a":"D6+3","bws":"5+","s":"12","ap":"-2","d":"2"},{"name":"Heavy stubber [RAPID FIRE 3]","range":"36\"","a":"3","bws":"4+","s":"4","ap":"0","d":"1"},{"name":"Twin autocannon [TWIN-LINKED]","range":"48\"","a":"2","bws":"4+","s":"9","ap":"-1","d":"3"}],"melee":[{"name":"Goliath wheels","range":"Melee","a":"3","bws":"4+","s":"6","ap":"0","d":"1"}]},"factionKeywords":["Genestealer Cults"],"abilities":{"core":"Deadly Demise D3, Firing Deck 12","faction":null,"special":["Fire Support: In your Shooting phase, after this model has shot, select one enemy unit it scored one or more hits against this phase. Until the end of the phase, each time a friendly model that disembarked from this Transport this turn makes an attack that targets that enemy unit, you can re-roll the Wound roll}."]},"invulnerable":"","damaged":null,"stats":{"m":"12\"","t":"9","sv":"3+","w":"10","ld":"7+","oc":"2"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","None"]},{"name":"UNIT COMPOSITION","values":["■","1 Goliath Truck","This model is equipped with:","heavy stubber; twin","autocannon; demolition charge cache; Goliath wheels."]},{"name":"TRANSPORT","values":["This model has a transport capacity of 12","Genestealer Cults","Infantry","models. It cannot transport a","Patriarch",".","GOLIATH TRUCK","Robust and versatile, the Goliath Truck is the armoured transport of","choice for the Genestealer Cults. These vehicles boast thick armour","and capacious holds, and their heavy stubber and twin autocannon","allow the crew to lay down a hail of supporting fire as the broodkin","passengers disembark into battle."]}]},{"id":"40k-index-genestealer-cults-20","points":0,"name":"HYBRID METAMORPHS","subtype":"","keywords":["Infantry","Grenades","Great Devourer","Hybrid Metamorphs"],"weapons":{"ranged":[{"name":"Autopistol [PISTOL]","range":"12\"","a":"1","bws":"4+","s":"3","ap":"0","d":"1"},{"name":"Hand flamer [IGNORES COVER, PISTOL, TORRENT]","range":"12\"","a":"D6","bws":"N/A","s":"3","ap":"0","d":"1"}],"melee":[{"name":"Leader’s cult weapons","range":"Melee","a":"5","bws":"3+","s":"5","ap":"-1","d":"2"},{"name":"Metamorph mutations - strike","range":"Melee","a":"3","bws":"3+","s":"5","ap":"-1","d":"2"},{"name":"Metamorph mutations - sweep","range":"Melee","a":"5","bws":"3+","s":"4","ap":"-1","d":"1"}]},"factionKeywords":["Genestealer Cults"],"abilities":{"core":"Deep Strike, Scouts 6\"","faction":"Cult Ambush","special":["FACTION: Cult Ambush Savage Amalgam: Each time a model in this unit is destroyed by a melee attack, if that model has not fought this phase, roll one D6}.","On a 3+, do not remove it from play; that destroyed model can fight after the attacking model’s unit has finished making its attacks, and it is then removed from play}.","WARGEAR ABILITIES Cult Icon: In the Reinforcements step of your Movement phase, you can return up to D3 destroyed models to the bearer’s unit}.","If the bearer’s unit is within range of an objective marker you control, you can return up to 3 destroyed models to that unit instead}.","This ability cannot be used to return destroyed Character models in Attached units}."]},"invulnerable":"","damaged":null,"stats":{"m":"6\"","t":"4","sv":"5+","w":"1","ld":"7+","oc":"1"},"footnotes":{"footnotes":"Before selecting targets for this weapon, select one of its profiles to make attacks with."},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","Any number of models can each have their autopistol replaced with 1 hand flamer.","■","One Hybrid Metamorph’s autopistol can be replaced with 1 cult icon."]},{"name":"UNIT COMPOSITION","values":["■","1 Metamorph Leader","■","4-9 Hybrid Metamorphs","The Metamorph Leader is equipped with:","autopistol; Leader’s","cult weapons.","Every Hybrid Metamorph is equipped with:","autopistol;","Metamorph mutations.","HYBRID METAMORPHS","Triggered by the approach of a hive fleet or a sudden trauma to the","cult, Hybrid Metamorphs mutate from early generations of the brood","cycle. Dormant gene-codes burst to life, bestowing weaponised limbs,","ghastly bio-acidic glands and other so-called blessings upon these","creatures, transforming them into devastating shock troops."]}]},{"id":"40k-index-genestealer-cults-22","points":0,"name":"JACKAL ALPHUS","subtype":"","keywords":["Mounted","Character","Grenades","Great Devourer","Jackal Alphus"],"weapons":{"ranged":[{"name":"Autopistol [PISTOL]","range":"12\"","a":"1","bws":"3+","s":"3","ap":"0","d":"1"},{"name":"Cult sniper rifle [HEAVY, PRECISION]","range":"36\"","a":"1","bws":"3+","s":"5","ap":"-2","d":"3"}],"melee":[{"name":"Close combat weapon","range":"Melee","a":"3","bws":"3+","s":"3","ap":"0","d":"1"}]},"factionKeywords":["Genestealer Cults"],"abilities":{"core":"Leader, Scouts 9\"","faction":null,"special":["Priority Target: Each time this model makes an attack with its cult sniper rifle that targets an enemy unit, if it scores a hit, until the end of the phase, each time another Genestealer Cults model from your army makes a ranged attack that targets that enemy unit, re-roll a Hit roll of 1}.","Master Outrider: In your Shooting phase, after this model’s unit has shot, if it is not within Engagement Range of any enemy units, that unit can make a Normal move of up to 6\" as if it were your Movement phase}.","If it does, until the end of the turn, that unit is not eligible to declare a charge}."]},"invulnerable":"","damaged":null,"stats":{"m":"12\"","t":"4","sv":"5","w":"4","ld":"7+","oc":"1"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","None"]},{"name":"UNIT COMPOSITION","values":["■","1 Jackal Alphus","This model is equipped with:","autopistol; cult sniper rifle;","close combat weapon."]},{"name":"LEADER","values":["This model can be attached to the following unit:","■","Atalan Jackals","JACKAL ALPHUS","The Jackal Alphus rides their dirtcycle to commanding battlefield","vantage points. With their long-range vox, the Alphus calls in strike","missions against tougher, armoured targets. Should a foe fall beneath","the cross hairs of their cult sniper rifle, its life expectancy can be","measured in moments."]}]},{"id":"40k-index-genestealer-cults-24","points":0,"name":"KELERMORPH","subtype":"","keywords":["Infantry","Character","Great Devourer","Kelermorph"],"weapons":{"ranged":[{"name":"Liberator autostubs [DEVASTATING WOUNDS, PISTOL, PRECISION, SUSTAINED HITS D3]","range":"12\"","a":"6","bws":"2+","s":"5","ap":"0","d":"1"}],"melee":[{"name":"Close combat weapon","range":"Melee","a":"3","bws":"3+","s":"3","ap":"0","d":"1"}]},"factionKeywords":["Genestealer Cults"],"abilities":{"core":"Deep Strike, Lone Operative","faction":null,"special":["Cometh the Hour, Cometh the Hero: When this model is set up using the Deep Strike ability, if it is set up within 3\" horizontally of a friendly Genestealer Cults Battleline unit, it can be set up anywhere on the battlefield that is more than 3\" horizontally from all enemy models, but if it is set up within 9\" horizontally of an enemy unit it is not eligible to declare a charge this turn}.","Gunslinger: Each time an enemy unit targets a friendly Genestealer Cults Battleline unit within 3\" of this model with ranged attacks, after that enemy unit has finished making its attacks, this model can shoot as if it were your Shooting phase}."]},"invulnerable":"5+","damaged":null,"stats":{"m":"6\"","t":"3","sv":"5+","w":"3","ld":"7+","oc":"1"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","None"]},{"name":"UNIT COMPOSITION","values":["■","1 Kelermorph","This model is equipped with:","liberator autostubs;","close combat weapon.","KELERMORPH","This gunfighter is a living icon of rebellion, moulded to exploit the","psyche of fractured Human societies. Whip-fast reactions and","hypersensory acuity lend the Kelermorph lethal reaction speeds and","help it unleash withering volleys from its iconic liberator autostubs,","whose depleted volonium rounds can punch through tank armour."]}]},{"id":"40k-index-genestealer-cults-26","points":0,"name":"LOCUS","subtype":"","keywords":["Infantry","Character","Great Devourer","Locus"],"weapons":{"ranged":[],"melee":[{"name":"Locus blades","range":"Melee","a":"5","bws":"2+","s":"5","ap":"-2","d":"2"}]},"factionKeywords":["Genestealer Cults"],"abilities":{"core":"Deep Strike, Fights First, Leader","faction":null,"special":["Sudden Assault: While this model is leading a unit, models in that unit have the Fights First ability}.","Bodyguard: While this model is leading a unit, other Character models attached to that unit have the Feel No Pain 4+ ability}."]},"invulnerable":"4+","damaged":null,"stats":{"m":"6\"","t":"4","sv":"5+","w":"3","ld":"7+","oc":"1"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","None"]},{"name":"UNIT COMPOSITION","values":["■","1 Locus","This model is equipped with:","Locus blades."]},{"name":"LEADER","values":["This model can be attached to the following units:","■","Acolyte Hybrids","■","Hybrid Metamorphs","■","Neophyte Hybrids","You can attach this model to a","Genestealer","Cults","Battleline","unit, even if a","Primus",",","Magus","or","Acolyte","Iconward","model has already been attached to it. If you","do, and that Bodyguard unit is destroyed, the Leader units","attached to it become separate units, with their original","Starting Strengths.","LOCUS","An unassuming bodyguard, the Locus may be overlooked by the foe","until the exact moment it abandons calm stillness for lightning-fast","attack. Robes thrown back, the Locus’ whipping tail barb and vestigial","limbs are revealed even as its twin blades flash out to neutralise any","threats to its ward."]}]},{"id":"40k-index-genestealer-cults-28","points":0,"name":"MAGUS","subtype":"","keywords":["Infantry","Character","Psyker","Great Devourer","Magus"],"weapons":{"ranged":[{"name":"Autopistol [PISTOL]","range":"12\"","a":"1","bws":"3+","s":"3","ap":"0","d":"1"}],"melee":[{"name":"Magus stave [PSYCHIC]","range":"Melee","a":"3","bws":"3+","s":"5","ap":"-1","d":"D3"}]},"factionKeywords":["Genestealer Cults"],"abilities":{"core":"Deep Strike, Leader","faction":null,"special":["Spiritual Leader: While this model is leading a unit, models in that unit have the Feel No Pain 5+ ability against Psychic Attacks}.","Mind Control (Psychic): At the start of your opponent’s Shooting phase, one Psyker model from your army with this ability can use it}.","If used, select one enemy unit within 12\" of and visible to that Psyker model and roll one D6: on a 1, that Psyker model suffers D3 mortal wounds; on a 2-5, until the end of the phase, each time a model in that enemy unit makes an attack, subtract 1 from the Hit roll; on a 6, that enemy unit is not eligible to shoot this phase}.","Psychic Familiar: Once per battle, at the start of any of your opponent’s Shooting phases, this model can use its psychic familiar}.","If it does, until the end of the phase, double the range of its Mind Control ability}.","Designer’s Note: Place a Psychic Familiar token next to the model, removing it once this ability has been used}."]},"invulnerable":"","damaged":null,"stats":{"m":"6\"","t":"3","sv":"5+","w":"4","ld":"6+","oc":"1"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","None"]},{"name":"UNIT COMPOSITION","values":["■","1 Magus","This model is equipped with:","autopistol; Magus stave."]},{"name":"LEADER","values":["This model can be attached to the following units:","■","Acolyte Hybrids","■","Hybrid Metamorphs","■","Neophyte Hybrids","MAGUS","The Magus acts as its Patriarch’s vizier, and as the head of that alien","monstrosity’s deviant church. Each one is a powerful psyker, their","formidable will enhanced by the gestalt powers of the Star Children","until they can manipulate enemies’ minds and bodies like puppets -","or tear them apart from within."]}]},{"id":"40k-index-genestealer-cults-30","points":0,"name":"NEOPHYTE HYBRIDS","subtype":"","keywords":["Infantry","Battleline","Grenades","Great Devourer"],"weapons":{"ranged":[{"name":"Autopistol [PISTOL]","range":"12\"","a":"1","bws":"4+","s":"3","ap":"0","d":"1"},{"name":"Hybrid firearm [RAPID FIRE 1]","range":"24\"","a":"1","bws":"4+","s":"3","ap":"0","d":"1"},{"name":"Leader pistol [PISTOL]","range":"12\"","a":"1","bws":"4+","s":"4","ap":"0","d":"1"},{"name":"Flamer [IGNORES COVER, TORRENT]","range":"12\"","a":"D6","bws":"N/A","s":"4","ap":"0","d":"1"},{"name":"Grenade launcher - frag [BLAST]","range":"24\"","a":"D3","bws":"4+","s":"4","ap":"0","d":"1"},{"name":"Grenade launcher - krak","range":"24\"","a":"1","bws":"4+","s":"9","ap":"-2","d":"D3"},{"name":"Heavy stubber [RAPID FIRE 3]","range":"36\"","a":"3","bws":"4+","s":"4","ap":"0","d":"1"},{"name":"Mining laser [HEAVY]","range":"24\"","a":"1","bws":"5+","s":"12","ap":"-3","d":"D6+1"},{"name":"Seismic cannon [HEAVY,","range":"RAPID FIRE 2]","a":"24\"","bws":"4","s":"5+","ap":"6","d":"-1"},{"name":"D3","range":"Webber [DEVASTATING WOUNDS, TORRENT]","a":"12\"","bws":"D6","s":"N/A","ap":"2","d":"0"},{"name":"1"}],"melee":[{"name":"Chainsword","range":"Melee","a":"2","bws":"4+","s":"3","ap":"0","d":"1"},{"name":"Power weapon","range":"Melee","a":"1","bws":"4+","s":"4","ap":"-2","d":"1"},{"name":"Close combat weapon","range":"Melee","a":"1","bws":"4+","s":"3","ap":"0","d":"1"}]},"factionKeywords":["Genestealer Cults"],"abilities":{"core":"Deep Strike","faction":"Cult Ambush","special":["FACTION: Cult Ambush A Plan Generations in the Making: At the start of your Command phase, roll one D6 for each objective marker you control that has one or more units from your army with this ability within range of it}.","If one or more of the results is a 4+, you gain 1CP}.","WARGEAR ABILITIES Cult Icon: In the Reinforcements step of your Movement phase, you can return up to 3 destroyed models to the bearer’s unit}.","If the bearer’s unit is within range of an objective marker you control, you can return up to D3+3 destroyed models to that unit instead}.","This ability cannot be used to return destroyed Character models in Attached units}."]},"invulnerable":"","damaged":null,"stats":{"m":"6\"","t":"3","sv":"5+","w":"1","ld":"7+","oc":"2"},"footnotes":{"footnotes":"Before selecting targets for this weapon, select one of its profiles to make attacks with."},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","One Neophyte Hybrid equipped with a Hybrid","firearm can be equipped with 1 cult icon.","■","For every 10 models in this unit, up to 2","Neophyte Hybrids can each have their Hybrid","firearm replaced with one of the following:","◦","Heavy stubber","◦","Mining laser","◦","Seismic cannon","■","For every 10 models in this unit, up to 2","Neophyte Hybrids can each have their Hybrid","firearm replaced with one of the following:","◦","Flamer","◦","Grenade launcher","◦","Webber","■","The Neophyte Leader’s Hybrid firearm and","close combat weapon can be replaced with 1 of","the following:","◦","1 Leader pistol and 1 chainsword","◦","1 Leader pistol and 1 power weapon"]},{"name":"UNIT COMPOSITION","values":["■","1 Neophyte Leader","■","9-19 Neophyte Hybrids","Every model is equipped with:","autopistol; Hybrid firearm;","close combat weapon.","NEOPHYTE HYBRIDS","Making up the bulk of their cult’s ranks, Neophyte Hybrids are the","least alien in appearance of all the Patriarch’s brood. They are no","less dangerous for this, however, and what they lack in weaponised","bio-adaptations they make up for in numbers, massed firepower and","zealous revolutionary fanaticism."]}]},{"id":"40k-index-genestealer-cults-32","points":0,"name":"NEXOS","subtype":"","keywords":["Infantry","Character","Great Devourer","Nexos"],"weapons":{"ranged":[{"name":"Autopistol [PISTOL]","range":"12\"","a":"1","bws":"3+","s":"3","ap":"0","d":"1"}],"melee":[{"name":"Close combat weapon","range":"Melee","a":"2","bws":"3+","s":"3","ap":"0","d":"1"}]},"factionKeywords":["Genestealer Cults"],"abilities":{"core":"Deep Strike, Leader","faction":null,"special":["Battlefield Analysis: Once per turn, you can select one model or unit from your army with this ability as the target of a Stratagem for 0CP, even if you have already selected a model or unit from your army as the target of that Stratagem this phase}.","Cult Infiltration: At the start of each player’s Command phase, if this model is on the battlefield, you can select one Cult Ambush marker that is on the battlefield and move it up to 6\"}."]},"invulnerable":"","damaged":null,"stats":{"m":"6\"","t":"3","sv":"5+","w":"3","ld":"7+","oc":"1"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","None"]},{"name":"UNIT COMPOSITION","values":["■","1 Nexos","This model is equipped with:","autopistol;","close combat weapon."]},{"name":"LEADER","values":["This model can be attached to the following units:","■","Acolyte Hybrids","■","Hybrid Metamorphs","■","Neophyte Hybrids","You can attach this model to a","Genestealer","Cults","Battleline","unit, even if a","Primus",",","Magus","or","Acolyte","Iconward","model has already been attached to it. If you","do, and that Bodyguard unit is destroyed, the Leader units","attached to it become separate units, with their original","Starting Strengths.","NEXOS","Engineered to share a portion of the Patriarch’s cerebral might, the","Nexos can absorb the entirety of a cultist’s thoughts and experiences","through physical contact. They compartmentalise millions of these","snapshots, building a formidable mental map, then using it to direct","cult forces like a rear-echelon officer of prodigious skill."]}]},{"id":"40k-index-genestealer-cults-34","points":0,"name":"PATRIARCH","subtype":"","keywords":["Infantry","Character","Psyker","Great Devourer","Epic Hero"],"weapons":{"ranged":[],"melee":[{"name":"Patriarch’s claws [DEVASTATING WOUNDS, TWIN-LINKED]","range":"Melee","a":"5","bws":"2+","s":"6","ap":"-2","d":"2"}]},"factionKeywords":["Genestealer Cults"],"abilities":{"core":"Deep Strike, Infiltrators, Leader","faction":null,"special":["Might From Beyond: While this model is leading a unit, melee weapons equipped by models in that unit have the [DEVASTATING WOUNDS] ability}.","Cosmic Horror (Psychic): At the start of the Fight phase, each enemy unit within 6\" of this model must take a Battle-shock test}.","Psychic Familiar: Once per battle, at the start of the Fight phase, this model can use its psychic familiar}.","If it does, until the end of the phase, double the range of its Cosmic Horror ability}.","Designer’s Note: Place a Psychic Familiar token next to the model, removing it once this ability has been used}."]},"invulnerable":"4+","damaged":null,"stats":{"m":"8\"","t":"5","sv":"4+","w":"6","ld":"6+","oc":"1"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","None"]},{"name":"UNIT COMPOSITION","values":["■","1 Patriarch -","Epic Hero","This model is equipped with:","Patriarch’s claws."]},{"name":"LEADER","values":["This model can be attached to the following unit:","■","Purestrain Genestealers"]},{"name":"SUPREME COMMANDER","values":[]}]},{"id":"40k-index-genestealer-cults-36","points":0,"name":"PRIMUS","subtype":"","keywords":["Infantry","Character","Great Devourer","Primus"],"weapons":{"ranged":[{"name":"Scoped needle pistol [ANTI-INFANTRY 2+, IGNORES COVER, PISTOL]","range":"18\"","a":"1","bws":"2+","s":"1","ap":"0","d":"D3"}],"melee":[{"name":"Cult bonesword","range":"Melee","a":"5","bws":"2+","s":"5","ap":"-2","d":"1"},{"name":"Toxin injector claw [ANTI-INFANTRY 2+, EXTRA ATTACKS]","range":"Melee","a":"2","bws":"2+","s":"2","ap":"0","d":"D3"}]},"factionKeywords":["Genestealer Cults"],"abilities":{"core":"Deep Strike, Leader","faction":null,"special":["Cult Demagogue: While this model is leading a unit, each time a model in that unit makes an attack, you can re-roll the Hit roll}.","Decoys and Misdirection: If your army includes one or more models with this ability, after both players have deployed their armies, select up to three Genestealer Cults units from your army and redeploy them}.","When doing so, you can set those units up in Strategic Reserves if you wish, regardless of how many units are already in Strategic Reserves}."]},"invulnerable":"5+","damaged":null,"stats":{"m":"6\"","t":"3","sv":"5+","w":"4","ld":"6+","oc":"1"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","None"]},{"name":"UNIT COMPOSITION","values":["■","1 Primus","This model is equipped with:","scoped needle pistol; cult","bonesword; toxin injector claw."]},{"name":"LEADER","values":["This model can be attached to the following units:","■","Acolyte Hybrids","■","Hybrid Metamorphs","■","Neophyte Hybrids","PRIMUS","Occupying a role somewhere between guerrilla general and shadowy","symbol of resistance, the Primus is a Genestealer Cult’s ultimate","military commander. Besides being deadly combatants in their own","right, their mastery of insurgent tactics transforms their followers from","a rebellious mob into a lethal military machine."]}]},{"id":"40k-index-genestealer-cults-38","points":0,"name":"PURESTRAIN GENESTEALERS","subtype":"","keywords":["Infantry","Great Devourer","Purestrain Genestealers"],"weapons":{"ranged":[],"melee":[{"name":"Cult claws and talons","range":"Melee","a":"4","bws":"2+","s":"4","ap":"-2","d":"1"}]},"factionKeywords":["Genestealer Cults"],"abilities":{"core":"Deep Strike, Infiltrators","faction":"Cult Ambush","special":["FACTION: Cult Ambush Swift and Deadly: This unit is eligible to declare a charge in a turn in which it Advanced}."]},"invulnerable":"5+","damaged":null,"stats":{"m":"8\"","t":"4","sv":"5+","w":"2","ld":"7+","oc":"1"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","None"]},{"name":"UNIT COMPOSITION","values":["■","5-10 Purestrain Genestealers","Every model is equipped with:","cult claws and talons.","PURESTRAIN GENESTEALERS","Vanguard organisms for the Tyranid hive fleets, Purestrain","Genestealers are one of the most lethal life forms in the galaxy. They","combine the cunning of an apex predator with inhuman speed and","agility, closing with their prey in the blink of an eye before tearing their","victims to bloody tatters."]}]},{"id":"40k-index-genestealer-cults-40","points":0,"name":"REDUCTUS SABOTEUR","subtype":"","keywords":["Infantry","Character","Grenades","Great Devourer"],"weapons":{"ranged":[{"name":"Autopistol [PISTOL]","range":"12\"","a":"1","bws":"3+","s":"3","ap":"0","d":"1"},{"name":"Demolition charges [ASSAULT, BLAST, ONE SHOT]","range":"6\"","a":"D6+3","bws":"2+","s":"12","ap":"-2","d":"2"},{"name":"One Shot:","range":"The bearer can only shoot with this weapon once per battle.","a":"Remote explosives [BLAST, INDIRECT FIRE]","bws":"24\"","s":"D6+3","ap":"3+","d":"5"},{"name":"0","range":"1"}],"melee":[{"name":"Close combat weapon","range":"Melee","a":"2","bws":"3+","s":"3","ap":"0","d":"1"}]},"factionKeywords":["Genestealer Cults"],"abilities":{"core":"Deep Strike, Infiltrators, Lone Operative, Stealth","faction":null,"special":["Primed and Ready: In your Shooting phase, you can select one model from your army with this ability as the target of the Grenade Stratagem for 0CP, provided that model has not already been the target of that Stratagem this phase}.","This can allow you to use the Grenade Stratagem for a second time this phase}.","Planted Explosives: Once per battle, when an enemy unit ends a Normal, Advance or Fall Back move within 12\" of this model, this model can use its Reductus mine}.","If it does, roll one D6: on a 2+, that enemy unit suffers D3+3 mortal wounds}.","Only one model from your army with this ability can use it in the same battle round}.","Designer’s Note: Place a Reductus Mine token next to the model, removing it once this ability has been used}."]},"invulnerable":"","damaged":null,"stats":{"m":"6\"","t":"3","sv":"5+","w":"3","ld":"7+","oc":"1"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","None"]},{"name":"UNIT COMPOSITION","values":["■","1 Reductus Saboteur","This model is equipped with:","autopistol; demolition charges;","remote explosives; close combat weapon.","REDUCTUS SABOTEUR","There is no engine of the oppressors that a Reductus Saboteur cannot","lay low, and few materials they cannot fashion into a bomb given","a little time to tinker. Flitting through the shadows, they lace the","battlefield with booby traps and deploy powerful explosives that make","short work of enemy armour."]}]},{"id":"40k-index-genestealer-cults-42","points":0,"name":"SANCTUS","subtype":"","keywords":["Infantry","Character","Great Devourer","Sanctus"],"weapons":{"ranged":[{"name":"Cult sniper rifle [ANTI-PSYKER 2+, HEAVY, PRECISION]","range":"36\"","a":"1","bws":"3+","s":"5","ap":"-2","d":"3"}],"melee":[{"name":"Sanctus bio-dagger [ANTI-INFANTRY 3+, PRECISION]","range":"Melee","a":"6","bws":"2+","s":"3","ap":"-2","d":"1"},{"name":"Close combat weapon","range":"Melee","a":"2","bws":"3+","s":"3","ap":"0","d":"1"}]},"factionKeywords":["Genestealer Cults"],"abilities":{"core":"Deep Strike, Infiltrators, Lone Operative, Stealth","faction":null,"special":["Creeping Shadow: This unit is eligible to shoot and declare a charge in a turn in which it Advanced or Fell Back}.","Psychic Spoor: At the start of the first battle round, select one enemy unit to be this model’s prey}.","Each time this model makes an attack that targets its prey, that attack has the [IGNORES COVER] and [DEVASTATING WOUNDS] abilities}."]},"invulnerable":"5+","damaged":null,"stats":{"m":"6\"","t":"3","sv":"5+","w":"3","ld":"7+","oc":"1"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","This model’s Sanctus bio-dagger can be replaced with 1 cult sniper rifle and 1 close combat weapon."]},{"name":"UNIT COMPOSITION","values":["■","1 Sanctus","This model is equipped with:","Sanctus bio-dagger.","SANCTUS","A Sanctus is an inescapable assassin who can track by psychic spoor","and squirm through the smallest gaps. Its bio-dagger - spawned from","the Patriarch’s genesis pools - unleashes the psychic might of the","Broodmind with the slightest cut, while the Sanctus’ cult sniper rifle","allows it to strike down prey from afar."]}]}]
+[
+  {
+    "id": "40k-index-genestealer-cults-0",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "ABERRANTS",
+    "subtype": "",
+    "keywords": [
+      "Infantry",
+      "Great Devourer",
+      "Aberrants"
+    ],
+    "weapons": {
+      "ranged": [],
+      "melee": [
+        {
+          "name": "Heavy improvised weapon",
+          "range": "Melee",
+          "a": "5",
+          "bws": "3+",
+          "s": "6",
+          "ap": "0",
+          "d": "2"
+        },
+        {
+          "name": "Heavy power weapon",
+          "range": "Melee",
+          "a": "3",
+          "bws": "3+",
+          "s": "8",
+          "ap": "-2",
+          "d": "3"
+        },
+        {
+          "name": "Hypermorph tail [EXTRA ATTACKS]",
+          "range": "Melee",
+          "a": "1",
+          "bws": "3+",
+          "s": "5",
+          "ap": "0",
+          "d": "1"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Genestealer Cults"
+    ],
+    "abilities": {
+      "core": "Deep Strike, Feel No Pain 4+",
+      "faction": "Cult Ambush",
+      "special": [
+        "FACTION: Cult Ambush Hulking Bodyguards: While a Character is leading this unit, each time an attack targets this unit, if the Strength characteristic of that attack is greater than the Toughness characteristic of this unit, subtract 1 from the Wound roll}."
+      ]
+    },
+    "invulnerable": "",
+    "damaged": null,
+    "stats": {
+      "m": "6\"",
+      "t": "6",
+      "sv": "5+",
+      "w": "3",
+      "ld": "7+",
+      "oc": "1"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "The Aberrant Hypermorph’s heavy power weapon can be replaced with 1 heavy improvised weapon."
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Aberrant Hypermorph",
+          "■",
+          "4-9 Aberrants",
+          "The Aberrant Hypermorph is equipped with:",
+          "heavy power",
+          "weapon; hypermorph tail.",
+          "Every Aberrant is equipped with:",
+          "heavy power weapon.",
+          "ABERRANTS",
+          "No one truly knows what causes Aberrants to spring up amidst the",
+          "brood cycle, yet the uses of these lumpen gene-deviants are obvious.",
+          "Possessed of immense strength and resilience coupled with simplistic",
+          "loyalty to the cult, they are hurled into battle as line breakers or",
+          "massed as hulking, expendable bodyguards."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-genestealer-cults-2",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "ABOMINANT",
+    "subtype": "",
+    "keywords": [
+      "Infantry",
+      "Character",
+      "Great Devourer",
+      "Abominant"
+    ],
+    "weapons": {
+      "ranged": [],
+      "melee": [
+        {
+          "name": "Power sledgehammer",
+          "range": "Melee",
+          "a": "3",
+          "bws": "3+",
+          "s": "12",
+          "ap": "-2",
+          "d": "D6+1"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Genestealer Cults"
+    ],
+    "abilities": {
+      "core": "Deep Strike, Feel No Pain 4+, Leader",
+      "faction": null,
+      "special": [
+        "The Chosen One: While this model is leading a unit, melee weapons equipped by models in that unit have the [SUSTAINED HITS 1] ability}.",
+        "Regenerating Gene-mass: The first time this model is destroyed, roll one D6 at the end of the phase}.",
+        "On a 2+, set this model back up on the battlefield as close as possible to where it was destroyed and not within Engagement Range of any enemy units, with its full wounds remaining}."
+      ]
+    },
+    "invulnerable": "",
+    "damaged": null,
+    "stats": {
+      "m": "6\"",
+      "t": "6",
+      "sv": "5+",
+      "w": "5",
+      "ld": "7+",
+      "oc": "1"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "None"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Abominant",
+          "This model is equipped with:",
+          "power sledgehammer."
+        ]
+      },
+      {
+        "name": "LEADER",
+        "values": [
+          "This model can be attached to the following unit:",
+          "■",
+          "Aberrants",
+          "ABOMINANT",
+          "Born from the sting of a mindwyrm familiar, the Abominant is an",
+          "Aberrant tainted with the Patriarch’s own gene-mass. This transforms",
+          "the beast into a mountain of mutated chitin and muscle that can",
+          "regenerate as swiftly as its foes can harm it, and whose raw might is a",
+          "lethal battlefield asset."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-genestealer-cults-4",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "ACHILLES RIDGERUNNERS",
+    "subtype": "",
+    "keywords": [
+      "Vehicle",
+      "Great Devourer",
+      "Achilles Ridgerunners"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Achilles missile launcher",
+          "range": "36\"",
+          "a": "3",
+          "bws": "4+",
+          "s": "9",
+          "ap": "-2",
+          "d": "3"
+        },
+        {
+          "name": "Heavy mining laser [BLAST]",
+          "range": "36\"",
+          "a": "D3",
+          "bws": "4+",
+          "s": "12",
+          "ap": "-3",
+          "d": "D6+1"
+        },
+        {
+          "name": "Heavy mortar [BLAST, INDIRECT FIRE]",
+          "range": "48\"",
+          "a": "D6+3",
+          "bws": "4+",
+          "s": "6",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Twin heavy stubber [TWIN-LINKED, RAPID FIRE 3]",
+          "range": "36\"",
+          "a": "3",
+          "bws": "4+",
+          "s": "4",
+          "ap": "0",
+          "d": "1"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Ridgerunner wheels",
+          "range": "Melee",
+          "a": "3",
+          "bws": "4+",
+          "s": "5",
+          "ap": "0",
+          "d": "1"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Genestealer Cults"
+    ],
+    "abilities": {
+      "core": "Deadly Demise 1, Scouts 9\"",
+      "faction": null,
+      "special": [
+        "Crossfire: Each time this unit has shot, select one enemy unit that was hit by one or more attacks made by this unit this phase. Until the end of the phase, each time a friendly Genestealer Cults unit makes an attack that targets that enemy unit, improve the Armour Penetration characteristic of that attack by 1}.",
+        "The same enemy unit can only be affected by this ability once per phase}.",
+        "WARGEAR ABILITIES Flare Launcher: The bearer’s unit has the Smoke keyword}.",
+        "Spotter: The bearer’s ranged weapons have a Ballistic Skill characteristic of 3+}.",
+        "Survey Augur: Each time the bearer’s unit has shot, select one enemy unit that was hit by one or more attacks made by the bearer this phase. Until the end of the phase, each time a friendly Genestealer Cults model makes an attack against that unit, that attack has the [IGNORES COVER] ability}."
+      ]
+    },
+    "invulnerable": "",
+    "damaged": null,
+    "stats": {
+      "m": "12\"",
+      "t": "7",
+      "sv": "3+",
+      "w": "8",
+      "ld": "7+",
+      "oc": "3"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "Any number of models can each have their heavy mining laser replaced with one of the following:",
+          "◦",
+          "1 achilles missile launcher",
+          "◦",
+          "1 heavy mortar",
+          "■",
+          "Any number of models can each have their flare launcher replaced with one of the following:",
+          "◦",
+          "1 spotter",
+          "◦",
+          "1 survey augur"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1-2 Achilles Ridgerunners",
+          "Every model is equipped with:",
+          "heavy mining laser;",
+          "twin heavy stubbers; Ridgerunner wheels; flare launcher.",
+          "ACHILLES RIDGERUNNERS",
+          "These lightweight but rugged scout vehicles serve as the eyes",
+          "and ears of the uprising, as well as coordinating lethal armoured",
+          "ambushes that eliminate isolated foes or sever communication and",
+          "supply lines. They can mount a versatile range of heavy weapons,",
+          "allowing them to serve well whatever the Patriarch’s needs."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-genestealer-cults-6",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "ACOLYTE HYBRIDS",
+    "subtype": "",
+    "keywords": [
+      "Infantry",
+      "Battleline",
+      "Grenades",
+      "Great Devourer",
+      "Acolyte Hybrids"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Autopistol [PISTOL]",
+          "range": "12\"",
+          "a": "1",
+          "bws": "4+",
+          "s": "3",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Demolition charges [ASSAULT, BLAST, HAZARDOUS, ONE SHOT]",
+          "range": "6\"",
+          "a": "D6+3",
+          "bws": "5+",
+          "s": "12",
+          "ap": "-2",
+          "d": "2"
+        },
+        {
+          "name": "One Shot:",
+          "range": "The bearer can only shoot with this weapon once per battle.",
+          "a": "Hand flamer [IGNORES COVER, PISTOL, TORRENT]",
+          "bws": "12\"",
+          "s": "D6",
+          "ap": "N/A",
+          "d": "3"
+        },
+        {
+          "name": "0",
+          "range": "1"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Cult claws and knife",
+          "range": "Melee",
+          "a": "3",
+          "bws": "3+",
+          "s": "4",
+          "ap": "-1",
+          "d": "1"
+        },
+        {
+          "name": "Heavy mining tool",
+          "range": "Melee",
+          "a": "2",
+          "bws": "3+",
+          "s": "10",
+          "ap": "-2",
+          "d": "3"
+        },
+        {
+          "name": "Leader’s cult weapons",
+          "range": "Melee",
+          "a": "5",
+          "bws": "3+",
+          "s": "5",
+          "ap": "-2",
+          "d": "1"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Genestealer Cults"
+    ],
+    "abilities": {
+      "core": "Deep Strike",
+      "faction": "Cult Ambush",
+      "special": [
+        "FACTION: Cult Ambush Vile Insurrectionists: Each time a model in this unit makes an attack, re-roll a Hit roll of 1}.",
+        "If the target of that attack is an enemy unit within range of an objective marker, re-roll a Wound roll of 1 as well}.",
+        "WARGEAR ABILITIES Cult Icon: In the Reinforcements step of your Movement phase, you can return up to D3 destroyed models to the bearer’s unit}.",
+        "If the bearer’s unit is within range of an objective marker you control, you can return up to 3 destroyed models to that unit instead}.",
+        "This ability cannot be used to return destroyed Character models in Attached units}."
+      ]
+    },
+    "invulnerable": "",
+    "damaged": null,
+    "stats": {
+      "m": "6\"",
+      "t": "4",
+      "sv": "5+",
+      "w": "1",
+      "ld": "7+",
+      "oc": "2"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "Any number of models can each have their autopistol replaced with 1 hand flamer.",
+          "■",
+          "One Acolyte Hybrid’s autopistol can be replaced with 1 cult icon.",
+          "■",
+          "For every 5 models in this unit, up to 2 Acolyte Hybrids can each have their autopistol and cult claws",
+          "and knife replaced with one of the following:",
+          "◦",
+          "1 demolition charges and 1 cult claws and knife",
+          "◦",
+          "1 heavy mining tool",
+          "■",
+          "The Acolyte Leader’s cult claws and knife can be replaced with 1 Leader’s cult weapons."
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Acolyte Leader",
+          "■",
+          "4-9 Acolyte Hybrids",
+          "Every model is equipped with:",
+          "autopistol; cult claws",
+          "and knife.",
+          "ACOLYTE HYBRIDS",
+          "Acolyte Hybrids are the offspring of the first hosts infected by the",
+          "Genestealer Curse, and they are accordingly monstrous in body and",
+          "mind. Possessed of hulking strength and the skill to manipulate",
+          "complex mechanisms, they bear repurposed industrial tools and",
+          "deadly close-quarters firearms into battle."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-genestealer-cults-8",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "ACOLYTE ICONWARD",
+    "subtype": "",
+    "keywords": [
+      "Infantry",
+      "Character",
+      "Grenades",
+      "Great Devourer"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Autopistol [PISTOL]",
+          "range": "12\"",
+          "a": "1",
+          "bws": "3+",
+          "s": "3",
+          "ap": "0",
+          "d": "1"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Cult claws",
+          "range": "Melee",
+          "a": "4",
+          "bws": "3+",
+          "s": "4",
+          "ap": "-1",
+          "d": "1"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Genestealer Cults"
+    ],
+    "abilities": {
+      "core": "Deep Strike, Leader",
+      "faction": null,
+      "special": [
+        "Nexus of Devotion: While this model is leading a unit, models in that unit have the Feel No Pain 5+ ability}.",
+        "Summon the Cult: Once per battle, when you have to remove a Cult Ambush marker because your opponent has moved too close to it, if one or more models from your army with this ability are on the battlefield, you can use this ability}.",
+        "If you do, instead of removing that marker, you can place it anywhere on the battlefield that is within 12\" of a model from your army with this ability and more than 9\" horizontally away from all enemy units (if this is not possible, this ability is not considered to have been used and that marker is removed as normal)}."
+      ]
+    },
+    "invulnerable": "",
+    "damaged": null,
+    "stats": {
+      "m": "6\"",
+      "t": "4",
+      "sv": "5+",
+      "w": "3",
+      "ld": "6+",
+      "oc": "1"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "None"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Acolyte Iconward",
+          "This model is equipped with:",
+          "autopistol; cult claws."
+        ]
+      },
+      {
+        "name": "LEADER",
+        "values": [
+          "This model can be attached to the following units:",
+          "■",
+          "Acolyte Hybrids",
+          "■",
+          "Hybrid Metamorphs",
+          "■",
+          "Neophyte Hybrids",
+          "ACOLYTE ICONWARD",
+          "It is a great honour to bear the cult’s sigil aloft, out in the open for all",
+          "to see. These banners are hung with pseudo-sacred artefacts, some",
+          "stemming from the secretions or body of the Patriarch itself. The",
+          "effect of the Acolyte Iconward’s presence upon nearby cult warriors is",
+          "electrifying, driving them to new heights of violence."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-genestealer-cults-10",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "ATALAN JACKALS",
+    "subtype": "",
+    "keywords": [
+      "Mounted",
+      "Grenades",
+      "Great Devourer",
+      "Atalan Jackals"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Atalan incinerator [IGNORES COVER, TORRENT]",
+          "range": "12\"",
+          "a": "D6",
+          "bws": "N/A",
+          "s": "5",
+          "ap": "-1",
+          "d": "1"
+        },
+        {
+          "name": "Atalan small arms [PISTOL]",
+          "range": "12\"",
+          "a": "2",
+          "bws": "4+",
+          "s": "4",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Grenade launcher - frag [BLAST]",
+          "range": "24\"",
+          "a": "D3",
+          "bws": "4+",
+          "s": "4",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Grenade launcher - krak",
+          "range": "24\"",
+          "a": "1",
+          "bws": "4+",
+          "s": "9",
+          "ap": "-2",
+          "d": "D3"
+        },
+        {
+          "name": "Heavy stubber [RAPID FIRE 3]",
+          "range": "36\"",
+          "a": "3",
+          "bws": "4+",
+          "s": "4",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Mining laser",
+          "range": "24\"",
+          "a": "1",
+          "bws": "4+",
+          "s": "12",
+          "ap": "-3",
+          "d": "D6+1"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Atalan power weapon",
+          "range": "Melee",
+          "a": "2",
+          "bws": "4+",
+          "s": "4",
+          "ap": "-2",
+          "d": "1"
+        },
+        {
+          "name": "Close combat weapon",
+          "range": "Melee",
+          "a": "2",
+          "bws": "4+",
+          "s": "3",
+          "ap": "0",
+          "d": "1"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Genestealer Cults"
+    ],
+    "abilities": {
+      "core": "Scouts 9\"",
+      "faction": "Cult Ambush",
+      "special": [
+        "FACTION: Cult Ambush Outrider Gangs: Each time you use the Cult Ambush ability to set this unit back up on the battlefield, in addition to the normal rules, all of its models must be set up wholly within 6\" of a battlefield edge and at least one of its models must be touching one of your Cult Ambush markers (that marker is then removed from the battlefield)}.",
+        "If this cannot be done, this unit cannot be set back up}.",
+        "Demolition Run: Each time this unit ends a Normal move, you can select one enemy unit within 6\" of and visible to this unit and roll one D6 for each model in this unit: for each 4+, that enemy unit suffers 1 mortal wound}."
+      ]
+    },
+    "invulnerable": "",
+    "damaged": null,
+    "stats": {
+      "m": "12\"",
+      "t": "4",
+      "sv": "5+",
+      "w": "2",
+      "ld": "7+",
+      "oc": "1"
+    },
+    "footnotes": {
+      "footnotes": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "Any number of Atalan Jackals can each replace their close combat weapon with 1 Atalan",
+          "power weapon.",
+          "■",
+          "For every 4 Atalan Jackals in this unit, 1 Atalan Jackal’s Atalan small arms can be replaced with 1",
+          "grenade launcher.",
+          "■",
+          "Any number of Atalan Wolfquads can each have their heavy stubber replaced with one of",
+          "the following:",
+          "◦",
+          "1 Atalan incinerator",
+          "◦",
+          "1 mining laser"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "4-8 Atalan Jackals",
+          "■",
+          "1-2 Atalan Wolfquads*",
+          "*",
+          "This unit can only contain 2 Atalan Wolfquads if it also contains 8",
+          "Atalan Jackals.",
+          "Every Atalan Jackal is equipped with:",
+          "Atalan small arms;",
+          "close combat weapon.",
+          "Every Atalan Wolfquad is equipped with:",
+          "Atalan small arms;",
+          "heavy stubber; close combat weapon.",
+          "ATALAN JACKALS",
+          "Atalan Jackals share a mental link that allows them to coordinate",
+          "in hunting packs and ride in tight formations at high speeds with",
+          "no risk of mishap. They harass the foe with hit-and-run strikes,",
+          "their Wolfquads unleashing heavy firepower to augment the guns,",
+          "bludgeons and mining charges of their packmates."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-genestealer-cults-12",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "BIOPHAGUS",
+    "subtype": "",
+    "keywords": [
+      "Infantry",
+      "Character",
+      "Great Devourer",
+      "Biophagus"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Autopistol [PISTOL]",
+          "range": "12\"",
+          "a": "1",
+          "bws": "3+",
+          "s": "3",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Chemical vials [ANTI-INFANTRY 2+]",
+          "range": "6\"",
+          "a": "1",
+          "bws": "3+",
+          "s": "1",
+          "ap": "-1",
+          "d": "2"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Injector goad [ANTI-INFANTRY 2+]",
+          "range": "Melee",
+          "a": "1",
+          "bws": "3+",
+          "s": "2",
+          "ap": "0",
+          "d": "D3"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Genestealer Cults"
+    ],
+    "abilities": {
+      "core": "Deep Strike, Leader",
+      "faction": null,
+      "special": [
+        "Twisted Science: While this model is leading a unit, melee weapons equipped by models in that unit have the [LETHAL HITS] ability}.",
+        "Biological Warfare: Oncer per battle, when this model’s unit is selected to fight, this model can use this ability}.",
+        "If it does, until the end of the phase, improve the Attacks and Damage characteristics of its injector goad by 3}.",
+        "WARGEAR ABILITIES Alchemicus Familiar: Once per battle, when the bearer’s unit is selected to fight, the bearer can use its alchemicus familiar}.",
+        "If it does, until the end of the phase, melee weapons equipped by models in that unit have the [ANTI-INFANTRY 2+] ability}.",
+        "Designer’s Note: Place an Alchemicus Familiar token next to the bearer, removing it once this ability has been used}."
+      ]
+    },
+    "invulnerable": "",
+    "damaged": null,
+    "stats": {
+      "m": "6\"",
+      "t": "3",
+      "sv": "5+",
+      "w": "3",
+      "ld": "7+",
+      "oc": "1"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "This model can be equipped with 1 alchemicus familiar."
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Biophagus",
+          "This model is equipped with:",
+          "autopistol; chemical vials;",
+          "injector goad."
+        ]
+      },
+      {
+        "name": "LEADER",
+        "values": [
+          "This model can be attached to the following units:",
+          "■",
+          "Aberrants",
+          "■",
+          "Acolyte Hybrids",
+          "■",
+          "Hybrid Metamorphs",
+          "■",
+          "Neophyte Hybrids",
+          "You can attach this model to a",
+          "Genestealer Cults",
+          "Battleline",
+          "unit, even if a",
+          "Primus",
+          ",",
+          "Magus",
+          "or",
+          "Acolyte",
+          "Iconward",
+          "model has already been attached to it. If you",
+          "do, and that Bodyguard unit is destroyed, the Leader units",
+          "attached to it become separate units, with their original",
+          "Starting Strengths.",
+          "BIOPHAGUS",
+          "The Biophagus is a scientist-surgeon whose injector goad can be used",
+          "to enhance the unholy might of Aberrants and other favoured cultists,",
+          "or to dose enemies with a mutagenic cocktail that rapidly dissolves",
+          "them from within. Coupled with hurled vials of bio-acids, this arsenal",
+          "renders the Biophagus a deadly agent of biological warfare."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-genestealer-cults-14",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "CLAMAVUS",
+    "subtype": "",
+    "keywords": [
+      "Infantry",
+      "Character",
+      "Great Devourer",
+      "Clamavus"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Autopistol [PISTOL]",
+          "range": "12\"",
+          "a": "1",
+          "bws": "3+",
+          "s": "3",
+          "ap": "0",
+          "d": "1"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Close combat weapon",
+          "range": "Melee",
+          "a": "2",
+          "bws": "3+",
+          "s": "3",
+          "ap": "0",
+          "d": "1"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Genestealer Cults"
+    ],
+    "abilities": {
+      "core": "Deep Strike, Leader",
+      "faction": null,
+      "special": [
+        "Voice of New Truths (Aura): While an enemy unit is within 12\" of this model, subtract 1 from Battle-shock tests taken for that unit and, if that unit fails a Battle-shock test, it suffers 1 mortal wound}.",
+        "Scrambler Array: Enemy units that are set up on the battlefield as Reinforcements cannot be set up within 12\" of this model}."
+      ]
+    },
+    "invulnerable": "",
+    "damaged": null,
+    "stats": {
+      "m": "6\"",
+      "t": "3",
+      "sv": "5+",
+      "w": "3",
+      "ld": "6+",
+      "oc": "1"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "None"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Clamavus",
+          "This model is equipped with:",
+          "autopistol; close",
+          "combat weapon."
+        ]
+      },
+      {
+        "name": "LEADER",
+        "values": [
+          "This model can be attached to the following units:",
+          "■",
+          "Acolyte Hybrids",
+          "■",
+          "Hybrid Metamorphs",
+          "■",
+          "Neophyte Hybrids",
+          "You can attach this model to a",
+          "Genestealer Cults",
+          "Battleline",
+          "unit, even if a",
+          "Primus",
+          ",",
+          "Magus",
+          "or",
+          "Acolyte",
+          "Iconward",
+          "model has already been attached to it. If you",
+          "do, and that Bodyguard unit is destroyed, the Leader units",
+          "attached to it become separate units, with their original",
+          "Starting Strengths.",
+          "CLAMAVUS",
+          "Vox-hacker and information assassin supreme, the Clamavus scythes",
+          "into enemy communications networks for intelligence. It seeds the",
+          "amplified psychic signal of the Broodmind through the foe’s comms",
+          "to spread dismay from a distance, while up close it can rupture its",
+          "victims’ brains with its savage audial symphony."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-genestealer-cults-16",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "GOLIATH ROCKGRINDER",
+    "subtype": "",
+    "keywords": [
+      "Vehicle",
+      "Transport",
+      "Great Devourer",
+      "Goliath Rockgrinder"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Clearance incinerator [IGNORES COVER, TORRENT]",
+          "range": "12\"",
+          "a": "2D6",
+          "bws": "N/A",
+          "s": "6",
+          "ap": "-1",
+          "d": "1"
+        },
+        {
+          "name": "Demolition charge cache [ASSAULT, BLAST, HAZARDOUS]",
+          "range": "6\"",
+          "a": "D6+3",
+          "bws": "5+",
+          "s": "12",
+          "ap": "-2",
+          "d": "2"
+        },
+        {
+          "name": "Heavy mining laser [BLAST]",
+          "range": "36\"",
+          "a": "D3",
+          "bws": "4+",
+          "s": "12",
+          "ap": "-3",
+          "d": "D6+1"
+        },
+        {
+          "name": "Heavy seismic cannon [RAPID FIRE 2]",
+          "range": "24\"",
+          "a": "4",
+          "bws": "4+",
+          "s": "8",
+          "ap": "-2",
+          "d": "D3"
+        },
+        {
+          "name": "Heavy stubber [RAPID FIRE 3]",
+          "range": "36\"",
+          "a": "3",
+          "bws": "4+",
+          "s": "4",
+          "ap": "0",
+          "d": "1"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Drilldozer blade [SUSTAINED HITS 1]",
+          "range": "Melee",
+          "a": "6",
+          "bws": "3+",
+          "s": "10",
+          "ap": "-2",
+          "d": "2"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Genestealer Cults"
+    ],
+    "abilities": {
+      "core": "Deadly Demise D3, Firing Deck 6",
+      "faction": null,
+      "special": [
+        "Grinding Clearance: Each time this model ends a Charge move, select one enemy unit within Engagement Range of it and roll six D6: for each 4+, that enemy unit suffers 1 mortal wound}.",
+        "DAMAGED: 1-3 WOUNDS REMAINING While this model has 1-3 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll}."
+      ]
+    },
+    "invulnerable": "",
+    "damaged": null,
+    "stats": {
+      "m": "12\"",
+      "t": "10",
+      "sv": "3+",
+      "w": "10",
+      "ld": "7+",
+      "oc": "3"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "This model’s heavy mining laser can be replaced with one of the following:",
+          "◦",
+          "1 clearance incinerator",
+          "◦",
+          "1 heavy seismic cannon"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Goliath Rockgrinder",
+          "This model is equipped with:",
+          "heavy mining laser; heavy",
+          "stubber; drilldozer blade; demolition charge cache."
+        ]
+      },
+      {
+        "name": "TRANSPORT",
+        "values": [
+          "This model has a transport capacity of 6",
+          "Genestealer Cults",
+          "Infantry",
+          "models. It cannot transport a",
+          "Patriarch",
+          ".",
+          "GOLIATH ROCKGRINDER",
+          "The drilldozer blade fitted to the Goliath Rockgrinder is intended",
+          "for gouging tunnels deep into solid rock faces in search of mineral",
+          "riches. However, it works just as well as both an ablative shield and",
+          "a hideously bloody line-breaking weapon, mangling a crimson path",
+          "through the luckless foe."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-genestealer-cults-18",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "GOLIATH TRUCK",
+    "subtype": "",
+    "keywords": [
+      "Vehicle",
+      "Transport",
+      "Dedicated Transport",
+      "Great Devourer"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Demolition charge cache [ASSAULT, BLAST, HAZARDOUS]",
+          "range": "6\"",
+          "a": "D6+3",
+          "bws": "5+",
+          "s": "12",
+          "ap": "-2",
+          "d": "2"
+        },
+        {
+          "name": "Heavy stubber [RAPID FIRE 3]",
+          "range": "36\"",
+          "a": "3",
+          "bws": "4+",
+          "s": "4",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Twin autocannon [TWIN-LINKED]",
+          "range": "48\"",
+          "a": "2",
+          "bws": "4+",
+          "s": "9",
+          "ap": "-1",
+          "d": "3"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Goliath wheels",
+          "range": "Melee",
+          "a": "3",
+          "bws": "4+",
+          "s": "6",
+          "ap": "0",
+          "d": "1"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Genestealer Cults"
+    ],
+    "abilities": {
+      "core": "Deadly Demise D3, Firing Deck 12",
+      "faction": null,
+      "special": [
+        "Fire Support: In your Shooting phase, after this model has shot, select one enemy unit it scored one or more hits against this phase. Until the end of the phase, each time a friendly model that disembarked from this Transport this turn makes an attack that targets that enemy unit, you can re-roll the Wound roll}."
+      ]
+    },
+    "invulnerable": "",
+    "damaged": null,
+    "stats": {
+      "m": "12\"",
+      "t": "9",
+      "sv": "3+",
+      "w": "10",
+      "ld": "7+",
+      "oc": "2"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "None"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Goliath Truck",
+          "This model is equipped with:",
+          "heavy stubber; twin",
+          "autocannon; demolition charge cache; Goliath wheels."
+        ]
+      },
+      {
+        "name": "TRANSPORT",
+        "values": [
+          "This model has a transport capacity of 12",
+          "Genestealer Cults",
+          "Infantry",
+          "models. It cannot transport a",
+          "Patriarch",
+          ".",
+          "GOLIATH TRUCK",
+          "Robust and versatile, the Goliath Truck is the armoured transport of",
+          "choice for the Genestealer Cults. These vehicles boast thick armour",
+          "and capacious holds, and their heavy stubber and twin autocannon",
+          "allow the crew to lay down a hail of supporting fire as the broodkin",
+          "passengers disembark into battle."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-genestealer-cults-20",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "HYBRID METAMORPHS",
+    "subtype": "",
+    "keywords": [
+      "Infantry",
+      "Grenades",
+      "Great Devourer",
+      "Hybrid Metamorphs"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Autopistol [PISTOL]",
+          "range": "12\"",
+          "a": "1",
+          "bws": "4+",
+          "s": "3",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Hand flamer [IGNORES COVER, PISTOL, TORRENT]",
+          "range": "12\"",
+          "a": "D6",
+          "bws": "N/A",
+          "s": "3",
+          "ap": "0",
+          "d": "1"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Leader’s cult weapons",
+          "range": "Melee",
+          "a": "5",
+          "bws": "3+",
+          "s": "5",
+          "ap": "-1",
+          "d": "2"
+        },
+        {
+          "name": "Metamorph mutations - strike",
+          "range": "Melee",
+          "a": "3",
+          "bws": "3+",
+          "s": "5",
+          "ap": "-1",
+          "d": "2"
+        },
+        {
+          "name": "Metamorph mutations - sweep",
+          "range": "Melee",
+          "a": "5",
+          "bws": "3+",
+          "s": "4",
+          "ap": "-1",
+          "d": "1"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Genestealer Cults"
+    ],
+    "abilities": {
+      "core": "Deep Strike, Scouts 6\"",
+      "faction": "Cult Ambush",
+      "special": [
+        "FACTION: Cult Ambush Savage Amalgam: Each time a model in this unit is destroyed by a melee attack, if that model has not fought this phase, roll one D6}.",
+        "On a 3+, do not remove it from play; that destroyed model can fight after the attacking model’s unit has finished making its attacks, and it is then removed from play}.",
+        "WARGEAR ABILITIES Cult Icon: In the Reinforcements step of your Movement phase, you can return up to D3 destroyed models to the bearer’s unit}.",
+        "If the bearer’s unit is within range of an objective marker you control, you can return up to 3 destroyed models to that unit instead}.",
+        "This ability cannot be used to return destroyed Character models in Attached units}."
+      ]
+    },
+    "invulnerable": "",
+    "damaged": null,
+    "stats": {
+      "m": "6\"",
+      "t": "4",
+      "sv": "5+",
+      "w": "1",
+      "ld": "7+",
+      "oc": "1"
+    },
+    "footnotes": {
+      "footnotes": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "Any number of models can each have their autopistol replaced with 1 hand flamer.",
+          "■",
+          "One Hybrid Metamorph’s autopistol can be replaced with 1 cult icon."
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Metamorph Leader",
+          "■",
+          "4-9 Hybrid Metamorphs",
+          "The Metamorph Leader is equipped with:",
+          "autopistol; Leader’s",
+          "cult weapons.",
+          "Every Hybrid Metamorph is equipped with:",
+          "autopistol;",
+          "Metamorph mutations.",
+          "HYBRID METAMORPHS",
+          "Triggered by the approach of a hive fleet or a sudden trauma to the",
+          "cult, Hybrid Metamorphs mutate from early generations of the brood",
+          "cycle. Dormant gene-codes burst to life, bestowing weaponised limbs,",
+          "ghastly bio-acidic glands and other so-called blessings upon these",
+          "creatures, transforming them into devastating shock troops."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-genestealer-cults-22",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "JACKAL ALPHUS",
+    "subtype": "",
+    "keywords": [
+      "Mounted",
+      "Character",
+      "Grenades",
+      "Great Devourer",
+      "Jackal Alphus"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Autopistol [PISTOL]",
+          "range": "12\"",
+          "a": "1",
+          "bws": "3+",
+          "s": "3",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Cult sniper rifle [HEAVY, PRECISION]",
+          "range": "36\"",
+          "a": "1",
+          "bws": "3+",
+          "s": "5",
+          "ap": "-2",
+          "d": "3"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Close combat weapon",
+          "range": "Melee",
+          "a": "3",
+          "bws": "3+",
+          "s": "3",
+          "ap": "0",
+          "d": "1"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Genestealer Cults"
+    ],
+    "abilities": {
+      "core": "Leader, Scouts 9\"",
+      "faction": null,
+      "special": [
+        "Priority Target: Each time this model makes an attack with its cult sniper rifle that targets an enemy unit, if it scores a hit, until the end of the phase, each time another Genestealer Cults model from your army makes a ranged attack that targets that enemy unit, re-roll a Hit roll of 1}.",
+        "Master Outrider: In your Shooting phase, after this model’s unit has shot, if it is not within Engagement Range of any enemy units, that unit can make a Normal move of up to 6\" as if it were your Movement phase}.",
+        "If it does, until the end of the turn, that unit is not eligible to declare a charge}."
+      ]
+    },
+    "invulnerable": "",
+    "damaged": null,
+    "stats": {
+      "m": "12\"",
+      "t": "4",
+      "sv": "5",
+      "w": "4",
+      "ld": "7+",
+      "oc": "1"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "None"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Jackal Alphus",
+          "This model is equipped with:",
+          "autopistol; cult sniper rifle;",
+          "close combat weapon."
+        ]
+      },
+      {
+        "name": "LEADER",
+        "values": [
+          "This model can be attached to the following unit:",
+          "■",
+          "Atalan Jackals",
+          "JACKAL ALPHUS",
+          "The Jackal Alphus rides their dirtcycle to commanding battlefield",
+          "vantage points. With their long-range vox, the Alphus calls in strike",
+          "missions against tougher, armoured targets. Should a foe fall beneath",
+          "the cross hairs of their cult sniper rifle, its life expectancy can be",
+          "measured in moments."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-genestealer-cults-24",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "KELERMORPH",
+    "subtype": "",
+    "keywords": [
+      "Infantry",
+      "Character",
+      "Great Devourer",
+      "Kelermorph"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Liberator autostubs [DEVASTATING WOUNDS, PISTOL, PRECISION, SUSTAINED HITS D3]",
+          "range": "12\"",
+          "a": "6",
+          "bws": "2+",
+          "s": "5",
+          "ap": "0",
+          "d": "1"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Close combat weapon",
+          "range": "Melee",
+          "a": "3",
+          "bws": "3+",
+          "s": "3",
+          "ap": "0",
+          "d": "1"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Genestealer Cults"
+    ],
+    "abilities": {
+      "core": "Deep Strike, Lone Operative",
+      "faction": null,
+      "special": [
+        "Cometh the Hour, Cometh the Hero: When this model is set up using the Deep Strike ability, if it is set up within 3\" horizontally of a friendly Genestealer Cults Battleline unit, it can be set up anywhere on the battlefield that is more than 3\" horizontally from all enemy models, but if it is set up within 9\" horizontally of an enemy unit it is not eligible to declare a charge this turn}.",
+        "Gunslinger: Each time an enemy unit targets a friendly Genestealer Cults Battleline unit within 3\" of this model with ranged attacks, after that enemy unit has finished making its attacks, this model can shoot as if it were your Shooting phase}."
+      ]
+    },
+    "invulnerable": "5+",
+    "damaged": null,
+    "stats": {
+      "m": "6\"",
+      "t": "3",
+      "sv": "5+",
+      "w": "3",
+      "ld": "7+",
+      "oc": "1"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "None"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Kelermorph",
+          "This model is equipped with:",
+          "liberator autostubs;",
+          "close combat weapon.",
+          "KELERMORPH",
+          "This gunfighter is a living icon of rebellion, moulded to exploit the",
+          "psyche of fractured Human societies. Whip-fast reactions and",
+          "hypersensory acuity lend the Kelermorph lethal reaction speeds and",
+          "help it unleash withering volleys from its iconic liberator autostubs,",
+          "whose depleted volonium rounds can punch through tank armour."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-genestealer-cults-26",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "LOCUS",
+    "subtype": "",
+    "keywords": [
+      "Infantry",
+      "Character",
+      "Great Devourer",
+      "Locus"
+    ],
+    "weapons": {
+      "ranged": [],
+      "melee": [
+        {
+          "name": "Locus blades",
+          "range": "Melee",
+          "a": "5",
+          "bws": "2+",
+          "s": "5",
+          "ap": "-2",
+          "d": "2"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Genestealer Cults"
+    ],
+    "abilities": {
+      "core": "Deep Strike, Fights First, Leader",
+      "faction": null,
+      "special": [
+        "Sudden Assault: While this model is leading a unit, models in that unit have the Fights First ability}.",
+        "Bodyguard: While this model is leading a unit, other Character models attached to that unit have the Feel No Pain 4+ ability}."
+      ]
+    },
+    "invulnerable": "4+",
+    "damaged": null,
+    "stats": {
+      "m": "6\"",
+      "t": "4",
+      "sv": "5+",
+      "w": "3",
+      "ld": "7+",
+      "oc": "1"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "None"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Locus",
+          "This model is equipped with:",
+          "Locus blades."
+        ]
+      },
+      {
+        "name": "LEADER",
+        "values": [
+          "This model can be attached to the following units:",
+          "■",
+          "Acolyte Hybrids",
+          "■",
+          "Hybrid Metamorphs",
+          "■",
+          "Neophyte Hybrids",
+          "You can attach this model to a",
+          "Genestealer",
+          "Cults",
+          "Battleline",
+          "unit, even if a",
+          "Primus",
+          ",",
+          "Magus",
+          "or",
+          "Acolyte",
+          "Iconward",
+          "model has already been attached to it. If you",
+          "do, and that Bodyguard unit is destroyed, the Leader units",
+          "attached to it become separate units, with their original",
+          "Starting Strengths.",
+          "LOCUS",
+          "An unassuming bodyguard, the Locus may be overlooked by the foe",
+          "until the exact moment it abandons calm stillness for lightning-fast",
+          "attack. Robes thrown back, the Locus’ whipping tail barb and vestigial",
+          "limbs are revealed even as its twin blades flash out to neutralise any",
+          "threats to its ward."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-genestealer-cults-28",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "MAGUS",
+    "subtype": "",
+    "keywords": [
+      "Infantry",
+      "Character",
+      "Psyker",
+      "Great Devourer",
+      "Magus"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Autopistol [PISTOL]",
+          "range": "12\"",
+          "a": "1",
+          "bws": "3+",
+          "s": "3",
+          "ap": "0",
+          "d": "1"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Magus stave [PSYCHIC]",
+          "range": "Melee",
+          "a": "3",
+          "bws": "3+",
+          "s": "5",
+          "ap": "-1",
+          "d": "D3"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Genestealer Cults"
+    ],
+    "abilities": {
+      "core": "Deep Strike, Leader",
+      "faction": null,
+      "special": [
+        "Spiritual Leader: While this model is leading a unit, models in that unit have the Feel No Pain 5+ ability against Psychic Attacks}.",
+        "Mind Control (Psychic): At the start of your opponent’s Shooting phase, one Psyker model from your army with this ability can use it}.",
+        "If used, select one enemy unit within 12\" of and visible to that Psyker model and roll one D6: on a 1, that Psyker model suffers D3 mortal wounds; on a 2-5, until the end of the phase, each time a model in that enemy unit makes an attack, subtract 1 from the Hit roll; on a 6, that enemy unit is not eligible to shoot this phase}.",
+        "Psychic Familiar: Once per battle, at the start of any of your opponent’s Shooting phases, this model can use its psychic familiar}.",
+        "If it does, until the end of the phase, double the range of its Mind Control ability}.",
+        "Designer’s Note: Place a Psychic Familiar token next to the model, removing it once this ability has been used}."
+      ]
+    },
+    "invulnerable": "",
+    "damaged": null,
+    "stats": {
+      "m": "6\"",
+      "t": "3",
+      "sv": "5+",
+      "w": "4",
+      "ld": "6+",
+      "oc": "1"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "None"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Magus",
+          "This model is equipped with:",
+          "autopistol; Magus stave."
+        ]
+      },
+      {
+        "name": "LEADER",
+        "values": [
+          "This model can be attached to the following units:",
+          "■",
+          "Acolyte Hybrids",
+          "■",
+          "Hybrid Metamorphs",
+          "■",
+          "Neophyte Hybrids",
+          "MAGUS",
+          "The Magus acts as its Patriarch’s vizier, and as the head of that alien",
+          "monstrosity’s deviant church. Each one is a powerful psyker, their",
+          "formidable will enhanced by the gestalt powers of the Star Children",
+          "until they can manipulate enemies’ minds and bodies like puppets -",
+          "or tear them apart from within."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-genestealer-cults-30",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "NEOPHYTE HYBRIDS",
+    "subtype": "",
+    "keywords": [
+      "Infantry",
+      "Battleline",
+      "Grenades",
+      "Great Devourer"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Autopistol [PISTOL]",
+          "range": "12\"",
+          "a": "1",
+          "bws": "4+",
+          "s": "3",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Hybrid firearm [RAPID FIRE 1]",
+          "range": "24\"",
+          "a": "1",
+          "bws": "4+",
+          "s": "3",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Leader pistol [PISTOL]",
+          "range": "12\"",
+          "a": "1",
+          "bws": "4+",
+          "s": "4",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Flamer [IGNORES COVER, TORRENT]",
+          "range": "12\"",
+          "a": "D6",
+          "bws": "N/A",
+          "s": "4",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Grenade launcher - frag [BLAST]",
+          "range": "24\"",
+          "a": "D3",
+          "bws": "4+",
+          "s": "4",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Grenade launcher - krak",
+          "range": "24\"",
+          "a": "1",
+          "bws": "4+",
+          "s": "9",
+          "ap": "-2",
+          "d": "D3"
+        },
+        {
+          "name": "Heavy stubber [RAPID FIRE 3]",
+          "range": "36\"",
+          "a": "3",
+          "bws": "4+",
+          "s": "4",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Mining laser [HEAVY]",
+          "range": "24\"",
+          "a": "1",
+          "bws": "5+",
+          "s": "12",
+          "ap": "-3",
+          "d": "D6+1"
+        },
+        {
+          "name": "Seismic cannon [HEAVY,",
+          "range": "RAPID FIRE 2]",
+          "a": "24\"",
+          "bws": "4",
+          "s": "5+",
+          "ap": "6",
+          "d": "-1"
+        },
+        {
+          "name": "D3",
+          "range": "Webber [DEVASTATING WOUNDS, TORRENT]",
+          "a": "12\"",
+          "bws": "D6",
+          "s": "N/A",
+          "ap": "2",
+          "d": "0"
+        },
+        {
+          "name": "1"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Chainsword",
+          "range": "Melee",
+          "a": "2",
+          "bws": "4+",
+          "s": "3",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Power weapon",
+          "range": "Melee",
+          "a": "1",
+          "bws": "4+",
+          "s": "4",
+          "ap": "-2",
+          "d": "1"
+        },
+        {
+          "name": "Close combat weapon",
+          "range": "Melee",
+          "a": "1",
+          "bws": "4+",
+          "s": "3",
+          "ap": "0",
+          "d": "1"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Genestealer Cults"
+    ],
+    "abilities": {
+      "core": "Deep Strike",
+      "faction": "Cult Ambush",
+      "special": [
+        "FACTION: Cult Ambush A Plan Generations in the Making: At the start of your Command phase, roll one D6 for each objective marker you control that has one or more units from your army with this ability within range of it}.",
+        "If one or more of the results is a 4+, you gain 1CP}.",
+        "WARGEAR ABILITIES Cult Icon: In the Reinforcements step of your Movement phase, you can return up to 3 destroyed models to the bearer’s unit}.",
+        "If the bearer’s unit is within range of an objective marker you control, you can return up to D3+3 destroyed models to that unit instead}.",
+        "This ability cannot be used to return destroyed Character models in Attached units}."
+      ]
+    },
+    "invulnerable": "",
+    "damaged": null,
+    "stats": {
+      "m": "6\"",
+      "t": "3",
+      "sv": "5+",
+      "w": "1",
+      "ld": "7+",
+      "oc": "2"
+    },
+    "footnotes": {
+      "footnotes": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "One Neophyte Hybrid equipped with a Hybrid",
+          "firearm can be equipped with 1 cult icon.",
+          "■",
+          "For every 10 models in this unit, up to 2",
+          "Neophyte Hybrids can each have their Hybrid",
+          "firearm replaced with one of the following:",
+          "◦",
+          "Heavy stubber",
+          "◦",
+          "Mining laser",
+          "◦",
+          "Seismic cannon",
+          "■",
+          "For every 10 models in this unit, up to 2",
+          "Neophyte Hybrids can each have their Hybrid",
+          "firearm replaced with one of the following:",
+          "◦",
+          "Flamer",
+          "◦",
+          "Grenade launcher",
+          "◦",
+          "Webber",
+          "■",
+          "The Neophyte Leader’s Hybrid firearm and",
+          "close combat weapon can be replaced with 1 of",
+          "the following:",
+          "◦",
+          "1 Leader pistol and 1 chainsword",
+          "◦",
+          "1 Leader pistol and 1 power weapon"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Neophyte Leader",
+          "■",
+          "9-19 Neophyte Hybrids",
+          "Every model is equipped with:",
+          "autopistol; Hybrid firearm;",
+          "close combat weapon.",
+          "NEOPHYTE HYBRIDS",
+          "Making up the bulk of their cult’s ranks, Neophyte Hybrids are the",
+          "least alien in appearance of all the Patriarch’s brood. They are no",
+          "less dangerous for this, however, and what they lack in weaponised",
+          "bio-adaptations they make up for in numbers, massed firepower and",
+          "zealous revolutionary fanaticism."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-genestealer-cults-32",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "NEXOS",
+    "subtype": "",
+    "keywords": [
+      "Infantry",
+      "Character",
+      "Great Devourer",
+      "Nexos"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Autopistol [PISTOL]",
+          "range": "12\"",
+          "a": "1",
+          "bws": "3+",
+          "s": "3",
+          "ap": "0",
+          "d": "1"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Close combat weapon",
+          "range": "Melee",
+          "a": "2",
+          "bws": "3+",
+          "s": "3",
+          "ap": "0",
+          "d": "1"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Genestealer Cults"
+    ],
+    "abilities": {
+      "core": "Deep Strike, Leader",
+      "faction": null,
+      "special": [
+        "Battlefield Analysis: Once per turn, you can select one model or unit from your army with this ability as the target of a Stratagem for 0CP, even if you have already selected a model or unit from your army as the target of that Stratagem this phase}.",
+        "Cult Infiltration: At the start of each player’s Command phase, if this model is on the battlefield, you can select one Cult Ambush marker that is on the battlefield and move it up to 6\"}."
+      ]
+    },
+    "invulnerable": "",
+    "damaged": null,
+    "stats": {
+      "m": "6\"",
+      "t": "3",
+      "sv": "5+",
+      "w": "3",
+      "ld": "7+",
+      "oc": "1"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "None"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Nexos",
+          "This model is equipped with:",
+          "autopistol;",
+          "close combat weapon."
+        ]
+      },
+      {
+        "name": "LEADER",
+        "values": [
+          "This model can be attached to the following units:",
+          "■",
+          "Acolyte Hybrids",
+          "■",
+          "Hybrid Metamorphs",
+          "■",
+          "Neophyte Hybrids",
+          "You can attach this model to a",
+          "Genestealer",
+          "Cults",
+          "Battleline",
+          "unit, even if a",
+          "Primus",
+          ",",
+          "Magus",
+          "or",
+          "Acolyte",
+          "Iconward",
+          "model has already been attached to it. If you",
+          "do, and that Bodyguard unit is destroyed, the Leader units",
+          "attached to it become separate units, with their original",
+          "Starting Strengths.",
+          "NEXOS",
+          "Engineered to share a portion of the Patriarch’s cerebral might, the",
+          "Nexos can absorb the entirety of a cultist’s thoughts and experiences",
+          "through physical contact. They compartmentalise millions of these",
+          "snapshots, building a formidable mental map, then using it to direct",
+          "cult forces like a rear-echelon officer of prodigious skill."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-genestealer-cults-34",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "PATRIARCH",
+    "subtype": "",
+    "keywords": [
+      "Infantry",
+      "Character",
+      "Psyker",
+      "Great Devourer",
+      "Epic Hero"
+    ],
+    "weapons": {
+      "ranged": [],
+      "melee": [
+        {
+          "name": "Patriarch’s claws [DEVASTATING WOUNDS, TWIN-LINKED]",
+          "range": "Melee",
+          "a": "5",
+          "bws": "2+",
+          "s": "6",
+          "ap": "-2",
+          "d": "2"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Genestealer Cults"
+    ],
+    "abilities": {
+      "core": "Deep Strike, Infiltrators, Leader",
+      "faction": null,
+      "special": [
+        "Might From Beyond: While this model is leading a unit, melee weapons equipped by models in that unit have the [DEVASTATING WOUNDS] ability}.",
+        "Cosmic Horror (Psychic): At the start of the Fight phase, each enemy unit within 6\" of this model must take a Battle-shock test}.",
+        "Psychic Familiar: Once per battle, at the start of the Fight phase, this model can use its psychic familiar}.",
+        "If it does, until the end of the phase, double the range of its Cosmic Horror ability}.",
+        "Designer’s Note: Place a Psychic Familiar token next to the model, removing it once this ability has been used}."
+      ]
+    },
+    "invulnerable": "4+",
+    "damaged": null,
+    "stats": {
+      "m": "8\"",
+      "t": "5",
+      "sv": "4+",
+      "w": "6",
+      "ld": "6+",
+      "oc": "1"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "None"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Patriarch -",
+          "Epic Hero",
+          "This model is equipped with:",
+          "Patriarch’s claws."
+        ]
+      },
+      {
+        "name": "LEADER",
+        "values": [
+          "This model can be attached to the following unit:",
+          "■",
+          "Purestrain Genestealers"
+        ]
+      },
+      {
+        "name": "SUPREME COMMANDER",
+        "values": []
+      }
+    ]
+  },
+  {
+    "id": "40k-index-genestealer-cults-36",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "PRIMUS",
+    "subtype": "",
+    "keywords": [
+      "Infantry",
+      "Character",
+      "Great Devourer",
+      "Primus"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Scoped needle pistol [ANTI-INFANTRY 2+, IGNORES COVER, PISTOL]",
+          "range": "18\"",
+          "a": "1",
+          "bws": "2+",
+          "s": "1",
+          "ap": "0",
+          "d": "D3"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Cult bonesword",
+          "range": "Melee",
+          "a": "5",
+          "bws": "2+",
+          "s": "5",
+          "ap": "-2",
+          "d": "1"
+        },
+        {
+          "name": "Toxin injector claw [ANTI-INFANTRY 2+, EXTRA ATTACKS]",
+          "range": "Melee",
+          "a": "2",
+          "bws": "2+",
+          "s": "2",
+          "ap": "0",
+          "d": "D3"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Genestealer Cults"
+    ],
+    "abilities": {
+      "core": "Deep Strike, Leader",
+      "faction": null,
+      "special": [
+        "Cult Demagogue: While this model is leading a unit, each time a model in that unit makes an attack, you can re-roll the Hit roll}.",
+        "Decoys and Misdirection: If your army includes one or more models with this ability, after both players have deployed their armies, select up to three Genestealer Cults units from your army and redeploy them}.",
+        "When doing so, you can set those units up in Strategic Reserves if you wish, regardless of how many units are already in Strategic Reserves}."
+      ]
+    },
+    "invulnerable": "5+",
+    "damaged": null,
+    "stats": {
+      "m": "6\"",
+      "t": "3",
+      "sv": "5+",
+      "w": "4",
+      "ld": "6+",
+      "oc": "1"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "None"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Primus",
+          "This model is equipped with:",
+          "scoped needle pistol; cult",
+          "bonesword; toxin injector claw."
+        ]
+      },
+      {
+        "name": "LEADER",
+        "values": [
+          "This model can be attached to the following units:",
+          "■",
+          "Acolyte Hybrids",
+          "■",
+          "Hybrid Metamorphs",
+          "■",
+          "Neophyte Hybrids",
+          "PRIMUS",
+          "Occupying a role somewhere between guerrilla general and shadowy",
+          "symbol of resistance, the Primus is a Genestealer Cult’s ultimate",
+          "military commander. Besides being deadly combatants in their own",
+          "right, their mastery of insurgent tactics transforms their followers from",
+          "a rebellious mob into a lethal military machine."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-genestealer-cults-38",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "PURESTRAIN GENESTEALERS",
+    "subtype": "",
+    "keywords": [
+      "Infantry",
+      "Great Devourer",
+      "Purestrain Genestealers"
+    ],
+    "weapons": {
+      "ranged": [],
+      "melee": [
+        {
+          "name": "Cult claws and talons",
+          "range": "Melee",
+          "a": "4",
+          "bws": "2+",
+          "s": "4",
+          "ap": "-2",
+          "d": "1"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Genestealer Cults"
+    ],
+    "abilities": {
+      "core": "Deep Strike, Infiltrators",
+      "faction": "Cult Ambush",
+      "special": [
+        "FACTION: Cult Ambush Swift and Deadly: This unit is eligible to declare a charge in a turn in which it Advanced}."
+      ]
+    },
+    "invulnerable": "5+",
+    "damaged": null,
+    "stats": {
+      "m": "8\"",
+      "t": "4",
+      "sv": "5+",
+      "w": "2",
+      "ld": "7+",
+      "oc": "1"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "None"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "5-10 Purestrain Genestealers",
+          "Every model is equipped with:",
+          "cult claws and talons.",
+          "PURESTRAIN GENESTEALERS",
+          "Vanguard organisms for the Tyranid hive fleets, Purestrain",
+          "Genestealers are one of the most lethal life forms in the galaxy. They",
+          "combine the cunning of an apex predator with inhuman speed and",
+          "agility, closing with their prey in the blink of an eye before tearing their",
+          "victims to bloody tatters."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-genestealer-cults-40",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "REDUCTUS SABOTEUR",
+    "subtype": "",
+    "keywords": [
+      "Infantry",
+      "Character",
+      "Grenades",
+      "Great Devourer"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Autopistol [PISTOL]",
+          "range": "12\"",
+          "a": "1",
+          "bws": "3+",
+          "s": "3",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Demolition charges [ASSAULT, BLAST, ONE SHOT]",
+          "range": "6\"",
+          "a": "D6+3",
+          "bws": "2+",
+          "s": "12",
+          "ap": "-2",
+          "d": "2"
+        },
+        {
+          "name": "One Shot:",
+          "range": "The bearer can only shoot with this weapon once per battle.",
+          "a": "Remote explosives [BLAST, INDIRECT FIRE]",
+          "bws": "24\"",
+          "s": "D6+3",
+          "ap": "3+",
+          "d": "5"
+        },
+        {
+          "name": "0",
+          "range": "1"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Close combat weapon",
+          "range": "Melee",
+          "a": "2",
+          "bws": "3+",
+          "s": "3",
+          "ap": "0",
+          "d": "1"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Genestealer Cults"
+    ],
+    "abilities": {
+      "core": "Deep Strike, Infiltrators, Lone Operative, Stealth",
+      "faction": null,
+      "special": [
+        "Primed and Ready: In your Shooting phase, you can select one model from your army with this ability as the target of the Grenade Stratagem for 0CP, provided that model has not already been the target of that Stratagem this phase}.",
+        "This can allow you to use the Grenade Stratagem for a second time this phase}.",
+        "Planted Explosives: Once per battle, when an enemy unit ends a Normal, Advance or Fall Back move within 12\" of this model, this model can use its Reductus mine}.",
+        "If it does, roll one D6: on a 2+, that enemy unit suffers D3+3 mortal wounds}.",
+        "Only one model from your army with this ability can use it in the same battle round}.",
+        "Designer’s Note: Place a Reductus Mine token next to the model, removing it once this ability has been used}."
+      ]
+    },
+    "invulnerable": "",
+    "damaged": null,
+    "stats": {
+      "m": "6\"",
+      "t": "3",
+      "sv": "5+",
+      "w": "3",
+      "ld": "7+",
+      "oc": "1"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "None"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Reductus Saboteur",
+          "This model is equipped with:",
+          "autopistol; demolition charges;",
+          "remote explosives; close combat weapon.",
+          "REDUCTUS SABOTEUR",
+          "There is no engine of the oppressors that a Reductus Saboteur cannot",
+          "lay low, and few materials they cannot fashion into a bomb given",
+          "a little time to tinker. Flitting through the shadows, they lace the",
+          "battlefield with booby traps and deploy powerful explosives that make",
+          "short work of enemy armour."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-genestealer-cults-42",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "SANCTUS",
+    "subtype": "",
+    "keywords": [
+      "Infantry",
+      "Character",
+      "Great Devourer",
+      "Sanctus"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Cult sniper rifle [ANTI-PSYKER 2+, HEAVY, PRECISION]",
+          "range": "36\"",
+          "a": "1",
+          "bws": "3+",
+          "s": "5",
+          "ap": "-2",
+          "d": "3"
+        }
+      ],
+      "melee": [
+        {
+          "name": "Sanctus bio-dagger [ANTI-INFANTRY 3+, PRECISION]",
+          "range": "Melee",
+          "a": "6",
+          "bws": "2+",
+          "s": "3",
+          "ap": "-2",
+          "d": "1"
+        },
+        {
+          "name": "Close combat weapon",
+          "range": "Melee",
+          "a": "2",
+          "bws": "3+",
+          "s": "3",
+          "ap": "0",
+          "d": "1"
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Genestealer Cults"
+    ],
+    "abilities": {
+      "core": "Deep Strike, Infiltrators, Lone Operative, Stealth",
+      "faction": null,
+      "special": [
+        "Creeping Shadow: This unit is eligible to shoot and declare a charge in a turn in which it Advanced or Fell Back}.",
+        "Psychic Spoor: At the start of the first battle round, select one enemy unit to be this model’s prey}.",
+        "Each time this model makes an attack that targets its prey, that attack has the [IGNORES COVER] and [DEVASTATING WOUNDS] abilities}."
+      ]
+    },
+    "invulnerable": "5+",
+    "damaged": null,
+    "stats": {
+      "m": "6\"",
+      "t": "3",
+      "sv": "5+",
+      "w": "3",
+      "ld": "7+",
+      "oc": "1"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "This model’s Sanctus bio-dagger can be replaced with 1 cult sniper rifle and 1 close combat weapon."
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Sanctus",
+          "This model is equipped with:",
+          "Sanctus bio-dagger.",
+          "SANCTUS",
+          "A Sanctus is an inescapable assassin who can track by psychic spoor",
+          "and squirm through the smallest gaps. Its bio-dagger - spawned from",
+          "the Patriarch’s genesis pools - unleashes the psychic might of the",
+          "Broodmind with the slightest cut, while the Sanctus’ cult sniper rifle",
+          "allows it to strike down prey from afar."
+        ]
+      }
+    ]
+  }
+]

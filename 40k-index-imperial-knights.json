@@ -1,1 +1,2506 @@
-[{"id":"40k-index-imperial-knights-0","name":"ARMIGER HELVERIN","subtype":"","keywords":["Vehicle","Walker","Battleline","Imperium","Armiger","Helverin"],"weapons":{"ranged":[{"name":"Armiger autocannon","range":"48\"","a":"4","bws":"3+","s":"9","ap":"-1","d":"3"},{"name":"Meltagun [MELTA 2]","range":"12\"","a":"1","bws":"3+","s":"9","ap":"-4","d":"D6"},{"name":"Questoris heavy stubber [RAPID FIRE 3]","range":"36\"","a":"3","bws":"3+","s":"4","ap":"-1","d":"1"},{"passive":"*","text":""}],"melee":[{"name":"Armoured feet","range":"Melee","a":"4","bws":"3+","s":"6","ap":"0","d":"1"},{"passive":"*","text":""}]},"factionKeywords":["Imperial Knights"],"abilities":{"core":"Deadly Demise D3","faction":"Code Chivalric","special":["FACTION: Code Chivalric Skyfire Protocols: While this model is either wholly within your deployment zone or within range of an objective marker you control, its Armiger autocannons have the [ANTI-FLY 2+] ability}.","DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll}."]},"invulnerable":"*","damaged":null,"stats":{"m":"12\"","t":"10","sv":"3+","w":"12","ld":"7+","oc":"8"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","This model’s Questoris heavy stubber can be replaced with 1 meltagun."]},{"name":"UNIT COMPOSITION","values":["■","1 Armiger Helverin","This model is equipped with:","2 Armiger autocannons;","Questoris heavy stubber; armoured feet.","ARMIGER HELVERIN","These fast-moving Knights have been designed to lay down hails of","heavy fire, and their strategic roles include enfilading fire, scouting","and anti-air. With their Armiger autocannons they can fire hundreds of","shells per minute, and packs of two or three of these war engines can","shatter an enemy assault in seconds."]}]},{"id":"40k-index-imperial-knights-2","name":"ARMIGER WARGLAIVE","subtype":"","keywords":["Vehicle","Walker","Battleline","Imperium","Armiger","Warglaive"],"weapons":{"ranged":[{"name":"Meltagun [MELTA 2]","range":"12\"","a":"1","bws":"3+","s":"9","ap":"-4","d":"D6"},{"name":"Questoris heavy stubber [RAPID FIRE 3]","range":"36\"","a":"3","bws":"3+","s":"4","ap":"-1","d":"1"},{"name":"Thermal spear [MELTA 4]","range":"24\"","a":"2","bws":"3+","s":"12","ap":"-4","d":"D6"},{"passive":"*","text":""}],"melee":[{"name":"Reaper chain-cleaver - strike","range":"Melee","a":"4","bws":"3+","s":"10","ap":"-3","d":"3"},{"name":"Reaper chain-cleaver - sweep","range":"Melee","a":"8","bws":"3+","s":"8","ap":"-2","d":"1"},{"passive":"*","text":""}]},"factionKeywords":["Imperial Knights"],"abilities":{"core":"Deadly Demise D3","faction":"Code Chivalric","special":["FACTION: Code Chivalric Impetuous Glory: Each time this model makes a Charge move, until the end of the turn, melee weapons equipped by this model have the [SUSTAINED HITS 1] ability}.","DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll}."]},"invulnerable":"*","damaged":null,"stats":{"m":"12\"","t":"10","sv":"3+","w":"12","ld":"7+","oc":"8"},"footnotes":{"footnotes":"Before selecting targets for this weapon, select one of its profiles to make attacks with."},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","This model’s Questoris heavy stubber can be replaced with 1 meltagun."]},{"name":"UNIT COMPOSITION","values":["■","1 Armiger Warglaive","This model is equipped with:","Questoris heavy stubber;","thermal spear; reaper chain-cleaver.","ARMIGER WARGLAIVE","Armiger Warglaives are nimble and purposeful Knights that possess","exceptional speed that allows them to outpace most vehicles. This,","in combination with their thermal spears that can melt bunkers and","battle-tank armour alike, makes them fearsome hunters of enemy","war engines."]}]},{"id":"40k-index-imperial-knights-4","name":"KNIGHT PALADIN","subtype":"","keywords":["Vehicle","Walker","Titanic","Towering","Questoris","Character"],"weapons":{"ranged":[{"name":"Icarus autocannons [ANTI-FLY 2+, TWIN-LINKED]","range":"48\"","a":"3","bws":"3+","s":"7","ap":"-1","d":"2"},{"name":"Ironstorm missile pod [BLAST, INDIRECT FIRE]","range":"48\"","a":"D6+1","bws":"3+","s":"5","ap":"0","d":"1"},{"name":"Meltagun [MELTA 2]","range":"12\"","a":"1","bws":"3+","s":"9","ap":"-4","d":"D6"},{"name":"Questoris heavy stubber [RAPID FIRE 3]","range":"36\"","a":"3","bws":"3+","s":"4","ap":"-1","d":"1"},{"name":"Rapid-fire battle cannon [BLAST, RAPID FIRE D6+3]","range":"72\"","a":"D6+3","bws":"3+","s":"10","ap":"-1","d":"3"},{"name":"Stormspear rocket pod","range":"48\"","a":"3","bws":"3+","s":"8","ap":"-2","d":"D6"},{"passive":"*","text":""}],"melee":[{"name":"Reaper chainsword - strike","range":"Melee","a":"4","bws":"3+","s":"14","ap":"-4","d":"6"},{"name":"Reaper chainsword - sweep","range":"Melee","a":"12","bws":"3+","s":"9","ap":"-3","d":"2"},{"name":"Thunderstrike gauntlet - strike","range":"Melee","a":"4","bws":"3+","s":"20","ap":"-3","d":"8"},{"name":"Thunderstrike gauntlet - sweep","range":"Melee","a":"8","bws":"3+","s":"10","ap":"-2","d":"3"},{"passive":"*","text":""}]},"factionKeywords":["Imperial Knights"],"abilities":{"core":"Deadly Demise D6","faction":"Code Chivalric, Super-heavy Walker","special":["FACTION: Code Chivalric, Super-heavy Walker Paladin’s Duty (Bondsman): While a model is affected by this ability, its weapons have the [LETHAL HITS] and [LANCE] abilities}.","Seasoned Noble: Once per phase, you can re-roll one Hit roll, one Wound roll or one saving throw made for this model}.","DAMAGED: 1-7 WOUNDS REMAINING While this model has 1-7 wounds remaining, subtract 5 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll}."]},"invulnerable":"*","damaged":null,"stats":{"m":"10\"","t":"12","sv":"3+","w":"22","ld":"6+","oc":"10"},"footnotes":{"footnotes":"Before selecting targets for this weapon, select one of its profiles to make attacks with."},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","This model’s meltagun can be replaced with 1 Questoris heavy stubber.","■","This model’s reaper chainsword can be replaced with 1 thunderstrike gauntlet.","■","This model can be equipped with one of the following:","◦","1 Icarus autocannons","◦","1 ironstorm missile pod","◦","1 stormspear rocket pod"]},{"name":"UNIT COMPOSITION","values":["■","1 Knight Paladin","This model is equipped with:","meltagun; Questoris heavy","stubber; rapid-fire battlecannon; reaper chainsword.","KNIGHT PALADIN","These highly versatile Knights provide strategic backbone to many","lances. While not specialised, they are favoured by most houses for","their combination rapid-fire battle cannon, a direct firing artillery gun,","and a powerful close combat weapon. Seasoned Nobles prize these","suits, their experience enabling them to get the best use from them."]}]},{"id":"40k-index-imperial-knights-6","name":"KNIGHT ERRANT","subtype":"","keywords":["Vehicle","Walker","Titanic","Towering","Questoris","Character"],"weapons":{"ranged":[{"name":"Icarus autocannons [ANTI-FLY 2+, TWIN-LINKED]","range":"48\"","a":"3","bws":"3+","s":"7","ap":"-1","d":"2"},{"name":"Ironstorm missile pod [BLAST, INDIRECT FIRE]","range":"48\"","a":"D6+1","bws":"3+","s":"5","ap":"0","d":"1"},{"name":"Meltagun [MELTA 2]","range":"12\"","a":"1","bws":"3+","s":"9","ap":"-4","d":"D6"},{"name":"Questoris heavy stubber [RAPID FIRE 3]","range":"36\"","a":"3","bws":"3+","s":"4","ap":"-1","d":"1"},{"name":"Stormspear rocket pod","range":"48\"","a":"3","bws":"3+","s":"8","ap":"-2","d":"D6"},{"name":"Thermal cannon [BLAST, MELTA 6]","range":"24\"","a":"2D3","bws":"3+","s":"12","ap":"-4","d":"D6"},{"passive":"*","text":""}],"melee":[{"name":"Reaper chainsword - strike","range":"Melee","a":"4","bws":"3+","s":"14","ap":"-4","d":"6"},{"name":"Reaper chainsword - sweep","range":"Melee","a":"12","bws":"3+","s":"9","ap":"-3","d":"2"},{"name":"Thunderstrike gauntlet - strike","range":"Melee","a":"4","bws":"3+","s":"20","ap":"-3","d":"8"},{"name":"Thunderstrike gauntlet - sweep","range":"Melee","a":"8","bws":"3+","s":"10","ap":"-2","d":"3"},{"passive":"*","text":""}]},"factionKeywords":["Imperial Knights"],"abilities":{"core":"Deadly Demise D6","faction":"Code Chivalric, Super-heavy Walker","special":["FACTION: Code Chivalric, Super-heavy Walker Errant’s Duty (Bondsman): While a model is affected by this ability, you can re-roll Advance rolls made for that model and its ranged weapons have the [ASSAULT] ability}.","Aggressive Assault: Each time this model makes a ranged attack against the closest eligible target, add 1 to the Hit roll}.","DAMAGED: 1-7 WOUNDS REMAINING While this model has 1-7 wounds remaining, subtract 5 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll}."]},"invulnerable":"*","damaged":null,"stats":{"m":"10\"","t":"12","sv":"3+","w":"22","ld":"6+","oc":"10"},"footnotes":{"footnotes":"Before selecting targets for this weapon, select one of its profiles to make attacks with."},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","This model’s meltagun can be replaced with 1 Questoris heavy stubber.","■","This model’s reaper chainsword can be replaced with 1 thunderstrike gauntlet.","■","This model can be equipped with one of the following:","◦","1 Icarus autocannons","◦","1 ironstorm missile pod","◦","1 stormspear rocket pod"]},{"name":"UNIT COMPOSITION","values":["■","1 Knight Errant","This model is equipped with:","meltagun;","thermal cannon; reaper chainsword.","KNIGHT ERRANT","These aggressive, mid- to close-range assault Knights excel at","hunting enemy tanks and monsters thanks to their powerful thermal","cannons, reaper chainswords and thunderstrike gauntlets, and","typically plunge into the fiercest fighting."]}]},{"id":"40k-index-imperial-knights-8","name":"KNIGHT GALLANT","subtype":"","keywords":["Vehicle","Walker","Titanic","Towering","Questoris","Character"],"weapons":{"ranged":[{"name":"Icarus autocannons [ANTI-FLY 2+, TWIN-LINKED]","range":"48\"","a":"3","bws":"3+","s":"7","ap":"-1","d":"2"},{"name":"Ironstorm missile pod [BLAST, INDIRECT FIRE]","range":"48\"","a":"D6+1","bws":"3+","s":"5","ap":"0","d":"1"},{"name":"Meltagun [MELTA 2]","range":"12\"","a":"1","bws":"3+","s":"9","ap":"-4","d":"D6"},{"name":"Questoris heavy stubber [RAPID FIRE 3]","range":"36\"","a":"3","bws":"3+","s":"4","ap":"-1","d":"1"},{"name":"Stormspear rocket pod","range":"48\"","a":"3","bws":"3+","s":"8","ap":"-2","d":"D6"},{"passive":"*","text":""}],"melee":[{"name":"Reaper chainsword - strike","range":"Melee","a":"6","bws":"2+","s":"14","ap":"-4","d":"6"},{"name":"Reaper chainsword - sweep","range":"Melee","a":"18","bws":"2+","s":"9","ap":"-3","d":"2"},{"name":"Thunderstrike gauntlet - strike","range":"Melee","a":"6","bws":"2+","s":"20","ap":"-3","d":"8"},{"name":"Thunderstrike gauntlet - sweep","range":"Melee","a":"12","bws":"2+","s":"10","ap":"-2","d":"3"},{"passive":"*","text":""}]},"factionKeywords":["Imperial Knights"],"abilities":{"core":"Deadly Demise D6","faction":"Code Chivalric, Super-heavy Walker","special":["FACTION: Code Chivalric, Super-heavy Walker Gallant’s Duty (Bondsman): While a model is affected by this ability, you can re-roll Charge rolls made for that model and each time that model makes a melee attack, you can re-roll the Hit roll}.","Martial Pride: Each time a melee attack targets this model, subtract 1 from the Hit roll}.","DAMAGED: 1-7 WOUNDS REMAINING While this model has 1-7 wounds remaining, subtract 5 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll}.","INVULNERABLE SAVE * * This model has a 5+ invulnerable save against ranged attacks}.","5+}."]},"invulnerable":"","damaged":null,"stats":{"m":"12\"","t":"12","sv":"3+","w":"22","ld":"6+","oc":"10"},"footnotes":{"footnotes":"Before selecting targets for this weapon, select one of its profiles to make attacks with."},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","This model’s meltagun can be replaced with 1 Questoris heavy stubber.","■","This model can be equipped with one of the following:","◦","1 Icarus autocannons","◦","1 ironstorm missile pod","◦","1 stormspear rocket pod"]},{"name":"UNIT COMPOSITION","values":["■","1 Knight Gallant","This model is equipped with:","meltagun; thunderstrike","gauntlet; reaper chainsword.","KNIGHT GALLANT","Gallants are the most restless and combative of Knights, and","have been described as impetuous and beyond bellicose. They","are aggressive, bold and difficult to restrain, and their pilots often","share these traits. As befitting their nature, they are armed almost","exclusively with close combat weapons."]}]},{"id":"40k-index-imperial-knights-10","name":"KNIGHT WARDEN","subtype":"","keywords":["Vehicle","Walker","Titanic","Towering","Questoris","Character"],"weapons":{"ranged":[{"name":"Avenger gatling cannon","range":"36\"","a":"18","bws":"3+","s":"6","ap":"-2","d":"2"},{"name":"Heavy flamer [IGNORES COVER, TORRENT]","range":"12\"","a":"D6","bws":"N/A","s":"5","ap":"-1","d":"1"},{"name":"Icarus autocannons [ANTI-FLY 2+, TWIN-LINKED]","range":"48\"","a":"3","bws":"3+","s":"7","ap":"-1","d":"2"},{"name":"Ironstorm missile pod [BLAST, INDIRECT FIRE]","range":"48\"","a":"D6+1","bws":"3+","s":"5","ap":"0","d":"1"},{"name":"Meltagun [MELTA 2]","range":"12\"","a":"1","bws":"3+","s":"9","ap":"-4","d":"D6"},{"name":"Questoris heavy stubber [RAPID FIRE 3]","range":"36\"","a":"3","bws":"3+","s":"4","ap":"-1","d":"1"},{"name":"Stormspear rocket pod","range":"48\"","a":"3","bws":"3+","s":"8","ap":"-2","d":"D6"},{"passive":"*","text":""}],"melee":[{"name":"Reaper chainsword - strike","range":"Melee","a":"4","bws":"3+","s":"14","ap":"-4","d":"6"},{"name":"Reaper chainsword - sweep","range":"Melee","a":"12","bws":"3+","s":"9","ap":"-3","d":"2"},{"name":"Thunderstrike gauntlet - strike","range":"Melee","a":"4","bws":"3+","s":"20","ap":"-3","d":"8"},{"name":"Thunderstrike gauntlet - sweep","range":"Melee","a":"8","bws":"3+","s":"10","ap":"-2","d":"3"},{"passive":"*","text":""}]},"factionKeywords":["Imperial Knights"],"abilities":{"core":"Deadly Demise D6","faction":"Code Chivalric, Super-heavy Walker","special":["FACTION: Code Chivalric, Super-heavy Walker Warden’s Duty (Bondsman): While a model is affected by this ability, each time an attack is allocated to that model, subtract 1 from the Damage characteristic of that attack}.","Thin Their Ranks: Each time this model makes a ranged attack that targets an enemy unit (excluding Monsters and Vehicles ), that attack has the [DEVASTATING WOUNDS] ability}.","DAMAGED: 1-7 WOUNDS REMAINING While this model has 1-7 wounds remaining, subtract 5 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll}."]},"invulnerable":"*","damaged":null,"stats":{"m":"10\"","t":"12","sv":"3+","w":"22","ld":"6+","oc":"10"},"footnotes":{"footnotes":"Before selecting targets for this weapon, select one of its profiles to make attacks with."},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","This model’s meltagun can be replaced with 1 Questoris heavy stubber.","■","This model’s reaper chainsword can be replaced with 1 thunderstrike gauntlet.","■","This model can be equipped with one of the following:","◦","1 Icarus autocannons","◦","1 ironstorm missile pod","◦","1 stormspear rocket pod"]},{"name":"UNIT COMPOSITION","values":["■","1 Knight Warden","This model is equipped with:","avenger gatling cannon;","heavy flamer; meltagun; reaper chainsword.","KNIGHT WARDEN","With an avenger gatling cannon that spits hundreds of foot-long","armour-piercing shells per minute, these Knights are well suited to","annihilating enemy infantry, light vehicles and transports. The suits","themselves possess strong-willed machine spirits, and it is a great","mark of accomplishment for a Noble to pilot one."]}]},{"id":"40k-index-imperial-knights-12","name":"KNIGHT CRUSADER","subtype":"","keywords":["Vehicle","Walker","Titanic","Towering","Questoris","Character"],"weapons":{"ranged":[{"name":"Avenger gatling cannon","range":"36\"","a":"18","bws":"3+","s":"6","ap":"-2","d":"2"},{"name":"Heavy flamer [IGNORES COVER, TORRENT]","range":"12\"","a":"D6","bws":"N/A","s":"5","ap":"-1","d":"1"},{"name":"Icarus autocannons [ANTI-FLY 2+, TWIN-LINKED]","range":"48\"","a":"3","bws":"3+","s":"7","ap":"-1","d":"2"},{"name":"Ironstorm missile pod [BLAST, INDIRECT FIRE]","range":"48\"","a":"D6+1","bws":"3+","s":"5","ap":"0","d":"1"},{"name":"Meltagun [MELTA 2]","range":"12\"","a":"1","bws":"3+","s":"9","ap":"-4","d":"D6"},{"name":"Questoris heavy stubber [RAPID FIRE 3]","range":"36\"","a":"3","bws":"3+","s":"4","ap":"-1","d":"1"},{"name":"Rapid-fire battle cannon [BLAST, RAPID FIRE D6+3]","range":"72\"","a":"D6+3","bws":"3+","s":"10","ap":"-1","d":"3"},{"name":"Stormspear rocket pod","range":"48\"","a":"3","bws":"3+","s":"8","ap":"-2","d":"D6"},{"name":"Thermal cannon [BLAST, MELTA 6]","range":"24\"","a":"2D3","bws":"3+","s":"12","ap":"-4","d":"D6"},{"passive":"*","text":""}],"melee":[{"name":"Titanic feet","range":"Melee","a":"4","bws":"3+","s":"8","ap":"-1","d":"2"},{"passive":"*","text":""}]},"factionKeywords":["Imperial Knights"],"abilities":{"core":"Deadly Demise D6","faction":"Code Chivalric, Super-heavy Walker","special":["FACTION: Code Chivalric, Super-heavy Walker Crusader’s Duty (Bondsman): While a model is affected by this ability, each time that model makes a ranged attack, add 1 to the Hit roll}.","Punishing Salvoes: In your Movement phase, if this model Remains Stationary, until the start of your next Movement phase, this model’s ranged weapons have the [SUSTAINED HITS 1] ability}.","DAMAGED: 1-7 WOUNDS REMAINING While this model has 1-7 wounds remaining, subtract 5 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll}."]},"invulnerable":"*","damaged":null,"stats":{"m":"10\"","t":"12","sv":"3+","w":"22","ld":"6+","oc":"10"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","This model’s meltagun can be replaced with 1 Questoris heavy stubber.","■","This model’s thermal cannon can be replaced with:","◦","1 rapid-fire battlecannon and 1 Questoris heavy stubber","■","This model can be equipped with one of the following:","◦","1 Icarus autocannons","◦","1 ironstorm missile pod","◦","1 stormspear rocket pod"]},{"name":"UNIT COMPOSITION","values":["■","1 Knight Crusader","This model is equipped with:","avenger gatling cannon;","heavy flamer; meltagun; thermal cannon; titanic feet.","KNIGHT CRUSADER","Armed with a bristling array of heavy and long-ranged weapons, the","Knight Crusader finds key firing positions and unleashes salvo after","salvo at the enemy. Pilots will gladly steer their suits even into open","ground to find the best place to shoot from, and are regarded as","especially dutiful and selfless by their peers."]}]},{"id":"40k-index-imperial-knights-14","name":"KNIGHT PRECEPTOR","subtype":"","keywords":["Vehicle","Walker","Titanic","Towering","Questoris","Character"],"weapons":{"ranged":[{"name":"Icarus autocannons [ANTI-FLY 2+, TWIN-LINKED]","range":"48\"","a":"3","bws":"3+","s":"7","ap":"-1","d":"2"},{"name":"Ironstorm missile pod [BLAST, INDIRECT FIRE]","range":"48\"","a":"D6+1","bws":"3+","s":"5","ap":"0","d":"1"},{"name":"Las-impulsor - high intensity [BLAST]","range":"24\"","a":"D6","bws":"3+","s":"14","ap":"-3","d":"4"},{"name":"Las-impulsor - low intensity [BLAST]","range":"36\"","a":"2D6","bws":"3+","s":"7","ap":"-1","d":"2"},{"name":"Meltagun [MELTA 2]","range":"12\"","a":"1","bws":"3+","s":"9","ap":"-4","d":"D6"},{"name":"Preceptor multi-laser","range":"36\"","a":"4","bws":"3+","s":"6","ap":"0","d":"1"},{"name":"Questoris heavy stubber [RAPID FIRE 3]","range":"36\"","a":"3","bws":"3+","s":"4","ap":"-1","d":"1"},{"name":"Stormspear rocket pod","range":"48\"","a":"3","bws":"3+","s":"8","ap":"-2","d":"D6"},{"passive":"*","text":""}],"melee":[{"name":"Reaper chainsword - strike","range":"Melee","a":"4","bws":"3+","s":"14","ap":"-4","d":"6"},{"name":"Reaper chainsword - sweep","range":"Melee","a":"12","bws":"3+","s":"9","ap":"-3","d":"2"},{"name":"Thunderstrike gauntlet - strike","range":"Melee","a":"4","bws":"3+","s":"20","ap":"-3","d":"8"},{"name":"Thunderstrike gauntlet - sweep","range":"Melee","a":"8","bws":"3+","s":"10","ap":"-2","d":"3"},{"passive":"*","text":""}]},"factionKeywords":["Imperial Knights"],"abilities":{"core":"Deadly Demise D6","faction":"Code Chivalric, Super-heavy Walker","special":["FACTION: Code Chivalric, Super-heavy Walker Mentor (Bondsman): While a model is affected by this ability, improve that model’s Leadership characteristic by 1 and improve that model’s Objective Control characteristic by 2}.","Exemplar of the Code: At the start of the battle, select one unit from your opponent’s army}.","Each time this model makes an attack that targets that unit, you can re-roll the Hit roll}.","DAMAGED: 1-7 WOUNDS REMAINING While this model has 1-7 wounds remaining, subtract 5 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll}."]},"invulnerable":"*","damaged":null,"stats":{"m":"10\"","t":"12","sv":"3+","w":"22","ld":"6+","oc":"10"},"footnotes":{"footnotes":"Before selecting targets for this weapon, select one of its profiles to make attacks with."},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","This model’s Preceptor multi-laser can be replaced with one of the following:","◦","1 meltagun","◦","1 Questoris heavy stubber","■","This model’s reaper chainsword can be replaced with 1 thunderstrike gauntlet.","■","This model can be equipped with one of the following:","◦","1 Icarus autocannons","◦","1 ironstorm missile pod","◦","1 stormspear rocket pod"]},{"name":"UNIT COMPOSITION","values":["■","1 Knight Preceptor","This model is equipped with:","las-impulsor;","Preceptor multi-laser; reaper chainsword.","KNIGHT PRECEPTOR","Knights Preceptor are designed to embody the code chivalric.","Their pilots close to an honourable range with the foe, engage with","a respectful force and kill them cleanly with their las-impulsors.","Typically, grizzled veterans pilot these Knights, setting an example for","their younger comrades by hunting down the most fearsome enemies."]}]},{"id":"40k-index-imperial-knights-16","name":"KNIGHT CASTELLAN","subtype":"","keywords":["Vehicle","Walker","Titanic","Towering","Dominus","Character"],"weapons":{"ranged":[{"name":"Plasma decimator - standard [BLAST]","range":"48\"","a":"D6+3","bws":"3+","s":"8","ap":"-2","d":"2"},{"name":"Plasma decimator - supercharge [BLAST, HAZARDOUS]","range":"48\"","a":"D6+3","bws":"3+","s":"9","ap":"-3","d":"3"},{"name":"Shieldbreaker missile launcher [ANTI-TITANIC 4+, DEVASTATING WOUNDS]","range":"72\"","a":"1","bws":"3+","s":"12","ap":"-6","d":"D6+1"},{"name":"Twin meltagun [MELTA 2, TWIN-LINKED]","range":"12\"","a":"1","bws":"3+","s":"9","ap":"-4","d":"D6"},{"name":"Twin siegebreaker cannon [BLAST, TWIN-LINKED]","range":"36\"","a":"D6","bws":"3+","s":"6","ap":"0","d":"1"},{"name":"Volcano lance [BLAST]","range":"72\"","a":"D3","bws":"3+","s":"18","ap":"-5","d":"D6+8"},{"passive":"*","text":""}],"melee":[{"name":"Titanic feet","range":"Melee","a":"4","bws":"4+","s":"8","ap":"-1","d":"2"},{"passive":"*","text":""}]},"factionKeywords":["Imperial Knights"],"abilities":{"core":"Deadly Demise D6+2","faction":"Code Chivalric, Super-heavy Walker","special":["FACTION: Code Chivalric, Super-heavy Walker Ion Aegis (Aura): While a friendly Armiger model is within 6\" of this model, that Armiger models has the Benefits of Cover}.","Titan Hunter: Each time a ranged attack made by this model is allocated to a Monster or Vehicle model, re-roll a Damage roll of 1}.","DAMAGED: 1-8 WOUNDS REMAINING While this model has 1-8 wounds remaining, subtract 5 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll}."]},"invulnerable":"*","damaged":null,"stats":{"m":"8\"","t":"13","sv":"2+","w":"24","ld":"6+","oc":"10"},"footnotes":{"footnotes":"Before selecting targets for this weapon, select one of its profiles to make attacks with."},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","This model’s 2 shieldbreaker missile launchers and twin siegebreaker cannon can be replaced with:","◦","1 shieldbreaker missile launcher and 2 twin siegebreaker cannons"]},{"name":"UNIT COMPOSITION","values":["■","1 Knight Castellan","This model is equipped with:","plasma decimator;","2 shieldbreaker missile launchers; 2 twin meltaguns;","twin siegebreaker cannon, volcano lance; titanic feet.","KNIGHT CASTELLAN","Based around a Dominus-class chassis, the Knight Castellan’s dual","plasma core fuels an array of weapon systems that make it among","the foremost artillery Knights of the houses. The combined fire of","several of these engines can equal that of an Imperial Navy warship","battery, and tear the heart out of an enemy army."]}]},{"id":"40k-index-imperial-knights-18","name":"KNIGHT VALIANT","subtype":"","keywords":["Vehicle","Walker","Titanic","Towering","Dominus","Character"],"weapons":{"ranged":[{"name":"Conflagration cannon [IGNORES COVER, TORRENT]","range":"18\"","a":"3D6","bws":"N/A","s":"8","ap":"-1","d":"2"},{"name":"Twin meltagun [MELTA 2, TWIN-LINKED]","range":"12\"","a":"1","bws":"3+","s":"9","ap":"-4","d":"D6"},{"name":"Shieldbreaker missile launcher [ANTI-TITANIC 4+, DEVASTATING WOUNDS]","range":"72\"","a":"1","bws":"3+","s":"12","ap":"-6","d":"D6+1"},{"name":"Thundercoil harpoon [ANTI-MONSTER 4+, ANTI-VEHICLE 4+, DEVASTATING WOUNDS]","range":"18\"","a":"1","bws":"2+","s":"24","ap":"-6","d":"12"},{"name":"Twin siegebreaker cannon [BLAST, TWIN-LINKED]","range":"36\"","a":"D6","bws":"3+","s":"6","ap":"0","d":"1"},{"passive":"*","text":""}],"melee":[{"name":"Titanic feet","range":"Melee","a":"4","bws":"4+","s":"8","ap":"-1","d":"2"},{"passive":"*","text":""}]},"factionKeywords":["Imperial Knights"],"abilities":{"core":"Deadly Demise D6+2","faction":"Code Chivalric, Super-heavy Walker","special":["FACTION: Code Chivalric, Super-heavy Walker Ion Aegis (Aura): While a friendly Armiger model is within 6\" of this model, that Armiger model has the Benefit of Cover}.","Overwhelming Firestorm: In your Shooting phase, after this model has shot, select one enemy unit hit by this model this phase}.","That unit must take a Battle-shock test}.","DAMAGED: 1-8 WOUNDS REMAINING While this model has 1-8 wounds remaining, subtract 5 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll}."]},"invulnerable":"*","damaged":null,"stats":{"m":"8\"","t":"13","sv":"2+","w":"24","ld":"6+","oc":"10"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","This model’s 2 shieldbreaker missile launchers and twin siegebreaker cannon can be replaced with:","◦","1 shieldbreaker missile launcher and 2 twin siegebreaker cannons"]},{"name":"UNIT COMPOSITION","values":["■","1 Knight Valiant","This model is equipped with:","conflagration cannon;","2 shieldbreaker missile launchers; thundercoil harpoon;","2 twin meltaguns; twin siegebreaker cannon, titanic feet.","KNIGHT VALIANT","This Dominus-class Knight defeats its enemies through overwhelming","firepower at close range. Thanks to its conflagration cannon","unleashing a searing, inescapable firestorm, it can easily annihilate","incoming hordes or smash through opposing battle lines, and with its","thundercoil harpoon it can destroy tanks and monsters with impunity."]}]},{"id":"40k-index-imperial-knights-20","name":"CANIS REX","subtype":"If Canis Rex is destroyed, flip this card and follow the","keywords":["KEYWORDS:"],"weapons":{"ranged":[{"name":"Chainbreaker las-impulsor - high intensity [BLAST, SUSTAINED HITS 1]","range":"24\"","a":"D6","bws":"2+","s":"14","ap":"-3","d":"4"},{"name":"Chainbreaker las-impulsor - low intensity [BLAST, SUSTAINED HITS 1]","range":"36\"","a":"2D6","bws":"2+","s":"7","ap":"-1","d":"2"},{"name":"Chainbreaker multi-laser [SUSTAINED HITS 1]","range":"36\"","a":"4","bws":"2+","s":"6","ap":"0","d":"1"},{"passive":"*","text":""}],"melee":[{"name":"Freedom’s Hand - strike [SUSTAINED HITS 1]","range":"Melee","a":"5","bws":"2+","s":"20","ap":"-3","d":"9"},{"name":"Freedom’s Hand - sweep [SUSTAINED HITS 1]","range":"Melee","a":"10","bws":"2+","s":"10","ap":"-2","d":"3"},{"name":"WARGEAR OPTIONS","range":"UNIT COMPOSITION","a":"■","bws":"None","s":"■","ap":"1 Canis Rex -","d":"Epic Hero"},{"name":"Canis Rex is equipped with:","range":"Chainbreaker las-impulsor;","a":"Chainbreaker multi-laser; Freedom’s Hand."},{"passive":"*","text":""}]},"factionKeywords":["Imperial Knights"],"abilities":{"core":"Deadly Demise D6","faction":"Code Chivalric, Super-heavy Walker","special":["FACTION: Code Chivalric, Super-heavy Walker Legendary Freeblade: Once per turn, you can target this model with a Stratagem for 0CP, and can do so even if you have already targeted a different unit with that Stratagem in the same phase}.","Chainbreaker: Each time this model makes an attack, an unmodifed successful Hit roll of 5+ scores a Critical Hit}.","DAMAGED: 1-7 WOUNDS REMAINING While this model has 1-7 wounds remaining, subtract 5 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll}."]},"invulnerable":"*","damaged":null,"stats":{"m":"10\"","t":"12","sv":"3+","w":"22","ld":"5+","oc":"10"},"footnotes":{"footnotes":"Before selecting targets for this weapon, select one of its profiles to make attacks with."},"wargear":[{"name":"WARGEAR OPTIONS","values":[]},{"name":"UNIT COMPOSITION","values":["■","None","■","1 Sir Hekhtur -","Epic Hero","Sir Hekhtur is equipped with:","Hekhtur’s pistol; close","combat weapon.","ABILITIES","CORE:","Lone Operative","USING SIR HEKHTUR","When your Canis Rex model is destroyed, Sir Hekhtur is","treated as a model disembarking from a destroyed","Transport","- set him up within 3\" of your Canis Rex model before it is","removed. Sir Hekhtur then uses the profile, wargear, abilities","and keywords shown on this side of the card, but cannot be","selected as the target of any of your Stratagems other than","Core Stratagems. Your Canis Rex unit is not considered to be","destroyed until Sir Hekhtur is also destroyed.","SIR HEKHTUR","Use this side of the card only after your Canis Rex model","is destroyed.","Once a prisoner of the Iron Warriors, Sir Hekhtur resisted","agonising torture and escaped only through sheer faith,","determination and honour. Now he travels the galaxy,","liberating Imperial citizens enslaved by the forces of","the Arch-enemy.","M","T","SV","W","LD","OC","6\"","3","4+","3","5+","1"]}]},{"id":"40k-index-imperial-knights-22","name":"WAR DOG EXECUTIONER","subtype":"","keywords":["Vehicle","Walker","Battleline","Chaos","War Dog","Executioner"],"weapons":{"ranged":[],"melee":[]},"factionKeywords":["Chaos Knights"],"abilities":{"core":"Deadly Demise D3","faction":"Harbingers of Dread","special":["FACTION: Harbingers of Dread Executioner: Each time this model makes an attack that targets a unit Below Half-strength, add 1 to the Hit roll}.","DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll}."]},"invulnerable":"*","damaged":null,"stats":{"m":"12\"","t":"10","sv":"3+","w":"12","ld":"7+","oc":"8"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","This model’s diabolus heavy stubber can be replaced with 1 daemonbreath meltagun."]},{"name":"UNIT COMPOSITION","values":["■","1 War Dog Executioner","This model is equipped with:","diabolus heavy stubber;","2 War Dog autocannons; armoured feet.","WAR DOG EXECUTIONER","Methodical and coldly emotionless killers, Fallen Nobles who pilot","War Dog Executioners employ long-barrelled, rapid-firing cannons","to maximise their kills. They eviscerate throngs of the enemy and","hammer the foes’ war engines into submission, seeking to reap ever","greater murderous tallies than their peers."]}]},{"id":"40k-index-imperial-knights-24","name":"WAR DOG STALKER","subtype":"","keywords":["Vehicle","Walker","Battleline","Character","Chaos","War Dog","Stalker"],"weapons":{"ranged":[],"melee":[]},"factionKeywords":["Chaos Knights"],"abilities":{"core":"Deadly Demise D3","faction":"Harbingers of Dread","special":["FACTION: Harbingers of Dread Stalker: Each time this model makes an attack that targets an enemy unit, if there are no other units from your opponent’s army within 6\" of that target, add 1 to the Wound roll}.","DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll}."]},"invulnerable":"*","damaged":null,"stats":{"m":"12\"","t":"10","sv":"3+","w":"12","ld":"7+","oc":"8"},"footnotes":{"footnotes":"Before selecting targets for this weapon, select one of its profiles to make attacks with."},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","This model’s avenger chaincannon can be replaced with 1 daemonbreath spear.","■","This model’s diabolus heavy stubber can be replaced with 1 havoc multi-launcher.","■","This model’s slaughterclaw can be replaced with 1 reaper chaintalon."]},{"name":"UNIT COMPOSITION","values":["■","1 War Dog Stalker","This model is equipped with:","avenger chaincannon;","diabolus heavy stubber; slaughterclaw.","WAR DOG STALKER","Only the most strong-willed of minor nobility have the mental fortitude","to pilot a Stalker. Like pack alphas, they often lead other War Dogs","in carefully planned attacks, harrying the foe’s flanks, butchering","reinforcements and hunting down lone threats. They unleash salvoes","of fire at range or in the heart of combat with deadly claw strikes."]}]},{"id":"40k-index-imperial-knights-26","name":"WAR DOG KARNIVORE","subtype":"","keywords":["Vehicle","Walker","Battleline","Chaos","War Dog","Karnivore"],"weapons":{"ranged":[],"melee":[]},"factionKeywords":["Chaos Knights"],"abilities":{"core":"Deadly Demise D3","faction":"Harbingers of Dread","special":["FACTION: Harbingers of Dread Karnivore: You can re-roll Charge rolls made for this model}.","DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll}."]},"invulnerable":"*","damaged":null,"stats":{"m":"14\"","t":"10","sv":"3+","w":"12","ld":"7+","oc":"8"},"footnotes":{"footnotes":"Before selecting targets for this weapon, select one of its profiles to make attacks with."},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","This model’s diabolus heavy stubber can be replaced with 1 havoc multi-launcher."]},{"name":"UNIT COMPOSITION","values":["■","1 War Dog Karnivore","This model is equipped with:","diabolus heavy stubber;","reaper chaintalon; slaughterclaw.","WAR DOG KARNIVORE","Aggressive and bloodthirsty, Karnivores eschew the more potent","ranged weapons of the War Dog chassis. They revel in causing","bloody confusion and despair, seeking the visceral thrill that only","close-quarters slaughter provides. As a result, many of their pilots fall","to the open worship of one of the Chaos Gods."]}]},{"id":"40k-index-imperial-knights-28","name":"WAR DOG BRIGAND","subtype":"","keywords":["Vehicle","Walker","Battleline","Chaos","War Dog","Brigand"],"weapons":{"ranged":[],"melee":[]},"factionKeywords":["Chaos Knights"],"abilities":{"core":"Deadly Demise D3","faction":"Harbingers of Dread","special":["FACTION: Harbingers of Dread Brigand: Each time this model makes a ranged attack that targets the closest eligible enemy unit, improve the Armour Penetration characteristic of that attack by 1}.","DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll}."]},"invulnerable":"*","damaged":null,"stats":{"m":"12\"","t":"10","sv":"3+","w":"12","ld":"7+","oc":"8"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","This model’s diabolus heavy stubber can be replaced with 1 havoc multi-launcher."]},{"name":"UNIT COMPOSITION","values":["■","1 War Dog Brigand","This model is equipped with:","avenger chaincannon;","daemonbreath spear; diabolus heavy stubber; armoured feet.","WAR DOG BRIGAND","Between them, Brigands and their Fallen Noble pilots have become","so enamoured of the skilful, ranged kill that they mostly disdain the","chaos of close assaults. Some even swear dark pacts compelling them","to slay potent foes with elegance, or else to purge war zones of all life","with sweeping contempt."]}]},{"id":"40k-index-imperial-knights-30","name":"WAR DOG HUNTSMAN","subtype":"","keywords":["Vehicle","Walker","Battleline","Chaos","War Dog","Huntsman"],"weapons":{"ranged":[],"melee":[]},"factionKeywords":["Chaos Knights"],"abilities":{"core":"Deadly Demise D3","faction":"Harbingers of Dread","special":["FACTION: Harbingers of Dread Huntsman: Each time this model makes an attack against a Monster or Vehicle unit, re-roll a Wound roll of 1 and re-roll a Damage roll of 1}.","DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll}."]},"invulnerable":"*","damaged":null,"stats":{"m":"12\"","t":"10","sv":"3+","w":"12","ld":"7+","oc":"8"},"footnotes":{"footnotes":"Before selecting targets for this weapon, select one of its profiles to make attacks with."},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","This model’s diabolus heavy stubber can be replaced with 1 daemonbreath meltagun."]},{"name":"UNIT COMPOSITION","values":["■","1 War Dog Huntsman","This model is equipped with:","daemonbreath spear; diabolus","heavy stubber; reaper chaintalon.","WAR DOG HUNTSMAN","Like hounds on the scent, Huntsmen often pursue hulking enemies,","hunting them down as prey. Their daemonbreath spears melt through","the thickest armour while chaintalons are employed to drive deeply","into gushing innards, tearing through organs and crew alike."]}]},{"id":"40k-index-imperial-knights-32","name":"KNIGHT DESPOILER","subtype":"","keywords":["Vehicle","Walker","Titanic","Towering","Abhorrent","Character","Chaos"],"weapons":{"ranged":[],"melee":[]},"factionKeywords":["Chaos Knights"],"abilities":{"core":"Deadly Demise D6","faction":"Harbingers of Dread, Super-heavy Walker","special":["FACTION: Harbingers of Dread, Super-heavy Walker Dread Dominion (Aura): While a friendly War Dog is within 9\" of this model, each time that War Dog takes a Battle-shock test, add 1 to that test}.","Seething Hatred: Each time this model is selected to shoot or fight, you can re-roll one Hit roll or you can re-roll one Wound roll when resolving those attacks}.","DAMAGED: 1-7 WOUNDS REMAINING While this model has 1-7 wounds remaining, subtract 5 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll}."]},"invulnerable":"*","damaged":null,"stats":{"m":"10\"","t":"12","sv":"3+","w":"22","ld":"6+","oc":"10"},"footnotes":{"footnotes":"Before selecting targets for this weapon, select one of its profiles to make attacks with."},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","This model’s daemonbreath meltagun can be replaced with 1 diabolus heavy stubber.","■","This model’s reaper chainsword can be replaced with 1 of the following:","◦","1 daemonbreath thermal cannon","◦","1 despoiler gatling cannon and 1 heavy darkflamer","◦","1 despoiler battle cannon and 1 diabolus heavy stubber","■","This model’s warpstrike claw can be replaced with 1 of the following:","◦","1 daemonbreath thermal cannon","◦","1 despoiler gatling cannon and 1 heavy darkflamer","◦","1 despoiler battle cannon and 1 diabolus heavy stubber","■","This model can be equipped with one of the following:","◦","1 havoc missile pod","◦","1 ruinspear rocket pod","◦","1 hellstorm autocannons"]},{"name":"UNIT COMPOSITION","values":["■","1 Knight Despoiler","This model is equipped with:","daemonbreath meltagun;","reaper chainsword; titanic feet; warpstrike claw.","KNIGHT DESPOILER","Knights Despoiler epitomise all it means to be a Chaos Knight.","Their Fallen Nobles repudiate honour and seethe with hatred.","Capable of bearing a variety of powerful weapons suited to its pilot’s","temperament, they unleash their hatred at range or in thunderous","melee at whim."]}]},{"id":"40k-index-imperial-knights-34","name":"KNIGHT DESECRATOR","subtype":"","keywords":["Vehicle","Walker","Titanic","Towering","Abhorrent","Character","Chaos"],"weapons":{"ranged":[],"melee":[]},"factionKeywords":["Chaos Knights"],"abilities":{"core":"Deadly Demise D6","faction":"Harbingers of Dread, Super-heavy Walker","special":["FACTION: Harbingers of Dread, Super-heavy Walker Obsessive Ruthlessness: Each time this model makes a ranged attack against a Monster or Vehicle unit, that attack has the [DEVASTATING WOUNDS] ability}.","Taskmaster (Aura): While a friendly War Dog model is within 9\" of this model, each time that War Dog model makes a ranged attack, re-roll a Hit roll of 1}.","DAMAGED: 1-7 WOUNDS REMAINING While this model has 1-7 wounds remaining, subtract 5 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll}."]},"invulnerable":"*","damaged":null,"stats":{"m":"10\"","t":"12","sv":"3+","w":"22","ld":"6+","oc":"10"},"footnotes":{"footnotes":"Before selecting targets for this weapon, select one of its profiles to make attacks with."},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","This model’s reaper chainsword can be replaced with 1 warpstrike claw."]},{"name":"UNIT COMPOSITION","values":["■","1 Knight Desecrator","This model is equipped with:","desecrator laser destructor;","diabolus heavy stubber; reaper chainsword.","KNIGHT DESECRATOR","Knights Desecrator spare no living thing from their attacks. They","possess potent mid- to close-range armaments capable of duelling","enemy war engines and monstrous beasts, or annihilating hordes of","lesser foes. They are also cruel taskmasters, snarling commands to","War Dog followers that lope forwards at their sides."]}]},{"id":"40k-index-imperial-knights-36","name":"KNIGHT RAMPAGER","subtype":"","keywords":["Vehicle","Walker","Titanic","Towering","Abhorrent","Character","Chaos"],"weapons":{"ranged":[],"melee":[]},"factionKeywords":["Chaos Knights"],"abilities":{"core":"Deadly Demise D6","faction":"Harbingers of Dread, Super-heavy Walker","special":["FACTION: Harbingers of Dread, Super-heavy Walker Bloodlust: Each time this model makes a Charge move, until the end of the turn, its melee weapons have the [SUSTAINED HITS 1] ability}.","In addition, once per battle, this model is eligible to declare a charge in a turn in which it Advanced}.","Frenzied Rampage (Aura): While a friendly War Dog model is within 9\" of this model, each time that War Dog model makes a melee attack, re-roll a Hit roll of 1}.","DAMAGED: 1-7 WOUNDS REMAINING While this model has 1-7 wounds remaining, subtract 5 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll}."]},"invulnerable":"*","damaged":null,"stats":{"m":"12\"","t":"12","sv":"3+","w":"22","ld":"6+","oc":"10"},"footnotes":{"footnotes":"Before selecting targets for this weapon, select one of its profiles to make attacks with."},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","None"]},{"name":"UNIT COMPOSITION","values":["■","1 Knight Rampager","This model is equipped with:","diabolus heavy stubber;","reaper chainsword; warpstrike claw.","KNIGHT RAMPAGER","Knights Rampager storm into battle with maddened, metallic howls.","They are bereft of discipline or restraint, and plough into the thickest","fighting of a war zone with insane ferocity. With swipes of their","monstrous reaper chainswords and warpstrike claws, they fight more","like frenzied daemons than machines."]}]},{"id":"40k-index-imperial-knights-38","name":"KNIGHT ABOMINANT","subtype":"","keywords":["Vehicle","Walker","titanic","Towering","Abhorrent","Psyker"],"weapons":{"ranged":[],"melee":[]},"factionKeywords":["Chaos Knights"],"abilities":{"core":"Deadly Demise D6","faction":"Harbingers of Dread, Super-heavy Walker","special":["FACTION: Harbingers of Dread, Super-heavy Walker Vortex Terrors (Psychic): At the start of your Shooting phase, select one enemy unit within 12\" of this model}.","That enemy unit must take a Battle-shock test}.","Warp Storms (Psychic): At the end of your Movement phase, roll one D6 for each enemy unit within 9\" of this model: on a 3+, that enemy unit suffers D3 mortal wounds}.","DAMAGED: 1-7 WOUNDS REMAINING While this model has 1-7 wounds remaining, subtract 5 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll}."]},"invulnerable":"*","damaged":null,"stats":{"m":"10\"","t":"12","sv":"3+","w":"22","ld":"6+","oc":"10"},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","None"]},{"name":"UNIT COMPOSITION","values":["■","1 Knight Abominant","This model is equipped with:","diabolus heavy stubber; volkite","combustor; balemace; electroscourge.","KNIGHT ABOMINANT","Seen as especially blessed by the Dark Gods, Knights Abominant","are suffused with warp energy. They unleash this power in terrifying","waves, corrupting and mutating those nearby, and incinerating distant","foes with blasts of volkite energy. In combat, they thrash coiling, warp-","wrought appendages, crushing anything that remains untainted."]}]},{"id":"40k-index-imperial-knights-40","name":"KNIGHT TYRANT","subtype":"","keywords":["Vehicle","Walker","Titanic","Towering","Character","Chaos"],"weapons":{"ranged":[],"melee":[]},"factionKeywords":["Chaos Knights"],"abilities":{"core":"Deadly Demise D6+2","faction":"Harbingers of Dread, Super-heavy Walker","special":["FACTION: Harbingers of Dread, Super-heavy Walker Infernal Aegis (Aura): While a friendly War Dog model is within 6\" of this model, that War Dog model has the Benefit of Cover}.","Bastion of Corruption: Enemy units that are set up on the battlefield as Reinforcements cannot be set up within 12\" of this model}.","DAMAGED: 1-8 WOUNDS REMAINING While this model has 1-8 wounds remaining, subtract 5 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll}."]},"invulnerable":"*","damaged":null,"stats":{"m":"8\"","t":"13","sv":"2+","w":"24","ld":"6+","oc":"10"},"footnotes":{"footnotes":"Before selecting targets for this weapon, select one of its profiles to make attacks with."},"wargear":[{"name":"WARGEAR OPTIONS","values":["■","This model’s brimstone volcano lance and ectoplasma decimator can be replaced with 1 darkflame","cannon and 1 warpshock harpoon.","■","This model’s 2 gheiststrike missile launchers and twin desecrator cannon can be replaced with 1","gheiststrike missile launcher and 2 twin desecrator cannons."]},{"name":"UNIT COMPOSITION","values":["■","1 Knight Tyrant","This model is equipped with:","brimstone volcano lance;","ectoplasma decimator; 2 gheiststrike missile launchers;","2 twin daemonbreath meltaguns; twin desecrator cannon;","titanic feet.","KNIGHT TYRANT","So massive that they loom over other Chaos Knights, Knights Tyrant","are walking bastions of corruption. They carry some of the heaviest","armaments available to the Fallen houses. Their pilots delight in","unleashing the deadly potential of these weapons, shrugging off the","enemy’s attacks with contemptuous ease."]}]}]
+[
+  {
+    "id": "40k-index-imperial-knights-0",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "ARMIGER HELVERIN",
+    "subtype": "",
+    "keywords": [
+      "Vehicle",
+      "Walker",
+      "Battleline",
+      "Imperium",
+      "Armiger",
+      "Helverin"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Armiger autocannon",
+          "range": "48\"",
+          "a": "4",
+          "bws": "3+",
+          "s": "9",
+          "ap": "-1",
+          "d": "3"
+        },
+        {
+          "name": "Meltagun [MELTA 2]",
+          "range": "12\"",
+          "a": "1",
+          "bws": "3+",
+          "s": "9",
+          "ap": "-4",
+          "d": "D6"
+        },
+        {
+          "name": "Questoris heavy stubber [RAPID FIRE 3]",
+          "range": "36\"",
+          "a": "3",
+          "bws": "3+",
+          "s": "4",
+          "ap": "-1",
+          "d": "1"
+        },
+        {
+          "passive": "*",
+          "text": ""
+        }
+      ],
+      "melee": [
+        {
+          "name": "Armoured feet",
+          "range": "Melee",
+          "a": "4",
+          "bws": "3+",
+          "s": "6",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "passive": "*",
+          "text": ""
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Imperial Knights"
+    ],
+    "abilities": {
+      "core": "Deadly Demise D3",
+      "faction": "Code Chivalric",
+      "special": [
+        "FACTION: Code Chivalric Skyfire Protocols: While this model is either wholly within your deployment zone or within range of an objective marker you control, its Armiger autocannons have the [ANTI-FLY 2+] ability}.",
+        "DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll}."
+      ]
+    },
+    "invulnerable": "*",
+    "damaged": null,
+    "stats": {
+      "m": "12\"",
+      "t": "10",
+      "sv": "3+",
+      "w": "12",
+      "ld": "7+",
+      "oc": "8"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "This model’s Questoris heavy stubber can be replaced with 1 meltagun."
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Armiger Helverin",
+          "This model is equipped with:",
+          "2 Armiger autocannons;",
+          "Questoris heavy stubber; armoured feet.",
+          "ARMIGER HELVERIN",
+          "These fast-moving Knights have been designed to lay down hails of",
+          "heavy fire, and their strategic roles include enfilading fire, scouting",
+          "and anti-air. With their Armiger autocannons they can fire hundreds of",
+          "shells per minute, and packs of two or three of these war engines can",
+          "shatter an enemy assault in seconds."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-imperial-knights-2",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "ARMIGER WARGLAIVE",
+    "subtype": "",
+    "keywords": [
+      "Vehicle",
+      "Walker",
+      "Battleline",
+      "Imperium",
+      "Armiger",
+      "Warglaive"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Meltagun [MELTA 2]",
+          "range": "12\"",
+          "a": "1",
+          "bws": "3+",
+          "s": "9",
+          "ap": "-4",
+          "d": "D6"
+        },
+        {
+          "name": "Questoris heavy stubber [RAPID FIRE 3]",
+          "range": "36\"",
+          "a": "3",
+          "bws": "3+",
+          "s": "4",
+          "ap": "-1",
+          "d": "1"
+        },
+        {
+          "name": "Thermal spear [MELTA 4]",
+          "range": "24\"",
+          "a": "2",
+          "bws": "3+",
+          "s": "12",
+          "ap": "-4",
+          "d": "D6"
+        },
+        {
+          "passive": "*",
+          "text": ""
+        }
+      ],
+      "melee": [
+        {
+          "name": "Reaper chain-cleaver - strike",
+          "range": "Melee",
+          "a": "4",
+          "bws": "3+",
+          "s": "10",
+          "ap": "-3",
+          "d": "3"
+        },
+        {
+          "name": "Reaper chain-cleaver - sweep",
+          "range": "Melee",
+          "a": "8",
+          "bws": "3+",
+          "s": "8",
+          "ap": "-2",
+          "d": "1"
+        },
+        {
+          "passive": "*",
+          "text": ""
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Imperial Knights"
+    ],
+    "abilities": {
+      "core": "Deadly Demise D3",
+      "faction": "Code Chivalric",
+      "special": [
+        "FACTION: Code Chivalric Impetuous Glory: Each time this model makes a Charge move, until the end of the turn, melee weapons equipped by this model have the [SUSTAINED HITS 1] ability}.",
+        "DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll}."
+      ]
+    },
+    "invulnerable": "*",
+    "damaged": null,
+    "stats": {
+      "m": "12\"",
+      "t": "10",
+      "sv": "3+",
+      "w": "12",
+      "ld": "7+",
+      "oc": "8"
+    },
+    "footnotes": {
+      "footnotes": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "This model’s Questoris heavy stubber can be replaced with 1 meltagun."
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Armiger Warglaive",
+          "This model is equipped with:",
+          "Questoris heavy stubber;",
+          "thermal spear; reaper chain-cleaver.",
+          "ARMIGER WARGLAIVE",
+          "Armiger Warglaives are nimble and purposeful Knights that possess",
+          "exceptional speed that allows them to outpace most vehicles. This,",
+          "in combination with their thermal spears that can melt bunkers and",
+          "battle-tank armour alike, makes them fearsome hunters of enemy",
+          "war engines."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-imperial-knights-4",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "KNIGHT PALADIN",
+    "subtype": "",
+    "keywords": [
+      "Vehicle",
+      "Walker",
+      "Titanic",
+      "Towering",
+      "Questoris",
+      "Character"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Icarus autocannons [ANTI-FLY 2+, TWIN-LINKED]",
+          "range": "48\"",
+          "a": "3",
+          "bws": "3+",
+          "s": "7",
+          "ap": "-1",
+          "d": "2"
+        },
+        {
+          "name": "Ironstorm missile pod [BLAST, INDIRECT FIRE]",
+          "range": "48\"",
+          "a": "D6+1",
+          "bws": "3+",
+          "s": "5",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Meltagun [MELTA 2]",
+          "range": "12\"",
+          "a": "1",
+          "bws": "3+",
+          "s": "9",
+          "ap": "-4",
+          "d": "D6"
+        },
+        {
+          "name": "Questoris heavy stubber [RAPID FIRE 3]",
+          "range": "36\"",
+          "a": "3",
+          "bws": "3+",
+          "s": "4",
+          "ap": "-1",
+          "d": "1"
+        },
+        {
+          "name": "Rapid-fire battle cannon [BLAST, RAPID FIRE D6+3]",
+          "range": "72\"",
+          "a": "D6+3",
+          "bws": "3+",
+          "s": "10",
+          "ap": "-1",
+          "d": "3"
+        },
+        {
+          "name": "Stormspear rocket pod",
+          "range": "48\"",
+          "a": "3",
+          "bws": "3+",
+          "s": "8",
+          "ap": "-2",
+          "d": "D6"
+        },
+        {
+          "passive": "*",
+          "text": ""
+        }
+      ],
+      "melee": [
+        {
+          "name": "Reaper chainsword - strike",
+          "range": "Melee",
+          "a": "4",
+          "bws": "3+",
+          "s": "14",
+          "ap": "-4",
+          "d": "6"
+        },
+        {
+          "name": "Reaper chainsword - sweep",
+          "range": "Melee",
+          "a": "12",
+          "bws": "3+",
+          "s": "9",
+          "ap": "-3",
+          "d": "2"
+        },
+        {
+          "name": "Thunderstrike gauntlet - strike",
+          "range": "Melee",
+          "a": "4",
+          "bws": "3+",
+          "s": "20",
+          "ap": "-3",
+          "d": "8"
+        },
+        {
+          "name": "Thunderstrike gauntlet - sweep",
+          "range": "Melee",
+          "a": "8",
+          "bws": "3+",
+          "s": "10",
+          "ap": "-2",
+          "d": "3"
+        },
+        {
+          "passive": "*",
+          "text": ""
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Imperial Knights"
+    ],
+    "abilities": {
+      "core": "Deadly Demise D6",
+      "faction": "Code Chivalric, Super-heavy Walker",
+      "special": [
+        "FACTION: Code Chivalric, Super-heavy Walker Paladin’s Duty (Bondsman): While a model is affected by this ability, its weapons have the [LETHAL HITS] and [LANCE] abilities}.",
+        "Seasoned Noble: Once per phase, you can re-roll one Hit roll, one Wound roll or one saving throw made for this model}.",
+        "DAMAGED: 1-7 WOUNDS REMAINING While this model has 1-7 wounds remaining, subtract 5 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll}."
+      ]
+    },
+    "invulnerable": "*",
+    "damaged": null,
+    "stats": {
+      "m": "10\"",
+      "t": "12",
+      "sv": "3+",
+      "w": "22",
+      "ld": "6+",
+      "oc": "10"
+    },
+    "footnotes": {
+      "footnotes": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "This model’s meltagun can be replaced with 1 Questoris heavy stubber.",
+          "■",
+          "This model’s reaper chainsword can be replaced with 1 thunderstrike gauntlet.",
+          "■",
+          "This model can be equipped with one of the following:",
+          "◦",
+          "1 Icarus autocannons",
+          "◦",
+          "1 ironstorm missile pod",
+          "◦",
+          "1 stormspear rocket pod"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Knight Paladin",
+          "This model is equipped with:",
+          "meltagun; Questoris heavy",
+          "stubber; rapid-fire battlecannon; reaper chainsword.",
+          "KNIGHT PALADIN",
+          "These highly versatile Knights provide strategic backbone to many",
+          "lances. While not specialised, they are favoured by most houses for",
+          "their combination rapid-fire battle cannon, a direct firing artillery gun,",
+          "and a powerful close combat weapon. Seasoned Nobles prize these",
+          "suits, their experience enabling them to get the best use from them."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-imperial-knights-6",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "KNIGHT ERRANT",
+    "subtype": "",
+    "keywords": [
+      "Vehicle",
+      "Walker",
+      "Titanic",
+      "Towering",
+      "Questoris",
+      "Character"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Icarus autocannons [ANTI-FLY 2+, TWIN-LINKED]",
+          "range": "48\"",
+          "a": "3",
+          "bws": "3+",
+          "s": "7",
+          "ap": "-1",
+          "d": "2"
+        },
+        {
+          "name": "Ironstorm missile pod [BLAST, INDIRECT FIRE]",
+          "range": "48\"",
+          "a": "D6+1",
+          "bws": "3+",
+          "s": "5",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Meltagun [MELTA 2]",
+          "range": "12\"",
+          "a": "1",
+          "bws": "3+",
+          "s": "9",
+          "ap": "-4",
+          "d": "D6"
+        },
+        {
+          "name": "Questoris heavy stubber [RAPID FIRE 3]",
+          "range": "36\"",
+          "a": "3",
+          "bws": "3+",
+          "s": "4",
+          "ap": "-1",
+          "d": "1"
+        },
+        {
+          "name": "Stormspear rocket pod",
+          "range": "48\"",
+          "a": "3",
+          "bws": "3+",
+          "s": "8",
+          "ap": "-2",
+          "d": "D6"
+        },
+        {
+          "name": "Thermal cannon [BLAST, MELTA 6]",
+          "range": "24\"",
+          "a": "2D3",
+          "bws": "3+",
+          "s": "12",
+          "ap": "-4",
+          "d": "D6"
+        },
+        {
+          "passive": "*",
+          "text": ""
+        }
+      ],
+      "melee": [
+        {
+          "name": "Reaper chainsword - strike",
+          "range": "Melee",
+          "a": "4",
+          "bws": "3+",
+          "s": "14",
+          "ap": "-4",
+          "d": "6"
+        },
+        {
+          "name": "Reaper chainsword - sweep",
+          "range": "Melee",
+          "a": "12",
+          "bws": "3+",
+          "s": "9",
+          "ap": "-3",
+          "d": "2"
+        },
+        {
+          "name": "Thunderstrike gauntlet - strike",
+          "range": "Melee",
+          "a": "4",
+          "bws": "3+",
+          "s": "20",
+          "ap": "-3",
+          "d": "8"
+        },
+        {
+          "name": "Thunderstrike gauntlet - sweep",
+          "range": "Melee",
+          "a": "8",
+          "bws": "3+",
+          "s": "10",
+          "ap": "-2",
+          "d": "3"
+        },
+        {
+          "passive": "*",
+          "text": ""
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Imperial Knights"
+    ],
+    "abilities": {
+      "core": "Deadly Demise D6",
+      "faction": "Code Chivalric, Super-heavy Walker",
+      "special": [
+        "FACTION: Code Chivalric, Super-heavy Walker Errant’s Duty (Bondsman): While a model is affected by this ability, you can re-roll Advance rolls made for that model and its ranged weapons have the [ASSAULT] ability}.",
+        "Aggressive Assault: Each time this model makes a ranged attack against the closest eligible target, add 1 to the Hit roll}.",
+        "DAMAGED: 1-7 WOUNDS REMAINING While this model has 1-7 wounds remaining, subtract 5 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll}."
+      ]
+    },
+    "invulnerable": "*",
+    "damaged": null,
+    "stats": {
+      "m": "10\"",
+      "t": "12",
+      "sv": "3+",
+      "w": "22",
+      "ld": "6+",
+      "oc": "10"
+    },
+    "footnotes": {
+      "footnotes": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "This model’s meltagun can be replaced with 1 Questoris heavy stubber.",
+          "■",
+          "This model’s reaper chainsword can be replaced with 1 thunderstrike gauntlet.",
+          "■",
+          "This model can be equipped with one of the following:",
+          "◦",
+          "1 Icarus autocannons",
+          "◦",
+          "1 ironstorm missile pod",
+          "◦",
+          "1 stormspear rocket pod"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Knight Errant",
+          "This model is equipped with:",
+          "meltagun;",
+          "thermal cannon; reaper chainsword.",
+          "KNIGHT ERRANT",
+          "These aggressive, mid- to close-range assault Knights excel at",
+          "hunting enemy tanks and monsters thanks to their powerful thermal",
+          "cannons, reaper chainswords and thunderstrike gauntlets, and",
+          "typically plunge into the fiercest fighting."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-imperial-knights-8",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "KNIGHT GALLANT",
+    "subtype": "",
+    "keywords": [
+      "Vehicle",
+      "Walker",
+      "Titanic",
+      "Towering",
+      "Questoris",
+      "Character"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Icarus autocannons [ANTI-FLY 2+, TWIN-LINKED]",
+          "range": "48\"",
+          "a": "3",
+          "bws": "3+",
+          "s": "7",
+          "ap": "-1",
+          "d": "2"
+        },
+        {
+          "name": "Ironstorm missile pod [BLAST, INDIRECT FIRE]",
+          "range": "48\"",
+          "a": "D6+1",
+          "bws": "3+",
+          "s": "5",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Meltagun [MELTA 2]",
+          "range": "12\"",
+          "a": "1",
+          "bws": "3+",
+          "s": "9",
+          "ap": "-4",
+          "d": "D6"
+        },
+        {
+          "name": "Questoris heavy stubber [RAPID FIRE 3]",
+          "range": "36\"",
+          "a": "3",
+          "bws": "3+",
+          "s": "4",
+          "ap": "-1",
+          "d": "1"
+        },
+        {
+          "name": "Stormspear rocket pod",
+          "range": "48\"",
+          "a": "3",
+          "bws": "3+",
+          "s": "8",
+          "ap": "-2",
+          "d": "D6"
+        },
+        {
+          "passive": "*",
+          "text": ""
+        }
+      ],
+      "melee": [
+        {
+          "name": "Reaper chainsword - strike",
+          "range": "Melee",
+          "a": "6",
+          "bws": "2+",
+          "s": "14",
+          "ap": "-4",
+          "d": "6"
+        },
+        {
+          "name": "Reaper chainsword - sweep",
+          "range": "Melee",
+          "a": "18",
+          "bws": "2+",
+          "s": "9",
+          "ap": "-3",
+          "d": "2"
+        },
+        {
+          "name": "Thunderstrike gauntlet - strike",
+          "range": "Melee",
+          "a": "6",
+          "bws": "2+",
+          "s": "20",
+          "ap": "-3",
+          "d": "8"
+        },
+        {
+          "name": "Thunderstrike gauntlet - sweep",
+          "range": "Melee",
+          "a": "12",
+          "bws": "2+",
+          "s": "10",
+          "ap": "-2",
+          "d": "3"
+        },
+        {
+          "passive": "*",
+          "text": ""
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Imperial Knights"
+    ],
+    "abilities": {
+      "core": "Deadly Demise D6",
+      "faction": "Code Chivalric, Super-heavy Walker",
+      "special": [
+        "FACTION: Code Chivalric, Super-heavy Walker Gallant’s Duty (Bondsman): While a model is affected by this ability, you can re-roll Charge rolls made for that model and each time that model makes a melee attack, you can re-roll the Hit roll}.",
+        "Martial Pride: Each time a melee attack targets this model, subtract 1 from the Hit roll}.",
+        "DAMAGED: 1-7 WOUNDS REMAINING While this model has 1-7 wounds remaining, subtract 5 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll}.",
+        "INVULNERABLE SAVE * * This model has a 5+ invulnerable save against ranged attacks}.",
+        "5+}."
+      ]
+    },
+    "invulnerable": "",
+    "damaged": null,
+    "stats": {
+      "m": "12\"",
+      "t": "12",
+      "sv": "3+",
+      "w": "22",
+      "ld": "6+",
+      "oc": "10"
+    },
+    "footnotes": {
+      "footnotes": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "This model’s meltagun can be replaced with 1 Questoris heavy stubber.",
+          "■",
+          "This model can be equipped with one of the following:",
+          "◦",
+          "1 Icarus autocannons",
+          "◦",
+          "1 ironstorm missile pod",
+          "◦",
+          "1 stormspear rocket pod"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Knight Gallant",
+          "This model is equipped with:",
+          "meltagun; thunderstrike",
+          "gauntlet; reaper chainsword.",
+          "KNIGHT GALLANT",
+          "Gallants are the most restless and combative of Knights, and",
+          "have been described as impetuous and beyond bellicose. They",
+          "are aggressive, bold and difficult to restrain, and their pilots often",
+          "share these traits. As befitting their nature, they are armed almost",
+          "exclusively with close combat weapons."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-imperial-knights-10",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "KNIGHT WARDEN",
+    "subtype": "",
+    "keywords": [
+      "Vehicle",
+      "Walker",
+      "Titanic",
+      "Towering",
+      "Questoris",
+      "Character"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Avenger gatling cannon",
+          "range": "36\"",
+          "a": "18",
+          "bws": "3+",
+          "s": "6",
+          "ap": "-2",
+          "d": "2"
+        },
+        {
+          "name": "Heavy flamer [IGNORES COVER, TORRENT]",
+          "range": "12\"",
+          "a": "D6",
+          "bws": "N/A",
+          "s": "5",
+          "ap": "-1",
+          "d": "1"
+        },
+        {
+          "name": "Icarus autocannons [ANTI-FLY 2+, TWIN-LINKED]",
+          "range": "48\"",
+          "a": "3",
+          "bws": "3+",
+          "s": "7",
+          "ap": "-1",
+          "d": "2"
+        },
+        {
+          "name": "Ironstorm missile pod [BLAST, INDIRECT FIRE]",
+          "range": "48\"",
+          "a": "D6+1",
+          "bws": "3+",
+          "s": "5",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Meltagun [MELTA 2]",
+          "range": "12\"",
+          "a": "1",
+          "bws": "3+",
+          "s": "9",
+          "ap": "-4",
+          "d": "D6"
+        },
+        {
+          "name": "Questoris heavy stubber [RAPID FIRE 3]",
+          "range": "36\"",
+          "a": "3",
+          "bws": "3+",
+          "s": "4",
+          "ap": "-1",
+          "d": "1"
+        },
+        {
+          "name": "Stormspear rocket pod",
+          "range": "48\"",
+          "a": "3",
+          "bws": "3+",
+          "s": "8",
+          "ap": "-2",
+          "d": "D6"
+        },
+        {
+          "passive": "*",
+          "text": ""
+        }
+      ],
+      "melee": [
+        {
+          "name": "Reaper chainsword - strike",
+          "range": "Melee",
+          "a": "4",
+          "bws": "3+",
+          "s": "14",
+          "ap": "-4",
+          "d": "6"
+        },
+        {
+          "name": "Reaper chainsword - sweep",
+          "range": "Melee",
+          "a": "12",
+          "bws": "3+",
+          "s": "9",
+          "ap": "-3",
+          "d": "2"
+        },
+        {
+          "name": "Thunderstrike gauntlet - strike",
+          "range": "Melee",
+          "a": "4",
+          "bws": "3+",
+          "s": "20",
+          "ap": "-3",
+          "d": "8"
+        },
+        {
+          "name": "Thunderstrike gauntlet - sweep",
+          "range": "Melee",
+          "a": "8",
+          "bws": "3+",
+          "s": "10",
+          "ap": "-2",
+          "d": "3"
+        },
+        {
+          "passive": "*",
+          "text": ""
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Imperial Knights"
+    ],
+    "abilities": {
+      "core": "Deadly Demise D6",
+      "faction": "Code Chivalric, Super-heavy Walker",
+      "special": [
+        "FACTION: Code Chivalric, Super-heavy Walker Warden’s Duty (Bondsman): While a model is affected by this ability, each time an attack is allocated to that model, subtract 1 from the Damage characteristic of that attack}.",
+        "Thin Their Ranks: Each time this model makes a ranged attack that targets an enemy unit (excluding Monsters and Vehicles ), that attack has the [DEVASTATING WOUNDS] ability}.",
+        "DAMAGED: 1-7 WOUNDS REMAINING While this model has 1-7 wounds remaining, subtract 5 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll}."
+      ]
+    },
+    "invulnerable": "*",
+    "damaged": null,
+    "stats": {
+      "m": "10\"",
+      "t": "12",
+      "sv": "3+",
+      "w": "22",
+      "ld": "6+",
+      "oc": "10"
+    },
+    "footnotes": {
+      "footnotes": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "This model’s meltagun can be replaced with 1 Questoris heavy stubber.",
+          "■",
+          "This model’s reaper chainsword can be replaced with 1 thunderstrike gauntlet.",
+          "■",
+          "This model can be equipped with one of the following:",
+          "◦",
+          "1 Icarus autocannons",
+          "◦",
+          "1 ironstorm missile pod",
+          "◦",
+          "1 stormspear rocket pod"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Knight Warden",
+          "This model is equipped with:",
+          "avenger gatling cannon;",
+          "heavy flamer; meltagun; reaper chainsword.",
+          "KNIGHT WARDEN",
+          "With an avenger gatling cannon that spits hundreds of foot-long",
+          "armour-piercing shells per minute, these Knights are well suited to",
+          "annihilating enemy infantry, light vehicles and transports. The suits",
+          "themselves possess strong-willed machine spirits, and it is a great",
+          "mark of accomplishment for a Noble to pilot one."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-imperial-knights-12",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "KNIGHT CRUSADER",
+    "subtype": "",
+    "keywords": [
+      "Vehicle",
+      "Walker",
+      "Titanic",
+      "Towering",
+      "Questoris",
+      "Character"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Avenger gatling cannon",
+          "range": "36\"",
+          "a": "18",
+          "bws": "3+",
+          "s": "6",
+          "ap": "-2",
+          "d": "2"
+        },
+        {
+          "name": "Heavy flamer [IGNORES COVER, TORRENT]",
+          "range": "12\"",
+          "a": "D6",
+          "bws": "N/A",
+          "s": "5",
+          "ap": "-1",
+          "d": "1"
+        },
+        {
+          "name": "Icarus autocannons [ANTI-FLY 2+, TWIN-LINKED]",
+          "range": "48\"",
+          "a": "3",
+          "bws": "3+",
+          "s": "7",
+          "ap": "-1",
+          "d": "2"
+        },
+        {
+          "name": "Ironstorm missile pod [BLAST, INDIRECT FIRE]",
+          "range": "48\"",
+          "a": "D6+1",
+          "bws": "3+",
+          "s": "5",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Meltagun [MELTA 2]",
+          "range": "12\"",
+          "a": "1",
+          "bws": "3+",
+          "s": "9",
+          "ap": "-4",
+          "d": "D6"
+        },
+        {
+          "name": "Questoris heavy stubber [RAPID FIRE 3]",
+          "range": "36\"",
+          "a": "3",
+          "bws": "3+",
+          "s": "4",
+          "ap": "-1",
+          "d": "1"
+        },
+        {
+          "name": "Rapid-fire battle cannon [BLAST, RAPID FIRE D6+3]",
+          "range": "72\"",
+          "a": "D6+3",
+          "bws": "3+",
+          "s": "10",
+          "ap": "-1",
+          "d": "3"
+        },
+        {
+          "name": "Stormspear rocket pod",
+          "range": "48\"",
+          "a": "3",
+          "bws": "3+",
+          "s": "8",
+          "ap": "-2",
+          "d": "D6"
+        },
+        {
+          "name": "Thermal cannon [BLAST, MELTA 6]",
+          "range": "24\"",
+          "a": "2D3",
+          "bws": "3+",
+          "s": "12",
+          "ap": "-4",
+          "d": "D6"
+        },
+        {
+          "passive": "*",
+          "text": ""
+        }
+      ],
+      "melee": [
+        {
+          "name": "Titanic feet",
+          "range": "Melee",
+          "a": "4",
+          "bws": "3+",
+          "s": "8",
+          "ap": "-1",
+          "d": "2"
+        },
+        {
+          "passive": "*",
+          "text": ""
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Imperial Knights"
+    ],
+    "abilities": {
+      "core": "Deadly Demise D6",
+      "faction": "Code Chivalric, Super-heavy Walker",
+      "special": [
+        "FACTION: Code Chivalric, Super-heavy Walker Crusader’s Duty (Bondsman): While a model is affected by this ability, each time that model makes a ranged attack, add 1 to the Hit roll}.",
+        "Punishing Salvoes: In your Movement phase, if this model Remains Stationary, until the start of your next Movement phase, this model’s ranged weapons have the [SUSTAINED HITS 1] ability}.",
+        "DAMAGED: 1-7 WOUNDS REMAINING While this model has 1-7 wounds remaining, subtract 5 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll}."
+      ]
+    },
+    "invulnerable": "*",
+    "damaged": null,
+    "stats": {
+      "m": "10\"",
+      "t": "12",
+      "sv": "3+",
+      "w": "22",
+      "ld": "6+",
+      "oc": "10"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "This model’s meltagun can be replaced with 1 Questoris heavy stubber.",
+          "■",
+          "This model’s thermal cannon can be replaced with:",
+          "◦",
+          "1 rapid-fire battlecannon and 1 Questoris heavy stubber",
+          "■",
+          "This model can be equipped with one of the following:",
+          "◦",
+          "1 Icarus autocannons",
+          "◦",
+          "1 ironstorm missile pod",
+          "◦",
+          "1 stormspear rocket pod"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Knight Crusader",
+          "This model is equipped with:",
+          "avenger gatling cannon;",
+          "heavy flamer; meltagun; thermal cannon; titanic feet.",
+          "KNIGHT CRUSADER",
+          "Armed with a bristling array of heavy and long-ranged weapons, the",
+          "Knight Crusader finds key firing positions and unleashes salvo after",
+          "salvo at the enemy. Pilots will gladly steer their suits even into open",
+          "ground to find the best place to shoot from, and are regarded as",
+          "especially dutiful and selfless by their peers."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-imperial-knights-14",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "KNIGHT PRECEPTOR",
+    "subtype": "",
+    "keywords": [
+      "Vehicle",
+      "Walker",
+      "Titanic",
+      "Towering",
+      "Questoris",
+      "Character"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Icarus autocannons [ANTI-FLY 2+, TWIN-LINKED]",
+          "range": "48\"",
+          "a": "3",
+          "bws": "3+",
+          "s": "7",
+          "ap": "-1",
+          "d": "2"
+        },
+        {
+          "name": "Ironstorm missile pod [BLAST, INDIRECT FIRE]",
+          "range": "48\"",
+          "a": "D6+1",
+          "bws": "3+",
+          "s": "5",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Las-impulsor - high intensity [BLAST]",
+          "range": "24\"",
+          "a": "D6",
+          "bws": "3+",
+          "s": "14",
+          "ap": "-3",
+          "d": "4"
+        },
+        {
+          "name": "Las-impulsor - low intensity [BLAST]",
+          "range": "36\"",
+          "a": "2D6",
+          "bws": "3+",
+          "s": "7",
+          "ap": "-1",
+          "d": "2"
+        },
+        {
+          "name": "Meltagun [MELTA 2]",
+          "range": "12\"",
+          "a": "1",
+          "bws": "3+",
+          "s": "9",
+          "ap": "-4",
+          "d": "D6"
+        },
+        {
+          "name": "Preceptor multi-laser",
+          "range": "36\"",
+          "a": "4",
+          "bws": "3+",
+          "s": "6",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Questoris heavy stubber [RAPID FIRE 3]",
+          "range": "36\"",
+          "a": "3",
+          "bws": "3+",
+          "s": "4",
+          "ap": "-1",
+          "d": "1"
+        },
+        {
+          "name": "Stormspear rocket pod",
+          "range": "48\"",
+          "a": "3",
+          "bws": "3+",
+          "s": "8",
+          "ap": "-2",
+          "d": "D6"
+        },
+        {
+          "passive": "*",
+          "text": ""
+        }
+      ],
+      "melee": [
+        {
+          "name": "Reaper chainsword - strike",
+          "range": "Melee",
+          "a": "4",
+          "bws": "3+",
+          "s": "14",
+          "ap": "-4",
+          "d": "6"
+        },
+        {
+          "name": "Reaper chainsword - sweep",
+          "range": "Melee",
+          "a": "12",
+          "bws": "3+",
+          "s": "9",
+          "ap": "-3",
+          "d": "2"
+        },
+        {
+          "name": "Thunderstrike gauntlet - strike",
+          "range": "Melee",
+          "a": "4",
+          "bws": "3+",
+          "s": "20",
+          "ap": "-3",
+          "d": "8"
+        },
+        {
+          "name": "Thunderstrike gauntlet - sweep",
+          "range": "Melee",
+          "a": "8",
+          "bws": "3+",
+          "s": "10",
+          "ap": "-2",
+          "d": "3"
+        },
+        {
+          "passive": "*",
+          "text": ""
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Imperial Knights"
+    ],
+    "abilities": {
+      "core": "Deadly Demise D6",
+      "faction": "Code Chivalric, Super-heavy Walker",
+      "special": [
+        "FACTION: Code Chivalric, Super-heavy Walker Mentor (Bondsman): While a model is affected by this ability, improve that model’s Leadership characteristic by 1 and improve that model’s Objective Control characteristic by 2}.",
+        "Exemplar of the Code: At the start of the battle, select one unit from your opponent’s army}.",
+        "Each time this model makes an attack that targets that unit, you can re-roll the Hit roll}.",
+        "DAMAGED: 1-7 WOUNDS REMAINING While this model has 1-7 wounds remaining, subtract 5 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll}."
+      ]
+    },
+    "invulnerable": "*",
+    "damaged": null,
+    "stats": {
+      "m": "10\"",
+      "t": "12",
+      "sv": "3+",
+      "w": "22",
+      "ld": "6+",
+      "oc": "10"
+    },
+    "footnotes": {
+      "footnotes": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "This model’s Preceptor multi-laser can be replaced with one of the following:",
+          "◦",
+          "1 meltagun",
+          "◦",
+          "1 Questoris heavy stubber",
+          "■",
+          "This model’s reaper chainsword can be replaced with 1 thunderstrike gauntlet.",
+          "■",
+          "This model can be equipped with one of the following:",
+          "◦",
+          "1 Icarus autocannons",
+          "◦",
+          "1 ironstorm missile pod",
+          "◦",
+          "1 stormspear rocket pod"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Knight Preceptor",
+          "This model is equipped with:",
+          "las-impulsor;",
+          "Preceptor multi-laser; reaper chainsword.",
+          "KNIGHT PRECEPTOR",
+          "Knights Preceptor are designed to embody the code chivalric.",
+          "Their pilots close to an honourable range with the foe, engage with",
+          "a respectful force and kill them cleanly with their las-impulsors.",
+          "Typically, grizzled veterans pilot these Knights, setting an example for",
+          "their younger comrades by hunting down the most fearsome enemies."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-imperial-knights-16",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "KNIGHT CASTELLAN",
+    "subtype": "",
+    "keywords": [
+      "Vehicle",
+      "Walker",
+      "Titanic",
+      "Towering",
+      "Dominus",
+      "Character"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Plasma decimator - standard [BLAST]",
+          "range": "48\"",
+          "a": "D6+3",
+          "bws": "3+",
+          "s": "8",
+          "ap": "-2",
+          "d": "2"
+        },
+        {
+          "name": "Plasma decimator - supercharge [BLAST, HAZARDOUS]",
+          "range": "48\"",
+          "a": "D6+3",
+          "bws": "3+",
+          "s": "9",
+          "ap": "-3",
+          "d": "3"
+        },
+        {
+          "name": "Shieldbreaker missile launcher [ANTI-TITANIC 4+, DEVASTATING WOUNDS]",
+          "range": "72\"",
+          "a": "1",
+          "bws": "3+",
+          "s": "12",
+          "ap": "-6",
+          "d": "D6+1"
+        },
+        {
+          "name": "Twin meltagun [MELTA 2, TWIN-LINKED]",
+          "range": "12\"",
+          "a": "1",
+          "bws": "3+",
+          "s": "9",
+          "ap": "-4",
+          "d": "D6"
+        },
+        {
+          "name": "Twin siegebreaker cannon [BLAST, TWIN-LINKED]",
+          "range": "36\"",
+          "a": "D6",
+          "bws": "3+",
+          "s": "6",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "name": "Volcano lance [BLAST]",
+          "range": "72\"",
+          "a": "D3",
+          "bws": "3+",
+          "s": "18",
+          "ap": "-5",
+          "d": "D6+8"
+        },
+        {
+          "passive": "*",
+          "text": ""
+        }
+      ],
+      "melee": [
+        {
+          "name": "Titanic feet",
+          "range": "Melee",
+          "a": "4",
+          "bws": "4+",
+          "s": "8",
+          "ap": "-1",
+          "d": "2"
+        },
+        {
+          "passive": "*",
+          "text": ""
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Imperial Knights"
+    ],
+    "abilities": {
+      "core": "Deadly Demise D6+2",
+      "faction": "Code Chivalric, Super-heavy Walker",
+      "special": [
+        "FACTION: Code Chivalric, Super-heavy Walker Ion Aegis (Aura): While a friendly Armiger model is within 6\" of this model, that Armiger models has the Benefits of Cover}.",
+        "Titan Hunter: Each time a ranged attack made by this model is allocated to a Monster or Vehicle model, re-roll a Damage roll of 1}.",
+        "DAMAGED: 1-8 WOUNDS REMAINING While this model has 1-8 wounds remaining, subtract 5 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll}."
+      ]
+    },
+    "invulnerable": "*",
+    "damaged": null,
+    "stats": {
+      "m": "8\"",
+      "t": "13",
+      "sv": "2+",
+      "w": "24",
+      "ld": "6+",
+      "oc": "10"
+    },
+    "footnotes": {
+      "footnotes": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "This model’s 2 shieldbreaker missile launchers and twin siegebreaker cannon can be replaced with:",
+          "◦",
+          "1 shieldbreaker missile launcher and 2 twin siegebreaker cannons"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Knight Castellan",
+          "This model is equipped with:",
+          "plasma decimator;",
+          "2 shieldbreaker missile launchers; 2 twin meltaguns;",
+          "twin siegebreaker cannon, volcano lance; titanic feet.",
+          "KNIGHT CASTELLAN",
+          "Based around a Dominus-class chassis, the Knight Castellan’s dual",
+          "plasma core fuels an array of weapon systems that make it among",
+          "the foremost artillery Knights of the houses. The combined fire of",
+          "several of these engines can equal that of an Imperial Navy warship",
+          "battery, and tear the heart out of an enemy army."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-imperial-knights-18",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "KNIGHT VALIANT",
+    "subtype": "",
+    "keywords": [
+      "Vehicle",
+      "Walker",
+      "Titanic",
+      "Towering",
+      "Dominus",
+      "Character"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Conflagration cannon [IGNORES COVER, TORRENT]",
+          "range": "18\"",
+          "a": "3D6",
+          "bws": "N/A",
+          "s": "8",
+          "ap": "-1",
+          "d": "2"
+        },
+        {
+          "name": "Twin meltagun [MELTA 2, TWIN-LINKED]",
+          "range": "12\"",
+          "a": "1",
+          "bws": "3+",
+          "s": "9",
+          "ap": "-4",
+          "d": "D6"
+        },
+        {
+          "name": "Shieldbreaker missile launcher [ANTI-TITANIC 4+, DEVASTATING WOUNDS]",
+          "range": "72\"",
+          "a": "1",
+          "bws": "3+",
+          "s": "12",
+          "ap": "-6",
+          "d": "D6+1"
+        },
+        {
+          "name": "Thundercoil harpoon [ANTI-MONSTER 4+, ANTI-VEHICLE 4+, DEVASTATING WOUNDS]",
+          "range": "18\"",
+          "a": "1",
+          "bws": "2+",
+          "s": "24",
+          "ap": "-6",
+          "d": "12"
+        },
+        {
+          "name": "Twin siegebreaker cannon [BLAST, TWIN-LINKED]",
+          "range": "36\"",
+          "a": "D6",
+          "bws": "3+",
+          "s": "6",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "passive": "*",
+          "text": ""
+        }
+      ],
+      "melee": [
+        {
+          "name": "Titanic feet",
+          "range": "Melee",
+          "a": "4",
+          "bws": "4+",
+          "s": "8",
+          "ap": "-1",
+          "d": "2"
+        },
+        {
+          "passive": "*",
+          "text": ""
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Imperial Knights"
+    ],
+    "abilities": {
+      "core": "Deadly Demise D6+2",
+      "faction": "Code Chivalric, Super-heavy Walker",
+      "special": [
+        "FACTION: Code Chivalric, Super-heavy Walker Ion Aegis (Aura): While a friendly Armiger model is within 6\" of this model, that Armiger model has the Benefit of Cover}.",
+        "Overwhelming Firestorm: In your Shooting phase, after this model has shot, select one enemy unit hit by this model this phase}.",
+        "That unit must take a Battle-shock test}.",
+        "DAMAGED: 1-8 WOUNDS REMAINING While this model has 1-8 wounds remaining, subtract 5 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll}."
+      ]
+    },
+    "invulnerable": "*",
+    "damaged": null,
+    "stats": {
+      "m": "8\"",
+      "t": "13",
+      "sv": "2+",
+      "w": "24",
+      "ld": "6+",
+      "oc": "10"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "This model’s 2 shieldbreaker missile launchers and twin siegebreaker cannon can be replaced with:",
+          "◦",
+          "1 shieldbreaker missile launcher and 2 twin siegebreaker cannons"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Knight Valiant",
+          "This model is equipped with:",
+          "conflagration cannon;",
+          "2 shieldbreaker missile launchers; thundercoil harpoon;",
+          "2 twin meltaguns; twin siegebreaker cannon, titanic feet.",
+          "KNIGHT VALIANT",
+          "This Dominus-class Knight defeats its enemies through overwhelming",
+          "firepower at close range. Thanks to its conflagration cannon",
+          "unleashing a searing, inescapable firestorm, it can easily annihilate",
+          "incoming hordes or smash through opposing battle lines, and with its",
+          "thundercoil harpoon it can destroy tanks and monsters with impunity."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-imperial-knights-20",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "CANIS REX",
+    "subtype": "If Canis Rex is destroyed, flip this card and follow the",
+    "keywords": [
+      "KEYWORDS:"
+    ],
+    "weapons": {
+      "ranged": [
+        {
+          "name": "Chainbreaker las-impulsor - high intensity [BLAST, SUSTAINED HITS 1]",
+          "range": "24\"",
+          "a": "D6",
+          "bws": "2+",
+          "s": "14",
+          "ap": "-3",
+          "d": "4"
+        },
+        {
+          "name": "Chainbreaker las-impulsor - low intensity [BLAST, SUSTAINED HITS 1]",
+          "range": "36\"",
+          "a": "2D6",
+          "bws": "2+",
+          "s": "7",
+          "ap": "-1",
+          "d": "2"
+        },
+        {
+          "name": "Chainbreaker multi-laser [SUSTAINED HITS 1]",
+          "range": "36\"",
+          "a": "4",
+          "bws": "2+",
+          "s": "6",
+          "ap": "0",
+          "d": "1"
+        },
+        {
+          "passive": "*",
+          "text": ""
+        }
+      ],
+      "melee": [
+        {
+          "name": "Freedom’s Hand - strike [SUSTAINED HITS 1]",
+          "range": "Melee",
+          "a": "5",
+          "bws": "2+",
+          "s": "20",
+          "ap": "-3",
+          "d": "9"
+        },
+        {
+          "name": "Freedom’s Hand - sweep [SUSTAINED HITS 1]",
+          "range": "Melee",
+          "a": "10",
+          "bws": "2+",
+          "s": "10",
+          "ap": "-2",
+          "d": "3"
+        },
+        {
+          "name": "WARGEAR OPTIONS",
+          "range": "UNIT COMPOSITION",
+          "a": "■",
+          "bws": "None",
+          "s": "■",
+          "ap": "1 Canis Rex -",
+          "d": "Epic Hero"
+        },
+        {
+          "name": "Canis Rex is equipped with:",
+          "range": "Chainbreaker las-impulsor;",
+          "a": "Chainbreaker multi-laser; Freedom’s Hand."
+        },
+        {
+          "passive": "*",
+          "text": ""
+        }
+      ]
+    },
+    "factionKeywords": [
+      "Imperial Knights"
+    ],
+    "abilities": {
+      "core": "Deadly Demise D6",
+      "faction": "Code Chivalric, Super-heavy Walker",
+      "special": [
+        "FACTION: Code Chivalric, Super-heavy Walker Legendary Freeblade: Once per turn, you can target this model with a Stratagem for 0CP, and can do so even if you have already targeted a different unit with that Stratagem in the same phase}.",
+        "Chainbreaker: Each time this model makes an attack, an unmodifed successful Hit roll of 5+ scores a Critical Hit}.",
+        "DAMAGED: 1-7 WOUNDS REMAINING While this model has 1-7 wounds remaining, subtract 5 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll}."
+      ]
+    },
+    "invulnerable": "*",
+    "damaged": null,
+    "stats": {
+      "m": "10\"",
+      "t": "12",
+      "sv": "3+",
+      "w": "22",
+      "ld": "5+",
+      "oc": "10"
+    },
+    "footnotes": {
+      "footnotes": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": []
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "None",
+          "■",
+          "1 Sir Hekhtur -",
+          "Epic Hero",
+          "Sir Hekhtur is equipped with:",
+          "Hekhtur’s pistol; close",
+          "combat weapon.",
+          "ABILITIES",
+          "CORE:",
+          "Lone Operative",
+          "USING SIR HEKHTUR",
+          "When your Canis Rex model is destroyed, Sir Hekhtur is",
+          "treated as a model disembarking from a destroyed",
+          "Transport",
+          "- set him up within 3\" of your Canis Rex model before it is",
+          "removed. Sir Hekhtur then uses the profile, wargear, abilities",
+          "and keywords shown on this side of the card, but cannot be",
+          "selected as the target of any of your Stratagems other than",
+          "Core Stratagems. Your Canis Rex unit is not considered to be",
+          "destroyed until Sir Hekhtur is also destroyed.",
+          "SIR HEKHTUR",
+          "Use this side of the card only after your Canis Rex model",
+          "is destroyed.",
+          "Once a prisoner of the Iron Warriors, Sir Hekhtur resisted",
+          "agonising torture and escaped only through sheer faith,",
+          "determination and honour. Now he travels the galaxy,",
+          "liberating Imperial citizens enslaved by the forces of",
+          "the Arch-enemy.",
+          "M",
+          "T",
+          "SV",
+          "W",
+          "LD",
+          "OC",
+          "6\"",
+          "3",
+          "4+",
+          "3",
+          "5+",
+          "1"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-imperial-knights-22",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "WAR DOG EXECUTIONER",
+    "subtype": "",
+    "keywords": [
+      "Vehicle",
+      "Walker",
+      "Battleline",
+      "Chaos",
+      "War Dog",
+      "Executioner"
+    ],
+    "weapons": {
+      "ranged": [],
+      "melee": []
+    },
+    "factionKeywords": [
+      "Chaos Knights"
+    ],
+    "abilities": {
+      "core": "Deadly Demise D3",
+      "faction": "Harbingers of Dread",
+      "special": [
+        "FACTION: Harbingers of Dread Executioner: Each time this model makes an attack that targets a unit Below Half-strength, add 1 to the Hit roll}.",
+        "DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll}."
+      ]
+    },
+    "invulnerable": "*",
+    "damaged": null,
+    "stats": {
+      "m": "12\"",
+      "t": "10",
+      "sv": "3+",
+      "w": "12",
+      "ld": "7+",
+      "oc": "8"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "This model’s diabolus heavy stubber can be replaced with 1 daemonbreath meltagun."
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 War Dog Executioner",
+          "This model is equipped with:",
+          "diabolus heavy stubber;",
+          "2 War Dog autocannons; armoured feet.",
+          "WAR DOG EXECUTIONER",
+          "Methodical and coldly emotionless killers, Fallen Nobles who pilot",
+          "War Dog Executioners employ long-barrelled, rapid-firing cannons",
+          "to maximise their kills. They eviscerate throngs of the enemy and",
+          "hammer the foes’ war engines into submission, seeking to reap ever",
+          "greater murderous tallies than their peers."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-imperial-knights-24",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "WAR DOG STALKER",
+    "subtype": "",
+    "keywords": [
+      "Vehicle",
+      "Walker",
+      "Battleline",
+      "Character",
+      "Chaos",
+      "War Dog",
+      "Stalker"
+    ],
+    "weapons": {
+      "ranged": [],
+      "melee": []
+    },
+    "factionKeywords": [
+      "Chaos Knights"
+    ],
+    "abilities": {
+      "core": "Deadly Demise D3",
+      "faction": "Harbingers of Dread",
+      "special": [
+        "FACTION: Harbingers of Dread Stalker: Each time this model makes an attack that targets an enemy unit, if there are no other units from your opponent’s army within 6\" of that target, add 1 to the Wound roll}.",
+        "DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll}."
+      ]
+    },
+    "invulnerable": "*",
+    "damaged": null,
+    "stats": {
+      "m": "12\"",
+      "t": "10",
+      "sv": "3+",
+      "w": "12",
+      "ld": "7+",
+      "oc": "8"
+    },
+    "footnotes": {
+      "footnotes": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "This model’s avenger chaincannon can be replaced with 1 daemonbreath spear.",
+          "■",
+          "This model’s diabolus heavy stubber can be replaced with 1 havoc multi-launcher.",
+          "■",
+          "This model’s slaughterclaw can be replaced with 1 reaper chaintalon."
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 War Dog Stalker",
+          "This model is equipped with:",
+          "avenger chaincannon;",
+          "diabolus heavy stubber; slaughterclaw.",
+          "WAR DOG STALKER",
+          "Only the most strong-willed of minor nobility have the mental fortitude",
+          "to pilot a Stalker. Like pack alphas, they often lead other War Dogs",
+          "in carefully planned attacks, harrying the foe’s flanks, butchering",
+          "reinforcements and hunting down lone threats. They unleash salvoes",
+          "of fire at range or in the heart of combat with deadly claw strikes."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-imperial-knights-26",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "WAR DOG KARNIVORE",
+    "subtype": "",
+    "keywords": [
+      "Vehicle",
+      "Walker",
+      "Battleline",
+      "Chaos",
+      "War Dog",
+      "Karnivore"
+    ],
+    "weapons": {
+      "ranged": [],
+      "melee": []
+    },
+    "factionKeywords": [
+      "Chaos Knights"
+    ],
+    "abilities": {
+      "core": "Deadly Demise D3",
+      "faction": "Harbingers of Dread",
+      "special": [
+        "FACTION: Harbingers of Dread Karnivore: You can re-roll Charge rolls made for this model}.",
+        "DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll}."
+      ]
+    },
+    "invulnerable": "*",
+    "damaged": null,
+    "stats": {
+      "m": "14\"",
+      "t": "10",
+      "sv": "3+",
+      "w": "12",
+      "ld": "7+",
+      "oc": "8"
+    },
+    "footnotes": {
+      "footnotes": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "This model’s diabolus heavy stubber can be replaced with 1 havoc multi-launcher."
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 War Dog Karnivore",
+          "This model is equipped with:",
+          "diabolus heavy stubber;",
+          "reaper chaintalon; slaughterclaw.",
+          "WAR DOG KARNIVORE",
+          "Aggressive and bloodthirsty, Karnivores eschew the more potent",
+          "ranged weapons of the War Dog chassis. They revel in causing",
+          "bloody confusion and despair, seeking the visceral thrill that only",
+          "close-quarters slaughter provides. As a result, many of their pilots fall",
+          "to the open worship of one of the Chaos Gods."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-imperial-knights-28",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "WAR DOG BRIGAND",
+    "subtype": "",
+    "keywords": [
+      "Vehicle",
+      "Walker",
+      "Battleline",
+      "Chaos",
+      "War Dog",
+      "Brigand"
+    ],
+    "weapons": {
+      "ranged": [],
+      "melee": []
+    },
+    "factionKeywords": [
+      "Chaos Knights"
+    ],
+    "abilities": {
+      "core": "Deadly Demise D3",
+      "faction": "Harbingers of Dread",
+      "special": [
+        "FACTION: Harbingers of Dread Brigand: Each time this model makes a ranged attack that targets the closest eligible enemy unit, improve the Armour Penetration characteristic of that attack by 1}.",
+        "DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll}."
+      ]
+    },
+    "invulnerable": "*",
+    "damaged": null,
+    "stats": {
+      "m": "12\"",
+      "t": "10",
+      "sv": "3+",
+      "w": "12",
+      "ld": "7+",
+      "oc": "8"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "This model’s diabolus heavy stubber can be replaced with 1 havoc multi-launcher."
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 War Dog Brigand",
+          "This model is equipped with:",
+          "avenger chaincannon;",
+          "daemonbreath spear; diabolus heavy stubber; armoured feet.",
+          "WAR DOG BRIGAND",
+          "Between them, Brigands and their Fallen Noble pilots have become",
+          "so enamoured of the skilful, ranged kill that they mostly disdain the",
+          "chaos of close assaults. Some even swear dark pacts compelling them",
+          "to slay potent foes with elegance, or else to purge war zones of all life",
+          "with sweeping contempt."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-imperial-knights-30",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "WAR DOG HUNTSMAN",
+    "subtype": "",
+    "keywords": [
+      "Vehicle",
+      "Walker",
+      "Battleline",
+      "Chaos",
+      "War Dog",
+      "Huntsman"
+    ],
+    "weapons": {
+      "ranged": [],
+      "melee": []
+    },
+    "factionKeywords": [
+      "Chaos Knights"
+    ],
+    "abilities": {
+      "core": "Deadly Demise D3",
+      "faction": "Harbingers of Dread",
+      "special": [
+        "FACTION: Harbingers of Dread Huntsman: Each time this model makes an attack against a Monster or Vehicle unit, re-roll a Wound roll of 1 and re-roll a Damage roll of 1}.",
+        "DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll}."
+      ]
+    },
+    "invulnerable": "*",
+    "damaged": null,
+    "stats": {
+      "m": "12\"",
+      "t": "10",
+      "sv": "3+",
+      "w": "12",
+      "ld": "7+",
+      "oc": "8"
+    },
+    "footnotes": {
+      "footnotes": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "This model’s diabolus heavy stubber can be replaced with 1 daemonbreath meltagun."
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 War Dog Huntsman",
+          "This model is equipped with:",
+          "daemonbreath spear; diabolus",
+          "heavy stubber; reaper chaintalon.",
+          "WAR DOG HUNTSMAN",
+          "Like hounds on the scent, Huntsmen often pursue hulking enemies,",
+          "hunting them down as prey. Their daemonbreath spears melt through",
+          "the thickest armour while chaintalons are employed to drive deeply",
+          "into gushing innards, tearing through organs and crew alike."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-imperial-knights-32",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "KNIGHT DESPOILER",
+    "subtype": "",
+    "keywords": [
+      "Vehicle",
+      "Walker",
+      "Titanic",
+      "Towering",
+      "Abhorrent",
+      "Character",
+      "Chaos"
+    ],
+    "weapons": {
+      "ranged": [],
+      "melee": []
+    },
+    "factionKeywords": [
+      "Chaos Knights"
+    ],
+    "abilities": {
+      "core": "Deadly Demise D6",
+      "faction": "Harbingers of Dread, Super-heavy Walker",
+      "special": [
+        "FACTION: Harbingers of Dread, Super-heavy Walker Dread Dominion (Aura): While a friendly War Dog is within 9\" of this model, each time that War Dog takes a Battle-shock test, add 1 to that test}.",
+        "Seething Hatred: Each time this model is selected to shoot or fight, you can re-roll one Hit roll or you can re-roll one Wound roll when resolving those attacks}.",
+        "DAMAGED: 1-7 WOUNDS REMAINING While this model has 1-7 wounds remaining, subtract 5 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll}."
+      ]
+    },
+    "invulnerable": "*",
+    "damaged": null,
+    "stats": {
+      "m": "10\"",
+      "t": "12",
+      "sv": "3+",
+      "w": "22",
+      "ld": "6+",
+      "oc": "10"
+    },
+    "footnotes": {
+      "footnotes": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "This model’s daemonbreath meltagun can be replaced with 1 diabolus heavy stubber.",
+          "■",
+          "This model’s reaper chainsword can be replaced with 1 of the following:",
+          "◦",
+          "1 daemonbreath thermal cannon",
+          "◦",
+          "1 despoiler gatling cannon and 1 heavy darkflamer",
+          "◦",
+          "1 despoiler battle cannon and 1 diabolus heavy stubber",
+          "■",
+          "This model’s warpstrike claw can be replaced with 1 of the following:",
+          "◦",
+          "1 daemonbreath thermal cannon",
+          "◦",
+          "1 despoiler gatling cannon and 1 heavy darkflamer",
+          "◦",
+          "1 despoiler battle cannon and 1 diabolus heavy stubber",
+          "■",
+          "This model can be equipped with one of the following:",
+          "◦",
+          "1 havoc missile pod",
+          "◦",
+          "1 ruinspear rocket pod",
+          "◦",
+          "1 hellstorm autocannons"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Knight Despoiler",
+          "This model is equipped with:",
+          "daemonbreath meltagun;",
+          "reaper chainsword; titanic feet; warpstrike claw.",
+          "KNIGHT DESPOILER",
+          "Knights Despoiler epitomise all it means to be a Chaos Knight.",
+          "Their Fallen Nobles repudiate honour and seethe with hatred.",
+          "Capable of bearing a variety of powerful weapons suited to its pilot’s",
+          "temperament, they unleash their hatred at range or in thunderous",
+          "melee at whim."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-imperial-knights-34",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "KNIGHT DESECRATOR",
+    "subtype": "",
+    "keywords": [
+      "Vehicle",
+      "Walker",
+      "Titanic",
+      "Towering",
+      "Abhorrent",
+      "Character",
+      "Chaos"
+    ],
+    "weapons": {
+      "ranged": [],
+      "melee": []
+    },
+    "factionKeywords": [
+      "Chaos Knights"
+    ],
+    "abilities": {
+      "core": "Deadly Demise D6",
+      "faction": "Harbingers of Dread, Super-heavy Walker",
+      "special": [
+        "FACTION: Harbingers of Dread, Super-heavy Walker Obsessive Ruthlessness: Each time this model makes a ranged attack against a Monster or Vehicle unit, that attack has the [DEVASTATING WOUNDS] ability}.",
+        "Taskmaster (Aura): While a friendly War Dog model is within 9\" of this model, each time that War Dog model makes a ranged attack, re-roll a Hit roll of 1}.",
+        "DAMAGED: 1-7 WOUNDS REMAINING While this model has 1-7 wounds remaining, subtract 5 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll}."
+      ]
+    },
+    "invulnerable": "*",
+    "damaged": null,
+    "stats": {
+      "m": "10\"",
+      "t": "12",
+      "sv": "3+",
+      "w": "22",
+      "ld": "6+",
+      "oc": "10"
+    },
+    "footnotes": {
+      "footnotes": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "This model’s reaper chainsword can be replaced with 1 warpstrike claw."
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Knight Desecrator",
+          "This model is equipped with:",
+          "desecrator laser destructor;",
+          "diabolus heavy stubber; reaper chainsword.",
+          "KNIGHT DESECRATOR",
+          "Knights Desecrator spare no living thing from their attacks. They",
+          "possess potent mid- to close-range armaments capable of duelling",
+          "enemy war engines and monstrous beasts, or annihilating hordes of",
+          "lesser foes. They are also cruel taskmasters, snarling commands to",
+          "War Dog followers that lope forwards at their sides."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-imperial-knights-36",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "KNIGHT RAMPAGER",
+    "subtype": "",
+    "keywords": [
+      "Vehicle",
+      "Walker",
+      "Titanic",
+      "Towering",
+      "Abhorrent",
+      "Character",
+      "Chaos"
+    ],
+    "weapons": {
+      "ranged": [],
+      "melee": []
+    },
+    "factionKeywords": [
+      "Chaos Knights"
+    ],
+    "abilities": {
+      "core": "Deadly Demise D6",
+      "faction": "Harbingers of Dread, Super-heavy Walker",
+      "special": [
+        "FACTION: Harbingers of Dread, Super-heavy Walker Bloodlust: Each time this model makes a Charge move, until the end of the turn, its melee weapons have the [SUSTAINED HITS 1] ability}.",
+        "In addition, once per battle, this model is eligible to declare a charge in a turn in which it Advanced}.",
+        "Frenzied Rampage (Aura): While a friendly War Dog model is within 9\" of this model, each time that War Dog model makes a melee attack, re-roll a Hit roll of 1}.",
+        "DAMAGED: 1-7 WOUNDS REMAINING While this model has 1-7 wounds remaining, subtract 5 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll}."
+      ]
+    },
+    "invulnerable": "*",
+    "damaged": null,
+    "stats": {
+      "m": "12\"",
+      "t": "12",
+      "sv": "3+",
+      "w": "22",
+      "ld": "6+",
+      "oc": "10"
+    },
+    "footnotes": {
+      "footnotes": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "None"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Knight Rampager",
+          "This model is equipped with:",
+          "diabolus heavy stubber;",
+          "reaper chainsword; warpstrike claw.",
+          "KNIGHT RAMPAGER",
+          "Knights Rampager storm into battle with maddened, metallic howls.",
+          "They are bereft of discipline or restraint, and plough into the thickest",
+          "fighting of a war zone with insane ferocity. With swipes of their",
+          "monstrous reaper chainswords and warpstrike claws, they fight more",
+          "like frenzied daemons than machines."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-imperial-knights-38",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "KNIGHT ABOMINANT",
+    "subtype": "",
+    "keywords": [
+      "Vehicle",
+      "Walker",
+      "titanic",
+      "Towering",
+      "Abhorrent",
+      "Psyker"
+    ],
+    "weapons": {
+      "ranged": [],
+      "melee": []
+    },
+    "factionKeywords": [
+      "Chaos Knights"
+    ],
+    "abilities": {
+      "core": "Deadly Demise D6",
+      "faction": "Harbingers of Dread, Super-heavy Walker",
+      "special": [
+        "FACTION: Harbingers of Dread, Super-heavy Walker Vortex Terrors (Psychic): At the start of your Shooting phase, select one enemy unit within 12\" of this model}.",
+        "That enemy unit must take a Battle-shock test}.",
+        "Warp Storms (Psychic): At the end of your Movement phase, roll one D6 for each enemy unit within 9\" of this model: on a 3+, that enemy unit suffers D3 mortal wounds}.",
+        "DAMAGED: 1-7 WOUNDS REMAINING While this model has 1-7 wounds remaining, subtract 5 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll}."
+      ]
+    },
+    "invulnerable": "*",
+    "damaged": null,
+    "stats": {
+      "m": "10\"",
+      "t": "12",
+      "sv": "3+",
+      "w": "22",
+      "ld": "6+",
+      "oc": "10"
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "None"
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Knight Abominant",
+          "This model is equipped with:",
+          "diabolus heavy stubber; volkite",
+          "combustor; balemace; electroscourge.",
+          "KNIGHT ABOMINANT",
+          "Seen as especially blessed by the Dark Gods, Knights Abominant",
+          "are suffused with warp energy. They unleash this power in terrifying",
+          "waves, corrupting and mutating those nearby, and incinerating distant",
+          "foes with blasts of volkite energy. In combat, they thrash coiling, warp-",
+          "wrought appendages, crushing anything that remains untainted."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40k-index-imperial-knights-40",
+    "points": [
+      { "per": "1 model", "points": 0}
+    ],
+    "name": "KNIGHT TYRANT",
+    "subtype": "",
+    "keywords": [
+      "Vehicle",
+      "Walker",
+      "Titanic",
+      "Towering",
+      "Character",
+      "Chaos"
+    ],
+    "weapons": {
+      "ranged": [],
+      "melee": []
+    },
+    "factionKeywords": [
+      "Chaos Knights"
+    ],
+    "abilities": {
+      "core": "Deadly Demise D6+2",
+      "faction": "Harbingers of Dread, Super-heavy Walker",
+      "special": [
+        "FACTION: Harbingers of Dread, Super-heavy Walker Infernal Aegis (Aura): While a friendly War Dog model is within 6\" of this model, that War Dog model has the Benefit of Cover}.",
+        "Bastion of Corruption: Enemy units that are set up on the battlefield as Reinforcements cannot be set up within 12\" of this model}.",
+        "DAMAGED: 1-8 WOUNDS REMAINING While this model has 1-8 wounds remaining, subtract 5 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll}."
+      ]
+    },
+    "invulnerable": "*",
+    "damaged": null,
+    "stats": {
+      "m": "8\"",
+      "t": "13",
+      "sv": "2+",
+      "w": "24",
+      "ld": "6+",
+      "oc": "10"
+    },
+    "footnotes": {
+      "footnotes": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+    },
+    "wargear": [
+      {
+        "name": "WARGEAR OPTIONS",
+        "values": [
+          "■",
+          "This model’s brimstone volcano lance and ectoplasma decimator can be replaced with 1 darkflame",
+          "cannon and 1 warpshock harpoon.",
+          "■",
+          "This model’s 2 gheiststrike missile launchers and twin desecrator cannon can be replaced with 1",
+          "gheiststrike missile launcher and 2 twin desecrator cannons."
+        ]
+      },
+      {
+        "name": "UNIT COMPOSITION",
+        "values": [
+          "■",
+          "1 Knight Tyrant",
+          "This model is equipped with:",
+          "brimstone volcano lance;",
+          "ectoplasma decimator; 2 gheiststrike missile launchers;",
+          "2 twin daemonbreath meltaguns; twin desecrator cannon;",
+          "titanic feet.",
+          "KNIGHT TYRANT",
+          "So massive that they loom over other Chaos Knights, Knights Tyrant",
+          "are walking bastions of corruption. They carry some of the heaviest",
+          "armaments available to the Fallen houses. Their pilots delight in",
+          "unleashing the deadly potential of these weapons, shrugging off the",
+          "enemy’s attacks with contemptuous ease."
+        ]
+      }
+    ]
+  }
+]

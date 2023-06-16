@@ -47,19 +47,15 @@
       "special": [
         {
           "name": "Ancestral Fortune",
-          "text": "Once per turn, you can change one Hit roll, one Wound roll or one Damage roll made for this model to a 6."
+          "text": "Once per turn, you can change one Hit roll, one Wound roll or one Damage roll made for this model to a 6"
         },
         {
           "name": "The Destined",
-          "text": "Each time an attack is allocated to this model, change the Damage characteristic of that attack to 1."
+          "text": "Each time an attack is allocated to this model, change the Damage characteristic of that attack to 1"
         },
         {
           "name": "Grim Efficiency",
-          "text": "Once per battle round, in your Command phase, you can select one model from your army with this ability, then select one enemy unit that is visible to that model."
-        },
-        {
-          "name": "That enemy unit gains 1 Judgement token.",
-          "text": ""
+          "text": "Once per battle round, in your Command phase, you can select one model from your army with this ability, then select one enemy unit that is visible to that model. That enemy unit gains 1 Judgement token"
         }
       ]
     },
@@ -69,7 +65,7 @@
       "special": [
         {
           "name": "Rampart Crest",
-          "text": "While the bearer is leading a unit, models in that unit have a 5+ invulnerable save."
+          "text": "While the bearer is leading a unit, models in that unit have a 5+ invulnerable save"
         }
       ]
     },
@@ -185,15 +181,11 @@
       "special": [
         {
           "name": "Kindred Hero",
-          "text": "While this model is leading a unit, weapons equipped by models in that unit have the [LETHAL HITS] ability."
+          "text": "While this model is leading a unit, weapons equipped by models in that unit have the [LETHAL HITS] ability"
         },
         {
           "name": "Grim Efficiency",
-          "text": "Once per battle round, in your Command phase, you can select one model from your army with this ability, then select one enemy unit that is visible to that model."
-        },
-        {
-          "name": "That enemy unit gains 1 Judgement token.",
-          "text": ""
+          "text": "Once per battle round, in your Command phase, you can select one model from your army with this ability, then select one enemy unit that is visible to that model. That enemy unit gains 1 Judgement token"
         }
       ]
     },
@@ -203,11 +195,11 @@
       "special": [
         {
           "name": "Rampart Crest",
-          "text": "While this model is leading a unit, models in that unit have a 5+ invulnerable save."
+          "text": "While this model is leading a unit, models in that unit have a 5+ invulnerable save"
         },
         {
           "name": "Teleport Crest",
-          "text": "While this model is leading a unit, models in that unit have the Deep Strike ability."
+          "text": "While this model is leading a unit, models in that unit have the Deep Strike ability"
         }
       ]
     },
@@ -318,11 +310,11 @@
       "special": [
         {
           "name": "Exemplar of the Einhyr",
-          "text": "While this model is leading a unit, you can re-roll Charge rolls made for that unit."
+          "text": "While this model is leading a unit, you can re-roll Charge rolls made for that unit"
         },
         {
           "name": "Mass Driver Accelerators",
-          "text": "Each time this model ends a Charge move, you can select one enemy unit within Engagement Range of this unit and roll one D6: on a 2-5, that enemy unit suffers D3 mortal wounds; on a 6, that enemy unit suffers D3+3 mortal wounds."
+          "text": "Each time this model ends a Charge move, you can select one enemy unit within Engagement Range of this unit and roll one D6: on a 2-5, that enemy unit suffers D3 mortal wounds; on a 6, that enemy unit suffers D3+3 mortal wounds"
         }
       ]
     },
@@ -332,11 +324,11 @@
       "special": [
         {
           "name": "Teleport Crest",
-          "text": "While the bearer is leading a unit, models in that unit have the Deep Strike ability."
+          "text": "While the bearer is leading a unit, models in that unit have the Deep Strike ability"
         },
         {
           "name": "Weavefield Crest",
-          "text": "The bearer has a 4+ invulnerable save."
+          "text": "The bearer has a 4+ invulnerable save"
         }
       ]
     },
@@ -392,8 +384,20 @@
     "name": "GRIMNYR",
     "subtype": "KEYWORDS",
     "keywords": [
-      "Infantry",
-      "Grimnyr"
+      {
+        "keywordGroup": "KEYWORDS - ALL MODELS",
+        "value": [
+          "Infantry",
+          "Grimnyr"
+        ]
+      },
+      {
+        "keywordGroup": "GRIMNYR",
+        "value": [
+          "Character",
+          "Psyker"
+        ]
+      }
     ],
     "weapons": {
       "ranged": [
@@ -459,14 +463,14 @@
       "special": [
         {
           "name": "Fortify (Psychic)",
-          "text": "While this model is leading a unit, improve the Toughness characteristic of models in that unit by 1."
+          "text": "While this model is leading a unit, improve the Toughness characteristic of models in that unit by 1"
         },
         {
           "name": "Grimnyr's Regard",
-          "text": "Once per battle, after this model's unit fails a Battle-shock test, this model can use this ability."
+          "text": "Once per battle, after this model's unit fails a Battle-shock test, this model can use this ability"
         },
         {
-          "name": "If it does, that unit is no longer Battle-shocked.",
+          "name": "If it does, that unit is no longer Battle-shocked",
           "text": ""
         }
       ]
@@ -474,14 +478,26 @@
     "wargearAbilities": [],
     "invulnerable": "4+",
     "damaged": null,
-    "stats": {
-      "m": "5\"",
-      "t": "5",
-      "sv": "4+",
-      "w": "4",
-      "ld": "6+",
-      "oc": "1"
-    },
+    "stats": [
+      {
+        "name": "GRIMNYR",
+        "m": "5\"",
+        "t": "5",
+        "sv": "4+",
+        "w": "4",
+        "ld": "6+",
+        "oc": "1"
+      },
+      {
+        "name": "CORV",
+        "m": "5\"",
+        "t": "5",
+        "sv": "4+",
+        "w": "1",
+        "ld": "6+",
+        "oc": "1"
+      }
+    ],
     "footnotes": {
       "footnotes": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
     },
@@ -537,8 +553,19 @@
     "name": "BRÔKHYR IRON-MASTER",
     "subtype": "KEYWORDS",
     "keywords": [
-      "Infantry",
-      "Brôkhyr Iron-master |"
+      {
+        "keywordGroup": "KEYWORDS - ALL MODELS",
+        "value": [
+          "Infantry",
+          "Brôkhyr Iron-master"
+        ]
+      },
+      {
+        "keywordGroup": "BRÔKHYR IRON-MASTER",
+        "value": [
+          "Character"
+        ]
+      }
     ],
     "weapons": {
       "ranged": [
@@ -622,33 +649,46 @@
       "special": [
         {
           "name": "Multispectral Visor",
-          "text": "While this model is leading a unit, each time a model in that unit makes a ranged attack, add 1 to the Hit roll."
+          "text": "While this model is leading a unit, each time a model in that unit makes a ranged attack, add 1 to the Hit roll"
         },
         {
           "name": "Brôkhyr's Guild",
-          "text": "At the end of your Movement phase, this unit can repair one friendly Leagues of Votann Vehicle or Exo-frame model within 3\" of it."
-        },
-        {
-          "name": "That model regains up to D3 lost wounds, or up to 3 lost wounds instead if this unit contains an Ironkyn Assistant.",
-          "text": ""
-        },
-        {
-          "name": "Each model can only be repaired once per turn.",
-          "text": ""
+          "text": "At the end of your Movement phase, this unit can repair one friendly Leagues of Votann Vehicle or Exo-frame model within 3\" of it. That model regains up to D3 lost wounds, or up to 3 lost wounds instead if this unit contains an Ironkyn Assistant. Each model can only be repaired once per turn"
         }
       ]
     },
     "wargearAbilities": [],
     "invulnerable": "",
     "damaged": null,
-    "stats": {
-      "m": "M",
-      "t": "T",
-      "sv": "SV",
-      "w": "W",
-      "ld": "LD",
-      "oc": "OC"
-    },
+    "stats": [
+      {
+        "name": "BRÔKHYR IRON-MASTER",
+        "m": "5\"",
+        "t": "5",
+        "sv": "4+",
+        "w": "4",
+        "ld": "7+",
+        "oc": "1"
+      },
+      {
+        "name": "IRONKIN ASSISTANT",
+        "m": "5\"",
+        "t": "5",
+        "sv": "5",
+        "w": "2",
+        "ld": "7+",
+        "oc": "1"
+      },
+      {
+        "name": "E-COG",
+        "m": "5\"",
+        "t": "5",
+        "sv": "4+",
+        "w": "1",
+        "ld": "7+",
+        "oc": "1"
+      }
+    ],
     "wargear": [
       {
         "name": "WARGEAR OPTIONS",
@@ -851,15 +891,15 @@
       "special": [
         {
           "name": "FACTION",
-          "text": "Eye of the Ancestors Luck Has."
+          "text": "Eye of the Ancestors Luck Has"
         },
         {
-          "name": "Need Keeps.",
+          "name": "Need Keeps",
           "text": ""
         },
         {
           "name": "Toil Earns",
-          "text": "At the end of your Command phase, if this unit is within range of an objective marker you control, that objective marker remains under your control, even if you have no models within range of it, until your opponent controls it at the start or end of any turn."
+          "text": "At the end of your Command phase, if this unit is within range of an objective marker you control, that objective marker remains under your control, even if you have no models within range of it, until your opponent controls it at the start or end of any turn"
         }
       ]
     },
@@ -869,19 +909,19 @@
       "special": [
         {
           "name": "Pan Spectral Scanner",
-          "text": "Ranged weapons equipped by models in the bearer's unit have the [IGNORES COVER] ability."
+          "text": "Ranged weapons equipped by models in the bearer's unit have the [IGNORES COVER] ability"
         },
         {
           "name": "Comms Array",
-          "text": "Each time you target the bearer's unit with a Stratagem, roll one D6: on a 5+, you gain 1CP."
+          "text": "Each time you target the bearer's unit with a Stratagem, roll one D6: on a 5+, you gain 1CP"
         },
         {
           "name": "Medipack",
-          "text": "Models in the bearer's unit have the Feel No Pain 6+ ability."
+          "text": "Models in the bearer's unit have the Feel No Pain 6+ ability"
         },
         {
           "name": "Weavefield Crest",
-          "text": "The bearer has a 4+ invulnerable save."
+          "text": "The bearer has a 4+ invulnerable save"
         }
       ]
     },
@@ -1049,7 +1089,7 @@
       "special": [
         {
           "name": "FACTION",
-          "text": "Eye of the Ancestors Oathband Bodyguard: While a Character is leading this unit, each time an attack targets this unit, if the Strength characteristic of that attack is greater than this unit's Toughness characteristic, subtract 1 from the Wound roll."
+          "text": "Eye of the Ancestors Oathband Bodyguard: While a Character is leading this unit, each time an attack targets this unit, if the Strength characteristic of that attack is greater than this unit's Toughness characteristic, subtract 1 from the Wound roll"
         }
       ]
     },
@@ -1059,11 +1099,11 @@
       "special": [
         {
           "name": "Teleport Crest",
-          "text": "Models in the bearer's unit have the Deep Strike ability."
+          "text": "Models in the bearer's unit have the Deep Strike ability"
         },
         {
           "name": "Weavefield Crest",
-          "text": "The bearer has a 4+ invulnerable save."
+          "text": "The bearer has a 4+ invulnerable save"
         }
       ]
     },
@@ -1188,27 +1228,27 @@
       "special": [
         {
           "name": "Cyberstimms",
-          "text": "Each time a model in this unit is destroyed by a melee attack, if that model has not fought this phase, roll one D6: on a 4+, do not remove it from play."
+          "text": "Each time a model in this unit is destroyed by a melee attack, if that model has not fought this phase, roll one D6: on a 4+, do not remove it from play"
         },
         {
-          "name": "The destroyed model can fight after the attacking model's unit has finished making its attacks, and is then removed from play.",
+          "name": "The destroyed model can fight after the attacking model's unit has finished making its attacks, and is then removed from play",
           "text": ""
         },
         {
           "name": "Subterranean Explosives",
-          "text": "In your Shooting phase, after this unit has shot, select one enemy unit (excluding Monsters and Vehicles ) that was hit by one or more of this unit's mole grenade launchers this phase and roll one D6."
+          "text": "In your Shooting phase, after this unit has shot, select one enemy unit (excluding Monsters and Vehicles ) that was hit by one or more of this unit's mole grenade launchers this phase and roll one D6"
         },
         {
-          "name": "On a 4+, until the end of your opponent's next turn, that enemy unit is shaken.",
+          "name": "On a 4+, until the end of your opponent's next turn, that enemy unit is shaken",
           "text": ""
         },
         {
-          "name": "While a unit is shaken, subtract 2\" from its Move characteristic and subtract 2 from Advance and Charge rolls made for it.",
+          "name": "While a unit is shaken, subtract 2\" from its Move characteristic and subtract 2 from Advance and Charge rolls made for it",
           "text": ""
         },
         {
           "name": "Designer's Note",
-          "text": "While a unit is shaken, place a Mole Grenade token next to that unit as a reminder."
+          "text": "While a unit is shaken, place a Mole Grenade token next to that unit as a reminder"
         }
       ]
     },
@@ -1347,7 +1387,7 @@
       "special": [
         {
           "name": "Outflanking Mag-Riders",
-          "text": "At the end of your opponent's turn, if this unit is within 6\" of any battlefield edge and is not within Engagement Range of any enemy units, you can remove this unit from the battlefield and place it into Strategic Reserves."
+          "text": "At the end of your opponent's turn, if this unit is within 6\" of any battlefield edge and is not within Engagement Range of any enemy units, you can remove this unit from the battlefield and place it into Strategic Reserves"
         }
       ]
     },
@@ -1357,15 +1397,15 @@
       "special": [
         {
           "name": "Comms Array",
-          "text": "Each time you target the bearer's unit with a Stratagem, roll one D6: on a 5+, you gain 1CP."
+          "text": "Each time you target the bearer's unit with a Stratagem, roll one D6: on a 5+, you gain 1CP"
         },
         {
           "name": "Pan Spectral Scanner",
-          "text": "Ranged weapons equipped by models in the bearer's unit have the [IGNORES COVER] ability."
+          "text": "Ranged weapons equipped by models in the bearer's unit have the [IGNORES COVER] ability"
         },
         {
           "name": "Rollbar Searchlight",
-          "text": "Each time a model in the bearer's unit makes an attack that targets a unit that contains one or more models with the Stealth ability, add 1 to the Hit roll."
+          "text": "Each time a model in the bearer's unit makes an attack that targets a unit that contains one or more models with the Stealth ability, add 1 to the Hit roll"
         }
       ]
     },
@@ -1514,10 +1554,10 @@
       "special": [
         {
           "name": "Blistering Advance",
-          "text": "Units can disembark from this Transport after it has Advanced."
+          "text": "Units can disembark from this Transport after it has Advanced"
         },
         {
-          "name": "Units that do so count as having made a Normal move that phase, and cannot declare a charge in the same turn, but can otherwise act normally in the remainder of the turn.",
+          "name": "Units that do so count as having made a Normal move that phase, and cannot declare a charge in the same turn, but can otherwise act normally in the remainder of the turn",
           "text": ""
         }
       ]
@@ -1659,7 +1699,7 @@
       "special": [
         {
           "name": "FACTION",
-          "text": "Eye of the Ancestors Oathband Covering Fire: Each time you target this unit with the Fire Overwatch Stratagem, hits are scored on unmodified Hit rolls of 5+ when resolving that Stratagem."
+          "text": "Eye of the Ancestors Oathband Covering Fire: Each time you target this unit with the Fire Overwatch Stratagem, hits are scored on unmodified Hit rolls of 5+ when resolving that Stratagem"
         }
       ]
     },
@@ -1810,7 +1850,7 @@
       "special": [
         {
           "name": "Fire Support",
-          "text": "In your Shooting phase, after this model has shot, select one enemy unit it scored one or more hits against this phase. Until the end of the phase, each time a friendly model that disembarked from this Transport this turn makes an attack that targets that enemy unit, you can re-roll the Wound roll."
+          "text": "In your Shooting phase, after this model has shot, select one enemy unit it scored one or more hits against this phase. Until the end of the phase, each time a friendly model that disembarked from this Transport this turn makes an attack that targets that enemy unit, you can re-roll the Wound roll"
         }
       ]
     },
@@ -1820,11 +1860,11 @@
       "special": [
         {
           "name": "Pan spectral scanner",
-          "text": "R anged weapons equipped by the bearer have the [IGNORES COVER] ability."
+          "text": "R anged weapons equipped by the bearer have the [IGNORES COVER] ability"
         },
         {
           "name": "DAMAGED",
-          "text": "1-5 WOUNDS REMAINING While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
+          "text": "1-5 WOUNDS REMAINING While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll"
         }
       ]
     },

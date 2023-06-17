@@ -4524,7 +4524,7 @@
     "id": "40k-index-tau-empire-62",
     "points": [
       { "per": "1 model", "points": 85},
-      { "per": "Tidewall Defence Platform", "points": "+20"}
+      { "per": "Tidewall Defence Platform", "points": 20}
     ],
     "name": "TIDEWALL SHIELDLINE",
     "subtype": "",

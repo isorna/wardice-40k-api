@@ -2,7 +2,7 @@
   {
     "id": "40k-index-necrons-0",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 105}
     ],
     "name": "IMOTEKH THE STORMLORD",
     "subtype": "",
@@ -110,7 +110,7 @@
   {
     "id": "40k-index-necrons-2",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 80}
     ],
     "name": "ORIKAN THE DIVINER",
     "subtype": "",
@@ -207,7 +207,7 @@
   {
     "id": "40k-index-necrons-4",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 95}
     ],
     "name": "ANRAKYR THE TRAVELLER",
     "subtype": "",
@@ -306,7 +306,7 @@
   {
     "id": "40k-index-necrons-6",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 85}
     ],
     "name": "VARGARD OBYRON",
     "subtype": "",
@@ -398,7 +398,7 @@
   {
     "id": "40k-index-necrons-8",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 220}
     ],
     "name": "ILLUMINOR SZERAS",
     "subtype": "",
@@ -493,7 +493,7 @@
   {
     "id": "40k-index-necrons-10",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 85}
     ],
     "name": "NEMESOR ZAHNDREKH",
     "subtype": "",
@@ -590,7 +590,7 @@
   {
     "id": "40k-index-necrons-12",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 75}
     ],
     "name": "TRAZYN THE INFINITE",
     "subtype": "",
@@ -678,7 +678,7 @@
   {
     "id": "40k-index-necrons-14",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 40}
     ],
     "name": "ROYAL WARDEN",
     "subtype": "",
@@ -772,7 +772,7 @@
   {
     "id": "40k-index-necrons-16",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 115}
     ],
     "name": "SKORPEKH LORD",
     "subtype": "",
@@ -872,7 +872,7 @@
   {
     "id": "40k-index-necrons-18",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 85}
     ],
     "name": "LOKHUST LORD",
     "subtype": "",
@@ -982,7 +982,7 @@
   {
     "id": "40k-index-necrons-20",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 65}
     ],
     "name": "LORD",
     "subtype": "",
@@ -1089,7 +1089,7 @@
   {
     "id": "40k-index-necrons-22",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 150}
     ],
     "name": "CATACOMB COMMAND BARGE",
     "subtype": "",
@@ -1204,7 +1204,7 @@
   {
     "id": "40k-index-necrons-24",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 85}
     ],
     "name": "OVERLORD",
     "subtype": "",
@@ -1339,7 +1339,7 @@
   {
     "id": "40k-index-necrons-26",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 60}
     ],
     "name": "TECHNOMANCER",
     "subtype": "",
@@ -1447,7 +1447,7 @@
   {
     "id": "40k-index-necrons-28",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 50}
     ],
     "name": "PSYCHOMANCER",
     "subtype": "",
@@ -1552,7 +1552,7 @@
   {
     "id": "40k-index-necrons-30",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 50}
     ],
     "name": "CHRONOMANCER",
     "subtype": "",
@@ -1656,7 +1656,7 @@
   {
     "id": "40k-index-necrons-32",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 55}
     ],
     "name": "PLASMANCER",
     "subtype": "",
@@ -1760,7 +1760,8 @@
   {
     "id": "40k-index-necrons-34",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "10 models", "points": 120},
+      { "per": "20 models", "points": 240}
     ],
     "name": "NECRON WARRIORS",
     "subtype": "",
@@ -1851,7 +1852,8 @@
   {
     "id": "40k-index-necrons-36",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 70},
+      { "per": "10 models", "points": 140}
     ],
     "name": "IMMORTALS",
     "subtype": "",
@@ -1943,7 +1945,7 @@
   {
     "id": "40k-index-necrons-38",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 95}
     ],
     "name": "CANOPTEK REANIMATOR",
     "subtype": "",
@@ -2026,7 +2028,7 @@
   {
     "id": "40k-index-necrons-40",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 70}
     ],
     "name": "HEXMARK DESTROYER",
     "subtype": "",
@@ -2110,7 +2112,8 @@
   {
     "id": "40k-index-necrons-42",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 95},
+      { "per": "10 models", "points": 190}
     ],
     "name": "LYCHGUARD",
     "subtype": "",
@@ -2191,7 +2194,8 @@
   {
     "id": "40k-index-necrons-44",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 65},
+      { "per": "10 models", "points": 130}
     ],
     "name": "DEATHMARKS",
     "subtype": "",
@@ -2272,7 +2276,8 @@
   {
     "id": "40k-index-necrons-46",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 70},
+      { "per": "10 models", "points": 140}
     ],
     "name": "FLAYED ONES",
     "subtype": "",
@@ -2342,7 +2347,7 @@
   {
     "id": "40k-index-necrons-48",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "2 models", "points": 40}
     ],
     "name": "CRYPTOTHRALLS",
     "subtype": "",
@@ -2434,7 +2439,8 @@
   {
     "id": "40k-index-necrons-50",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "3 models", "points": 110},
+      { "per": "6 models", "points": 220}
     ],
     "name": "SKORPEKH DESTROYERS",
     "subtype": "",
@@ -2508,7 +2514,7 @@
   {
     "id": "40k-index-necrons-52",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 125}
     ],
     "name": "TRIARCH STALKER",
     "subtype": "",
@@ -2623,7 +2629,7 @@
   {
     "id": "40k-index-necrons-54",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 265}
     ],
     "name": "C’TAN SHARD OF THE DECEIVER",
     "subtype": "",
@@ -2713,7 +2719,7 @@
   {
     "id": "40k-index-necrons-56",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 255}
     ],
     "name": "C’TAN SHARD OF THE NIGHTBRINGER",
     "subtype": "",
@@ -2813,7 +2819,7 @@
   {
     "id": "40k-index-necrons-58",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 270}
     ],
     "name": "C’TAN SHARD OF THE VOID DRAGON",
     "subtype": "",
@@ -2932,7 +2938,7 @@
   {
     "id": "40k-index-necrons-60",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 280}
     ],
     "name": "TRANSCENDENT C’TAN",
     "subtype": "",
@@ -3020,7 +3026,8 @@
   {
     "id": "40k-index-necrons-62",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 75},
+      { "per": "2 models", "points": 150}
     ],
     "name": "CANOPTEK SPYDERS",
     "subtype": "",
@@ -3109,7 +3116,8 @@
   {
     "id": "40k-index-necrons-64",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "3 models", "points": 40},
+      { "per": "6 models", "points": 80}
     ],
     "name": "CANOPTEK SCARAB SWARMS",
     "subtype": "",
@@ -3184,7 +3192,8 @@
   {
     "id": "40k-index-necrons-66",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "3 models", "points": 110},
+      { "per": "6 models", "points": 220}
     ],
     "name": "OPHYDIAN DESTROYERS",
     "subtype": "",
@@ -3258,7 +3267,8 @@
   {
     "id": "40k-index-necrons-68",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "3 models", "points": 80},
+      { "per": "6 models", "points": 160}
     ],
     "name": "TOMB BLADES",
     "subtype": "",
@@ -3373,7 +3383,8 @@
   {
     "id": "40k-index-necrons-70",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 135},
+      { "per": "10 models", "points": 270}
     ],
     "name": "TRIARCH PRAETORIANS",
     "subtype": "",
@@ -3473,7 +3484,8 @@
   {
     "id": "40k-index-necrons-72",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "3 models", "points": 110},
+      { "per": "6 models", "points": 220}
     ],
     "name": "CANOPTEK WRAITHS",
     "subtype": "",
@@ -3579,7 +3591,7 @@
   {
     "id": "40k-index-necrons-74",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 115}
     ],
     "name": "ANNIHILATION BARGE",
     "subtype": "",
@@ -3680,7 +3692,7 @@
   {
     "id": "40k-index-necrons-76",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 185}
     ],
     "name": "DOOMSDAY ARK",
     "subtype": "",
@@ -3772,7 +3784,10 @@
   {
     "id": "40k-index-necrons-78",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 30},
+      { "per": "2 models", "points": 60},
+      { "per": "3 models", "points": 90},
+      { "per": "6 models", "points": 180}
     ],
     "name": "LOKHUST DESTROYERS",
     "subtype": "",
@@ -3854,7 +3869,9 @@
   {
     "id": "40k-index-necrons-80",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 45},
+      { "per": "2 models", "points": 90},
+      { "per": "3 models", "points": 135}
     ],
     "name": "LOKHUST HEAVY DESTROYERS",
     "subtype": "",
@@ -3946,7 +3963,7 @@
   {
     "id": "40k-index-necrons-82",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 125}
     ],
     "name": "CANOPTEK DOOMSTALKER",
     "subtype": "",
@@ -4039,7 +4056,7 @@
   {
     "id": "40k-index-necrons-84",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 125}
     ],
     "name": "GHOST ARK",
     "subtype": "",
@@ -4135,7 +4152,7 @@
   {
     "id": "40k-index-necrons-86",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 225}
     ],
     "name": "DOOM SCYTHE",
     "subtype": "",
@@ -4230,7 +4247,7 @@
   {
     "id": "40k-index-necrons-88",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 145}
     ],
     "name": "NIGHT SCYTHE",
     "subtype": "",
@@ -4326,7 +4343,7 @@
   {
     "id": "40k-index-necrons-90",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 325}
     ],
     "name": "OBELISK",
     "subtype": "",
@@ -4411,7 +4428,7 @@
   {
     "id": "40k-index-necrons-92",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 425}
     ],
     "name": "TESSERACT VAULT",
     "subtype": "",
@@ -4531,7 +4548,7 @@
   {
     "id": "40k-index-necrons-94",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 385}
     ],
     "name": "MONOLITH",
     "subtype": "",
@@ -4636,7 +4653,7 @@
   {
     "id": "40k-index-necrons-96",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "3 models", "points": 470}
     ],
     "name": "THE SILENT KING",
     "subtype": "",
@@ -4777,7 +4794,7 @@
   {
     "id": "40k-index-necrons-98",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "3 models", "points": 255}
     ],
     "name": "CONVERGENCE OF DOMINION",
     "subtype": "",

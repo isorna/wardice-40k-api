@@ -2,7 +2,7 @@
   {
     "id": "40k-index-dark-angels-0",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 120}
     ],
     "name": "AZRAEL",
     "subtype": "",
@@ -111,7 +111,7 @@
   {
     "id": "40k-index-dark-angels-2",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 100}
     ],
     "name": "BELIAL",
     "subtype": "",
@@ -217,7 +217,7 @@
   {
     "id": "40k-index-dark-angels-4",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 145}
     ],
     "name": "SAMMAEL",
     "subtype": "",
@@ -339,7 +339,7 @@
   {
     "id": "40k-index-dark-angels-6",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 80}
     ],
     "name": "EZEKIEL",
     "subtype": "",
@@ -468,7 +468,7 @@
   {
     "id": "40k-index-dark-angels-8",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 70}
     ],
     "name": "ASMODAI",
     "subtype": "",
@@ -579,7 +579,7 @@
   {
     "id": "40k-index-dark-angels-10",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 115}
     ],
     "name": "RAVENWING TALONMASTER",
     "subtype": "",
@@ -675,7 +675,7 @@
   {
     "id": "40k-index-dark-angels-12",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 80}
     ],
     "name": "LAZARUS",
     "subtype": "",
@@ -779,7 +779,7 @@
   {
     "id": "40k-index-dark-angels-14",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 90}
     ],
     "name": "DEATHWING STRIKEMASTER",
     "subtype": "",
@@ -947,7 +947,8 @@
   {
     "id": "40k-index-dark-angels-16",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 215},
+      { "per": "10 models", "points": 430}
     ],
     "name": "DEATHWING COMMAND SQUAD",
     "subtype": "",
@@ -1182,7 +1183,8 @@
   {
     "id": "40k-index-dark-angels-18",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 205},
+      { "per": "10 models", "points": 410}
     ],
     "name": "DEATHWING TERMINATOR SQUAD",
     "subtype": "",
@@ -1397,7 +1399,8 @@
   {
     "id": "40k-index-dark-angels-20",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 235},
+      { "per": "10 models", "points": 470}
     ],
     "name": "DEATHWING KNIGHTS",
     "subtype": "",
@@ -1494,7 +1497,8 @@
   {
     "id": "40k-index-dark-angels-22",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "3 models", "points": 145},
+      { "per": "6 models", "points": 290}
     ],
     "name": "RAVENWING COMMAND SQUAD",
     "subtype": "",
@@ -1652,7 +1656,8 @@
   {
     "id": "40k-index-dark-angels-24",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "3 models", "points": 115},
+      { "per": "6 models", "points": 230}
     ],
     "name": "RAVENWING BLACK KNIGHTS",
     "subtype": "",
@@ -1786,7 +1791,7 @@
   {
     "id": "40k-index-dark-angels-26",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 125}
     ],
     "name": "RAVENWING DARKSHROUD",
     "subtype": "",
@@ -1879,7 +1884,7 @@
   {
     "id": "40k-index-dark-angels-28",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 160}
     ],
     "name": "RAVENWING LAND SPEEDER VENGEANCE",
     "subtype": "",
@@ -1994,7 +1999,7 @@
   {
     "id": "40k-index-dark-angels-30",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 210}
     ],
     "name": "RAVENWING DARK TALON",
     "subtype": "",
@@ -2093,7 +2098,7 @@
   {
     "id": "40k-index-dark-angels-32",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 195}
     ],
     "name": "NEPHILIM JETFIGHTER",
     "subtype": "",
@@ -2210,7 +2215,7 @@
   {
     "id": "40k-index-dark-angels-34",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 380}
     ],
     "name": "LION EL’JONSON",
     "subtype": "",

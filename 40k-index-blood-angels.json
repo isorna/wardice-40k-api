@@ -2,7 +2,7 @@
   {
     "id": "40k-index-blood-angels-0",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 100}
     ],
     "name": "ASTORATH",
     "subtype": "",
@@ -100,7 +100,7 @@
   {
     "id": "40k-index-blood-angels-2",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 125}
     ],
     "name": "BAAL PREDATOR",
     "subtype": "",
@@ -244,7 +244,7 @@
   {
     "id": "40k-index-blood-angels-4",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 75}
     ],
     "name": "BROTHER CORBULO",
     "subtype": "",
@@ -344,7 +344,7 @@
   {
     "id": "40k-index-blood-angels-6",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 75}
     ],
     "name": "CAPTAIN TYCHO",
     "subtype": "",
@@ -461,7 +461,7 @@
   {
     "id": "40k-index-blood-angels-8",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 120}
     ],
     "name": "CHIEF LIBRARIAN MEPHISTON",
     "subtype": "",
@@ -592,7 +592,7 @@
   {
     "id": "40k-index-blood-angels-10",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 135}
     ],
     "name": "COMMANDER DANTE",
     "subtype": "",
@@ -690,7 +690,7 @@
   {
     "id": "40k-index-blood-angels-12",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 195}
     ],
     "name": "DEATH COMPANY DREADNOUGHT",
     "subtype": "",
@@ -811,7 +811,8 @@
   {
     "id": "40k-index-blood-angels-14",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 90},
+      { "per": "10 models", "points": 180}
     ],
     "name": "DEATH COMPANY INTERCESSORS",
     "subtype": "",
@@ -1025,7 +1026,8 @@
   {
     "id": "40k-index-blood-angels-16",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 130},
+      { "per": "10 models", "points": 260}
     ],
     "name": "DEATH COMPANY MARINES",
     "subtype": "",
@@ -1221,7 +1223,8 @@
   {
     "id": "40k-index-blood-angels-18",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 155},
+      { "per": "10 models", "points": 310}
     ],
     "name": "DEATH COMPANY MARINES",
     "subtype": "WITH JUMP PACKS",
@@ -1418,7 +1421,7 @@
   {
     "id": "40k-index-blood-angels-20",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 165}
     ],
     "name": "FURIOSO DREADNOUGHT",
     "subtype": "",
@@ -1558,7 +1561,7 @@
   {
     "id": "40k-index-blood-angels-22",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 110}
     ],
     "name": "GABRIEL SETH",
     "subtype": "",
@@ -1665,7 +1668,7 @@
   {
     "id": "40k-index-blood-angels-24",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 135}
     ],
     "name": "LEMARTES",
     "subtype": "",
@@ -1760,7 +1763,7 @@
   {
     "id": "40k-index-blood-angels-26",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 185}
     ],
     "name": "LIBRARIAN DREADNOUGHT",
     "subtype": "",
@@ -1899,7 +1902,8 @@
   {
     "id": "40k-index-blood-angels-28",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 215},
+      { "per": "10 models", "points": 430}
     ],
     "name": "SANGUINARY GUARD",
     "subtype": "",
@@ -2042,7 +2046,7 @@
   {
     "id": "40k-index-blood-angels-30",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 100}
     ],
     "name": "SANGUINARY PRIEST",
     "subtype": "",
@@ -2152,7 +2156,7 @@
   {
     "id": "40k-index-blood-angels-32",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 160}
     ],
     "name": "THE SANGUINOR",
     "subtype": "",
@@ -2230,7 +2234,7 @@
   {
     "id": "40k-index-blood-angels-34",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 90}
     ],
     "name": "TYCHO THE LOST",
     "subtype": "",
@@ -2344,7 +2348,7 @@
   {
     "id": "40k-index-blood-angels-36",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 110}
     ],
     "name": "SANGUINARY PRIEST",
     "subtype": "WITH JUMP PACK",

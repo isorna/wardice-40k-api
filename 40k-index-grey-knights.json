@@ -2,7 +2,7 @@
   {
     "id": "40k-index-grey-knights-0",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 155}
     ],
     "name": "KALDOR DRAIGO",
     "subtype": "",
@@ -106,7 +106,7 @@
   {
     "id": "40k-index-grey-knights-2",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 115}
     ],
     "name": "GRAND MASTER VOLDUS",
     "subtype": "",
@@ -202,7 +202,7 @@
   {
     "id": "40k-index-grey-knights-4",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 115}
     ],
     "name": "GRAND MASTER",
     "subtype": "",
@@ -331,7 +331,7 @@
   {
     "id": "40k-index-grey-knights-6",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 245}
     ],
     "name": "GRAND MASTER",
     "subtype": "IN NEMESIS DREADKNIGHT",
@@ -478,7 +478,7 @@
   {
     "id": "40k-index-grey-knights-8",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 95}
     ],
     "name": "CASTELLAN CROWE",
     "subtype": "",
@@ -581,7 +581,7 @@
   {
     "id": "40k-index-grey-knights-10",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 110}
     ],
     "name": "BROTHER-CAPTAIN STERN",
     "subtype": "",
@@ -679,7 +679,7 @@
   {
     "id": "40k-index-grey-knights-12",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 95}
     ],
     "name": "BROTHER-CAPTAIN",
     "subtype": "",
@@ -807,7 +807,7 @@
   {
     "id": "40k-index-grey-knights-14",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 85}
     ],
     "name": "BROTHERHOOD CHAMPION",
     "subtype": "",
@@ -902,7 +902,7 @@
   {
     "id": "40k-index-grey-knights-16",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 110}
     ],
     "name": "BROTHERHOOD LIBRARIAN",
     "subtype": "",
@@ -1031,7 +1031,7 @@
   {
     "id": "40k-index-grey-knights-18",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 85}
     ],
     "name": "BROTHERHOOD TECHMARINE",
     "subtype": "",
@@ -1176,7 +1176,7 @@
   {
     "id": "40k-index-grey-knights-20",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 90}
     ],
     "name": "BROTHERHOOD CHAPLAIN",
     "subtype": "",
@@ -1270,7 +1270,8 @@
   {
     "id": "40k-index-grey-knights-22",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 225},
+      { "per": "10 models", "points": 450}
     ],
     "name": "BROTHERHOOD TERMINATOR SQUAD",
     "subtype": "",
@@ -1398,7 +1399,8 @@
   {
     "id": "40k-index-grey-knights-24",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 135},
+      { "per": "10 models", "points": 270}
     ],
     "name": "STRIKE SQUAD",
     "subtype": "",
@@ -1528,7 +1530,8 @@
   {
     "id": "40k-index-grey-knights-26",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 255},
+      { "per": "10 models", "points": 510}
     ],
     "name": "PALADIN SQUAD",
     "subtype": "",
@@ -1659,7 +1662,8 @@
   {
     "id": "40k-index-grey-knights-28",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 150},
+      { "per": "10 models", "points": 300}
     ],
     "name": "PURIFIER SQUAD",
     "subtype": "",
@@ -1797,7 +1801,7 @@
   {
     "id": "40k-index-grey-knights-30",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "4 models", "points": 50}
     ],
     "name": "SERVITORS",
     "subtype": "",
@@ -1935,7 +1939,7 @@
   {
     "id": "40k-index-grey-knights-32",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 155}
     ],
     "name": "GREY KNIGHTS VENERABLE DREADNOUGHT",
     "subtype": "",
@@ -2115,7 +2119,8 @@
   {
     "id": "40k-index-grey-knights-34",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 160},
+      { "per": "10 models", "points": 320}
     ],
     "name": "INTERCEPTOR SQUAD",
     "subtype": "",
@@ -2246,7 +2251,8 @@
   {
     "id": "40k-index-grey-knights-36",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 165},
+      { "per": "10 models", "points": 275}
     ],
     "name": "PURGATION SQUAD",
     "subtype": "",
@@ -2375,7 +2381,7 @@
   {
     "id": "40k-index-grey-knights-38",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 215}
     ],
     "name": "NEMESIS DREADKNIGHT",
     "subtype": "",
@@ -2519,7 +2525,7 @@
   {
     "id": "40k-index-grey-knights-40",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 270}
     ],
     "name": "GREY KNIGHTS LAND RAIDER",
     "subtype": "",
@@ -2660,7 +2666,7 @@
   {
     "id": "40k-index-grey-knights-42",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 250}
     ],
     "name": "GREY KNIGHTS LAND RAIDER CRUSADER",
     "subtype": "",
@@ -2800,7 +2806,7 @@
   {
     "id": "40k-index-grey-knights-44",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 290}
     ],
     "name": "GREY KNIGHTS LAND RAIDER REDEEMER",
     "subtype": "",
@@ -2941,7 +2947,7 @@
   {
     "id": "40k-index-grey-knights-46",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 80}
     ],
     "name": "GREY KNIGHTS RHINO",
     "subtype": "",
@@ -3051,7 +3057,7 @@
   {
     "id": "40k-index-grey-knights-48",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 95}
     ],
     "name": "GREY KNIGHTS RAZORBACK",
     "subtype": "",
@@ -3194,7 +3200,7 @@
   {
     "id": "40k-index-grey-knights-50",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 160}
     ],
     "name": "GREY KNIGHTS STORMHAWK INTERCEPTOR",
     "subtype": "",
@@ -3344,7 +3350,7 @@
   {
     "id": "40k-index-grey-knights-52",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 170}
     ],
     "name": "GREY KNIGHTS STORMTALON GUNSHIP",
     "subtype": "",
@@ -3484,7 +3490,7 @@
   {
     "id": "40k-index-grey-knights-54",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 265}
     ],
     "name": "GREY KNIGHTS STORMRAVEN GUNSHIP",
     "subtype": "",

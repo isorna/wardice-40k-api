@@ -2,7 +2,7 @@
   {
     "id": "40k-index-black-templars-0",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "4 models", "points": 120}
     ],
     "name": "CHAPLAIN GRIMALDUS",
     "subtype": "",
@@ -168,7 +168,10 @@
   {
     "id": "40k-index-black-templars-2",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 Sword Brother and 4 Initiates", "points": 75},
+      { "per": "1 Sword Brother and 9 Initiates", "points": 145},
+      { "per": "1 Sword Brother, 4 Initiates and 5 Neophytes", "points": 145},
+      { "per": "1 Sword Brother, 9 Initiates and 10 Neophytes", "points": 290}
     ],
     "name": "CRUSADER SQUAD",
     "subtype": "",
@@ -454,7 +457,7 @@
   {
     "id": "40k-index-black-templars-4",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 105}
     ],
     "name": "HIGH MARSHAL HELBRECHT",
     "subtype": "",
@@ -568,7 +571,8 @@
   {
     "id": "40k-index-black-templars-6",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 Sword Brother, 5 Initiates and 4 Neophytes", "points": 160},
+      { "per": "1 Sword Brother, 11 Initiates and 8 Neophytes", "points": 320}
     ],
     "name": "PRIMARIS CRUSADER SQUAD",
     "subtype": "",
@@ -756,7 +760,8 @@
   {
     "id": "40k-index-black-templars-8",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 150},
+      { "per": "11 models", "points": 330}
     ],
     "name": "PRIMARIS SWORD BRETHREN",
     "subtype": "",
@@ -937,7 +942,7 @@
   {
     "id": "40k-index-black-templars-10",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 85}
     ],
     "name": "THE EMPEROR’S CHAMPION",
     "subtype": "",
@@ -1052,7 +1057,7 @@
   {
     "id": "40k-index-black-templars-12",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 70}
     ],
     "name": "CASTELLAN",
     "subtype": "",
@@ -1186,7 +1191,7 @@
   {
     "id": "40k-index-black-templars-14",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 75}
     ],
     "name": "MARSHAL",
     "subtype": "",
@@ -1313,7 +1318,7 @@
   {
     "id": "40k-index-black-templars-16",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 160}
     ],
     "name": "BLACK TEMPLARS GLADIATOR LANCER",
     "subtype": "",
@@ -1451,7 +1456,7 @@
   {
     "id": "40k-index-black-templars-18",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 175}
     ],
     "name": "BLACK TEMPLARS GLADIATOR REAPER",
     "subtype": "",
@@ -1578,7 +1583,7 @@
   {
     "id": "40k-index-black-templars-20",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 180}
     ],
     "name": "BLACK TEMPLARS GLADIATOR VALIANT",
     "subtype": "",
@@ -1696,7 +1701,7 @@
   {
     "id": "40k-index-black-templars-22",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 115}
     ],
     "name": "BLACK TEMPLARS IMPULSOR",
     "subtype": "",
@@ -1878,7 +1883,7 @@
   {
     "id": "40k-index-black-templars-24",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 220}
     ],
     "name": "BLACK TEMPLARS REPULSOR",
     "subtype": "",
@@ -2046,7 +2051,7 @@
   {
     "id": "40k-index-black-templars-26",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 245}
     ],
     "name": "BLACK TEMPLARS REPULSOR EXECUTIONER",
     "subtype": "",

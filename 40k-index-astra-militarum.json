@@ -2,7 +2,7 @@
   {
     "id": "40k-index-astra-militarum-0",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 125}
     ],
     "name": "LORD SOLAR LEONTUS",
     "subtype": "",
@@ -116,7 +116,7 @@
   {
     "id": "40k-index-astra-militarum-2",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 55}
     ],
     "name": "URSULA CREED",
     "subtype": "",
@@ -217,7 +217,7 @@
   {
     "id": "40k-index-astra-militarum-4",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 50}
     ],
     "name": "CADIAN CASTELLAN",
     "subtype": "",
@@ -384,7 +384,7 @@
   {
     "id": "40k-index-astra-militarum-6",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 240}
     ],
     "name": "TANK COMMANDER",
     "subtype": "",
@@ -603,10 +603,10 @@
   {
     "id": "40k-index-astra-militarum-8",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "4-5 models", "points": 60}
     ],
     "name": "PLATOON COMMAND SQUAD",
-    "subtype": "KEYWORDS -",
+    "subtype": "",
     "keywords": [
       "Infantry",
       "Imperium",
@@ -893,10 +893,10 @@
   {
     "id": "40k-index-astra-militarum-10",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 65}
     ],
     "name": "CADIAN COMMAND SQUAD",
-    "subtype": "KEYWORDS -",
+    "subtype": "",
     "keywords": [
       "Infantry",
       "Imperium",
@@ -1147,7 +1147,7 @@
   {
     "id": "40k-index-astra-militarum-12",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 80}
     ],
     "name": "‘IRON HAND’ STRAKEN",
     "subtype": "",
@@ -1265,7 +1265,7 @@
   {
     "id": "40k-index-astra-militarum-14",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 60}
     ],
     "name": "PRIMARIS PSYKER",
     "subtype": "",
@@ -1389,7 +1389,7 @@
   {
     "id": "40k-index-astra-militarum-16",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "6 models", "points": 115}
     ],
     "name": "GAUNT’S GHOSTS",
     "subtype": "KEYWORDS -",
@@ -1568,10 +1568,10 @@
   {
     "id": "40k-index-astra-militarum-18",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "3 models", "points": 40}
     ],
     "name": "REGIMENTAL ATTACHÉS",
-    "subtype": "KEYWORDS -",
+    "subtype": "",
     "keywords": [
       "Infantry",
       "Imperium",
@@ -1692,7 +1692,7 @@
   {
     "id": "40k-index-astra-militarum-20",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 40}
     ],
     "name": "OGRYN BODYGUARD",
     "subtype": "",
@@ -1838,7 +1838,7 @@
   {
     "id": "40k-index-astra-militarum-22",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 70}
     ],
     "name": "NORK DEDDOG",
     "subtype": "",
@@ -1949,7 +1949,8 @@
   {
     "id": "40k-index-astra-militarum-24",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "9-10 models", "points": 65},
+      { "per": "18-20 models", "points": 130}
     ],
     "name": "INFANTRY SQUAD",
     "subtype": "",
@@ -2207,7 +2208,8 @@
   {
     "id": "40k-index-astra-militarum-26",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "10 models", "points": 65},
+      { "per": "20 models", "points": 130}
     ],
     "name": "CADIAN SHOCK TROOPS",
     "subtype": "",
@@ -2420,7 +2422,8 @@
   {
     "id": "40k-index-astra-militarum-28",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "10 models", "points": 65},
+      { "per": "20 models", "points": 130}
     ],
     "name": "DEATH KORPS OF KRIEG",
     "subtype": "",
@@ -2653,7 +2656,8 @@
   {
     "id": "40k-index-astra-militarum-30",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "10 models", "points": 65},
+      { "per": "20 models", "points": 130}
     ],
     "name": "CATACHAN JUNGLE FIGHTERS",
     "subtype": "",
@@ -2775,7 +2779,7 @@
   {
     "id": "40k-index-astra-militarum-32",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 75}
     ],
     "name": "SLY MARBO",
     "subtype": "",
@@ -2867,7 +2871,7 @@
   {
     "id": "40k-index-astra-militarum-34",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "10 models", "points": 120}
     ],
     "name": "KASRKIN",
     "subtype": "",
@@ -3099,7 +3103,7 @@
   {
     "id": "40k-index-astra-militarum-36",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 35}
     ],
     "name": "REGIMENTAL PREACHER",
     "subtype": "",
@@ -3232,7 +3236,7 @@
   {
     "id": "40k-index-astra-militarum-38",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 60}
     ],
     "name": "SERGEANT HARKER",
     "subtype": "",
@@ -3328,7 +3332,7 @@
   {
     "id": "40k-index-astra-militarum-40",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 45}
     ],
     "name": "REGIMENTAL ENGINSEER",
     "subtype": "",
@@ -3442,7 +3446,7 @@
   {
     "id": "40k-index-astra-militarum-42",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "4 models", "points": 35}
     ],
     "name": "MUNITORUM SERVITORS",
     "subtype": "",
@@ -3578,7 +3582,7 @@
   {
     "id": "40k-index-astra-militarum-44",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 35}
     ],
     "name": "COMMISSAR",
     "subtype": "",
@@ -3715,7 +3719,8 @@
   {
     "id": "40k-index-astra-militarum-46",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "3 models", "points": 75},
+      { "per": "6 models", "points": 150}
     ],
     "name": "OGRYN SQUAD",
     "subtype": "",
@@ -3800,7 +3805,8 @@
   {
     "id": "40k-index-astra-militarum-48",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "3 models", "points": 90},
+      { "per": "6 models", "points": 180}
     ],
     "name": "BULLGRYN SQUAD",
     "subtype": "",
@@ -3899,7 +3905,7 @@
   {
     "id": "40k-index-astra-militarum-50",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 70}
     ],
     "name": "RATLING SNIPERS",
     "subtype": "",
@@ -3982,7 +3988,8 @@
   {
     "id": "40k-index-astra-militarum-52",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 80},
+      { "per": "10 models", "points": 160}
     ],
     "name": "ATTILAN ROUGH RIDERS",
     "subtype": "",
@@ -4119,7 +4126,9 @@
   {
     "id": "40k-index-astra-militarum-54",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 50},
+      { "per": "2 models", "points": 100},
+      { "per": "3 models", "points": 150}
     ],
     "name": "SCOUT SENTINELS",
     "subtype": "",
@@ -4306,7 +4315,9 @@
   {
     "id": "40k-index-astra-militarum-56",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 70},
+      { "per": "2 models", "points": 140},
+      { "per": "3 models", "points": 210}
     ],
     "name": "ARMOURED SENTINELS",
     "subtype": "",
@@ -4493,7 +4504,7 @@
   {
     "id": "40k-index-astra-militarum-58",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 125}
     ],
     "name": "HELLHOUND",
     "subtype": "",
@@ -4648,7 +4659,7 @@
   {
     "id": "40k-index-astra-militarum-60",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 285}
     ],
     "name": "ROGAL DORN BATTLE TANK",
     "subtype": "",
@@ -4819,7 +4830,7 @@
   {
     "id": "40k-index-astra-militarum-62",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "3 models", "points": 60}
     ],
     "name": "HEAVY WEAPONS SQUAD",
     "subtype": "",
@@ -4968,7 +4979,7 @@
   {
     "id": "40k-index-astra-militarum-64",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "2 models", "points": 100}
     ],
     "name": "FIELD ORDNANCE BATTERY",
     "subtype": "",
@@ -5093,7 +5104,7 @@
   {
     "id": "40k-index-astra-militarum-66",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 195}
     ],
     "name": "LEMAN RUSS BATTLE TANK",
     "subtype": "",
@@ -5288,7 +5299,7 @@
   {
     "id": "40k-index-astra-militarum-68",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 220}
     ],
     "name": "LEMAN RUSS DEMOLISHER",
     "subtype": "",
@@ -5484,7 +5495,7 @@
   {
     "id": "40k-index-astra-militarum-70",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 190}
     ],
     "name": "LEMAN RUSS VANQUISHER",
     "subtype": "",
@@ -5679,7 +5690,7 @@
   {
     "id": "40k-index-astra-militarum-72",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 180}
     ],
     "name": "LEMAN RUSS PUNISHER",
     "subtype": "",
@@ -5874,7 +5885,7 @@
   {
     "id": "40k-index-astra-militarum-74",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 195}
     ],
     "name": "LEMAN RUSS EXECUTIONER",
     "subtype": "",
@@ -6078,7 +6089,7 @@
   {
     "id": "40k-index-astra-militarum-76",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 200}
     ],
     "name": "LEMAN RUSS EXTERMINATOR",
     "subtype": "",
@@ -6274,7 +6285,7 @@
   {
     "id": "40k-index-astra-militarum-78",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 180}
     ],
     "name": "LEMAN RUSS ERADICATOR",
     "subtype": "",
@@ -6470,7 +6481,7 @@
   {
     "id": "40k-index-astra-militarum-80",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 110}
     ],
     "name": "BASILISK",
     "subtype": "",
@@ -6590,7 +6601,7 @@
   {
     "id": "40k-index-astra-militarum-82",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 95}
     ],
     "name": "HYDRA",
     "subtype": "",
@@ -6708,7 +6719,7 @@
   {
     "id": "40k-index-astra-militarum-84",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 105}
     ],
     "name": "MANTICORE",
     "subtype": "",
@@ -6827,7 +6838,7 @@
   {
     "id": "40k-index-astra-militarum-86",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 90}
     ],
     "name": "WYVERN",
     "subtype": "",
@@ -6948,7 +6959,7 @@
   {
     "id": "40k-index-astra-militarum-88",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 135}
     ],
     "name": "DEATHSTRIKE",
     "subtype": "",
@@ -7078,7 +7089,7 @@
   {
     "id": "40k-index-astra-militarum-90",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 85}
     ],
     "name": "CHIMERA",
     "subtype": "",
@@ -7269,7 +7280,7 @@
   {
     "id": "40k-index-astra-militarum-92",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 65}
     ],
     "name": "TAUROX",
     "subtype": "",
@@ -7379,7 +7390,7 @@
   {
     "id": "40k-index-astra-militarum-94",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 200}
     ],
     "name": "VALKYRIE",
     "subtype": "",
@@ -7522,7 +7533,7 @@
   {
     "id": "40k-index-astra-militarum-96",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 145}
     ],
     "name": "AEGIS DEFENCE LINE",
     "subtype": "",
@@ -7585,7 +7596,7 @@
   {
     "id": "40k-index-astra-militarum-98",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 540}
     ],
     "name": "BANEBLADE",
     "subtype": "",
@@ -7732,7 +7743,7 @@
   {
     "id": "40k-index-astra-militarum-100",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 490}
     ],
     "name": "BANEHAMMER",
     "subtype": "",
@@ -7867,7 +7878,7 @@
   {
     "id": "40k-index-astra-militarum-102",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 515}
     ],
     "name": "BANESWORD",
     "subtype": "",
@@ -7985,7 +7996,7 @@
   {
     "id": "40k-index-astra-militarum-104",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 455}
     ],
     "name": "DOOMHAMMER",
     "subtype": "",
@@ -8120,7 +8131,7 @@
   {
     "id": "40k-index-astra-militarum-106",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 510}
     ],
     "name": "HELLHAMMER",
     "subtype": "",
@@ -8266,7 +8277,7 @@
   {
     "id": "40k-index-astra-militarum-108",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 440}
     ],
     "name": "SHADOWSWORD",
     "subtype": "",
@@ -8384,7 +8395,7 @@
   {
     "id": "40k-index-astra-militarum-110",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 460}
     ],
     "name": "STORMLORD",
     "subtype": "",
@@ -8530,7 +8541,7 @@
   {
     "id": "40k-index-astra-militarum-112",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 520}
     ],
     "name": "STORMSWORD",
     "subtype": "",
@@ -8650,7 +8661,7 @@
   {
     "id": "40k-index-astra-militarum-114",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 80}
     ],
     "name": "MILITARUM TEMPESTUS COMMAND SQUAD",
     "subtype": "",
@@ -8915,7 +8926,8 @@
   {
     "id": "40k-index-astra-militarum-116",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 60},
+      { "per": "10 models", "points": 120}
     ],
     "name": "TEMPESTUS SCIONS",
     "subtype": "",
@@ -9155,7 +9167,7 @@
   {
     "id": "40k-index-astra-militarum-118",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 90}
     ],
     "name": "TAUROX PRIME",
     "subtype": "",

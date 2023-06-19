@@ -2,7 +2,7 @@
   {
     "id": "40k-index-adeptus-astartes-0",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 80}
     ],
     "name": "PRIMARIS CAPTAIN",
     "subtype": "",
@@ -183,7 +183,7 @@
   {
     "id": "40k-index-adeptus-astartes-2",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 95}
     ],
     "name": "CAPTAIN",
     "subtype": "IN GRAVIS ARMOUR",
@@ -332,7 +332,7 @@
   {
     "id": "40k-index-adeptus-astartes-4",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 80}
     ],
     "name": "CAPTAIN",
     "subtype": "IN PHOBOS ARMOUR",
@@ -447,7 +447,7 @@
   {
     "id": "40k-index-adeptus-astartes-6",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 95}
     ],
     "name": "CAPTAIN",
     "subtype": "IN TERMINATOR ARMOUR",
@@ -616,7 +616,7 @@
   {
     "id": "40k-index-adeptus-astartes-8",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 80}
     ],
     "name": "CAPTAIN",
     "subtype": "",
@@ -857,7 +857,7 @@
   {
     "id": "40k-index-adeptus-astartes-10",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 100}
     ],
     "name": "CAPTAIN",
     "subtype": "WITH JUMP PACK",
@@ -1096,7 +1096,7 @@
   {
     "id": "40k-index-adeptus-astartes-12",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 95}
     ],
     "name": "CAPTAIN",
     "subtype": "ON BIKE",
@@ -1339,7 +1339,7 @@
   {
     "id": "40k-index-adeptus-astartes-14",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 75}
     ],
     "name": "PRIMARIS LIEUTENANT",
     "subtype": "",
@@ -1535,7 +1535,7 @@
   {
     "id": "40k-index-adeptus-astartes-16",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 65}
     ],
     "name": "LIEUTENANT",
     "subtype": "IN REIVER ARMOUR",
@@ -1638,7 +1638,7 @@
   {
     "id": "40k-index-adeptus-astartes-18",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 60}
     ],
     "name": "LIEUTENANT",
     "subtype": "IN PHOBOS ARMOUR",
@@ -1755,7 +1755,7 @@
   {
     "id": "40k-index-adeptus-astartes-20",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 80}
     ],
     "name": "LIEUTENANT",
     "subtype": "",
@@ -2007,7 +2007,7 @@
   {
     "id": "40k-index-adeptus-astartes-22",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 70}
     ],
     "name": "PRIMARIS LIBRARIAN",
     "subtype": "",
@@ -2131,7 +2131,7 @@
   {
     "id": "40k-index-adeptus-astartes-24",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 75}
     ],
     "name": "LIBRARIAN",
     "subtype": "IN PHOBOS ARMOUR",
@@ -2252,7 +2252,7 @@
   {
     "id": "40k-index-adeptus-astartes-26",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 90}
     ],
     "name": "LIBRARIAN",
     "subtype": "IN TERMINATOR ARMOUR",
@@ -2384,7 +2384,7 @@
   {
     "id": "40k-index-adeptus-astartes-28",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 75}
     ],
     "name": "LIBRARIAN",
     "subtype": "",
@@ -2589,7 +2589,7 @@
   {
     "id": "40k-index-adeptus-astartes-30",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 65}
     ],
     "name": "PRIMARIS CHAPLAIN",
     "subtype": "",
@@ -2693,7 +2693,7 @@
   {
     "id": "40k-index-adeptus-astartes-32",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 90}
     ],
     "name": "CHAPLAIN",
     "subtype": "IN TERMINATOR ARMOUR",
@@ -2799,7 +2799,7 @@
   {
     "id": "40k-index-adeptus-astartes-34",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 80}
     ],
     "name": "CHAPLAIN",
     "subtype": "ON BIKE",
@@ -2904,7 +2904,7 @@
   {
     "id": "40k-index-adeptus-astartes-36",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 70}
     ],
     "name": "CHAPLAIN",
     "subtype": "",
@@ -3103,7 +3103,7 @@
   {
     "id": "40k-index-adeptus-astartes-38",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 85}
     ],
     "name": "CHAPLAIN",
     "subtype": "WITH JUMP PACK",
@@ -3299,7 +3299,7 @@
   {
     "id": "40k-index-adeptus-astartes-40",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 65}
     ],
     "name": "PRIMARIS TECHMARINE",
     "subtype": "",
@@ -3417,7 +3417,7 @@
   {
     "id": "40k-index-adeptus-astartes-42",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 70}
     ],
     "name": "TECHMARINE",
     "subtype": "",
@@ -3650,7 +3650,7 @@
   {
     "id": "40k-index-adeptus-astartes-44",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "4 models", "points": 55}
     ],
     "name": "ASTARTES SERVITORS",
     "subtype": "",
@@ -3785,7 +3785,8 @@
   {
     "id": "40k-index-adeptus-astartes-46",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 95},
+      { "per": "10 models", "points": 190}
     ],
     "name": "INTERCESSOR SQUAD",
     "subtype": "",
@@ -3984,7 +3985,8 @@
   {
     "id": "40k-index-adeptus-astartes-48",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 90},
+      { "per": "10 models", "points": 180}
     ],
     "name": "INFERNUS SQUAD",
     "subtype": "",
@@ -4080,7 +4082,8 @@
   {
     "id": "40k-index-adeptus-astartes-50",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 90},
+      { "per": "10 models", "points": 180}
     ],
     "name": "ASSAULT INTERCESSOR SQUAD",
     "subtype": "",
@@ -4235,7 +4238,7 @@
   {
     "id": "40k-index-adeptus-astartes-52",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 75}
     ],
     "name": "LIBRARIAN",
     "subtype": "WITH JUMP PACK",
@@ -4439,7 +4442,7 @@
   {
     "id": "40k-index-adeptus-astartes-54",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 80}
     ],
     "name": "LIEUTENANT",
     "subtype": "WITH COMBI-WEAPON",
@@ -4530,7 +4533,8 @@
   {
     "id": "40k-index-adeptus-astartes-56",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 110},
+      { "per": "10 models", "points": 220}
     ],
     "name": "HEAVY INTERCESSOR SQUAD",
     "subtype": "",
@@ -4634,7 +4638,8 @@
   {
     "id": "40k-index-adeptus-astartes-58",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 90},
+      { "per": "10 models", "points": 180}
     ],
     "name": "INFILTRATOR SQUAD",
     "subtype": "",
@@ -4735,7 +4740,8 @@
   {
     "id": "40k-index-adeptus-astartes-60",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 90},
+      { "per": "10 models", "points": 180}
     ],
     "name": "INCURSOR SQUAD",
     "subtype": "",
@@ -4832,7 +4838,7 @@
   {
     "id": "40k-index-adeptus-astartes-62",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "10 models", "points": 175}
     ],
     "name": "TACTICAL SQUAD",
     "subtype": "",
@@ -5090,7 +5096,8 @@
   {
     "id": "40k-index-adeptus-astartes-64",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 70},
+      { "per": "10 models", "points": 140}
     ],
     "name": "SCOUT SQUAD",
     "subtype": "",
@@ -5315,7 +5322,8 @@
   {
     "id": "40k-index-adeptus-astartes-66",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 75},
+      { "per": "10 models", "points": 150}
     ],
     "name": "SCOUT SNIPER SQUAD",
     "subtype": "",
@@ -5431,7 +5439,7 @@
   {
     "id": "40k-index-adeptus-astartes-68",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 55}
     ],
     "name": "PRIMARIS COMPANY CHAMPION",
     "subtype": "",
@@ -5532,7 +5540,7 @@
   {
     "id": "40k-index-adeptus-astartes-70",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 55}
     ],
     "name": "PRIMARIS APOTHECARY",
     "subtype": "",
@@ -5655,7 +5663,7 @@
   {
     "id": "40k-index-adeptus-astartes-72",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 55}
     ],
     "name": "APOTHECARY BIOLOGIS",
     "subtype": "",
@@ -5760,7 +5768,7 @@
   {
     "id": "40k-index-adeptus-astartes-74",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 55}
     ],
     "name": "PRIMARIS ANCIENT",
     "subtype": "",
@@ -5892,7 +5900,7 @@
   {
     "id": "40k-index-adeptus-astartes-76",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 50}
     ],
     "name": "BLADEGUARD ANCIENT",
     "subtype": "",
@@ -5996,7 +6004,7 @@
   {
     "id": "40k-index-adeptus-astartes-78",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 90}
     ],
     "name": "ANCIENT",
     "subtype": "IN TERMINATOR ARMOUR",
@@ -6164,7 +6172,8 @@
   {
     "id": "40k-index-adeptus-astartes-80",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "3 models", "points": 100},
+      { "per": "6 models", "points": 200}
     ],
     "name": "BLADEGUARD VETERAN SQUAD",
     "subtype": "",
@@ -6284,7 +6293,7 @@
   {
     "id": "40k-index-adeptus-astartes-82",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 165}
     ],
     "name": "COMMAND SQUAD",
     "subtype": "",
@@ -6559,7 +6568,8 @@
   {
     "id": "40k-index-adeptus-astartes-84",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 120},
+      { "per": "10 models", "points": 240}
     ],
     "name": "VANGUARD VETERAN SQUAD",
     "subtype": "",
@@ -6701,7 +6711,8 @@
   {
     "id": "40k-index-adeptus-astartes-86",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 130},
+      { "per": "10 models", "points": 260}
     ],
     "name": "VANGUARD VETERAN SQUAD",
     "subtype": "WITH JUMP PACKS",
@@ -6845,7 +6856,8 @@
   {
     "id": "40k-index-adeptus-astartes-88",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 105},
+      { "per": "10 models", "points": 210}
     ],
     "name": "STERNGUARD VETERAN SQUAD",
     "subtype": "",
@@ -6960,7 +6972,7 @@
   {
     "id": "40k-index-adeptus-astartes-90",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 75}
     ],
     "name": "JUDICIAR",
     "subtype": "",
@@ -7069,7 +7081,8 @@
   {
     "id": "40k-index-adeptus-astartes-92",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 95},
+      { "per": "10 models", "points": 190}
     ],
     "name": "REIVER SQUAD",
     "subtype": "",
@@ -7183,7 +7196,8 @@
   {
     "id": "40k-index-adeptus-astartes-94",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "3 models", "points": 110},
+      { "per": "6 models", "points": 220}
     ],
     "name": "AGGRESSOR SQUAD",
     "subtype": "",
@@ -7287,7 +7301,8 @@
   {
     "id": "40k-index-adeptus-astartes-96",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 200},
+      { "per": "10 models", "points": 400}
     ],
     "name": "TERMINATOR ASSAULT SQUAD",
     "subtype": "",
@@ -7375,7 +7390,8 @@
   {
     "id": "40k-index-adeptus-astartes-98",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 205},
+      { "per": "10 models", "points": 410}
     ],
     "name": "TERMINATOR SQUAD",
     "subtype": "",
@@ -7533,7 +7549,8 @@
   {
     "id": "40k-index-adeptus-astartes-100",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 200},
+      { "per": "10 models", "points": 400}
     ],
     "name": "RELIC TERMINATOR SQUAD",
     "subtype": "",
@@ -7714,7 +7731,8 @@
   {
     "id": "40k-index-adeptus-astartes-102",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "3 models", "points": 175},
+      { "per": "6 models", "points": 350}
     ],
     "name": "CENTURION ASSAULT SQUAD",
     "subtype": "",
@@ -7820,7 +7838,8 @@
   {
     "id": "40k-index-adeptus-astartes-104",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "3 models", "points": 205},
+      { "per": "6 models", "points": 410}
     ],
     "name": "CENTURION DEVASTATOR SQUAD",
     "subtype": "",
@@ -7949,7 +7968,7 @@
   {
     "id": "40k-index-adeptus-astartes-106",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 160}
     ],
     "name": "INVICTOR TACTICAL WARSUIT",
     "subtype": "",
@@ -8072,7 +8091,7 @@
   {
     "id": "40k-index-adeptus-astartes-108",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 160}
     ],
     "name": "DREADNOUGHT",
     "subtype": "",
@@ -8252,7 +8271,7 @@
   {
     "id": "40k-index-adeptus-astartes-110",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 170}
     ],
     "name": "CONTEMPTOR DREADNOUGHT",
     "subtype": "",
@@ -8354,7 +8373,7 @@
   {
     "id": "40k-index-adeptus-astartes-112",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 150}
     ],
     "name": "IRONCLAD DREADNOUGHT",
     "subtype": "",
@@ -8507,7 +8526,7 @@
   {
     "id": "40k-index-adeptus-astartes-114",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 225}
     ],
     "name": "REDEMPTOR DREADNOUGHT",
     "subtype": "",
@@ -8663,7 +8682,7 @@
   {
     "id": "40k-index-adeptus-astartes-116",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 170}
     ],
     "name": "BRUTALIS DREADNOUGHT",
     "subtype": "",
@@ -8798,7 +8817,7 @@
   {
     "id": "40k-index-adeptus-astartes-118",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 170}
     ],
     "name": "BALLISTUS DREADNOUGHT",
     "subtype": "",
@@ -8912,7 +8931,8 @@
   {
     "id": "40k-index-adeptus-astartes-120",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 95},
+      { "per": "10 models", "points": 190}
     ],
     "name": "ASSAULT SQUAD",
     "subtype": "",
@@ -9143,7 +9163,8 @@
   {
     "id": "40k-index-adeptus-astartes-122",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 115},
+      { "per": "10 models", "points": 230}
     ],
     "name": "ASSAULT SQUAD",
     "subtype": "WITH JUMP PACKS",
@@ -9378,7 +9399,9 @@
   {
     "id": "40k-index-adeptus-astartes-124",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "3 models", "points": 115},
+      { "per": "6 models", "points": 230},
+      { "per": "Invader ATV", "points": 80}
     ],
     "name": "OUTRIDER SQUAD",
     "subtype": "",
@@ -9504,7 +9527,7 @@
   {
     "id": "40k-index-adeptus-astartes-126",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 80}
     ],
     "name": "INVADER ATV",
     "subtype": "",
@@ -9615,7 +9638,9 @@
   {
     "id": "40k-index-adeptus-astartes-128",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "3 models", "points": 80},
+      { "per": "6 models", "points": 160},
+      { "per": "Attack Bike", "points": 55}
     ],
     "name": "BIKE SQUAD",
     "subtype": "",
@@ -9864,7 +9889,8 @@
   {
     "id": "40k-index-adeptus-astartes-130",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "3 models", "points": 75},
+      { "per": "6 models", "points": 150}
     ],
     "name": "SCOUT BIKE SQUAD",
     "subtype": "",
@@ -10087,7 +10113,9 @@
   {
     "id": "40k-index-adeptus-astartes-132",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 55},
+      { "per": "2 models", "points": 110},
+      { "per": "3 models", "points": 165}
     ],
     "name": "ATTACK BIKE SQUAD",
     "subtype": "",
@@ -10198,7 +10226,7 @@
   {
     "id": "40k-index-adeptus-astartes-134",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "3 models", "points": 95}
     ],
     "name": "SUPPRESSOR SQUAD",
     "subtype": "",
@@ -10295,7 +10323,8 @@
   {
     "id": "40k-index-adeptus-astartes-136",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "3 models", "points": 115},
+      { "per": "6 models", "points": 230}
     ],
     "name": "INCEPTOR SQUAD",
     "subtype": "",
@@ -10404,7 +10433,7 @@
   {
     "id": "40k-index-adeptus-astartes-138",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 130}
     ],
     "name": "STORM SPEEDER HAILSTRIKE",
     "subtype": "",
@@ -10506,7 +10535,7 @@
   {
     "id": "40k-index-adeptus-astartes-140",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 160}
     ],
     "name": "STORM SPEEDER THUNDERSTRIKE",
     "subtype": "",
@@ -10608,7 +10637,7 @@
   {
     "id": "40k-index-adeptus-astartes-142",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 160}
     ],
     "name": "STORM SPEEDER HAMMERSTRIKE",
     "subtype": "",
@@ -10709,7 +10738,7 @@
   {
     "id": "40k-index-adeptus-astartes-144",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 80}
     ],
     "name": "LAND SPEEDER",
     "subtype": "",
@@ -10800,7 +10829,7 @@
   {
     "id": "40k-index-adeptus-astartes-146",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 95}
     ],
     "name": "LAND SPEEDER TORNADO",
     "subtype": "",
@@ -10911,7 +10940,7 @@
   {
     "id": "40k-index-adeptus-astartes-148",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 100}
     ],
     "name": "LAND SPEEDER TYPHOON",
     "subtype": "",
@@ -11025,7 +11054,8 @@
   {
     "id": "40k-index-adeptus-astartes-150",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 125},
+      { "per": "10 models", "points": 250}
     ],
     "name": "HELLBLASTER SQUAD",
     "subtype": "",
@@ -11152,7 +11182,7 @@
   {
     "id": "40k-index-adeptus-astartes-152",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "3 models", "points": 95}
     ],
     "name": "ELIMINATOR SQUAD",
     "subtype": "",
@@ -11272,7 +11302,8 @@
   {
     "id": "40k-index-adeptus-astartes-154",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "3 models", "points": 95},
+      { "per": "6 models", "points": 190}
     ],
     "name": "ERADICATOR SQUAD",
     "subtype": "",
@@ -11376,7 +11407,8 @@
   {
     "id": "40k-index-adeptus-astartes-156",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 120},
+      { "per": "10 models", "points": 240}
     ],
     "name": "DEVASTATOR SQUAD",
     "subtype": "",
@@ -11627,7 +11659,8 @@
   {
     "id": "40k-index-adeptus-astartes-158",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 120},
+      { "per": "10 models", "points": 240}
     ],
     "name": "DESOLATION SQUAD",
     "subtype": "",
@@ -11756,7 +11789,7 @@
   {
     "id": "40k-index-adeptus-astartes-160",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "2 models", "points": 90}
     ],
     "name": "THUNDERFIRE CANNON",
     "subtype": "",
@@ -11885,7 +11918,8 @@
   {
     "id": "40k-index-adeptus-astartes-162",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 80},
+      { "per": "2 models", "points": 160}
     ],
     "name": "FIRESTRIKE SERVO-TURRETS",
     "subtype": "",
@@ -11978,7 +12012,7 @@
   {
     "id": "40k-index-adeptus-astartes-164",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 100}
     ],
     "name": "HUNTER",
     "subtype": "",
@@ -12086,7 +12120,7 @@
   {
     "id": "40k-index-adeptus-astartes-166",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 140}
     ],
     "name": "STALKER",
     "subtype": "",
@@ -12194,7 +12228,7 @@
   {
     "id": "40k-index-adeptus-astartes-168",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 125}
     ],
     "name": "WHIRLWIND",
     "subtype": "",
@@ -12302,7 +12336,7 @@
   {
     "id": "40k-index-adeptus-astartes-170",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 135}
     ],
     "name": "PREDATOR DESTRUCTOR",
     "subtype": "",
@@ -12434,7 +12468,7 @@
   {
     "id": "40k-index-adeptus-astartes-172",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 130}
     ],
     "name": "PREDATOR ANNIHILATOR",
     "subtype": "",
@@ -12566,7 +12600,7 @@
   {
     "id": "40k-index-adeptus-astartes-174",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 145}
     ],
     "name": "GLADIATOR LANCER",
     "subtype": "",
@@ -12690,7 +12724,7 @@
   {
     "id": "40k-index-adeptus-astartes-176",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 155}
     ],
     "name": "GLADIATOR REAPER",
     "subtype": "",
@@ -12803,7 +12837,7 @@
   {
     "id": "40k-index-adeptus-astartes-178",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 155}
     ],
     "name": "GLADIATOR VALIANT",
     "subtype": "",
@@ -12916,7 +12950,7 @@
   {
     "id": "40k-index-adeptus-astartes-180",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 205}
     ],
     "name": "VINDICATOR",
     "subtype": "",
@@ -13025,7 +13059,7 @@
   {
     "id": "40k-index-adeptus-astartes-182",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 275}
     ],
     "name": "LAND RAIDER",
     "subtype": "",
@@ -13172,7 +13206,7 @@
   {
     "id": "40k-index-adeptus-astartes-184",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 255}
     ],
     "name": "LAND RAIDER CRUSADER",
     "subtype": "",
@@ -13320,7 +13354,7 @@
   {
     "id": "40k-index-adeptus-astartes-186",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 295}
     ],
     "name": "LAND RAIDER REDEEMER",
     "subtype": "",
@@ -13468,7 +13502,7 @@
   {
     "id": "40k-index-adeptus-astartes-188",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 195}
     ],
     "name": "REPULSOR",
     "subtype": "",
@@ -13626,7 +13660,7 @@
   {
     "id": "40k-index-adeptus-astartes-190",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 230}
     ],
     "name": "REPULSOR EXECUTIONER",
     "subtype": "",
@@ -13811,7 +13845,7 @@
   {
     "id": "40k-index-adeptus-astartes-192",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 85}
     ],
     "name": "RHINO",
     "subtype": "",
@@ -13931,7 +13965,7 @@
   {
     "id": "40k-index-adeptus-astartes-194",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 100}
     ],
     "name": "RAZORBACK",
     "subtype": "",
@@ -14086,7 +14120,7 @@
   {
     "id": "40k-index-adeptus-astartes-196",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 95}
     ],
     "name": "IMPULSOR",
     "subtype": "",
@@ -14254,7 +14288,7 @@
   {
     "id": "40k-index-adeptus-astartes-198",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 70}
     ],
     "name": "DROP POD",
     "subtype": "",
@@ -14355,7 +14389,7 @@
   {
     "id": "40k-index-adeptus-astartes-200",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 70}
     ],
     "name": "LAND SPEEDER STORM",
     "subtype": "",
@@ -14462,7 +14496,7 @@
   {
     "id": "40k-index-adeptus-astartes-202",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 165}
     ],
     "name": "STORMHAWK INTERCEPTOR",
     "subtype": "",
@@ -14612,7 +14646,7 @@
   {
     "id": "40k-index-adeptus-astartes-204",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 255}
     ],
     "name": "STORMTALON GUNSHIP",
     "subtype": "",
@@ -14751,7 +14785,7 @@
   {
     "id": "40k-index-adeptus-astartes-206",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 175}
     ],
     "name": "STORMRAVEN GUNSHIP",
     "subtype": "",
@@ -14959,7 +14993,7 @@
   {
     "id": "40k-index-adeptus-astartes-208",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 210}
     ],
     "name": "HAMMERFALL BUNKER",
     "subtype": "",
@@ -15067,7 +15101,7 @@
   {
     "id": "40k-index-adeptus-astartes-210",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 95}
     ],
     "name": "CAPTAIN SICARIUS",
     "subtype": "",
@@ -15171,7 +15205,7 @@
   {
     "id": "40k-index-adeptus-astartes-212",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 80}
     ],
     "name": "CHAPLAIN CASSIUS",
     "subtype": "",
@@ -15276,7 +15310,7 @@
   {
     "id": "40k-index-adeptus-astartes-214",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 85}
     ],
     "name": "CHIEF LIBRARIAN TIGURIUS",
     "subtype": "",
@@ -15397,7 +15431,7 @@
   {
     "id": "40k-index-adeptus-astartes-216",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "3 models", "points": 205}
     ],
     "name": "MARNEUS CALGAR",
     "subtype": "",
@@ -15549,7 +15583,7 @@
   {
     "id": "40k-index-adeptus-astartes-218",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 75}
     ],
     "name": "SERGEANT CHRONUS",
     "subtype": "",
@@ -15634,7 +15668,7 @@
   {
     "id": "40k-index-adeptus-astartes-220",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 70}
     ],
     "name": "SERGEANT TELION",
     "subtype": "",
@@ -15740,7 +15774,7 @@
   {
     "id": "40k-index-adeptus-astartes-222",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 85}
     ],
     "name": "TYRANNIC WAR VETERANS",
     "subtype": "",
@@ -15835,7 +15869,7 @@
   {
     "id": "40k-index-adeptus-astartes-224",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 85}
     ],
     "name": "URIEL VENTRIS",
     "subtype": "",
@@ -15946,7 +15980,7 @@
   {
     "id": "40k-index-adeptus-astartes-226",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 355}
     ],
     "name": "ROBOUTE GUILLIMAN",
     "subtype": "",
@@ -16049,7 +16083,7 @@
   {
     "id": "40k-index-adeptus-astartes-228",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 115}
     ],
     "name": "DARNATH LYSANDER",
     "subtype": "",
@@ -16139,7 +16173,7 @@
   {
     "id": "40k-index-adeptus-astartes-230",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 100}
     ],
     "name": "TOR GARADON",
     "subtype": "",
@@ -16239,7 +16273,7 @@
   {
     "id": "40k-index-adeptus-astartes-232",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 100}
     ],
     "name": "PEDRO KANTOR",
     "subtype": "",
@@ -16346,7 +16380,7 @@
   {
     "id": "40k-index-adeptus-astartes-234",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 105}
     ],
     "name": "IRON FATHER FEIRROS",
     "subtype": "",
@@ -16466,7 +16500,7 @@
   {
     "id": "40k-index-adeptus-astartes-236",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 110}
     ],
     "name": "KAYVAAN SHRIKE",
     "subtype": "",
@@ -16563,7 +16597,7 @@
   {
     "id": "40k-index-adeptus-astartes-238",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 100}
     ],
     "name": "ADRAX AGATONE",
     "subtype": "",
@@ -16664,7 +16698,7 @@
   {
     "id": "40k-index-adeptus-astartes-240",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 95}
     ],
     "name": "VULKAN HE’STAN",
     "subtype": "",
@@ -16775,7 +16809,7 @@
   {
     "id": "40k-index-adeptus-astartes-242",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 80}
     ],
     "name": "KOR’SARRO KHAN",
     "subtype": "",

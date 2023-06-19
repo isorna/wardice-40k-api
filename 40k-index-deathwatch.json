@@ -2,7 +2,7 @@
   {
     "id": "40k-index-deathwatch-0",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 115}
     ],
     "name": "WATCH MASTER",
     "subtype": "",
@@ -99,7 +99,7 @@
   {
     "id": "40k-index-deathwatch-2",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 75}
     ],
     "name": "WATCH CAPTAIN ARTEMIS",
     "subtype": "",
@@ -198,10 +198,10 @@
   {
     "id": "40k-index-deathwatch-4",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "11 models", "points": 255}
     ],
     "name": "KILL TEAM CASSIUS",
-    "subtype": "RANGED WEAPONS",
+    "subtype": "",
     "keywords": [
       "A"
     ],
@@ -468,7 +468,8 @@
   {
     "id": "40k-index-deathwatch-6",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 100},
+      { "per": "10 models", "points": 200}
     ],
     "name": "DEATHWATCH VETERANS",
     "subtype": "RANGED WEAPONS",
@@ -720,7 +721,8 @@
   {
     "id": "40k-index-deathwatch-8",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 210},
+      { "per": "10 models", "points": 420}
     ],
     "name": "DEATHWATCH TERMINATOR SQUAD",
     "subtype": "",
@@ -929,7 +931,8 @@
   {
     "id": "40k-index-deathwatch-10",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "3 models", "points": 85},
+      { "per": "6 models", "points": 170}
     ],
     "name": "VETERAN BIKE SQUAD",
     "subtype": "",
@@ -1071,7 +1074,7 @@
   {
     "id": "40k-index-deathwatch-12",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 180}
     ],
     "name": "CORVUS BLACKSTAR",
     "subtype": "",
@@ -1227,10 +1230,11 @@
   {
     "id": "40k-index-deathwatch-14",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 165},
+      { "per": "10 models", "points": 330}
     ],
     "name": "PROTEUS KILL TEAM",
-    "subtype": "RANGED WEAPONS",
+    "subtype": "",
     "keywords": [
       "A"
     ],
@@ -1505,10 +1509,11 @@
   {
     "id": "40k-index-deathwatch-16",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 115},
+      { "per": "10 models", "points": 230}
     ],
     "name": "FORTIS KILL TEAM",
-    "subtype": "RANGED WEAPONS",
+    "subtype": "",
     "keywords": [
       "A"
     ],
@@ -1767,10 +1772,11 @@
   {
     "id": "40k-index-deathwatch-18",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 135},
+      { "per": "10 models", "points": 270}
     ],
     "name": "INDOMITOR KILL TEAM",
-    "subtype": "RANGED WEAPONS",
+    "subtype": "",
     "keywords": [
       "A"
     ],
@@ -2004,10 +2010,11 @@
   {
     "id": "40k-index-deathwatch-20",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 110},
+      { "per": "10 models", "points": 220}
     ],
     "name": "SPECTRUS KILL TEAM",
-    "subtype": "RANGED WEAPONS",
+    "subtype": "",
     "keywords": [
       "A"
     ],

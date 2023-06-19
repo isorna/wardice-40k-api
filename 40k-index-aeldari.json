@@ -2,7 +2,7 @@
   {
     "id": "40k-index-aledari-0",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 120}
     ],
     "name": "ASURMEN",
     "subtype": "",
@@ -96,7 +96,7 @@
   {
     "id": "40k-index-aledari-2",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 65}
     ],
     "name": "AUTARCH",
     "subtype": "",
@@ -276,7 +276,7 @@
   {
     "id": "40k-index-aledari-4",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 80}
     ],
     "name": "AUTARCH WAYLEAPER",
     "subtype": "",
@@ -448,7 +448,7 @@
   {
     "id": "40k-index-aledari-6",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 80}
     ],
     "name": "AUTARCH SKYRUNNER",
     "subtype": "",
@@ -573,7 +573,7 @@
   {
     "id": "40k-index-aledari-8",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 295}
     ],
     "name": "AVATAR OF KHAINE",
     "subtype": "",
@@ -671,7 +671,7 @@
   {
     "id": "40k-index-aledari-10",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 125}
     ],
     "name": "BAHARROTH",
     "subtype": "",
@@ -767,7 +767,8 @@
   {
     "id": "40k-index-aledari-12",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 70},
+      { "per": "10 models", "points": 140}
     ],
     "name": "CORSAIR VOIDREAVERS",
     "subtype": "",
@@ -933,7 +934,8 @@
   {
     "id": "40k-index-aledari-14",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 90},
+      { "per": "10 models", "points": 180}
     ],
     "name": "CORSAIR VOIDSCARRED",
     "subtype": "KEYWORDS",
@@ -1182,7 +1184,7 @@
   {
     "id": "40k-index-aledari-16",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 160}
     ],
     "name": "CRIMSON HUNTER",
     "subtype": "",
@@ -1284,7 +1286,8 @@
   {
     "id": "40k-index-aledari-18",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 75},
+      { "per": "10 models", "points": 150}
     ],
     "name": "DARK REAPERS",
     "subtype": "",
@@ -1420,7 +1423,7 @@
   {
     "id": "40k-index-aledari-20",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 70}
     ],
     "name": "DEATH JESTER",
     "subtype": "",
@@ -1504,7 +1507,8 @@
   {
     "id": "40k-index-aledari-22",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 70},
+      { "per": "10 models", "points": 140}
     ],
     "name": "DIRE AVENGERS",
     "subtype": "",
@@ -1627,7 +1631,7 @@
   {
     "id": "40k-index-aledari-24",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 100}
     ],
     "name": "ELDRAD ULTHRAN",
     "subtype": "",
@@ -1735,7 +1739,7 @@
   {
     "id": "40k-index-aledari-26",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 140}
     ],
     "name": "FALCON",
     "subtype": "",
@@ -1908,7 +1912,7 @@
   {
     "id": "40k-index-aledari-28",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 65}
     ],
     "name": "FARSEER",
     "subtype": "",
@@ -2032,7 +2036,7 @@
   {
     "id": "40k-index-aledari-30",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 75}
     ],
     "name": "FARSEER SKYRUNNER",
     "subtype": "",
@@ -2165,7 +2169,8 @@
   {
     "id": "40k-index-aledari-32",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 85},
+      { "per": "10 models", "points": 170}
     ],
     "name": "FIRE DRAGONS",
     "subtype": "",
@@ -2270,7 +2275,7 @@
   {
     "id": "40k-index-aledari-34",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 125}
     ],
     "name": "FIRE PRISM",
     "subtype": "",
@@ -2390,7 +2395,7 @@
   {
     "id": "40k-index-aledari-36",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 115}
     ],
     "name": "FUEGAN",
     "subtype": "",
@@ -2496,7 +2501,7 @@
   {
     "id": "40k-index-aledari-38",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 110}
     ],
     "name": "GUARDIAN DEFENDERS",
     "subtype": "",
@@ -2651,7 +2656,7 @@
   {
     "id": "40k-index-aledari-40",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 155}
     ],
     "name": "HEMLOCK WRAITHFIGHTER",
     "subtype": "",
@@ -2736,7 +2741,8 @@
   {
     "id": "40k-index-aledari-42",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 85},
+      { "per": "10 models", "points": 170}
     ],
     "name": "HOWLING BANSHEES",
     "subtype": "",
@@ -2862,7 +2868,7 @@
   {
     "id": "40k-index-aledari-44",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 65}
     ],
     "name": "ILLIC NIGHTSPEAR",
     "subtype": "",
@@ -2972,7 +2978,7 @@
   {
     "id": "40k-index-aledari-46",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 105}
     ],
     "name": "JAIN ZAR",
     "subtype": "",
@@ -3078,7 +3084,7 @@
   {
     "id": "40k-index-aledari-48",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 100}
     ],
     "name": "KARANDRAS",
     "subtype": "",
@@ -3182,7 +3188,7 @@
   {
     "id": "40k-index-aledari-50",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 130}
     ],
     "name": "MAUGAN RA",
     "subtype": "",
@@ -3274,7 +3280,7 @@
   {
     "id": "40k-index-aledari-52",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 140}
     ],
     "name": "NIGHT SPINNER",
     "subtype": "",
@@ -3376,7 +3382,7 @@
   {
     "id": "40k-index-aledari-54",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 100}
     ],
     "name": "PRINCE YRIEL",
     "subtype": "",
@@ -3476,7 +3482,8 @@
   {
     "id": "40k-index-aledari-56",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 55},
+      { "per": "10 models", "points": 110}
     ],
     "name": "RANGERS",
     "subtype": "",
@@ -3574,7 +3581,7 @@
   {
     "id": "40k-index-aledari-58",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 60}
     ],
     "name": "SHADOWSEER",
     "subtype": "",
@@ -3676,7 +3683,8 @@
   {
     "id": "40k-index-aledari-60",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "3 models", "points": 120},
+      { "per": "6 models", "points": 240}
     ],
     "name": "SHINING SPEARS",
     "subtype": "",
@@ -3814,7 +3822,8 @@
   {
     "id": "40k-index-aledari-62",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "3 models", "points": 80},
+      { "per": "6 models", "points": 160}
     ],
     "name": "SHROUD RUNNERS",
     "subtype": "",
@@ -3922,7 +3931,8 @@
   {
     "id": "40k-index-aledari-64",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "2 models", "points": 95},
+      { "per": "4 models", "points": 190}
     ],
     "name": "SKYWEAVERS",
     "subtype": "",
@@ -4037,7 +4047,7 @@
   {
     "id": "40k-index-aledari-66",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 115}
     ],
     "name": "SOLITAIRE",
     "subtype": "",
@@ -4117,7 +4127,7 @@
   {
     "id": "40k-index-aledari-68",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 65}
     ],
     "name": "SPIRITSEER",
     "subtype": "",
@@ -4212,7 +4222,7 @@
   {
     "id": "40k-index-aledari-70",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 80}
     ],
     "name": "STARWEAVER",
     "subtype": "",
@@ -4307,7 +4317,7 @@
   {
     "id": "40k-index-aledari-72",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "11 models", "points": 115}
     ],
     "name": "STORM GUARDIANS",
     "subtype": "",
@@ -4432,7 +4442,8 @@
   {
     "id": "40k-index-aledari-74",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 75},
+      { "per": "10 models", "points": 150}
     ],
     "name": "STRIKING SCORPIONS",
     "subtype": "",
@@ -4545,7 +4556,7 @@
   {
     "id": "40k-index-aledari-76",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 85}
     ],
     "name": "SUPPORT WEAPONS",
     "subtype": "",
@@ -4658,7 +4669,8 @@
   {
     "id": "40k-index-aledari-78",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 75},
+      { "per": "10 models", "points": 150}
     ],
     "name": "SWOOPING HAWKS",
     "subtype": "",
@@ -4764,7 +4776,7 @@
   {
     "id": "40k-index-aledari-80",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 90}
     ],
     "name": "THE VISARCH",
     "subtype": "",
@@ -4871,7 +4883,7 @@
   {
     "id": "40k-index-aledari-82",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 270}
     ],
     "name": "THE YNCARNE",
     "subtype": "",
@@ -4971,7 +4983,10 @@
   {
     "id": "40k-index-aledari-84",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 75},
+      { "per": "6 models", "points": 90},
+      { "per": "11 models", "points": 165},
+      { "per": "12 models", "points": 180}
     ],
     "name": "TROUPE",
     "subtype": "",
@@ -5107,7 +5122,7 @@
   {
     "id": "40k-index-aledari-86",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 55}
     ],
     "name": "TROUPE MASTER",
     "subtype": "",
@@ -5242,7 +5257,7 @@
   {
     "id": "40k-index-aledari-88",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 100}
     ],
     "name": "VOIDWEAVER",
     "subtype": "",
@@ -5357,7 +5372,7 @@
   {
     "id": "40k-index-aledari-90",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 75}
     ],
     "name": "VYPERS",
     "subtype": "",
@@ -5504,7 +5519,7 @@
   {
     "id": "40k-index-aledari-92",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 95}
     ],
     "name": "WAR WALKERS",
     "subtype": "",
@@ -5642,7 +5657,7 @@
   {
     "id": "40k-index-aledari-94",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 55}
     ],
     "name": "WARLOCK SKYRUNNER",
     "subtype": "",
@@ -5778,7 +5793,7 @@
   {
     "id": "40k-index-aledari-96",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 45}
     ],
     "name": "WARLOCK",
     "subtype": "",
@@ -5908,7 +5923,8 @@
   {
     "id": "40k-index-aledari-98",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 100},
+      { "per": "10 models", "points": 200}
     ],
     "name": "WARP SPIDERS",
     "subtype": "",
@@ -6004,7 +6020,7 @@
   {
     "id": "40k-index-aledari-100",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 120}
     ],
     "name": "WAVE SERPENT",
     "subtype": "",
@@ -6177,7 +6193,7 @@
   {
     "id": "40k-index-aledari-102",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "2 models", "points": 220}
     ],
     "name": "WEBWAY GATE",
     "subtype": "",
@@ -6250,7 +6266,9 @@
   {
     "id": "40k-index-aledari-104",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "3 models", "points": 80},
+      { "per": "6 models", "points": 160},
+      { "per": "9 models", "points": 240}
     ],
     "name": "WINDRIDERS",
     "subtype": "",
@@ -6355,7 +6373,8 @@
   {
     "id": "40k-index-aledari-106",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 170},
+      { "per": "10 models", "points": 340}
     ],
     "name": "WRAITHBLADES",
     "subtype": "",
@@ -6438,7 +6457,8 @@
   {
     "id": "40k-index-aledari-108",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 155},
+      { "per": "10 models", "points": 310}
     ],
     "name": "WRAITHGUARD",
     "subtype": "",
@@ -6530,7 +6550,7 @@
   {
     "id": "40k-index-aledari-110",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 370}
     ],
     "name": "WRAITHKNIGHT",
     "subtype": "",
@@ -6688,7 +6708,7 @@
   {
     "id": "40k-index-aledari-112",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 160}
     ],
     "name": "WRAITHLORD",
     "subtype": "",
@@ -6869,7 +6889,7 @@
   {
     "id": "40k-index-aledari-114",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 100}
     ],
     "name": "YVRAINE",
     "subtype": "",
@@ -6982,7 +7002,8 @@
   {
     "id": "40k-index-aledari-116",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "2 models", "points": 100},
+      { "per": "3 models", "points": 150}
     ],
     "name": "WARLOCK SKYRUNNER CONCLAVE",
     "subtype": "",
@@ -7102,7 +7123,8 @@
   {
     "id": "40k-index-aledari-118",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "2 models", "points": 60},
+      { "per": "4 models", "points": 120}
     ],
     "name": "WARLOCK CONCLAVE",
     "subtype": "",

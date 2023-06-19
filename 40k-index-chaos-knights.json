@@ -2,7 +2,7 @@
   {
     "id": "40k-index-chaos-knights-0",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 135}
     ],
     "name": "WAR DOG EXECUTIONER",
     "subtype": "",
@@ -68,7 +68,7 @@
   {
     "id": "40k-index-chaos-knights-2",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 135}
     ],
     "name": "WAR DOG STALKER",
     "subtype": "",
@@ -142,7 +142,7 @@
   {
     "id": "40k-index-chaos-knights-4",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 160}
     ],
     "name": "WAR DOG KARNIVORE",
     "subtype": "",
@@ -211,7 +211,7 @@
   {
     "id": "40k-index-chaos-knights-6",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 150}
     ],
     "name": "WAR DOG BRIGAND",
     "subtype": "",
@@ -277,7 +277,7 @@
   {
     "id": "40k-index-chaos-knights-8",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 140}
     ],
     "name": "WAR DOG HUNTSMAN",
     "subtype": "",
@@ -345,7 +345,7 @@
   {
     "id": "40k-index-chaos-knights-10",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 410}
     ],
     "name": "KNIGHT DESPOILER",
     "subtype": "",
@@ -440,7 +440,7 @@
   {
     "id": "40k-index-chaos-knights-12",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 390}
     ],
     "name": "KNIGHT DESECRATOR",
     "subtype": "",
@@ -511,7 +511,7 @@
   {
     "id": "40k-index-chaos-knights-14",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 395}
     ],
     "name": "KNIGHT RAMPAGER",
     "subtype": "",
@@ -583,7 +583,7 @@
   {
     "id": "40k-index-chaos-knights-16",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 395}
     ],
     "name": "KNIGHT ABOMINANT",
     "subtype": "",
@@ -651,7 +651,7 @@
   {
     "id": "40k-index-chaos-knights-18",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 485}
     ],
     "name": "KNIGHT TYRANT",
     "subtype": "",

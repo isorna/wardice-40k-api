@@ -2,7 +2,7 @@
   {
     "id": "40k-index-adeptus-mechanicus-0",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 160}
     ],
     "name": "ARCHAEOPTER FUSILAVE",
     "subtype": "",
@@ -91,7 +91,7 @@
   {
     "id": "40k-index-adeptus-mechanicus-2",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 165}
     ],
     "name": "ARCHAEOPTER STRATORAPTOR",
     "subtype": "",
@@ -198,7 +198,7 @@
   {
     "id": "40k-index-adeptus-mechanicus-4",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 155}
     ],
     "name": "ARCHAEOPTER TRANSVECTOR",
     "subtype": "",
@@ -301,7 +301,7 @@
   {
     "id": "40k-index-adeptus-mechanicus-6",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 185}
     ],
     "name": "BELISARIUS CAWL",
     "subtype": "",
@@ -426,7 +426,8 @@
   {
     "id": "40k-index-adeptus-mechanicus-8",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 65},
+      { "per": "10 models", "points": 130}
     ],
     "name": "CORPUSCARII ELECTRO-PRIESTS",
     "subtype": "",
@@ -508,7 +509,7 @@
   {
     "id": "40k-index-adeptus-mechanicus-10",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 35}
     ],
     "name": "CYBERNETICA DATASMITH",
     "subtype": "",
@@ -617,7 +618,8 @@
   {
     "id": "40k-index-adeptus-mechanicus-12",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "2 models", "points": 215},
+      { "per": "4 models", "points": 430}
     ],
     "name": "KASTELAN ROBOTS",
     "subtype": "",
@@ -753,7 +755,8 @@
   {
     "id": "40k-index-adeptus-mechanicus-14",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 80},
+      { "per": "10 models", "points": 160}
     ],
     "name": "FULGURITE ELECTRO-PRIESTS",
     "subtype": "",
@@ -825,7 +828,9 @@
   {
     "id": "40k-index-adeptus-mechanicus-16",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 50},
+      { "per": "2 models", "points": 100},
+      { "per": "3 models", "points": 150}
     ],
     "name": "IRONSTRIDER BALLISTARII",
     "subtype": "",
@@ -920,7 +925,8 @@
   {
     "id": "40k-index-adeptus-mechanicus-18",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "3 models", "points": 150},
+      { "per": "6 models", "points": 300}
     ],
     "name": "KATAPHRON BREACHERS",
     "subtype": "",
@@ -1023,7 +1029,8 @@
   {
     "id": "40k-index-adeptus-mechanicus-20",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "3 models", "points": 120},
+      { "per": "6 models", "points": 240}
     ],
     "name": "KATAPHRON DESTROYERS",
     "subtype": "",
@@ -1148,7 +1155,7 @@
   {
     "id": "40k-index-adeptus-mechanicus-22",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 140}
     ],
     "name": "ONAGER DUNECRAWLER",
     "subtype": "",
@@ -1315,7 +1322,8 @@
   {
     "id": "40k-index-adeptus-mechanicus-24",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 70},
+      { "per": "10 models", "points": 140}
     ],
     "name": "PTERAXII SKYSTALKERS",
     "subtype": "",
@@ -1424,7 +1432,8 @@
   {
     "id": "40k-index-adeptus-mechanicus-26",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 75},
+      { "per": "10 models", "points": 150}
     ],
     "name": "PTERAXII STERYLIZORS",
     "subtype": "",
@@ -1533,7 +1542,8 @@
   {
     "id": "40k-index-adeptus-mechanicus-28",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "3 models", "points": 65},
+      { "per": "6 models", "points": 130}
     ],
     "name": "SERBERYS RAIDERS",
     "subtype": "",
@@ -1632,7 +1642,8 @@
   {
     "id": "40k-index-adeptus-mechanicus-30",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "3 models", "points": 65},
+      { "per": "6 models", "points": 130}
     ],
     "name": "SERBERYS SULPHURHOUNDS",
     "subtype": "",
@@ -1767,7 +1778,7 @@
   {
     "id": "40k-index-adeptus-mechanicus-32",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "4 models", "points": 50}
     ],
     "name": "SERVITORS",
     "subtype": "",
@@ -1904,7 +1915,8 @@
   {
     "id": "40k-index-adeptus-mechanicus-34",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 80},
+      { "per": "10 models", "points": 160}
     ],
     "name": "SICARIAN INFILTRATORS",
     "subtype": "",
@@ -2008,7 +2020,8 @@
   {
     "id": "40k-index-adeptus-mechanicus-36",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 75},
+      { "per": "10 models", "points": 150}
     ],
     "name": "SICARIAN RUSTSTALKERS",
     "subtype": "",
@@ -2105,7 +2118,7 @@
   {
     "id": "40k-index-adeptus-mechanicus-38",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 45}
     ],
     "name": "SKITARII MARSHAL",
     "subtype": "",
@@ -2200,7 +2213,7 @@
   {
     "id": "40k-index-adeptus-mechanicus-40",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "10 models", "points": 125}
     ],
     "name": "SKITARII RANGERS",
     "subtype": "",
@@ -2361,7 +2374,7 @@
   {
     "id": "40k-index-adeptus-mechanicus-42",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "10 models", "points": 100}
     ],
     "name": "SKITARII VANGUARD",
     "subtype": "",
@@ -2522,7 +2535,7 @@
   {
     "id": "40k-index-adeptus-mechanicus-44",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 195}
     ],
     "name": "SKORPIUS DISINTEGRATOR",
     "subtype": "",
@@ -2636,7 +2649,7 @@
   {
     "id": "40k-index-adeptus-mechanicus-46",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 80}
     ],
     "name": "SKORPIUS DUNERIDER",
     "subtype": "",
@@ -2735,7 +2748,9 @@
   {
     "id": "40k-index-adeptus-mechanicus-48",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 75},
+      { "per": "2 models", "points": 150},
+      { "per": "3 models", "points": 225}
     ],
     "name": "SYDONIAN DRAGOONS",
     "subtype": "",
@@ -2836,7 +2851,7 @@
   {
     "id": "40k-index-adeptus-mechanicus-50",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 75}
     ],
     "name": "TECH-PRIEST DOMINUS",
     "subtype": "",
@@ -2981,7 +2996,7 @@
   {
     "id": "40k-index-adeptus-mechanicus-52",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 45}
     ],
     "name": "TECH-PRIEST ENGINSEER",
     "subtype": "",
@@ -3098,7 +3113,7 @@
   {
     "id": "40k-index-adeptus-mechanicus-54",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 60}
     ],
     "name": "TECH-PRIEST MANIPULUS",
     "subtype": "",
@@ -3211,7 +3226,7 @@
   {
     "id": "40k-index-adeptus-mechanicus-56",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 45}
     ],
     "name": "TECHNOARCHEOLOGIST",
     "subtype": "",

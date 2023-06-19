@@ -2,7 +2,7 @@
   {
     "id": "40k-index-adepta-sororitas-0",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 135}
     ],
     "name": "MORVENN VAHL",
     "subtype": "",
@@ -126,7 +126,7 @@
   {
     "id": "40k-index-adepta-sororitas-2",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 60}
     ],
     "name": "CANONESS",
     "subtype": "",
@@ -316,7 +316,7 @@
   {
     "id": "40k-index-adepta-sororitas-4",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 55}
     ],
     "name": "PALATINE",
     "subtype": "",
@@ -436,7 +436,7 @@
   {
     "id": "40k-index-adepta-sororitas-6",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 100}
     ],
     "name": "JUNITH ERUITA",
     "subtype": "",
@@ -533,7 +533,7 @@
   {
     "id": "40k-index-adepta-sororitas-8",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 35}
     ],
     "name": "MISSIONARY",
     "subtype": "",
@@ -662,7 +662,7 @@
   {
     "id": "40k-index-adepta-sororitas-10",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "3 models", "points": 150}
     ],
     "name": "SAINT CELESTINE",
     "subtype": "KEYWORDS",
@@ -787,7 +787,7 @@
   {
     "id": "40k-index-adepta-sororitas-12",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 150}
     ],
     "name": "TRIUMPH OF SAINT KATHERINE",
     "subtype": "",
@@ -931,7 +931,7 @@
   {
     "id": "40k-index-adepta-sororitas-14",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "2 models", "points": 80}
     ],
     "name": "DAEMONIFUGE",
     "subtype": "",
@@ -1034,7 +1034,7 @@
   {
     "id": "40k-index-adepta-sororitas-16",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "10 models", "points": 110}
     ],
     "name": "BATTLE SISTERS SQUAD",
     "subtype": "",
@@ -1255,7 +1255,7 @@
   {
     "id": "40k-index-adepta-sororitas-18",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "10 models", "points": 90}
     ],
     "name": "SISTERS NOVITIATE SQUAD",
     "subtype": "",
@@ -1433,7 +1433,7 @@
   {
     "id": "40k-index-adepta-sororitas-20",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "2 models", "points": 70}
     ],
     "name": "AESTRED THURGA AND AGATHAE DOLAN",
     "subtype": "",
@@ -1546,7 +1546,7 @@
   {
     "id": "40k-index-adepta-sororitas-22",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 40}
     ],
     "name": "IMAGIFIER",
     "subtype": "",
@@ -1668,7 +1668,7 @@
   {
     "id": "40k-index-adepta-sororitas-24",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 35}
     ],
     "name": "DIALOGUS",
     "subtype": "",
@@ -1780,7 +1780,7 @@
   {
     "id": "40k-index-adepta-sororitas-26",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 45}
     ],
     "name": "PREACHER",
     "subtype": "",
@@ -1893,7 +1893,8 @@
   {
     "id": "40k-index-adepta-sororitas-28",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 65},
+      { "per": "10 models", "points": 130}
     ],
     "name": "CELESTIAN SACRESANTS",
     "subtype": "",
@@ -2047,7 +2048,7 @@
   {
     "id": "40k-index-adepta-sororitas-30",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 40}
     ],
     "name": "HOSPITALLER",
     "subtype": "",
@@ -2161,7 +2162,7 @@
   {
     "id": "40k-index-adepta-sororitas-32",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 50}
     ],
     "name": "DOGMATA",
     "subtype": "",
@@ -2273,7 +2274,7 @@
   {
     "id": "40k-index-adepta-sororitas-34",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "3 models", "points": 240}
     ],
     "name": "PARAGON WARSUITS",
     "subtype": "",
@@ -2422,7 +2423,8 @@
   {
     "id": "40k-index-adepta-sororitas-36",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 75},
+      { "per": "10 models", "points": 150}
     ],
     "name": "REPENTIA SQUAD",
     "subtype": "",
@@ -2518,7 +2520,9 @@
   {
     "id": "40k-index-adepta-sororitas-38",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "2 models", "points": 20},
+      { "per": "4 models", "points": 40},
+      { "per": "6 models", "points": 60}
     ],
     "name": "CRUSADERS",
     "subtype": "",
@@ -2589,7 +2593,9 @@
   {
     "id": "40k-index-adepta-sororitas-40",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "2 models", "points": 35},
+      { "per": "4 models", "points": 70},
+      { "per": "6 models", "points": 105}
     ],
     "name": "DEATH CULT ASSASSINS",
     "subtype": "",
@@ -2660,7 +2666,7 @@
   {
     "id": "40k-index-adepta-sororitas-42",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "10 models", "points": 130}
     ],
     "name": "DOMINION SQUAD",
     "subtype": "",
@@ -2838,7 +2844,8 @@
   {
     "id": "40k-index-adepta-sororitas-44",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 70},
+      { "per": "10 models", "points": 140}
     ],
     "name": "SERAPHIM SQUAD",
     "subtype": "",
@@ -3003,7 +3010,8 @@
   {
     "id": "40k-index-adepta-sororitas-46",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 70},
+      { "per": "10 models", "points": 140}
     ],
     "name": "ZEPHYRIM SQUAD",
     "subtype": "",
@@ -3113,7 +3121,7 @@
   {
     "id": "40k-index-adepta-sororitas-48",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 130}
     ],
     "name": "RETRIBUTOR SQUAD",
     "subtype": "",
@@ -3287,7 +3295,8 @@
   {
     "id": "40k-index-adepta-sororitas-50",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 60},
+      { "per": "2 models", "points": 120}
     ],
     "name": "MORTIFIERS",
     "subtype": "",
@@ -3420,7 +3429,8 @@
   {
     "id": "40k-index-adepta-sororitas-52",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 60},
+      { "per": "2 models", "points": 120}
     ],
     "name": "PENITENT ENGINES",
     "subtype": "",
@@ -3541,7 +3551,7 @@
   {
     "id": "40k-index-adepta-sororitas-54",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 140}
     ],
     "name": "EXORCIST",
     "subtype": "",
@@ -3658,7 +3668,7 @@
   {
     "id": "40k-index-adepta-sororitas-56",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 150}
     ],
     "name": "CASTIGATOR",
     "subtype": "",
@@ -3788,7 +3798,7 @@
   {
     "id": "40k-index-adepta-sororitas-58",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 80}
     ],
     "name": "SORORITAS RHINO",
     "subtype": "",
@@ -3898,7 +3908,7 @@
   {
     "id": "40k-index-adepta-sororitas-60",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 130}
     ],
     "name": "IMMOLATOR",
     "subtype": "",
@@ -4059,7 +4069,8 @@
   {
     "id": "40k-index-adepta-sororitas-62",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "3 models", "points": 45},
+      { "per": "10 models", "points": 150}
     ],
     "name": "ARCO-FLAGELLANTS",
     "subtype": "",

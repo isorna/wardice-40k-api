@@ -2,7 +2,7 @@
   {
     "id": "40k-index-thousand-sons-0",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 110}
     ],
     "name": "AHRIMAN",
     "subtype": "",
@@ -115,7 +115,7 @@
   {
     "id": "40k-index-thousand-sons-2",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 115}
     ],
     "name": "AHRIMAN",
     "subtype": "ON DISC OF TZEENTCH",
@@ -229,7 +229,7 @@
   {
     "id": "40k-index-thousand-sons-4",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 250}
     ],
     "name": "THOUSAND SONS LAND RAIDER",
     "subtype": "",
@@ -373,7 +373,7 @@
   {
     "id": "40k-index-thousand-sons-6",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 120}
     ],
     "name": "THOUSAND SONS PREDATOR ANNIHILATOR",
     "subtype": "",
@@ -513,7 +513,7 @@
   {
     "id": "40k-index-thousand-sons-8",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 125}
     ],
     "name": "THOUSAND SONS PREDATOR DESTRUCTOR",
     "subtype": "",
@@ -654,7 +654,7 @@
   {
     "id": "40k-index-thousand-sons-10",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 75}
     ],
     "name": "THOUSAND SONS RHINO",
     "subtype": "",
@@ -778,7 +778,7 @@
   {
     "id": "40k-index-thousand-sons-12",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "2 models", "points": 65}
     ],
     "name": "THOUSAND SONS CHAOS SPAWN",
     "subtype": "",
@@ -850,7 +850,7 @@
   {
     "id": "40k-index-thousand-sons-14",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 200}
     ],
     "name": "THOUSAND SONS VINDICATOR",
     "subtype": "",
@@ -969,7 +969,7 @@
   {
     "id": "40k-index-thousand-sons-16",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 200}
     ],
     "name": "THOUSAND SONS DEFILER",
     "subtype": "",
@@ -1140,7 +1140,7 @@
   {
     "id": "40k-index-thousand-sons-18",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 90}
     ],
     "name": "EXALTED SORCERER",
     "subtype": "",
@@ -1288,7 +1288,7 @@
   {
     "id": "40k-index-thousand-sons-20",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 105}
     ],
     "name": "EXALTED SORCERER",
     "subtype": "ON DISC OF TZEENTCH",
@@ -1436,7 +1436,7 @@
   {
     "id": "40k-index-thousand-sons-22",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 135}
     ],
     "name": "THOUSAND SONS FORGEFIEND",
     "subtype": "",
@@ -1544,7 +1544,7 @@
   {
     "id": "40k-index-thousand-sons-24",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 145}
     ],
     "name": "THOUSAND SONS HELBRUTE",
     "subtype": "",
@@ -1755,7 +1755,7 @@
   {
     "id": "40k-index-thousand-sons-26",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 195}
     ],
     "name": "THOUSAND SONS HELDRAKE",
     "subtype": "",
@@ -1852,7 +1852,7 @@
   {
     "id": "40k-index-thousand-sons-28",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 75}
     ],
     "name": "INFERNAL MASTER",
     "subtype": "",
@@ -1967,7 +1967,7 @@
   {
     "id": "40k-index-thousand-sons-30",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 410}
     ],
     "name": "MAGNUS THE RED",
     "subtype": "",
@@ -2102,7 +2102,7 @@
   {
     "id": "40k-index-thousand-sons-32",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 140}
     ],
     "name": "THOUSAND SONS MAULERFIEND",
     "subtype": "",
@@ -2197,7 +2197,7 @@
   {
     "id": "40k-index-thousand-sons-34",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 145}
     ],
     "name": "MUTALITH VORTEX BEAST",
     "subtype": "",
@@ -2314,7 +2314,8 @@
   {
     "id": "40k-index-thousand-sons-36",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 95},
+      { "per": "10 models", "points": 190}
     ],
     "name": "RUBRIC MARINES",
     "subtype": "",
@@ -2493,7 +2494,8 @@
   {
     "id": "40k-index-thousand-sons-38",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 205},
+      { "per": "10 models", "points": 410}
     ],
     "name": "SCARAB OCCULT TERMINATORS",
     "subtype": "",
@@ -2638,7 +2640,7 @@
   {
     "id": "40k-index-thousand-sons-40",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 85}
     ],
     "name": "THOUSAND SONS SORCERER",
     "subtype": "",
@@ -2775,7 +2777,7 @@
   {
     "id": "40k-index-thousand-sons-42",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 105}
     ],
     "name": "THOUSAND SONS SORCERER",
     "subtype": "IN TERMINATOR ARMOUR",
@@ -2901,7 +2903,8 @@
   {
     "id": "40k-index-thousand-sons-44",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "10 models", "points": 65},
+      { "per": "20 models", "points": 130}
     ],
     "name": "THOUSAND SONS CULTISTS",
     "subtype": "",
@@ -3033,7 +3036,7 @@
   {
     "id": "40k-index-thousand-sons-46",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 210}
     ],
     "name": "THOUSAND SONS DAEMON PRINCE",
     "subtype": "",
@@ -3132,7 +3135,7 @@
   {
     "id": "40k-index-thousand-sons-48",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 190}
     ],
     "name": "THOUSAND SONS DAEMON PRINCE",
     "subtype": "WITH WINGS",
@@ -3231,7 +3234,8 @@
   {
     "id": "40k-index-thousand-sons-50",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "3 models", "points": 45},
+      { "per": "6 models", "points": 90}
     ],
     "name": "TZAANGOR ENLIGHTENED",
     "subtype": "",
@@ -3347,7 +3351,7 @@
   {
     "id": "40k-index-thousand-sons-52",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 60}
     ],
     "name": "TZAANGOR SHAMAN",
     "subtype": "",
@@ -3442,7 +3446,8 @@
   {
     "id": "40k-index-thousand-sons-54",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "10 models", "points": 65},
+      { "per": "20 models", "points": 130}
     ],
     "name": "TZAANGORS",
     "subtype": "",

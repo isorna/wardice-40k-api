@@ -2,7 +2,7 @@
   {
     "id": "40k-index-orks-0",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 185}
     ],
     "name": "BATTLEWAGON",
     "subtype": "",
@@ -206,7 +206,8 @@
   {
     "id": "40k-index-orks-2",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "10 models", "points": 105},
+      { "per": "20 models", "points": 210}
     ],
     "name": "BEAST SNAGGA BOYZ",
     "subtype": "",
@@ -322,7 +323,7 @@
   {
     "id": "40k-index-orks-4",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 80}
     ],
     "name": "BEASTBOSS",
     "subtype": "",
@@ -424,7 +425,7 @@
   {
     "id": "40k-index-orks-6",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 165}
     ],
     "name": "BEASTBOSS",
     "subtype": "ON SQUIGOSAUR",
@@ -527,7 +528,7 @@
   {
     "id": "40k-index-orks-8",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 100}
     ],
     "name": "BIG MEK",
     "subtype": "IN MEGA ARMOUR",
@@ -672,7 +673,7 @@
   {
     "id": "40k-index-orks-10",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 65}
     ],
     "name": "BIG MEK",
     "subtype": "WITH KUSTOM FORCE FIELD",
@@ -776,7 +777,7 @@
   {
     "id": "40k-index-orks-12",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 75}
     ],
     "name": "BIG MEK",
     "subtype": "WITH SHOKK ATTACK GUN",
@@ -875,7 +876,7 @@
   {
     "id": "40k-index-orks-14",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 135}
     ],
     "name": "BIG’ED BOSSBUNKA",
     "subtype": "",
@@ -984,7 +985,7 @@
   {
     "id": "40k-index-orks-16",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 115}
     ],
     "name": "BLITZA-BOMMER",
     "subtype": "",
@@ -1077,7 +1078,7 @@
   {
     "id": "40k-index-orks-18",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 90}
     ],
     "name": "BOOMDAKKA SNAZZWAGON",
     "subtype": "",
@@ -1177,7 +1178,7 @@
   {
     "id": "40k-index-orks-20",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 105}
     ],
     "name": "BOSS SNIKROT",
     "subtype": "",
@@ -1270,7 +1271,7 @@
   {
     "id": "40k-index-orks-22",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 100}
     ],
     "name": "BOSS ZAGSTRUK",
     "subtype": "",
@@ -1365,7 +1366,8 @@
   {
     "id": "40k-index-orks-24",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "10 models", "points": 85},
+      { "per": "20 models", "points": 170}
     ],
     "name": "BOYZ",
     "subtype": "",
@@ -1541,7 +1543,9 @@
   {
     "id": "40k-index-orks-26",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 Spanner and 4 Burna Boyz", "points": 65},
+      { "per": "2 Spanners and 8 Burna Boyz", "points": 130},
+      { "per": "3 Spanners and 12 Burna Boyz", "points": 195}
     ],
     "name": "BURNA BOYZ",
     "subtype": "",
@@ -1669,7 +1673,7 @@
   {
     "id": "40k-index-orks-28",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 125}
     ],
     "name": "BURNA-BOMMER",
     "subtype": "T",
@@ -1769,7 +1773,7 @@
   {
     "id": "40k-index-orks-30",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 135}
     ],
     "name": "DAKKAJET",
     "subtype": "",
@@ -1853,7 +1857,7 @@
   {
     "id": "40k-index-orks-32",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 150}
     ],
     "name": "DEFF DREAD",
     "subtype": "",
@@ -1994,7 +1998,7 @@
   {
     "id": "40k-index-orks-34",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 90}
     ],
     "name": "DEFFKILLA WARTRIKE",
     "subtype": "",
@@ -2107,7 +2111,8 @@
   {
     "id": "40k-index-orks-36",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "3 models", "points": 115},
+      { "per": "6 models", "points": 230}
     ],
     "name": "DEFFKOPTAS",
     "subtype": "",
@@ -2209,7 +2214,8 @@
   {
     "id": "40k-index-orks-38",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 95},
+      { "per": "10 models", "points": 190}
     ],
     "name": "FLASH GITZ",
     "subtype": "",
@@ -2295,7 +2301,7 @@
   {
     "id": "40k-index-orks-40",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "2 models", "points": 235}
     ],
     "name": "GHAZGHKULL THRAKA",
     "subtype": "",
@@ -2410,7 +2416,7 @@
   {
     "id": "40k-index-orks-42",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 295}
     ],
     "name": "GORKANAUT",
     "subtype": "",
@@ -2551,7 +2557,8 @@
   {
     "id": "40k-index-orks-44",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "11 models", "points": 45},
+      { "per": "22 models", "points": 90}
     ],
     "name": "GRETCHIN",
     "subtype": "",
@@ -2656,7 +2663,7 @@
   {
     "id": "40k-index-orks-46",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 180}
     ],
     "name": "HUNTA RIG",
     "subtype": "",
@@ -2785,7 +2792,7 @@
   {
     "id": "40k-index-orks-48",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 95}
     ],
     "name": "KAPTIN BADRUKK",
     "subtype": "",
@@ -2898,7 +2905,7 @@
   {
     "id": "40k-index-orks-50",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 220}
     ],
     "name": "KILL RIG",
     "subtype": "",
@@ -3038,7 +3045,8 @@
   {
     "id": "40k-index-orks-52",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "3 models", "points": 150},
+      { "per": "6 models", "points": 300}
     ],
     "name": "KILLA KANS",
     "subtype": "",
@@ -3152,7 +3160,7 @@
   {
     "id": "40k-index-orks-54",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "10 models", "points": 135}
     ],
     "name": "KOMMANDOS",
     "subtype": "",
@@ -3320,7 +3328,7 @@
   {
     "id": "40k-index-orks-56",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 85}
     ],
     "name": "KUSTOM BOOSTA-BLASTA",
     "subtype": "",
@@ -3420,7 +3428,9 @@
   {
     "id": "40k-index-orks-58",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 Spanner and 4 Lootas", "points": 55},
+      { "per": "2 Spanners and 8 Lootas", "points": 110},
+      { "per": "3 Spanners and 12 Lootas", "points": 165}
     ],
     "name": "LOOTAS",
     "subtype": "",
@@ -3538,7 +3548,7 @@
   {
     "id": "40k-index-orks-60",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 75}
     ],
     "name": "MAD DOK GROTSNIK",
     "subtype": "",
@@ -3649,7 +3659,10 @@
   {
     "id": "40k-index-orks-62",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "2 models", "points": 65},
+      { "per": "3 models", "points": 100},
+      { "per": "5 models", "points": 165},
+      { "per": "6 models", "points": 200}
     ],
     "name": "MEGANOBZ",
     "subtype": "",
@@ -3768,7 +3781,7 @@
   {
     "id": "40k-index-orks-64",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 90}
     ],
     "name": "MEGATRAKK SCRAPJET",
     "subtype": "",
@@ -3867,7 +3880,7 @@
   {
     "id": "40k-index-orks-66",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 45}
     ],
     "name": "MEK",
     "subtype": "",
@@ -3976,7 +3989,9 @@
   {
     "id": "40k-index-orks-68",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 45},
+      { "per": "2 models", "points": 90},
+      { "per": "3 models", "points": 135}
     ],
     "name": "MEK GUNZ",
     "subtype": "",
@@ -4120,7 +4135,7 @@
   {
     "id": "40k-index-orks-70",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 80}
     ],
     "name": "MORKANAUT",
     "subtype": "",
@@ -4262,7 +4277,7 @@
   {
     "id": "40k-index-orks-72",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 195}
     ],
     "name": "MOZROG SKRAGBAD",
     "subtype": "",
@@ -4358,7 +4373,7 @@
   {
     "id": "40k-index-orks-74",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 75}
     ],
     "name": "NOB",
     "subtype": "ON SMASHA SQUIG",
@@ -4460,7 +4475,7 @@
   {
     "id": "40k-index-orks-76",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 70}
     ],
     "name": "NOB",
     "subtype": "WITH WAAAGH! BANNER",
@@ -4554,7 +4569,8 @@
   {
     "id": "40k-index-orks-78",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 115},
+      { "per": "10 models", "points": 230}
     ],
     "name": "NOBZ",
     "subtype": "",
@@ -4672,7 +4688,7 @@
   {
     "id": "40k-index-orks-80",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 70}
     ],
     "name": "PAINBOSS",
     "subtype": "",
@@ -4757,7 +4773,7 @@
   {
     "id": "40k-index-orks-82",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 80}
     ],
     "name": "PAINBOY",
     "subtype": "",
@@ -4856,7 +4872,7 @@
   {
     "id": "40k-index-orks-84",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 110}
     ],
     "name": "RUKKATRUKK SQUIGBUGGY",
     "subtype": "",
@@ -4948,7 +4964,7 @@
   {
     "id": "40k-index-orks-86",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 85}
     ],
     "name": "SHOKKJUMP DRAGSTA",
     "subtype": "",
@@ -5038,7 +5054,8 @@
   {
     "id": "40k-index-orks-88",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "3 models", "points": 110},
+      { "per": "6 models", "points": 220}
     ],
     "name": "SQUIGHOG BOYZ",
     "subtype": "",
@@ -5141,7 +5158,7 @@
   {
     "id": "40k-index-orks-90",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 800}
     ],
     "name": "STOMPA",
     "subtype": "",
@@ -5302,7 +5319,8 @@
   {
     "id": "40k-index-orks-92",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 65},
+      { "per": "10 models", "points": 130}
     ],
     "name": "STORMBOYZ",
     "subtype": "",
@@ -5398,7 +5416,7 @@
   {
     "id": "40k-index-orks-94",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 135}
     ],
     "name": "TANKBUSTAS",
     "subtype": "",
@@ -5509,7 +5527,7 @@
   {
     "id": "40k-index-orks-96",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 50}
     ],
     "name": "TRUKK",
     "subtype": "",
@@ -5613,7 +5631,8 @@
   {
     "id": "40k-index-orks-98",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "3 models", "points": 75},
+      { "per": "6 models", "points": 150}
     ],
     "name": "WARBIKERS",
     "subtype": "",
@@ -5745,7 +5764,7 @@
   {
     "id": "40k-index-orks-100",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 70}
     ],
     "name": "WARBOSS",
     "subtype": "",
@@ -5868,7 +5887,7 @@
   {
     "id": "40k-index-orks-102",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 95}
     ],
     "name": "WARBOSS",
     "subtype": "IN MEGA ARMOUR",
@@ -5958,7 +5977,7 @@
   {
     "id": "40k-index-orks-104",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 175}
     ],
     "name": "WAZBOM BLASTAJET",
     "subtype": "",
@@ -6075,7 +6094,7 @@
   {
     "id": "40k-index-orks-106",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 55}
     ],
     "name": "WEIRDBOY",
     "subtype": "",
@@ -6166,7 +6185,7 @@
   {
     "id": "40k-index-orks-108",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 60}
     ],
     "name": "WURRBOY",
     "subtype": "",
@@ -6259,7 +6278,7 @@
   {
     "id": "40k-index-orks-110",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 80}
     ],
     "name": "ZODGROD WORTSNAGGA",
     "subtype": "",
@@ -6353,7 +6372,7 @@
   {
     "id": "40k-index-orks-112",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 80}
     ],
     "name": "MEKBOY WORKSHOP",
     "subtype": "",

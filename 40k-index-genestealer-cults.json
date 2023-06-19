@@ -2,7 +2,8 @@
   {
     "id": "40k-index-genestealer-cults-0",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 165},
+      { "per": "10 models", "points": 330}
     ],
     "name": "ABERRANTS",
     "subtype": "",
@@ -96,7 +97,7 @@
   {
     "id": "40k-index-genestealer-cults-2",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 75}
     ],
     "name": "ABOMINANT",
     "subtype": "",
@@ -178,7 +179,8 @@
   {
     "id": "40k-index-genestealer-cults-4",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 75},
+      { "per": "2 models", "points": 150}
     ],
     "name": "ACHILLES RIDGERUNNERS",
     "subtype": "",
@@ -301,7 +303,8 @@
   {
     "id": "40k-index-genestealer-cults-6",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 75},
+      { "per": "10 models", "points": 150}
     ],
     "name": "ACOLYTE HYBRIDS",
     "subtype": "",
@@ -442,7 +445,7 @@
   {
     "id": "40k-index-genestealer-cults-8",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 50}
     ],
     "name": "ACOLYTE ICONWARD",
     "subtype": "",
@@ -538,7 +541,8 @@
   {
     "id": "40k-index-genestealer-cults-10",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 80},
+      { "per": "10 models", "points": 160}
     ],
     "name": "ATALAN JACKALS",
     "subtype": "",
@@ -699,7 +703,7 @@
   {
     "id": "40k-index-genestealer-cults-12",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 50}
     ],
     "name": "BIOPHAGUS",
     "subtype": "",
@@ -824,7 +828,7 @@
   {
     "id": "40k-index-genestealer-cults-14",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 40}
     ],
     "name": "CLAMAVUS",
     "subtype": "",
@@ -934,7 +938,7 @@
   {
     "id": "40k-index-genestealer-cults-16",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 155}
     ],
     "name": "GOLIATH ROCKGRINDER",
     "subtype": "",
@@ -1069,7 +1073,7 @@
   {
     "id": "40k-index-genestealer-cults-18",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 110}
     ],
     "name": "GOLIATH TRUCK",
     "subtype": "",
@@ -1181,7 +1185,8 @@
   {
     "id": "40k-index-genestealer-cults-20",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 80},
+      { "per": "10 models", "points": 160}
     ],
     "name": "HYBRID METAMORPHS",
     "subtype": "",
@@ -1305,7 +1310,7 @@
   {
     "id": "40k-index-genestealer-cults-22",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 60}
     ],
     "name": "JACKAL ALPHUS",
     "subtype": "",
@@ -1408,7 +1413,7 @@
   {
     "id": "40k-index-genestealer-cults-24",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 55}
     ],
     "name": "KELERMORPH",
     "subtype": "",
@@ -1492,7 +1497,7 @@
   {
     "id": "40k-index-genestealer-cults-26",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 40}
     ],
     "name": "LOCUS",
     "subtype": "",
@@ -1592,7 +1597,7 @@
   {
     "id": "40k-index-genestealer-cults-28",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 50}
     ],
     "name": "MAGUS",
     "subtype": "",
@@ -1692,7 +1697,8 @@
   {
     "id": "40k-index-genestealer-cults-30",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "10 models", "points": 80},
+      { "per": "20 models", "points": 160}
     ],
     "name": "NEOPHYTE HYBRIDS",
     "subtype": "",
@@ -1915,7 +1921,7 @@
   {
     "id": "40k-index-genestealer-cults-32",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 50}
     ],
     "name": "NEXOS",
     "subtype": "",
@@ -2026,7 +2032,7 @@
   {
     "id": "40k-index-genestealer-cults-34",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 85}
     ],
     "name": "PATRIARCH",
     "subtype": "",
@@ -2110,7 +2116,7 @@
   {
     "id": "40k-index-genestealer-cults-36",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 70}
     ],
     "name": "PRIMUS",
     "subtype": "",
@@ -2216,7 +2222,8 @@
   {
     "id": "40k-index-genestealer-cults-38",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 90},
+      { "per": "10 models", "points": 180}
     ],
     "name": "PURESTRAIN GENESTEALERS",
     "subtype": "",
@@ -2287,7 +2294,7 @@
   {
     "id": "40k-index-genestealer-cults-40",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 55}
     ],
     "name": "REDUCTUS SABOTEUR",
     "subtype": "",
@@ -2397,7 +2404,7 @@
   {
     "id": "40k-index-genestealer-cults-42",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 50}
     ],
     "name": "SANCTUS",
     "subtype": "",

@@ -2,7 +2,7 @@
   {
     "id": "40k-index-agents-imperium-0",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 80}
     ],
     "name": "VINDICARE ASSASSIN",
     "subtype": "",
@@ -100,7 +100,7 @@
   {
     "id": "40k-index-agents-imperium-2",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 85}
     ],
     "name": "CULEXUS ASSASSIN",
     "subtype": "",
@@ -194,7 +194,7 @@
   {
     "id": "40k-index-agents-imperium-4",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 75}
     ],
     "name": "EVERSOR ASSASSIN",
     "subtype": "",
@@ -281,7 +281,7 @@
   {
     "id": "40k-index-agents-imperium-6",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 115}
     ],
     "name": "CALLIDUS ASSASSIN",
     "subtype": "",
@@ -369,7 +369,7 @@
   {
     "id": "40k-index-agents-imperium-8",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "4 models", "points": 105}
     ],
     "name": "ROGUE TRADER ENTOURAGE",
     "subtype": "",
@@ -525,7 +525,8 @@
   {
     "id": "40k-index-agents-imperium-10",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 40},
+      { "per": "10 models", "points": 80}
     ],
     "name": "VOIDSMEN-AT-ARMS",
     "subtype": "",
@@ -654,7 +655,7 @@
   {
     "id": "40k-index-agents-imperium-12",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "10 models", "points": 105}
     ],
     "name": "IMPERIAL NAVY BREACHERS",
     "subtype": "",
@@ -871,7 +872,7 @@
   {
     "id": "40k-index-agents-imperium-14",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "10-11 models", "points": 105}
     ],
     "name": "SUBDUCTOR SQUAD",
     "subtype": "",
@@ -979,7 +980,8 @@
   {
     "id": "40k-index-agents-imperium-16",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 35},
+      { "per": "10-11 models", "points": 75}
     ],
     "name": "EXACTION SQUAD",
     "subtype": "",
@@ -1171,7 +1173,7 @@
   {
     "id": "40k-index-agents-imperium-18",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "10-11 models", "points": 105}
     ],
     "name": "VIGILANT SQUAD",
     "subtype": "",
@@ -1339,7 +1341,7 @@
   {
     "id": "40k-index-agents-imperium-20",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 75}
     ],
     "name": "LORD INQUISITOR KYRIA DRAXUS",
     "subtype": "",
@@ -1447,7 +1449,7 @@
   {
     "id": "40k-index-agents-imperium-22",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 75}
     ],
     "name": "INQUISITOR COTEAZ",
     "subtype": "",
@@ -1553,7 +1555,7 @@
   {
     "id": "40k-index-agents-imperium-24",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 65}
     ],
     "name": "INQUISITOR GREYFAX",
     "subtype": "",
@@ -1665,7 +1667,7 @@
   {
     "id": "40k-index-agents-imperium-26",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 130}
     ],
     "name": "INQUISITOR KARAMAZOV",
     "subtype": "",
@@ -1754,7 +1756,7 @@
   {
     "id": "40k-index-agents-imperium-28",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 55}
     ],
     "name": "INQUISITOR",
     "subtype": "",
@@ -1883,7 +1885,7 @@
   {
     "id": "40k-index-agents-imperium-30",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 65}
     ],
     "name": "INQUISITOR EISENHORN",
     "subtype": "",
@@ -1990,7 +1992,12 @@
   {
     "id": "40k-index-agents-imperium-32",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "4 Inquisitorial Acolytes", "points": 40},
+      { "per": "4 Inquisitorial Acolytes, 1 Gun Servitor and 1 Mystic", "points": 60},
+      { "per": "10 Inquisitorial Acolytes", "points": 100},
+      { "per": "10 Inquisitorial Acolytes, 2 Gun Servitors and 2 Mystics", "points": 140},
+      { "per": "Jokaero", "points": 10},
+      { "per": "Daemonhost", "points": 10}
     ],
     "name": "INQUISITORIAL HENCHMEN",
     "subtype": "",

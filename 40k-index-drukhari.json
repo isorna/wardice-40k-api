@@ -2,7 +2,7 @@
   {
     "id": "40k-index-drukhari-0",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 85}
     ],
     "name": "ARCHON",
     "subtype": "",
@@ -107,7 +107,7 @@
   {
     "id": "40k-index-drukhari-2",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "7 models", "points": 120}
     ],
     "name": "BEASTMASTER",
     "subtype": "",
@@ -233,7 +233,7 @@
   {
     "id": "40k-index-drukhari-4",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "4 models", "points": 95}
     ],
     "name": "COURT OF THE ARCHON",
     "subtype": "",
@@ -393,7 +393,8 @@
   {
     "id": "40k-index-drukhari-6",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 50},
+      { "per": "2 models", "points": 100}
     ],
     "name": "CRONOS",
     "subtype": "",
@@ -486,7 +487,7 @@
   {
     "id": "40k-index-drukhari-8",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 105}
     ],
     "name": "DRAZHAR",
     "subtype": "",
@@ -582,7 +583,8 @@
   {
     "id": "40k-index-drukhari-10",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "3 models", "points": 105},
+      { "per": "6 models", "points": 210}
     ],
     "name": "GROTESQUES",
     "subtype": "",
@@ -665,7 +667,7 @@
   {
     "id": "40k-index-drukhari-12",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 75}
     ],
     "name": "HAEMONCULUS",
     "subtype": "",
@@ -757,7 +759,8 @@
   {
     "id": "40k-index-drukhari-14",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 110},
+      { "per": "10 models", "points": 220}
     ],
     "name": "HELLIONS",
     "subtype": "",
@@ -863,7 +866,8 @@
   {
     "id": "40k-index-drukhari-16",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 85},
+      { "per": "10 models", "points": 170}
     ],
     "name": "INCUBI",
     "subtype": "",
@@ -957,7 +961,7 @@
   {
     "id": "40k-index-drukhari-18",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "10 models", "points": 120}
     ],
     "name": "KABALITE WARRIORS",
     "subtype": "",
@@ -1123,7 +1127,7 @@
   {
     "id": "40k-index-drukhari-20",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 105}
     ],
     "name": "LELITH HESPERAX",
     "subtype": "",
@@ -1207,7 +1211,8 @@
   {
     "id": "40k-index-drukhari-22",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 70},
+      { "per": "10 models", "points": 140}
     ],
     "name": "MANDRAKES",
     "subtype": "",
@@ -1292,7 +1297,7 @@
   {
     "id": "40k-index-drukhari-24",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 90}
     ],
     "name": "RAIDER",
     "subtype": "",
@@ -1399,7 +1404,7 @@
   {
     "id": "40k-index-drukhari-26",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 95}
     ],
     "name": "RAVAGER",
     "subtype": "",
@@ -1493,7 +1498,7 @@
   {
     "id": "40k-index-drukhari-28",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 170}
     ],
     "name": "RAZORWING JETFIGHTER",
     "subtype": "",
@@ -1636,7 +1641,8 @@
   {
     "id": "40k-index-drukhari-30",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "3 models", "points": 75},
+      { "per": "6 models", "points": 150}
     ],
     "name": "REAVERS",
     "subtype": "",
@@ -1773,7 +1779,8 @@
   {
     "id": "40k-index-drukhari-32",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 120},
+      { "per": "10 models", "points": 200}
     ],
     "name": "SCOURGES",
     "subtype": "",
@@ -1962,7 +1969,7 @@
   {
     "id": "40k-index-drukhari-34",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 70}
     ],
     "name": "SUCCUBUS",
     "subtype": "",
@@ -2067,7 +2074,8 @@
   {
     "id": "40k-index-drukhari-36",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 90},
+      { "per": "2 models", "points": 180}
     ],
     "name": "TALOS",
     "subtype": "",
@@ -2235,7 +2243,7 @@
   {
     "id": "40k-index-drukhari-38",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 105}
     ],
     "name": "URIEN RAKARTH",
     "subtype": "",
@@ -2335,7 +2343,7 @@
   {
     "id": "40k-index-drukhari-40",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 80}
     ],
     "name": "VENOM",
     "subtype": "",
@@ -2460,7 +2468,7 @@
   {
     "id": "40k-index-drukhari-42",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 195}
     ],
     "name": "VOIDRAVEN BOMBER",
     "subtype": "",
@@ -2575,7 +2583,8 @@
   {
     "id": "40k-index-drukhari-44",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 65},
+      { "per": "10 models", "points": 130}
     ],
     "name": "WRACKS",
     "subtype": "",
@@ -2697,7 +2706,7 @@
   {
     "id": "40k-index-drukhari-46",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "10 models", "points": 110}
     ],
     "name": "WYCHES",
     "subtype": "",

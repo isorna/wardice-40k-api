@@ -2,7 +2,7 @@
   {
     "id": "40k-index-world-eaters-0",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 415}
     ],
     "name": "ANGRON",
     "subtype": "",
@@ -117,7 +117,7 @@
   {
     "id": "40k-index-world-eaters-2",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 95}
     ],
     "name": "KHÂRN THE BETRAYER",
     "subtype": "",
@@ -214,7 +214,7 @@
   {
     "id": "40k-index-world-eaters-4",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 155}
     ],
     "name": "LORD INVOCATUS",
     "subtype": "",
@@ -323,7 +323,7 @@
   {
     "id": "40k-index-world-eaters-6",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 220}
     ],
     "name": "WORLD EATERS DAEMON PRINCE",
     "subtype": "",
@@ -421,7 +421,7 @@
   {
     "id": "40k-index-world-eaters-8",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 215}
     ],
     "name": "WORLD EATERS DAEMON PRINCE",
     "subtype": "WITH WINGS",
@@ -523,7 +523,7 @@
   {
     "id": "40k-index-world-eaters-10",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 120}
     ],
     "name": "WORLD EATERS LORD",
     "subtype": "ON JUGGERNAUT",
@@ -642,7 +642,7 @@
   {
     "id": "40k-index-world-eaters-12",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 80}
     ],
     "name": "WORLD EATERS MASTER OF EXECUTIONS",
     "subtype": "",
@@ -734,7 +734,8 @@
   {
     "id": "40k-index-world-eaters-14",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 115},
+      { "per": "10 models", "points": 230}
     ],
     "name": "KHORNE BERZERKERS",
     "subtype": "",
@@ -862,7 +863,8 @@
   {
     "id": "40k-index-world-eaters-16",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "10 models", "points": 75},
+      { "per": "20 models", "points": 150}
     ],
     "name": "JAKHALS",
     "subtype": "",
@@ -984,7 +986,8 @@
   {
     "id": "40k-index-world-eaters-18",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 195},
+      { "per": "10 models", "points": 390}
     ],
     "name": "WORLD EATERS TERMINATOR SQUAD",
     "subtype": "",
@@ -1138,7 +1141,8 @@
   {
     "id": "40k-index-world-eaters-20",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "3 models", "points": 155},
+      { "per": "6 models", "points": 310}
     ],
     "name": "EIGHTBOUND",
     "subtype": "",
@@ -1235,7 +1239,8 @@
   {
     "id": "40k-index-world-eaters-22",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "3 models", "points": 180},
+      { "per": "6 models", "points": 360}
     ],
     "name": "EXALTED EIGHTBOUND",
     "subtype": "",
@@ -1344,7 +1349,7 @@
   {
     "id": "40k-index-world-eaters-24",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 255}
     ],
     "name": "WORLD EATERS LAND RAIDER",
     "subtype": "",
@@ -1487,7 +1492,7 @@
   {
     "id": "40k-index-world-eaters-26",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 130}
     ],
     "name": "WORLD EATERS PREDATOR ANNIHILATOR",
     "subtype": "",
@@ -1628,7 +1633,7 @@
   {
     "id": "40k-index-world-eaters-28",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 130}
     ],
     "name": "WORLD EATERS PREDATOR DESTRUCTOR",
     "subtype": "",
@@ -1769,7 +1774,7 @@
   {
     "id": "40k-index-world-eaters-30",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 210}
     ],
     "name": "WORLD EATERS DEFILER",
     "subtype": "",
@@ -1945,7 +1950,7 @@
   {
     "id": "40k-index-world-eaters-32",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 150}
     ],
     "name": "WORLD EATERS FORGEFIEND",
     "subtype": "",
@@ -2051,7 +2056,7 @@
   {
     "id": "40k-index-world-eaters-34",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 150}
     ],
     "name": "WORLD EATERS HELBRUTE",
     "subtype": "",
@@ -2262,7 +2267,7 @@
   {
     "id": "40k-index-world-eaters-36",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 215}
     ],
     "name": "WORLD EATERS HELDRAKE",
     "subtype": "",
@@ -2358,7 +2363,7 @@
   {
     "id": "40k-index-world-eaters-38",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 175}
     ],
     "name": "WORLD EATERS MAULERFIEND",
     "subtype": "",
@@ -2454,7 +2459,7 @@
   {
     "id": "40k-index-world-eaters-40",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 85}
     ],
     "name": "WORLD EATERS RHINO",
     "subtype": "",
@@ -2572,7 +2577,7 @@
   {
     "id": "40k-index-world-eaters-42",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "2 models", "points": 65}
     ],
     "name": "WORLD EATERS CHAOS SPAWN",
     "subtype": "",
@@ -2644,7 +2649,7 @@
   {
     "id": "40k-index-world-eaters-44",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 420}
     ],
     "name": "KHORNE LORD OF SKULLS",
     "subtype": "",

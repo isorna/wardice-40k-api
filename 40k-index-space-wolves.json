@@ -2,7 +2,7 @@
   {
     "id": "40k-index-space-wolves-0",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 145}
     ],
     "name": "LOGAN GRIMNAR",
     "subtype": "",
@@ -122,7 +122,7 @@
   {
     "id": "40k-index-space-wolves-2",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 235}
     ],
     "name": "LOGAN GRIMNAR",
     "subtype": "ON STORMRIDER",
@@ -213,12 +213,18 @@
   {
     "id": "40k-index-space-wolves-4",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 95}
     ],
-    "name": "RANGED WEAPONS",
-    "subtype": "RANGE",
+    "name": "NJAL STORMCALLER",
+    "subtype": "",
     "keywords": [
-      "BS"
+      "Infantry",
+      "Character",
+      "Epic Hero",
+      "Psyker",
+      "Imperium",
+      "Terminator",
+      "Njal Stormcaller"
     ],
     "weapons": {
       "ranged": [
@@ -336,7 +342,7 @@
   {
     "id": "40k-index-space-wolves-6",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 220}
     ],
     "name": "BJORN THE FELL-HANDED",
     "subtype": "",
@@ -499,7 +505,7 @@
   {
     "id": "40k-index-space-wolves-8",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 105}
     ],
     "name": "ARJAC ROCKFIST",
     "subtype": "",
@@ -609,7 +615,7 @@
   {
     "id": "40k-index-space-wolves-10",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 85}
     ],
     "name": "ULRIK THE SLAYER",
     "subtype": "",
@@ -723,7 +729,7 @@
   {
     "id": "40k-index-space-wolves-12",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 105}
     ],
     "name": "RAGNAR BLACKMANE",
     "subtype": "",
@@ -828,7 +834,7 @@
   {
     "id": "40k-index-space-wolves-14",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 80}
     ],
     "name": "KROM DRAGONGAZE",
     "subtype": "",
@@ -927,7 +933,7 @@
   {
     "id": "40k-index-space-wolves-16",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 95}
     ],
     "name": "HARALD DEATHWOLF",
     "subtype": "",
@@ -1032,7 +1038,7 @@
   {
     "id": "40k-index-space-wolves-18",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 85}
     ],
     "name": "CANIS WOLFBORN",
     "subtype": "",
@@ -1138,7 +1144,7 @@
   {
     "id": "40k-index-space-wolves-20",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 80}
     ],
     "name": "WOLF GUARD BATTLE LEADER",
     "subtype": "IN TERMINATOR ARMOUR",
@@ -1323,7 +1329,7 @@
   {
     "id": "40k-index-space-wolves-22",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 100}
     ],
     "name": "WOLF LORD",
     "subtype": "ON THUNDERWOLF",
@@ -1538,7 +1544,7 @@
   {
     "id": "40k-index-space-wolves-24",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 95}
     ],
     "name": "WOLF GUARD BATTLE LEADER",
     "subtype": "ON THUNDERWOLF",
@@ -1760,10 +1766,11 @@
   {
     "id": "40k-index-space-wolves-26",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "10 models", "points": 140},
+      { "per": "15 models", "points": 210}
     ],
     "name": "BLOOD CLAWS",
-    "subtype": "RANGED WEAPONS",
+    "subtype": "",
     "keywords": [
       "A"
     ],
@@ -1999,7 +2006,8 @@
   {
     "id": "40k-index-space-wolves-28",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 90},
+      { "per": "10 models", "points": 180}
     ],
     "name": "GREY HUNTERS",
     "subtype": "RANGED WEAPONS",
@@ -2234,7 +2242,8 @@
   {
     "id": "40k-index-space-wolves-30",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 95},
+      { "per": "10 models", "points": 190}
     ],
     "name": "WOLF GUARD",
     "subtype": "",
@@ -2386,7 +2395,7 @@
   {
     "id": "40k-index-space-wolves-32",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 55}
     ],
     "name": "LUKAS THE TRICKSTER",
     "subtype": "",
@@ -2497,7 +2506,8 @@
   {
     "id": "40k-index-space-wolves-34",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 200},
+      { "per": "10 models", "points": 400}
     ],
     "name": "WOLF GUARD TERMINATORS",
     "subtype": "",
@@ -2707,7 +2717,8 @@
   {
     "id": "40k-index-space-wolves-36",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 95},
+      { "per": "10 models", "points": 190}
     ],
     "name": "HOUNDS OF MORKAI",
     "subtype": "",
@@ -2814,7 +2825,8 @@
   {
     "id": "40k-index-space-wolves-38",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 100},
+      { "per": "10 models", "points": 200}
     ],
     "name": "WULFEN",
     "subtype": "",
@@ -2913,7 +2925,7 @@
   {
     "id": "40k-index-space-wolves-40",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 155}
     ],
     "name": "WULFEN DREADNOUGHT",
     "subtype": "",
@@ -3032,7 +3044,7 @@
   {
     "id": "40k-index-space-wolves-42",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 190}
     ],
     "name": "MURDERFANG",
     "subtype": "",
@@ -3132,7 +3144,8 @@
   {
     "id": "40k-index-space-wolves-44",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "3 models", "points": 100},
+      { "per": "6 models", "points": 200}
     ],
     "name": "THUNDERWOLF CAVALRY",
     "subtype": "",
@@ -3264,7 +3277,8 @@
   {
     "id": "40k-index-space-wolves-46",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 30},
+      { "per": "10 models", "points": 60}
     ],
     "name": "FENRISIAN WOLVES",
     "subtype": "",
@@ -3336,7 +3350,9 @@
   {
     "id": "40k-index-space-wolves-48",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 95},
+      { "per": "10 models", "points": 190},
+      { "per": "15 models", "points": 285}
     ],
     "name": "SKYCLAWS",
     "subtype": "",
@@ -3545,7 +3561,8 @@
   {
     "id": "40k-index-space-wolves-50",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 150},
+      { "per": "6 models", "points": 180}
     ],
     "name": "LONG FANGS",
     "subtype": "",
@@ -3790,7 +3807,7 @@
   {
     "id": "40k-index-space-wolves-52",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 300}
     ],
     "name": "STORMFANG GUNSHIP",
     "subtype": "",
@@ -3962,7 +3979,7 @@
   {
     "id": "40k-index-space-wolves-54",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 250}
     ],
     "name": "STORMWOLF",
     "subtype": "",
@@ -4122,10 +4139,10 @@
   {
     "id": "40k-index-space-wolves-56",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 30}
     ],
     "name": "WOLF GUARD PACK LEADER",
-    "subtype": "RANGED WEAPONS",
+    "subtype": "",
     "keywords": [
       "A"
     ],
@@ -4391,7 +4408,7 @@
   {
     "id": "40k-index-space-wolves-58",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 40}
     ],
     "name": "WOLF GUARD PACK LEADER",
     "subtype": "WITH JUMP PACK",
@@ -4598,7 +4615,7 @@
   {
     "id": "40k-index-space-wolves-60",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 45}
     ],
     "name": "WOLF GUARD PACK LEADER",
     "subtype": "IN TERMINATOR ARMOUR",
@@ -4857,10 +4874,10 @@
   {
     "id": "40k-index-space-wolves-62",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 60}
     ],
     "name": "IRON PRIEST",
-    "subtype": "RANGED WEAPONS",
+    "subtype": "",
     "keywords": [
       "A"
     ],
@@ -5033,10 +5050,10 @@
   {
     "id": "40k-index-space-wolves-64",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 20}
     ],
     "name": "CYBERWOLF",
-    "subtype": "MELEE WEAPONS",
+    "subtype": "",
     "keywords": [
       "A"
     ],
@@ -5159,10 +5176,11 @@
   {
     "id": "40k-index-space-wolves-66",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "5 models", "points": 80},
+      { "per": "10 models", "points": 160}
     ],
     "name": "WOLF SCOUTS",
-    "subtype": "RANGED WEAPONS",
+    "subtype": "",
     "keywords": [
       "A"
     ],
@@ -5452,10 +5470,10 @@
   {
     "id": "40k-index-space-wolves-68",
     "points": [
-      { "per": "1 model", "points": 0}
+      { "per": "1 model", "points": 170}
     ],
     "name": "SPACE WOLVES VENERABLE DREADNOUGHT",
-    "subtype": "RANGED WEAPONS",
+    "subtype": "",
     "keywords": [
       "A"
     ],

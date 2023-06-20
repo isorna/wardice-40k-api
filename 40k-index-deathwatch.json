@@ -1,4 +1,11 @@
-[
+{
+  "factionId": "deathwatch",
+  "rules": {
+    "name": "",
+    "rules": []
+  },
+  "detachments": [],
+  "profiles": [
   {
     "id": "40k-index-deathwatch-0",
     "points": [
@@ -2252,3 +2259,4 @@
     ]
   }
 ]
+}

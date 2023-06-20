@@ -1,4 +1,11 @@
-[
+{
+  "factionId": "death-guard",
+  "rules": {
+    "name": "",
+    "rules": []
+  },
+  "detachments": [],
+  "profiles": [
   {
     "id": "40k-index-death-guard-0",
     "points": [
@@ -3979,3 +3986,4 @@
     ]
   }
 ]
+}

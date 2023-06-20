@@ -1,4 +1,11 @@
-[
+{
+  "factionId": "adeptus-astartes",
+  "rules": {
+    "name": "",
+    "rules": []
+  },
+  "detachments": [],
+  "profiles": [
   {
     "id": "40k-index-adeptus-astartes-0",
     "points": [
@@ -16905,3 +16912,4 @@
     ]
   }
 ]
+}

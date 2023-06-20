@@ -1,4 +1,11 @@
-[
+{
+  "factionId": "imperial-knights",
+  "rules": {
+    "name": "",
+    "rules": []
+  },
+  "detachments": [],
+  "profiles": [
   {
     "id": "40k-index-imperial-knights-0",
     "points": [
@@ -1779,3 +1786,4 @@
     ]
   }
 ]
+}

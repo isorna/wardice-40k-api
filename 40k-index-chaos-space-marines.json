@@ -1,4 +1,11 @@
-[
+{
+  "factionId": "chaos-space-marines",
+  "rules": {
+    "name": "",
+    "rules": []
+  },
+  "detachments": [],
+  "profiles": [
   {
     "id": "40k-index-chaos-space-marines-0",
     "points": [
@@ -6541,3 +6548,4 @@
     ]
   }
 ]
+}

@@ -1,4 +1,11 @@
-[
+{
+  "factionId": "tyranids",
+  "rules": {
+    "name": "",
+    "rules": []
+  },
+  "detachments": [],
+  "profiles": [
   {
     "id": "40k-index-tyranids-0",
     "points": [
@@ -4544,3 +4551,4 @@
     ]
   }
 ]
+}

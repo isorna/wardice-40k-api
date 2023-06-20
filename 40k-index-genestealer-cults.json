@@ -1,4 +1,11 @@
-[
+{
+  "factionId": "genestealer-cults",
+  "rules": {
+    "name": "",
+    "rules": []
+  },
+  "detachments": [],
+  "profiles": [
   {
     "id": "40k-index-genestealer-cults-0",
     "points": [
@@ -2495,3 +2502,4 @@
     ]
   }
 ]
+}

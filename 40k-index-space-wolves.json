@@ -1,4 +1,11 @@
-[
+{
+  "factionId": "space-wolves",
+  "rules": {
+    "name": "",
+    "rules": []
+  },
+  "detachments": [],
+  "profiles": [
   {
     "id": "40k-index-space-wolves-0",
     "points": [
@@ -5728,3 +5735,4 @@
     ]
   }
 ]
+}

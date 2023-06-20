@@ -1,4 +1,11 @@
-[
+{
+  "factionId": "black-templars",
+  "rules": {
+    "name": "",
+    "rules": []
+  },
+  "detachments": [],
+  "profiles": [
   {
     "id": "40k-index-black-templars-0",
     "points": [
@@ -2246,3 +2253,4 @@
     ]
   }
 ]
+}

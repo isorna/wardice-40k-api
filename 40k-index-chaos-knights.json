@@ -1,4 +1,11 @@
-[
+{
+  "factionId": "chaos-knights",
+  "rules": {
+    "name": "",
+    "rules": []
+  },
+  "detachments": [],
+  "profiles": [
   {
     "id": "40k-index-chaos-knights-0",
     "points": [
@@ -725,3 +732,4 @@
     ]
   }
 ]
+}

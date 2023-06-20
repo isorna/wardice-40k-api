@@ -1,4 +1,11 @@
-[
+{
+  "factionId": "thousand-sons",
+  "rules": {
+    "name": "",
+    "rules": []
+  },
+  "detachments": [],
+  "profiles": [
   {
     "id": "40k-index-thousand-sons-0",
     "points": [
@@ -3547,3 +3554,4 @@
     ]
   }
 ]
+}

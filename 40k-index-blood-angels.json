@@ -1,4 +1,11 @@
-[
+{
+  "factionId": "blood-angels",
+  "rules": {
+    "name": "",
+    "rules": []
+  },
+  "detachments": [],
+  "profiles": [
   {
     "id": "40k-index-blood-angels-0",
     "points": [
@@ -2454,3 +2461,4 @@
     ]
   }
 ]
+}

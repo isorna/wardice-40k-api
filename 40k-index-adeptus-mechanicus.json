@@ -1,4 +1,11 @@
-[
+{
+  "factionId": "adeptus-mechanicus",
+  "rules": {
+    "name": "",
+    "rules": []
+  },
+  "detachments": [],
+  "profiles": [
   {
     "id": "40k-index-adeptus-mechanicus-0",
     "points": [
@@ -3327,3 +3334,4 @@
     ]
   }
 ]
+}

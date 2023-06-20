@@ -1,4 +1,11 @@
-[
+{
+  "factionId": "tau-empire",
+  "rules": {
+    "name": "",
+    "rules": []
+  },
+  "detachments": [],
+  "profiles": [
   {
     "id": "40k-index-tau-empire-0",
     "points": [
@@ -5367,3 +5374,4 @@
     ]
   }
 ]
+}

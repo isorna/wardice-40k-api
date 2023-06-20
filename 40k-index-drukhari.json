@@ -1,4 +1,11 @@
-[
+{
+  "factionId": "drukhari",
+  "rules": {
+    "name": "",
+    "rules": []
+  },
+  "detachments": [],
+  "profiles": [
   {
     "id": "40k-index-drukhari-0",
     "points": [
@@ -2810,3 +2817,4 @@
     ]
   }
 ]
+}

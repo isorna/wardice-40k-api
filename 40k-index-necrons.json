@@ -1,4 +1,11 @@
-[
+{
+  "factionId": "necrons",
+  "rules": {
+    "name": "",
+    "rules": []
+  },
+  "detachments": [],
+  "profiles": [
   {
     "id": "40k-index-necrons-0",
     "points": [
@@ -4872,3 +4879,4 @@
     ]
   }
 ]
+}

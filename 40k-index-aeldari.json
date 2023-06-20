@@ -1,4 +1,11 @@
-[
+{
+  "factionId": "aeldari",
+  "rules": {
+    "name": "",
+    "rules": []
+  },
+  "detachments": [],
+  "profiles": [
   {
     "id": "40k-index-aledari-0",
     "points": [
@@ -7233,3 +7240,4 @@
     ]
   }
 ]
+}

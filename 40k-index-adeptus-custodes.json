@@ -1,4 +1,11 @@
-[
+{
+  "factionId": "adeptus-custodes",
+  "rules": {
+    "name": "",
+    "rules": []
+  },
+  "detachments": [],
+  "profiles": [
   {
     "id": "40k-index-adeptus-custodes-0",
     "points": [
@@ -2197,3 +2204,4 @@
     ]
   }
 ]
+}

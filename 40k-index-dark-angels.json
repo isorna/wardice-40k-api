@@ -1,4 +1,11 @@
-[
+{
+  "factionId": "dark-angels",
+  "rules": {
+    "name": "",
+    "rules": []
+  },
+  "detachments": [],
+  "profiles": [
   {
     "id": "40k-index-dark-angels-0",
     "points": [
@@ -2344,3 +2351,4 @@
     ]
   }
 ]
+}

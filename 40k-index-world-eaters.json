@@ -1,4 +1,11 @@
-[
+{
+  "factionId": "world-eaters",
+  "rules": {
+    "name": "",
+    "rules": []
+  },
+  "detachments": [],
+  "profiles": [
   {
     "id": "40k-index-world-eaters-0",
     "points": [
@@ -2787,3 +2794,4 @@
     ]
   }
 ]
+}

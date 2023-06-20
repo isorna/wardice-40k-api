@@ -1,4 +1,11 @@
-[
+{
+  "factionId": "agents-imperium",
+  "rules": {
+    "name": "",
+    "rules": []
+  },
+  "detachments": [],
+  "profiles": [
   {
     "id": "40k-index-agents-imperium-0",
     "points": [
@@ -2201,3 +2208,4 @@
     ]
   }
 ]
+}

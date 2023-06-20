@@ -1,4 +1,11 @@
-[
+{
+  "factionId": "astra-militarum",
+  "rules": {
+    "name": "",
+    "rules": []
+  },
+  "detachments": [],
+  "profiles": [
   {
     "id": "40k-index-astra-militarum-0",
     "points": [
@@ -9326,3 +9333,4 @@
     ]
   }
 ]
+}

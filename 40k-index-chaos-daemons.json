@@ -1,4 +1,11 @@
-[
+{
+  "factionId": "chaos-daemons",
+  "rules": {
+    "name": "",
+    "rules": []
+  },
+  "detachments": [],
+  "profiles": [
   {
     "id": "40k-index-chaos-daemons-0",
     "points": [
@@ -5508,3 +5515,4 @@
     ]
   }
 ]
+}

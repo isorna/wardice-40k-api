@@ -1,4 +1,11 @@
-[
+{
+  "factionId": "grey-knights",
+  "rules": {
+    "name": "",
+    "rules": []
+  },
+  "detachments": [],
+  "profiles": [
   {
     "id": "40k-index-grey-knights-0",
     "points": [
@@ -3687,3 +3694,4 @@
     ]
   }
 ]
+}

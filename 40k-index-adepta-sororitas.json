@@ -1,4 +1,11 @@
-[
+{
+  "factionId": "adepta-sororitas",
+  "rules": {
+    "name": "",
+    "rules": []
+  },
+  "detachments": [],
+  "profiles": [
   {
     "id": "40k-index-adepta-sororitas-0",
     "points": [
@@ -4141,3 +4148,4 @@
     ]
   }
 ]
+}

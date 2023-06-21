@@ -36,7 +36,7 @@
         {
           "title": "WARRIOR PRIDE",
           "cost": "1CP",
-          "category": "BATTLE TACTIC STRATAGEM",
+          "category": "OATHBAND - BATTLE TACTIC STRATAGEM",
           "phase": ["FIGHT"],
           "rules": {
             "when": "Fight phase",
@@ -47,7 +47,7 @@
         {
           "title": "ANCESTRAL SENTENCE",
           "cost": "1CP",
-          "category": "BATTLE TACTIC STRATAGEM",
+          "category": "OATHBAND - BATTLE TACTIC STRATAGEM",
           "phase": ["SHOOTING"],
           "rules": {
             "when": "Your Shooting phase",
@@ -58,7 +58,7 @@
         {
           "title": "ORDERED RETREAT",
           "cost": "1CP",
-          "category": "STRATEGIC PLOY STRATAGEM",
+          "category": "OATHBAND - STRATEGIC PLOY STRATAGEM",
           "phase": ["MOVEMENT"],
           "rules": {
             "when": "Your Movement phase, just after a Leagues of Votann unit from your army Falls Back.",
@@ -69,7 +69,7 @@
         {
           "title": "REACTIVE REPRISAL",
           "cost": "2CP",
-          "category": "BATTLE TACTIC STRATAGEM",
+          "category": "OATHBAND - BATTLE TACTIC STRATAGEM",
           "phase": ["SHOOTING"],
           "rules": {
             "when": "Your opponent’s Shooting phase, just after an enemy unit that has one or more Judgement tokens has resolved its attacks.",
@@ -80,7 +80,7 @@
         {
           "title": "NEWFOUND NEMESIS",
           "cost": "1CP",
-          "category": "STRATEGIC PLOY STRATAGEM",
+          "category": "OATHBAND - STRATEGIC PLOY STRATAGEM",
           "phase": ["FIGHT", "SHOOTING"],
           "rules": {
             "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit 1CP has resolved its attacks.",
@@ -91,7 +91,7 @@
         {
           "title": "VOID ARMOUR",
           "cost": "1CP",
-          "category": "STRATAGEM",
+          "category": "OATHBAND - WARGEAR STRATAGEM",
           "phase": ["FIGHT", "SHOOTING"],
           "rules": {
             "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
@@ -147,7 +147,6 @@
         { "per": "1 model", "points": 115}
       ],
       "name": "ÛTHAR THE DESTINED",
-      "subtype": "",
       "keywords": [
         "Infantry",
         "Character",
@@ -284,7 +283,6 @@
         { "per": "1 model", "points": 90}
       ],
       "name": "KÂHL",
-      "subtype": "",
       "keywords": [
         "Infantry",
         "Character",
@@ -440,7 +438,6 @@
         { "per": "1 model", "points": 75}
       ],
       "name": "EINHYR CHAMPION",
-      "subtype": "",
       "keywords": [
         "Infantry",
         "Character",
@@ -576,7 +573,6 @@
         { "per": "3 models", "points": 75}
       ],
       "name": "GRIMNYR",
-      "subtype": "",
       "keywords": [
         {
           "keywordGroup": "KEYWORDS - ALL MODELS",
@@ -757,7 +753,6 @@
         { "per": "5 models", "points": 75}
       ],
       "name": "BRÔKHYR IRON-MASTER",
-      "subtype": "",
       "keywords": [
         {
           "keywordGroup": "KEYWORDS - ALL MODELS",
@@ -965,7 +960,6 @@
         { "per": "10 models", "points": 135}
       ],
       "name": "HEARTHKYN WARRIORS",
-      "subtype": "",
       "keywords": [
         "Infantry",
         "Battleline",
@@ -1229,7 +1223,6 @@
         { "per": "10 models", "points": 330}
       ],
       "name": "EINHYR HEARTHGUARD",
-      "subtype": "",
       "keywords": [
         "Infantry",
         "Exo-armour",
@@ -1378,7 +1371,6 @@
         { "per": "10 models", "points": 270}
       ],
       "name": "CTHONIAN BESERKS",
-      "subtype": "",
       "keywords": [
         "Infantry",
         "Cthonian Beserks"
@@ -1515,7 +1507,6 @@
         { "per": "6 models", "points": 210}
       ],
       "name": "HERNKYN PIONEERS",
-      "subtype": "",
       "keywords": [
         "Mounted",
         "Grenades",
@@ -1681,7 +1672,6 @@
         { "per": "1 model", "points": 120}
       ],
       "name": "SAGITAUR",
-      "subtype": "",
       "keywords": [
         "Vehicle",
         "Transport",
@@ -1839,7 +1829,6 @@
         { "per": "6 models", "points": 190}
       ],
       "name": "BRÔKHYR THUNDERKYN",
-      "subtype": "",
       "keywords": [
         "Infantry",
         "Exo-frame",
@@ -1951,7 +1940,6 @@
         { "per": "1 model", "points": 245}
       ],
       "name": "HEKATON LAND FORTRESS",
-      "subtype": "",
       "keywords": [
         "Vehicle",
         "Transport",

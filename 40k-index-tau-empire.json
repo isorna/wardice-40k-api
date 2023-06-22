@@ -158,17 +158,19 @@
     {
       "name": "GUN DRONE",
       "text": "The bearer is equipped with the following ranged weapon",
-      "weapons": [
-        {
-          "name": "Twin pulse carbine [ASSAULT, TWIN-LINKED]",
-          "range": "20\"",
-          "a": "2",
-          "bws": "5+",
-          "s": "5",
-          "ap": "0",
-          "d": "1"
-        }
-      ]
+      "weapons": {
+        "ranged": [
+          {
+            "name": "Twin pulse carbine [ASSAULT, TWIN-LINKED]",
+            "range": "20\"",
+            "a": "2",
+            "bws": "5+",
+            "s": "5",
+            "ap": "0",
+            "d": "1"
+          }
+        ]
+      }
     },
     {
       "name": "MARKER DRONE",
@@ -177,17 +179,19 @@
     {
       "name": "MISSILE DRONE",
       "text": "The bearer is equipped with the following ranged weapon",
-      "weapons": [
-        {
-          "name": "Missile pod",
-          "range": "30\"",
-          "a": "2",
-          "bws": "5+",
-          "s": "7",
-          "ap": "-2",
-          "d": "2"
-        }
-      ]
+      "weapons": {
+        "ranged": [
+          {
+            "name": "Missile pod",
+            "range": "30\"",
+            "a": "2",
+            "bws": "5+",
+            "s": "7",
+            "ap": "-2",
+            "d": "2"
+          }
+        ]
+      }
     },
     {
       "name": "SHIELD DRONE",

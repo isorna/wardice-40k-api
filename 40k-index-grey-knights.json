@@ -89,7 +89,7 @@
           "■",
           "1 Kaldor Draigo",
           "- Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Scourging; storm bolter;",
           "the Titansword."
         ]
@@ -97,7 +97,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Brotherhood Terminator Squad",
           "■",
@@ -184,14 +184,14 @@
           "■",
           "1 Grand Master Voldus -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "storm bolter; Malleus Argyrum."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Brotherhood Terminator Squad",
           "■",
@@ -298,7 +298,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model’s storm bolter can be replaced with one of the following:",
+          "This model’s storm bolter can be replaced with one of the following",
           "◦",
           "1 incinerator",
           "◦",
@@ -312,7 +312,7 @@
         "values": [
           "■",
           "1 Grand Master",
-          "This model is equipped with:",
+          "This model is equipped with",
           "storm bolter;",
           "Nemesis force weapon."
         ]
@@ -320,7 +320,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Brotherhood Terminator Squad",
           "■",
@@ -449,13 +449,13 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model’s dreadfists can be replaced with one of the following:",
+          "This model’s dreadfists can be replaced with one of the following",
           "◦",
           "1 Nemesis daemon greathammer",
           "◦",
           "1 Nemesis greatsword",
           "■",
-          "This model can be equipped with up to two of the following, but cannot take duplicates:",
+          "This model can be equipped with up to two of the following, but cannot take duplicates",
           "◦",
           "1 gatling psilencer",
           "◦",
@@ -469,7 +469,7 @@
         "values": [
           "■",
           "1 Grand Master in Nemesis Dreadknight",
-          "This model is equipped with:",
+          "This model is equipped with",
           "dreadfists.",
           "GRAND MASTER",
           "IN NEMESIS DREADKNIGHT",
@@ -564,7 +564,7 @@
           "■",
           "1 Castellan Crowe -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Purifying Flame; storm bolter;",
           "Black Blade of Antwyr."
         ]
@@ -572,7 +572,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Purifier Squad",
           "CASTELLAN CROWE",
@@ -660,7 +660,7 @@
           "■",
           "1 Brother-Captain Stern -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "storm bolter;",
           "Nemesis force sword."
         ]
@@ -668,7 +668,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Brotherhood Terminator Squad",
           "■",
@@ -774,7 +774,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model’s storm bolter can be replaced with one of the following:",
+          "This model’s storm bolter can be replaced with one of the following",
           "◦",
           "1 incinerator",
           "◦",
@@ -788,7 +788,7 @@
         "values": [
           "■",
           "1 Brother-Captain",
-          "This model is equipped with:",
+          "This model is equipped with",
           "storm bolter;",
           "Nemesis force weapon."
         ]
@@ -796,7 +796,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Brotherhood Terminator Squad",
           "■",
@@ -883,7 +883,7 @@
         "values": [
           "■",
           "1 Brotherhood Champion",
-          "This model is equipped with:",
+          "This model is equipped with",
           "storm bolter;",
           "Nemesis force weapon."
         ]
@@ -891,7 +891,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Purgation Squad",
           "■",
@@ -1000,7 +1000,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model can be equipped with one of the following:",
+          "This model can be equipped with one of the following",
           "◦",
           "1 combi-weapon",
           "◦",
@@ -1012,7 +1012,7 @@
         "values": [
           "■",
           "1 Brotherhood Librarian",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Purge Soul;",
           "Nemesis force weapon."
         ]
@@ -1020,7 +1020,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Brotherhood Terminator Squad",
           "■",
@@ -1157,7 +1157,7 @@
         "values": [
           "■",
           "1 Brotherhood Techmarine",
-          "This model is equipped with:",
+          "This model is equipped with",
           "boltgun; flamer; plasma cutter;",
           "Omnissian power axe; servo-arms."
         ]
@@ -1165,7 +1165,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Servitors",
           "■",
@@ -1252,14 +1252,14 @@
         "values": [
           "■",
           "1 Brotherhood Chaplain",
-          "This model is equipped with:",
+          "This model is equipped with",
           "storm bolter; crozius arcanum."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Brotherhood Terminator Squad",
           "■",
@@ -1369,7 +1369,7 @@
         "values": [
           "■",
           "For every 5 models in this unit, 1 Brotherhood Terminator’s storm bolter can be replaced with one of",
-          "the following:",
+          "the following",
           "◦",
           "1 incinerator",
           "◦",
@@ -1390,7 +1390,7 @@
           "1 Terminator Justicar",
           "■",
           "4-9 Brotherhood Terminators",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "storm bolter;",
           "Nemesis force weapon.",
           "BROTHERHOOD TERMINATOR SQUAD",
@@ -1505,7 +1505,7 @@
         "values": [
           "■",
           "For every 5 models in this unit, 1 Grey Knight’s storm bolter and Nemesis force weapon can be",
-          "replaced with one of the following:",
+          "replaced with one of the following",
           "◦",
           "1 incinerator and 1 close combat weapon",
           "◦",
@@ -1521,7 +1521,7 @@
           "1 Justicar",
           "■",
           "4-9 Grey Knights",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "storm bolter;",
           "Nemesis force weapon.",
           "STRIKE SQUAD",
@@ -1628,7 +1628,7 @@
         "values": [
           "■",
           "For every 5 models in this unit, up to 2 Paladins can each have their storm bolter replaced with one of",
-          "the following:",
+          "the following",
           "◦",
           "1 incinerator",
           "◦",
@@ -1637,7 +1637,7 @@
           "1 psycannon",
           "■",
           "1 Paladin equipped with a storm bolter and Nemesis force weapon can be equipped with 1 Ancient’s",
-          "banner. That model’s storm bolter can be replaced with one of the following:",
+          "banner. That model’s storm bolter can be replaced with one of the following",
           "◦",
           "1 incinerator",
           "◦",
@@ -1653,7 +1653,7 @@
           "1 Paragon",
           "■",
           "4-9 Paladins",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "storm bolter;",
           "Nemesis force weapon.",
           "PALADIN SQUAD",
@@ -1776,7 +1776,7 @@
         "values": [
           "■",
           "For every 5 models in this unit, up to 2 Purifiers can each have their storm bolter and Nemesis force",
-          "weapon replaced with one of the following:",
+          "weapon replaced with one of the following",
           "◦",
           "1 incinerator and 1 close combat weapon",
           "◦",
@@ -1792,7 +1792,7 @@
           "1 Knight of the Flame",
           "■",
           "4-9 Purifiers",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "Purifying Flame; storm bolter;",
           "Nemesis force weapon.",
           "PURIFIER SQUAD",
@@ -1906,7 +1906,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "Up to 2 models can each have their Servitor’s servo-arm replaced with one of the following:",
+          "Up to 2 models can each have their Servitor’s servo-arm replaced with one of the following",
           "◦",
           "1 heavy bolter and 1 Servitor’s tools",
           "◦",
@@ -1920,7 +1920,7 @@
         "values": [
           "■",
           "4 Servitors",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "Servitor’s servo-arm.",
           "SERVITOR RETINUE",
           "At the start of the Declare Battle Formations step, this unit",
@@ -2090,7 +2090,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model’s assault cannon can be replaced with one of the following:",
+          "This model’s assault cannon can be replaced with one of the following",
           "◦",
           "1 heavy plasma cannon",
           "◦",
@@ -2098,7 +2098,7 @@
           "◦",
           "1 twin lascannon",
           "■",
-          "This model’s storm bolter and Dreadnought combat weapon can be replaced with one of the following:",
+          "This model’s storm bolter and Dreadnought combat weapon can be replaced with one of the following",
           "◦",
           "1 missile launcher and 1 armoured feet",
           "◦",
@@ -2110,7 +2110,7 @@
         "values": [
           "■",
           "1 Venerable Dreadnought",
-          "This model is equipped with:",
+          "This model is equipped with",
           "assault cannon; storm bolter;",
           "Dreadnought combat weapon.",
           "GREY KNIGHTS VENERABLE DREADNOUGHT",
@@ -2226,7 +2226,7 @@
         "values": [
           "■",
           "For every 5 models in this unit, 1 Interceptor’s storm bolter and Nemesis force weapon can be",
-          "replaced with one of the following:",
+          "replaced with one of the following",
           "◦",
           "1 incinerator and 1 close combat weapon",
           "◦",
@@ -2242,7 +2242,7 @@
           "1 Interceptor Justicar",
           "■",
           "4-9 Interceptors",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "storm bolter;",
           "Nemesis force weapon.",
           "INTERCEPTOR SQUAD",
@@ -2356,7 +2356,7 @@
         "values": [
           "■",
           "Up to 4 Purgators can each have their storm bolter and Nemesis force weapon replaced with one of",
-          "the following:",
+          "the following",
           "◦",
           "1 incinerator and 1 close combat weapon",
           "◦",
@@ -2372,7 +2372,7 @@
           "1 Purgator Justicar",
           "■",
           "4-9 Purgators",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "storm bolter;",
           "Nemesis force weapon.",
           "PURGATION SQUAD",
@@ -2497,13 +2497,13 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model’s dreadfists can be replaced with one of the following:",
+          "This model’s dreadfists can be replaced with one of the following",
           "◦",
           "1 Nemesis daemon greathammer",
           "◦",
           "1 Nemesis greatsword",
           "■",
-          "This model can be equipped with up to two of the following, but cannot take duplicates:",
+          "This model can be equipped with up to two of the following, but cannot take duplicates",
           "◦",
           "1 gatling psilencer",
           "◦",
@@ -2517,7 +2517,7 @@
         "values": [
           "■",
           "1 Nemesis Dreadknight",
-          "This model is equipped with:",
+          "This model is equipped with",
           "dreadfists.",
           "NEMESIS DREADKNIGHT",
           "The pilot of a Nemesis Dreadknight commands a towering exoskeleton",
@@ -2564,7 +2564,7 @@
           "d": "D6"
         },
         {
-          "name": "One Shot:",
+          "name": "One Shot",
           "range": "The bearer can only shoot with this weapon once per battle.",
           "a": "Multi-melta [MELTA 2]",
           "bws": "18\"",
@@ -2645,7 +2645,7 @@
         "values": [
           "■",
           "1 Land Raider",
-          "This model is equipped with:",
+          "This model is equipped with",
           "2 godhammer lascannons;",
           "twin heavy bolter; armoured tracks."
         ]
@@ -2696,7 +2696,7 @@
           "d": "D6"
         },
         {
-          "name": "One Shot:",
+          "name": "One Shot",
           "range": "The bearer can only shoot with this weapon once per battle.",
           "a": "Hurricane bolter [RAPID FIRE 6, TWIN-LINKED]",
           "bws": "24\"",
@@ -2786,7 +2786,7 @@
         "values": [
           "■",
           "1 Land Raider Crusader",
-          "This model is equipped with:",
+          "This model is equipped with",
           "2 hurricane bolters;",
           "twin assault cannon; armoured tracks."
         ]
@@ -2845,7 +2845,7 @@
           "d": "D6"
         },
         {
-          "name": "One Shot:",
+          "name": "One Shot",
           "range": "The bearer can only shoot with this weapon once per battle.",
           "a": "Multi-melta [MELTA 2]",
           "bws": "18\"",
@@ -2926,7 +2926,7 @@
         "values": [
           "■",
           "1 Land Raider Redeemer",
-          "This model is equipped with:",
+          "This model is equipped with",
           "2 flamestorm cannons;",
           "twin assault cannon; armoured tracks."
         ]
@@ -2978,7 +2978,7 @@
           "d": "D6"
         },
         {
-          "name": "One Shot:",
+          "name": "One Shot",
           "range": "The bearer can only shoot with this weapon once per battle.",
           "a": "Storm bolter [RAPID FIRE 2]",
           "bws": "24\"",
@@ -3038,7 +3038,7 @@
         "values": [
           "■",
           "1 Rhino",
-          "This model is equipped with:",
+          "This model is equipped with",
           "storm bolter; armoured tracks."
         ]
       },
@@ -3087,7 +3087,7 @@
           "d": "D6"
         },
         {
-          "name": "One Shot:",
+          "name": "One Shot",
           "range": "The bearer can only shoot with this weapon once per battle.",
           "a": "Storm bolter [RAPID FIRE 2]",
           "bws": "24\"",
@@ -3168,7 +3168,7 @@
           "■",
           "This model can be equipped with 1 storm bolter.",
           "■",
-          "This model’s twin heavy bolter can be replaced with one of the following:",
+          "This model’s twin heavy bolter can be replaced with one of the following",
           "◦",
           "1 twin assault cannon",
           "◦",
@@ -3180,7 +3180,7 @@
         "values": [
           "■",
           "1 Razorback",
-          "This model is equipped with:",
+          "This model is equipped with",
           "twin heavy bolter;",
           "armoured tracks."
         ]
@@ -3329,7 +3329,7 @@
           "■",
           "This model’s las-talon can be replaced with 1 icarus stormcannon.",
           "■",
-          "This model’s skyhammer missile launcher can be replaced with one of the following:",
+          "This model’s skyhammer missile launcher can be replaced with one of the following",
           "◦",
           "1 twin heavy bolter",
           "◦",
@@ -3341,7 +3341,7 @@
         "values": [
           "■",
           "1 Stormhawk Interceptor",
-          "This model is equipped with:",
+          "This model is equipped with",
           "las-talon; skyhammer missile",
           "launcher; twin assault cannon; armoured hull.",
           "GREY KNIGHTS STORMHAWK INTERCEPTOR",
@@ -3467,7 +3467,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model’s skyhammer missile launcher can be replaced with one of the following:",
+          "This model’s skyhammer missile launcher can be replaced with one of the following",
           "◦",
           "1 twin heavy bolter",
           "◦",
@@ -3481,7 +3481,7 @@
         "values": [
           "■",
           "1 Stormtalon Gunship",
-          "This model is equipped with:",
+          "This model is equipped with",
           "skyhammer missile launcher;",
           "twin assault cannon; armoured hull.",
           "GREY KNIGHTS STORMTALON GUNSHIP",
@@ -3647,13 +3647,13 @@
           "■",
           "This model can be equipped with 2 hurricane bolters.",
           "■",
-          "This model’s twin assault cannon can be replaced with one of the following:",
+          "This model’s twin assault cannon can be replaced with one of the following",
           "◦",
           "1 twin heavy plasma cannon",
           "◦",
           "1 twin lascannon",
           "■",
-          "This model’s typhoon missile launcher can be replaced with one of the following:",
+          "This model’s typhoon missile launcher can be replaced with one of the following",
           "◦",
           "1 twin heavy bolter",
           "◦",
@@ -3665,7 +3665,7 @@
         "values": [
           "■",
           "1 Stormraven Gunship",
-          "This model is equipped with:",
+          "This model is equipped with",
           "2 stormstrike missile",
           "launchers; twin assault cannon; typhoon missile launcher;",
           "armoured hull."

@@ -89,14 +89,14 @@
         "values": [
           "■",
           "1 Archon",
-          "This model is equipped with:",
+          "This model is equipped with",
           "splinter pistol; huskblade."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Court of the Archon",
           "■",
@@ -211,13 +211,13 @@
           "2 Khymerae",
           "■",
           "3 Razorwing Flocks",
-          "The Beastmaster is equipped with:",
+          "The Beastmaster is equipped with",
           "splinter pods; agoniser.",
-          "Every Clawed Fiend is equipped with:",
+          "Every Clawed Fiend is equipped with",
           "Clawed Fiend fists.",
-          "Every Khymerae is equipped with:",
+          "Every Khymerae is equipped with",
           "Khymerae talons.",
-          "Every Razorwing Flock is equipped with:",
+          "Every Razorwing Flock is equipped with",
           "Razorwing feathers.",
           "BEASTMASTER",
           "On thrumming skyboards that spit venom-laced shards, Beastmasters",
@@ -225,13 +225,13 @@
           "goading them on with the cruel lashes of a nerve-inflaming agoniser.",
           "Many wear shamanistic masks that augment the wearer’s natural",
           "dominance with sub-vocal emissions and subjugating pheromones.",
-          "KEYWORDS - ALL MODELS:",
+          "KEYWORDS - ALL MODELS",
           "Beasts, Aeldari",
           "|",
-          "RAZORWING FLOCKS:",
+          "RAZORWING FLOCKS",
           "Fly",
           "|",
-          "BEASTMASTER:",
+          "BEASTMASTER",
           "Mounted, Character, Fly, Beastmaster"
         ]
       }
@@ -361,14 +361,14 @@
           "1 Sslyth",
           "■",
           "1 Ur-ghul",
-          "A Lhamaean is equipped with:",
+          "A Lhamaean is equipped with",
           "shaimeshi blade.",
-          "A Medusae is equipped with:",
+          "A Medusae is equipped with",
           "eyeburst; close combat weapon.",
-          "A Sslyth is equipped with:",
+          "A Sslyth is equipped with",
           "shardcarbine; splinter pistol;",
           "Sslyth battle-blade.",
-          "An Ur-ghul is equipped with:",
+          "An Ur-ghul is equipped with",
           "Ur-ghul talons.",
           "COURT OF THE ARCHON",
           "In the Declare Battle Formations step, this unit can join one",
@@ -478,7 +478,7 @@
         "values": [
           "■",
           "1-2 Cronos",
-          "Every Cronos is equipped with:",
+          "Every Cronos is equipped with",
           "spirit syphon;",
           "spirit-leech tentacles.",
           "CRONOS",
@@ -568,14 +568,14 @@
           "■",
           "1 Drazhar -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "the Executioner’s demiklaives."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Incubi",
           "DRAZHAR",
@@ -659,7 +659,7 @@
         "values": [
           "■",
           "3-6 Grotesques",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "monstrous weapons.",
           "GROTESQUES",
           "These modified meat-hulks are pumped full of painful chemicals,",
@@ -742,7 +742,7 @@
         "values": [
           "■",
           "1 Haemonculus",
-          "This model is equipped with:",
+          "This model is equipped with",
           "stinger pistol; Haemonculus",
           "tools and scissorhands."
         ]
@@ -750,7 +750,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Wracks",
           "HAEMONCULUS",
@@ -858,7 +858,7 @@
           "1 Helliarch",
           "■",
           "4-9 Hellions",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "splinter pods; hellglaive.",
           "HELLIONS",
           "When the Hellion gangs ride their bladed skyboards alongside",
@@ -953,7 +953,7 @@
           "1 Klaivex",
           "■",
           "4-9 Incubi",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "klaive.",
           "INCUBI",
           "The Incubi are warrior-perfectionists of the highest order. Protected by",
@@ -1096,7 +1096,7 @@
           "■",
           "The Sybarite can be equipped with 1 phantasm grenade launcher.",
           "■",
-          "The Sybarite’s splinter rifle can be replaced with one of the following:",
+          "The Sybarite’s splinter rifle can be replaced with one of the following",
           "◦",
           "1 blast pistol",
           "◦",
@@ -1118,7 +1118,7 @@
           "1 Sybarite",
           "■",
           "9 Kabalite Warriors",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "splinter rifle; close",
           "combat weapon.",
           "KABALITE WARRIORS",
@@ -1196,14 +1196,14 @@
           "■",
           "1 Lelith Hesperax -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Lelith’s blades."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Wyches",
           "LELITH HESPERAX",
@@ -1289,7 +1289,7 @@
           "1 Nightfiend",
           "■",
           "4-9 Mandrakes",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "baleblast; glimmersteel blade.",
           "MANDRAKES",
           "Creatures of midnight horror, crawling from their shadow realm into the",
@@ -1383,7 +1383,7 @@
         "values": [
           "■",
           "1 Raider",
-          "This model is equipped with:",
+          "This model is equipped with",
           "dark lance; bladevanes."
         ]
       },
@@ -1490,7 +1490,7 @@
         "values": [
           "■",
           "1 Ravager",
-          "This model is equipped with:",
+          "This model is equipped with",
           "3 dark lances; bladevanes.",
           "RAVAGER",
           "Ravager gunships fulfil the role of armoured support during Drukhari",
@@ -1632,7 +1632,7 @@
         "values": [
           "■",
           "1 Razorwing Jetfighter",
-          "This model is equipped with:",
+          "This model is equipped with",
           "2 dark lances; Razorwing",
           "missiles; twin splinter rifle; bladed wings.",
           "RAZORWING JETFIGHTER",
@@ -1750,13 +1750,13 @@
           "■",
           "The Arena Champion can be equipped with 1 agoniser.",
           "■",
-          "For every 3 models in this unit, 1 model’s splinter rifle can be replaced with one of the following:",
+          "For every 3 models in this unit, 1 model’s splinter rifle can be replaced with one of the following",
           "◦",
           "1 blaster",
           "◦",
           "1 heat lance",
           "■",
-          "For every 3 models in this unit, 1 model can be equipped with one of the following:",
+          "For every 3 models in this unit, 1 model can be equipped with one of the following",
           "◦",
           "1 grav-talon",
           "◦",
@@ -1770,7 +1770,7 @@
           "1 Arena Champion",
           "■",
           "2-5 Reavers",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "splinter pistol; splinter",
           "rifle; bladevanes.",
           "REAVERS",
@@ -1932,13 +1932,13 @@
           "■",
           "The Solarite can be equipped with 1 Solarite weapon.",
           "■",
-          "The Solarite can replace its shardcarbine with one of the following:",
+          "The Solarite can replace its shardcarbine with one of the following",
           "◦",
           "1 blast pistol",
           "◦",
           "1 splinter pistol",
           "■",
-          "Up to 4 Scourges can each replace their shardcarbine with one of the following:",
+          "Up to 4 Scourges can each replace their shardcarbine with one of the following",
           "◦",
           "1 blaster",
           "◦",
@@ -1960,7 +1960,7 @@
           "1 Solarite",
           "■",
           "4-9 Scourges",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "shardcarbine; close",
           "combat weapon.",
           "SCOURGES",
@@ -2046,7 +2046,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model can be equipped with one of the following:",
+          "This model can be equipped with one of the following",
           "◦",
           "1 blast pistol",
           "◦",
@@ -2058,14 +2058,14 @@
         "values": [
           "■",
           "1 Succubus",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Succubus weapons."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Wyches",
           "SUCCUBUS",
@@ -2208,7 +2208,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "Any number of models can each replace their twin splinter cannon with one of the following:",
+          "Any number of models can each replace their twin splinter cannon with one of the following",
           "◦",
           "1 twin Drukhari haywire blasters",
           "◦",
@@ -2216,13 +2216,13 @@
           "◦",
           "1 stinger pod",
           "■",
-          "Any number of models can each replace one of their macro-scalpels with one of the following:",
+          "Any number of models can each replace one of their macro-scalpels with one of the following",
           "◦",
           "1 Talos ichor injector",
           "◦",
           "1 twin liquifier gun",
           "■",
-          "Any number of models can each replace one of their macro-scalpels with one of the following:",
+          "Any number of models can each replace one of their macro-scalpels with one of the following",
           "◦",
           "1 chain-flails",
           "◦",
@@ -2234,7 +2234,7 @@
         "values": [
           "■",
           "1-2 Talos",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "twin splinter cannon;",
           "2 macro-scalpels.",
           "TALOS",
@@ -2273,7 +2273,7 @@
           "d": "1"
         },
         {
-          "name": "One Shot:",
+          "name": "One Shot",
           "range": "The bearer can only shoot with this weapon once per battle."
         }
       ],
@@ -2326,7 +2326,7 @@
           "■",
           "1 Urien Rakarth -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Casket of Flensing;",
           "Haemonculus tools and scissorhands."
         ]
@@ -2334,7 +2334,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Wracks",
           "URIEN RAKARTH",
@@ -2429,7 +2429,7 @@
         "values": [
           "■",
           "1 Venom",
-          "This model is equipped with:",
+          "This model is equipped with",
           "splinter cannon; twin splinter",
           "rifle; bladevanes."
         ]
@@ -2575,7 +2575,7 @@
         "values": [
           "■",
           "1 Voidraven Bomber",
-          "This model is equipped with:",
+          "This model is equipped with",
           "2 void lances; bladed wings.",
           "VOIDRAVEN BOMBER",
           "Mounting some of the most powerful guns in the Drukhari arsenal, the",
@@ -2679,7 +2679,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "For every 5 models in the unit:",
+          "For every 5 models in the unit",
           "◦",
           "1 model can be equipped with 1 hexrifle*",
           "◦",
@@ -2698,7 +2698,7 @@
           "1 Acothyst",
           "■",
           "4-9 Wracks",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "Wrack blades.",
           "WRACKS",
           "The gnarled hide of the Wracks is a leathery mass of old scars, inured",
@@ -2804,7 +2804,7 @@
           "1 Hekatrix",
           "■",
           "9 Wyches",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "splinter pistol; Hekatarii blade.",
           "WYCHES",
           "The dancers of death, Wyches are acrobatic murder-artists, exhibiting",

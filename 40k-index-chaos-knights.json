@@ -59,7 +59,7 @@
         "values": [
           "■",
           "1 War Dog Executioner",
-          "This model is equipped with:",
+          "This model is equipped with",
           "diabolus heavy stubber;",
           "2 War Dog autocannons; armoured feet.",
           "WAR DOG EXECUTIONER",
@@ -133,7 +133,7 @@
         "values": [
           "■",
           "1 War Dog Stalker",
-          "This model is equipped with:",
+          "This model is equipped with",
           "avenger chaincannon;",
           "diabolus heavy stubber; slaughterclaw.",
           "WAR DOG STALKER",
@@ -202,7 +202,7 @@
         "values": [
           "■",
           "1 War Dog Karnivore",
-          "This model is equipped with:",
+          "This model is equipped with",
           "diabolus heavy stubber;",
           "reaper chaintalon; slaughterclaw.",
           "WAR DOG KARNIVORE",
@@ -268,7 +268,7 @@
         "values": [
           "■",
           "1 War Dog Brigand",
-          "This model is equipped with:",
+          "This model is equipped with",
           "avenger chaincannon;",
           "daemonbreath spear; diabolus heavy stubber; armoured feet.",
           "WAR DOG BRIGAND",
@@ -337,7 +337,7 @@
         "values": [
           "■",
           "1 War Dog Huntsman",
-          "This model is equipped with:",
+          "This model is equipped with",
           "daemonbreath spear; diabolus",
           "heavy stubber; reaper chaintalon.",
           "WAR DOG HUNTSMAN",
@@ -401,7 +401,7 @@
           "■",
           "This model’s daemonbreath meltagun can be replaced with 1 diabolus heavy stubber.",
           "■",
-          "This model’s reaper chainsword can be replaced with 1 of the following:",
+          "This model’s reaper chainsword can be replaced with 1 of the following",
           "◦",
           "1 daemonbreath thermal cannon",
           "◦",
@@ -409,7 +409,7 @@
           "◦",
           "1 despoiler battle cannon and 1 diabolus heavy stubber",
           "■",
-          "This model’s warpstrike claw can be replaced with 1 of the following:",
+          "This model’s warpstrike claw can be replaced with 1 of the following",
           "◦",
           "1 daemonbreath thermal cannon",
           "◦",
@@ -417,7 +417,7 @@
           "◦",
           "1 despoiler battle cannon and 1 diabolus heavy stubber",
           "■",
-          "This model can be equipped with one of the following:",
+          "This model can be equipped with one of the following",
           "◦",
           "1 havoc missile pod",
           "◦",
@@ -431,7 +431,7 @@
         "values": [
           "■",
           "1 Knight Despoiler",
-          "This model is equipped with:",
+          "This model is equipped with",
           "daemonbreath meltagun;",
           "reaper chainsword; titanic feet; warpstrike claw.",
           "KNIGHT DESPOILER",
@@ -502,7 +502,7 @@
         "values": [
           "■",
           "1 Knight Desecrator",
-          "This model is equipped with:",
+          "This model is equipped with",
           "desecrator laser destructor;",
           "diabolus heavy stubber; reaper chainsword.",
           "KNIGHT DESECRATOR",
@@ -574,7 +574,7 @@
         "values": [
           "■",
           "1 Knight Rampager",
-          "This model is equipped with:",
+          "This model is equipped with",
           "diabolus heavy stubber;",
           "reaper chainsword; warpstrike claw.",
           "KNIGHT RAMPAGER",
@@ -642,7 +642,7 @@
         "values": [
           "■",
           "1 Knight Abominant",
-          "This model is equipped with:",
+          "This model is equipped with",
           "diabolus heavy stubber; volkite",
           "combustor; balemace; electroscourge.",
           "KNIGHT ABOMINANT",
@@ -716,7 +716,7 @@
         "values": [
           "■",
           "1 Knight Tyrant",
-          "This model is equipped with:",
+          "This model is equipped with",
           "brimstone volcano lance;",
           "ectoplasma decimator; 2 gheiststrike missile launchers;",
           "2 twin daemonbreath meltaguns; twin desecrator cannon;",

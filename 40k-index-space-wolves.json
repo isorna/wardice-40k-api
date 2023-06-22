@@ -93,14 +93,14 @@
           "■",
           "Logan Grimnar -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "storm bolter; the Axe Morkai."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Relic Terminator Squad",
           "■",
@@ -188,7 +188,7 @@
           "■",
           "1 Logan Grimnar on Stormrider -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "storm bolter; the Axe of Morkai;",
           "flurry of teeth and claws."
         ]
@@ -196,7 +196,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Thunderwolf Cavalry",
           "LOGAN GRIMNAR",
@@ -275,7 +275,7 @@
         },
         {
           "name": "NJAL STORMCALLER",
-          "range": "KEYWORDS:",
+          "range": "KEYWORDS",
           "a": "Infantry, Character, Epic Hero, Psyker, Imperium, Terminator,",
           "bws": "Njal Stormcaller"
         }
@@ -320,7 +320,7 @@
           "■",
           "1 Njal Stormcaller -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "bolt pistol; Living Lightning;",
           "Staff of the Stormcaller."
         ]
@@ -328,7 +328,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Relic Terminator Squad",
           "■",
@@ -479,7 +479,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model’s assault cannon can be replaced with one of the following:",
+          "This model’s assault cannon can be replaced with one of the following",
           "◦",
           "heavy plasma cannon",
           "◦",
@@ -496,7 +496,7 @@
           "■",
           "1 Bjorn the Fell-Handed-",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "assault cannon; heavy",
           "flamer; Trueclaw.",
           "BJORN THE FELL-HANDED",
@@ -584,14 +584,14 @@
           "■",
           "1 Arjac Rockfist -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Foehammer."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Relic Terminator Squad",
           "■",
@@ -707,14 +707,14 @@
           "■",
           "1 Ulrik the Slayer -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "plasma pistol; artificer crozius."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Blood Claws",
           "■",
@@ -808,14 +808,14 @@
           "■",
           "1 Ragnar Blackmane -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "bolt pistol; Frostfang."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Wolf Guard",
           "■",
@@ -913,14 +913,14 @@
         "values": [
           "■",
           "1 Krom Dragongaze",
-          "This model is equipped with:",
+          "This model is equipped with",
           "bolt pistol; Wyrmclaw."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Blood Claws",
           "■",
@@ -1021,7 +1021,7 @@
           "■",
           "1 Harald Deathwolf -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "bolt pistol; crushing teeth and",
           "claws; Glacius."
         ]
@@ -1029,7 +1029,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Thunderwolf Cavalry",
           "HARALD DEATHWOLF",
@@ -1125,7 +1125,7 @@
           "■",
           "1 Canis Wolfborn -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "crushing teeth and jaws;",
           "Wolf claws."
         ]
@@ -1133,7 +1133,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Fenrisian Wolves",
           "■",
@@ -1267,7 +1267,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model’s power weapon can be replaced with one of the following:",
+          "This model’s power weapon can be replaced with one of the following",
           "◦",
           "1 chainfist",
           "◦",
@@ -1277,7 +1277,7 @@
           "◦",
           "1 thunder hammer",
           "■",
-          "This model’s storm bolter can be replaced with one of the following:",
+          "This model’s storm bolter can be replaced with one of the following",
           "◦",
           "1 chainfist",
           "◦",
@@ -1297,14 +1297,14 @@
         "values": [
           "■",
           "1 Wolf Guard Battle Leader in Terminator Armour",
-          "This model is equipped with:",
+          "This model is equipped with",
           "storm bolter; power weapon."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Relic Terminator Squad",
           "■",
@@ -1492,7 +1492,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model’s relic weapon can be replaced with one of the following:",
+          "This model’s relic weapon can be replaced with one of the following",
           "◦",
           "1 plasma pistol",
           "◦",
@@ -1502,7 +1502,7 @@
           "◦",
           "1 relic shield and 1 close combat weapon",
           "■",
-          "This model’s bolt pistol can be replaced with one of the following:",
+          "This model’s bolt pistol can be replaced with one of the following",
           "◦",
           "1 combi-weapon",
           "◦",
@@ -1526,7 +1526,7 @@
         "values": [
           "■",
           "1 Wolf Lord on Thunderwolf",
-          "This model is equipped with:",
+          "This model is equipped with",
           "bolt pistol; crushing teeth and",
           "claws; relic weapon."
         ]
@@ -1534,7 +1534,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Thunderwolf Cavalry",
           "WOLF LORD",
@@ -1707,7 +1707,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model’s relic weapon can be replaced with one of the following:",
+          "This model’s relic weapon can be replaced with one of the following",
           "◦",
           "1 plasma pistol",
           "◦",
@@ -1717,7 +1717,7 @@
           "◦",
           "1 storm shield and 1 close combat weapon",
           "■",
-          "This model’s bolt pistol can be replaced with one of the following:",
+          "This model’s bolt pistol can be replaced with one of the following",
           "◦",
           "1 combi-weapon",
           "◦",
@@ -1741,7 +1741,7 @@
         "values": [
           "■",
           "1 Wolf Guard Battle Leader on Thunderworlf",
-          "This model is equipped with:",
+          "This model is equipped with",
           "bolt pistol; crushing teeth and",
           "claws; relic weapon."
         ]
@@ -1749,7 +1749,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Thunderwolf Cavalry",
           "You can attach this model to the above unit even if one",
@@ -1904,9 +1904,9 @@
         },
         {
           "name": "ABILITIES",
-          "range": "FACTION:",
+          "range": "FACTION",
           "a": "Oath of Moment",
-          "bws": "Berserk Charge:",
+          "bws": "Berserk Charge",
           "s": "Each time this unit makes a Charge move,",
           "ap": "until the end of the turn, add 1 to the Attacks and Strength",
           "d": "characteristics of melee weapons equipped by models in"
@@ -1927,7 +1927,7 @@
           "bws": "2",
           "s": "6+",
           "ap": "2",
-          "d": "KEYWORDS:"
+          "d": "KEYWORDS"
         },
         {
           "name": "Infantry, Battleline, Grenades, Imperium, Blood Claws"
@@ -1965,13 +1965,13 @@
           "■",
           "The Blood Claw Pack Leader’s bolt pistol can be replaced with 1 plasma pistol.",
           "■",
-          "The Blood Claw Pack Leader’s Astartes chainsword can be replaced with one of the following:",
+          "The Blood Claw Pack Leader’s Astartes chainsword can be replaced with one of the following",
           "◦",
           "1 power fist",
           "◦",
           "1 power weapon",
           "■",
-          "Up to 2 Blood Claws can each have their Astartes chainsword replaced with one of the following:",
+          "Up to 2 Blood Claws can each have their Astartes chainsword replaced with one of the following",
           "◦",
           "1 flamer and 1 close combat weapon",
           "◦",
@@ -1989,7 +1989,7 @@
           "1 Blood Claw Pack Leader",
           "■",
           "9-14 Blood Claws",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "bolt pistol;",
           "Astartes chainsword.",
           "ATTACHED UNIT",
@@ -2144,9 +2144,9 @@
         },
         {
           "name": "ABILITIES",
-          "range": "FACTION:",
+          "range": "FACTION",
           "a": "Oath of Moment",
-          "bws": "Cunning Hunters:",
+          "bws": "Cunning Hunters",
           "s": "This unit is eligible to shoot in a turn in",
           "ap": "which it Fell Back or Advanced.",
           "d": "M"
@@ -2165,7 +2165,7 @@
           "range": "2",
           "a": "6+",
           "bws": "2",
-          "s": "KEYWORDS:",
+          "s": "KEYWORDS",
           "ap": "Infantry, Battleline, Grenades, Imperium, Grey Hunters"
         }
       ]
@@ -2201,13 +2201,13 @@
           "■",
           "Any number of models can each be equipped with 1 Astartes chainsword.",
           "■",
-          "The Grey Hunter Pack Leader’s close combat weapon can be replaced with one of the following:",
+          "The Grey Hunter Pack Leader’s close combat weapon can be replaced with one of the following",
           "◦",
           "1 power fist",
           "◦",
           "1 power weapon",
           "■",
-          "Up to 2 Grey Hunters can each have their boltgun replaced with one of the following:",
+          "Up to 2 Grey Hunters can each have their boltgun replaced with one of the following",
           "◦",
           "1 flamer",
           "◦",
@@ -2225,7 +2225,7 @@
           "1 Grey Hunter Pack Leader",
           "■",
           "4-9 Grey Hunters",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "bolt pistol; boltgun; close",
           "combat weapon.",
           "ATTACHED UNIT",
@@ -2359,7 +2359,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "Any number of models can have their bolt pistol replaced with one of the following:",
+          "Any number of models can have their bolt pistol replaced with one of the following",
           "◦",
           "1 boltgun",
           "◦",
@@ -2379,7 +2379,7 @@
           "1 Wolf Guard Pack Leader",
           "■",
           "4-9 Wolf Guard",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "bolt pistol; heirloom weapon.",
           "ATTACHED UNIT",
           "If a",
@@ -2485,7 +2485,7 @@
           "■",
           "1 Lukas the Trickster -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "plasma pistol; Claw of",
           "the Jackalwolf."
         ]
@@ -2493,7 +2493,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Blood Claws",
           "MASTER OF MISCHIEF",
@@ -2661,7 +2661,7 @@
         "values": [
           "■",
           "Any number of models can each have their power fist and storm bolter or power weapon and storm",
-          "bolter replaced with two of the following:",
+          "bolter replaced with two of the following",
           "◦",
           "1 storm bolter*",
           "◦",
@@ -2678,7 +2678,7 @@
           "1 storm shield",
           "■",
           "For every 5 models in this unit, one Wolf Guard Terminator can replace its power fist and storm bolter",
-          "with one of the following:",
+          "with one of the following",
           "◦",
           "1 assault cannon",
           "◦",
@@ -2698,9 +2698,9 @@
           "1 Wolf Guard Terminator Pack Leader",
           "■",
           "4-9 Wolf Guard Terminators",
-          "The Wolf Guard Terminator Pack Leader is equipped with:",
+          "The Wolf Guard Terminator Pack Leader is equipped with",
           "storm bolter; power weapon.",
-          "Every Wolf Guard Terminator is equipped with:",
+          "Every Wolf Guard Terminator is equipped with",
           "storm bolter;",
           "power fist.",
           "ATTACHED UNIT",
@@ -2808,7 +2808,7 @@
           "1 Hound of Morkai Pack Leader",
           "■",
           "4-9 Hound of Morkai",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "Morkai bolt pistol; Morkai",
           "combat knife.",
           "ATTACHED UNIT",
@@ -2916,7 +2916,7 @@
           "1 Wulfen Pack Leader",
           "■",
           "4-9 Wulfen",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "Wulfen claws and",
           "melee weapons.",
           "WULFEN",
@@ -3035,7 +3035,7 @@
         "values": [
           "■",
           "1 Wulfen Dreadnought",
-          "This model is equipped with:",
+          "This model is equipped with",
           "storm bolter; Fenrisian great",
           "axe; great wolf claw.",
           "WULFEN DREADNOUGHT",
@@ -3131,7 +3131,7 @@
           "■",
           "Murderfang -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "heavy flamer; storm bolter;",
           "the Murderclaws.",
           "FORCE OF UNTAMED DESTRUCTION",
@@ -3252,7 +3252,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "Any number of models can each have their bolt pistol replaced with one of the following:",
+          "Any number of models can each have their bolt pistol replaced with one of the following",
           "◦",
           "1 boltgun",
           "◦",
@@ -3268,7 +3268,7 @@
           "1 Thunderwolf Cavalry Pack Leader",
           "■",
           "2-5 Thunderwolf Cavalry",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "bolt pistol; crushing teeth and",
           "claws; heirloom weapon.",
           "THUNDERWOLF CAVALRY",
@@ -3342,7 +3342,7 @@
         "values": [
           "■",
           "5-10 Fenrisian Wolves",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "teeth and claws.",
           "FENRISIAN WOLVES",
           "Amongst the most vicious and intelligent predators in the galaxy,",
@@ -3517,14 +3517,14 @@
           "■",
           "The Skyclaw Pack Leader’s bolt pistol can be replaced with 1 plasma pistol.",
           "■",
-          "The Skyclaw Pack Leader’s Astartes chainsword can be replaced with one of the following:",
+          "The Skyclaw Pack Leader’s Astartes chainsword can be replaced with one of the following",
           "◦",
           "1 power fist",
           "◦",
           "1 power weapon",
           "■",
           "Up to 2 Skyclaws can each have their bolt pistol and Astartes chainsword replaced with one of",
-          "the following:",
+          "the following",
           "◦",
           "1 plasma pistol and 1 Astartes chainsword",
           "◦",
@@ -3544,7 +3544,7 @@
           "1 Skyclaw Pack Leader",
           "■",
           "4-14 Skyclaws",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "bolt pistol;",
           "Astartes chainsword.",
           "ATTACHED UNIT",
@@ -3740,7 +3740,7 @@
         "values": [
           "■",
           "Any number of Long Fangs can each have their",
-          "boltgun replaced with one of the following:",
+          "boltgun replaced with one of the following",
           "◦",
           "1 grav-cannon",
           "◦",
@@ -3758,7 +3758,7 @@
           "■",
           "The Long Fang Pack Leader’s close combat",
           "weapon can be replaced with one of",
-          "the following:",
+          "the following",
           "◦",
           "1 Astartes chainsword",
           "◦",
@@ -3790,7 +3790,7 @@
           "1 Long Fang Pack Leader",
           "■",
           "4-5 Long Fangs",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "boltgun; bolt pistol; close",
           "combat weapon.",
           "ATTACHED UNIT",
@@ -3936,7 +3936,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model’s 2 skyhammer missile launchers can be replaced with one of the following:",
+          "This model’s 2 skyhammer missile launchers can be replaced with one of the following",
           "◦",
           "2 twin multi-meltas",
           "◦",
@@ -3950,7 +3950,7 @@
         "values": [
           "■",
           "1 Stormfang Gunship",
-          "This model is equipped with:",
+          "This model is equipped with",
           "helfrost destructor;",
           "2 skyhammer missile launchers; twin stormstrike missile",
           "launcher; armoured hull."
@@ -4098,7 +4098,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model’s 2 skyhammer missile launchers can replaced with one of the following:",
+          "This model’s 2 skyhammer missile launchers can replaced with one of the following",
           "◦",
           "2 twin heavy bolters",
           "◦",
@@ -4110,7 +4110,7 @@
         "values": [
           "■",
           "1 Stormwolf",
-          "This model is equipped with:",
+          "This model is equipped with",
           "2 skyhammer missile",
           "launchers; twin helfrost cannon; twin lascannon;",
           "armoured hull."
@@ -4267,17 +4267,17 @@
         },
         {
           "name": "ABILITIES",
-          "range": "CORE:",
+          "range": "CORE",
           "a": "Leader",
-          "bws": "FACTION:",
+          "bws": "FACTION",
           "s": "Oath of Moment",
-          "ap": "Inspiring Leader:",
+          "ap": "Inspiring Leader",
           "d": "While this model is leading a unit, once per"
         },
         {
           "name": "battle, when a Battle-shock test is taken for that unit, you can",
           "range": "re-roll that test.",
-          "a": "Pack Leader:",
+          "a": "Pack Leader",
           "bws": "This model cannot be your",
           "s": "Warlord",
           "ap": "and cannot",
@@ -4285,7 +4285,7 @@
         },
         {
           "name": "WARGEAR ABILITIES",
-          "range": "Storm Shield:",
+          "range": "Storm Shield",
           "a": "The bearer has a 4+ invulnerable save.",
           "bws": "M",
           "s": "T",
@@ -4304,7 +4304,7 @@
         {
           "name": "1",
           "range": "Before selecting targets for this weapon, select one of its profiles to make attacks with.",
-          "a": "KEYWORDS:",
+          "a": "KEYWORDS",
           "bws": "Infantry, Character, Grenades, Imperium, Pack Leader,",
           "s": "Wolf Guard Pack Leader"
         }
@@ -4375,7 +4375,7 @@
         "values": [
           "■",
           "1 Wolf Guard Pack Leader",
-          "This model is equipped with:",
+          "This model is equipped with",
           "bolt pistol; boltgun; close",
           "combat weapon."
         ]
@@ -4383,7 +4383,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Blood Claws",
           "■",
@@ -4586,14 +4586,14 @@
         "values": [
           "■",
           "1 Wolf Guard Pack Leader with Jump Pack",
-          "This model is equipped with:",
+          "This model is equipped with",
           "bolt pistol; Astartes chainsword."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Skyclaws",
           "You must attach this model to the above unit, and can do",
@@ -4734,17 +4734,17 @@
         },
         {
           "name": "ABILITIES",
-          "range": "CORE:",
+          "range": "CORE",
           "a": "Deep Strike, Leader",
-          "bws": "FACTION:",
+          "bws": "FACTION",
           "s": "Oath of Moment",
-          "ap": "Inspiring Leader:",
+          "ap": "Inspiring Leader",
           "d": "While this model is leading a unit, once per"
         },
         {
           "name": "battle, when a Battle-shock test is taken for that unit, you can",
           "range": "re-roll that test.",
-          "a": "Pack Leader:",
+          "a": "Pack Leader",
           "bws": "This model cannot be your",
           "s": "Warlord",
           "ap": "and cannot",
@@ -4752,7 +4752,7 @@
         },
         {
           "name": "WARGEAR ABILITIES",
-          "range": "Storm Shield:",
+          "range": "Storm Shield",
           "a": "The bearer has a Wounds characteristic of 4.",
           "bws": "INVULNERABLE SAVE",
           "s": "4+",
@@ -4772,7 +4772,7 @@
           "name": "3",
           "range": "6+",
           "a": "1",
-          "bws": "KEYWORDS:",
+          "bws": "KEYWORDS",
           "s": "Infantry, Character, Grenades, Imperium, Terminator,",
           "ap": "Pack Leader, Wolf Guard Pack Leader in Terminator Armour"
         }
@@ -4841,14 +4841,14 @@
         "values": [
           "■",
           "1 Wolf Guard Pack Leader in Terminator Armour",
-          "This model is equipped with:",
+          "This model is equipped with",
           "storm bolter; power weapon."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Blood Claws",
           "■",
@@ -4930,11 +4930,11 @@
         },
         {
           "name": "ABILITIES",
-          "range": "CORE:",
+          "range": "CORE",
           "a": "Leader",
-          "bws": "FACTION:",
+          "bws": "FACTION",
           "s": "Oath of Moment",
-          "ap": "Iron Priest:",
+          "ap": "Iron Priest",
           "d": "While this model is within 3\" of one or more"
         },
         {
@@ -4942,7 +4942,7 @@
           "range": "Adeptus Astartes Vehicle",
           "a": "units, this model has the",
           "bws": "Lone Operative ability",
-          "s": "Blessing of the Omnissiah:",
+          "s": "Blessing of the Omnissiah",
           "ap": "In your Command phase, you can",
           "d": "select one friendly"
         },
@@ -4956,7 +4956,7 @@
           "d": "model can only be selected for this ability once per turn."
         },
         {
-          "name": "Vengeance of the Omnissiah:",
+          "name": "Vengeance of the Omnissiah",
           "range": "If a friendly",
           "a": "Adeptus Astartes",
           "bws": "Vehicle",
@@ -4979,7 +4979,7 @@
           "a": "4",
           "bws": "6+",
           "s": "1",
-          "ap": "KEYWORDS:",
+          "ap": "KEYWORDS",
           "d": "Infantry, Character, Grenades, Imperium, Techmarine,"
         },
         {
@@ -5027,7 +5027,7 @@
         "values": [
           "■",
           "1 Iron Priest",
-          "This model is equipped with:",
+          "This model is equipped with",
           "helfrost pistol; servo-arm;",
           "tempest hammer."
         ]
@@ -5035,7 +5035,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Astartes Servitors",
           "■",
@@ -5078,12 +5078,12 @@
         },
         {
           "name": "ABILITIES",
-          "range": "FACTION:",
+          "range": "FACTION",
           "a": "Oath of Moment",
-          "bws": "Alpha Hunter:",
+          "bws": "Alpha Hunter",
           "s": "While this model is leading a unit, models in",
           "ap": "that unit have the Scouts 6\" ability.",
-          "d": "Close In for the Kill:"
+          "d": "Close In for the Kill"
         },
         {
           "name": "Each time this model makes an attack",
@@ -5107,7 +5107,7 @@
           "name": "2",
           "range": "7+",
           "a": "0",
-          "bws": "KEYWORDS:",
+          "bws": "KEYWORDS",
           "s": "Beast, Character, Imperium, Cyberwolf"
         }
       ]
@@ -5147,14 +5147,14 @@
         "values": [
           "■",
           "1 Cyberwolf",
-          "This model is equipped with:",
+          "This model is equipped with",
           "teeth and claws."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Fenrisian Wolves",
           "You must attach this model to the above unit, even if",
@@ -5332,11 +5332,11 @@
         },
         {
           "name": "ABILITIES",
-          "range": "CORE:",
+          "range": "CORE",
           "a": "Infiltrators, Scouts 6\"",
-          "bws": "FACTION:",
+          "bws": "FACTION",
           "s": "Oath of Moment",
-          "ap": "Guerrilla Tactics:",
+          "ap": "Guerrilla Tactics",
           "d": "At the end of your opponent’s turn, if this"
         },
         {
@@ -5359,7 +5359,7 @@
         },
         {
           "name": "1",
-          "range": "KEYWORDS:",
+          "range": "KEYWORDS",
           "a": "Infantry, Grenades, Smoke, Imperium, Scout Squad, Wolf Scouts"
         }
       ]
@@ -5391,14 +5391,14 @@
         "values": [
           "■",
           "Any number of models can each have their boltgun",
-          "replaced with one of the following:",
+          "replaced with one of the following",
           "◦",
           "1 Astartes shotgun",
           "◦",
           "1 combat knife",
           "■",
           "1 Wolf Scout’s boltgun can be replaced with one of",
-          "the following:",
+          "the following",
           "◦",
           "1 flamer*",
           "◦",
@@ -5413,7 +5413,7 @@
           "1 plasma gun*",
           "■",
           "1 Wolf Scout’s boltgun and bolt pistol can be",
-          "replaced with one of the following:",
+          "replaced with one of the following",
           "◦",
           "1 bolt pistol and 1 power weapon",
           "◦",
@@ -5461,7 +5461,7 @@
           "1 Wolf Scout Pack Leader",
           "■",
           "4-9 Wolf Scouts",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "bolt pistol; boltgun; close",
           "combat weapon.",
           "WOLF SCOUTS",
@@ -5625,11 +5625,11 @@
         },
         {
           "name": "ABILITIES",
-          "range": "CORE:",
+          "range": "CORE",
           "a": "Deadly Demise 1",
-          "bws": "FACTION:",
+          "bws": "FACTION",
           "s": "Oath of Moment",
-          "ap": "Wisdom of the Ancients (Aura):",
+          "ap": "Wisdom of the Ancients (Aura)",
           "d": "While a friendly"
         },
         {
@@ -5639,7 +5639,7 @@
           "bws": "a model in that unit makes an attack, re-roll a Hit roll of 1 and",
           "s": "re-roll a Wound roll of 1.",
           "ap": "WARGEAR ABILITIES",
-          "d": "Blizzard Shield:"
+          "d": "Blizzard Shield"
         },
         {
           "name": "The bearer has a 4+ invulnerable save.",
@@ -5657,7 +5657,7 @@
           "bws": "8",
           "s": "6+",
           "ap": "3",
-          "d": "KEYWORDS:"
+          "d": "KEYWORDS"
         },
         {
           "name": "Vehicle, Walker Smoke, Imperium, Dreadnought,",
@@ -5692,7 +5692,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model’s assault cannon can be replaced with one of the following:",
+          "This model’s assault cannon can be replaced with one of the following",
           "◦",
           "1 helfrost cannon",
           "◦",
@@ -5702,14 +5702,14 @@
           "◦",
           "1 twin lascannon",
           "■",
-          "This model’s Dreadnought combat weapon and storm bolter can be replaced with one of the following:",
+          "This model’s Dreadnought combat weapon and storm bolter can be replaced with one of the following",
           "◦",
           "1 missile launcher and 1 close combat weapon",
           "◦",
           "1 Dreadnought combat weapon and 1 heavy flamer",
           "■",
           "This model’s assault cannon, storm bolter and Dreadnought combat weapon can be replaced with one",
-          "of the following:",
+          "of the following",
           "◦",
           "1 Fenrisian great axe, 1 blizzard shield and 1 storm bolter",
           "◦",
@@ -5721,7 +5721,7 @@
         "values": [
           "■",
           "1 Space Wolves Venerable Dreadnought",
-          "This model is equipped with:",
+          "This model is equipped with",
           "assault cannon; storm bolter;",
           "Dreadnought combat weapon.",
           "SPACE WOLVES VENERABLE DREADNOUGHT",

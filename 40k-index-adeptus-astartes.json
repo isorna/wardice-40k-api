@@ -130,13 +130,13 @@
         "values": [
           "■",
           "This model’s bolt pistol, master-crafted bolt rifle and close combat weapon can be replaced with one",
-          "of the following:",
+          "of the following",
           "◦",
           "1 plasma pistol and 1 power fist",
           "◦",
           "1 heavy bolt pistol, 1 master-crafted power weapon and 1 relic shield",
           "■",
-          "This model’s close combat weapon can be replaced with one of the following:",
+          "This model’s close combat weapon can be replaced with one of the following",
           "◦",
           "1 master-crafted power weapon",
           "◦",
@@ -148,7 +148,7 @@
         "values": [
           "■",
           "1 Primaris Captain",
-          "This model is equipped with:",
+          "This model is equipped with",
           "bolt pistol; master-crafted bolt",
           "rifle; close combat weapon."
         ]
@@ -156,7 +156,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Assault Intercessor Squad",
           "■",
@@ -297,7 +297,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model’s master-crafted heavy bolt rifle and master-crafted power weapon can be replaced with:",
+          "This model’s master-crafted heavy bolt rifle and master-crafted power weapon can be replaced with",
           "◦",
           "1 boltstorm gauntlet, 1 power fist and 1 relic chainsword",
           "◦",
@@ -311,7 +311,7 @@
         "values": [
           "■",
           "1 Captain in Gravis Armour",
-          "This model is equipped with:",
+          "This model is equipped with",
           "master-crafted heavy bolt rifle;",
           "master-crafted power weapon."
         ]
@@ -319,7 +319,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Aggressor Squad",
           "■",
@@ -419,7 +419,7 @@
         "values": [
           "■",
           "1 Captain in Phobos Armour",
-          "This model is equipped with:",
+          "This model is equipped with",
           "bolt pistol; instigator bolt",
           "carbine; combat knife."
         ]
@@ -427,7 +427,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Eliminator Squad",
           "■",
@@ -562,7 +562,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model’s storm bolter can be replaced with one of the following:",
+          "This model’s storm bolter can be replaced with one of the following",
           "◦",
           "1 combi-weapon",
           "◦",
@@ -574,7 +574,7 @@
           "◦",
           "1 thunder hammer",
           "■",
-          "This model’s relic weapon can be replaced with one of the following:",
+          "This model’s relic weapon can be replaced with one of the following",
           "◦",
           "1 chainfist",
           "◦",
@@ -595,14 +595,14 @@
         "values": [
           "■",
           "1 Captain in Terminator Armour",
-          "This model is equipped with:",
+          "This model is equipped with",
           "storm bolter; relic weapon."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Relic Terminator Squad",
           "■",
@@ -789,7 +789,7 @@
         "values": [
           "■",
           "This model’s master-crafted boltgun can be",
-          "replaced with one of the following:",
+          "replaced with one of the following",
           "◦",
           "1 combi-weapon**",
           "◦",
@@ -810,7 +810,7 @@
           "1 thunder hammer",
           "■",
           "This model’s Astartes chainsword can be",
-          "replaced with one of the following:",
+          "replaced with one of the following",
           "◦",
           "1 close combat weapon and 1 relic shield*",
           "◦",
@@ -834,7 +834,7 @@
         "values": [
           "■",
           "1 Captain",
-          "This model is equipped with:",
+          "This model is equipped with",
           "bolt pistol; master-crafted",
           "boltgun; Astartes chainsword."
         ]
@@ -842,7 +842,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Assault Squad",
           "■",
@@ -1031,7 +1031,7 @@
         "values": [
           "■",
           "This model’s master-crafted boltgun can be",
-          "replaced with one of the following:",
+          "replaced with one of the following",
           "◦",
           "1 combi-weapon**",
           "◦",
@@ -1052,7 +1052,7 @@
           "1 thunder hammer",
           "■",
           "This model’s Astartes chainsword can be",
-          "replaced with one of the following:",
+          "replaced with one of the following",
           "◦",
           "1 close combat weapon and 1 relic shield*",
           "◦",
@@ -1076,7 +1076,7 @@
         "values": [
           "■",
           "1 Captain with Jump Pack",
-          "This model is equipped with:",
+          "This model is equipped with",
           "bolt pistol; master-crafted",
           "boltgun; Astartes chainsword."
         ]
@@ -1084,7 +1084,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Assault Squad with Jump Packs",
           "■",
@@ -1277,7 +1277,7 @@
         "values": [
           "■",
           "This model’s bolt pistol can be replaced with one",
-          "of the following:",
+          "of the following",
           "◦",
           "1 combi-weapon**",
           "◦",
@@ -1298,7 +1298,7 @@
           "1 power fist",
           "■",
           "This model’s Astartes chainsword can be",
-          "replaced with one of the following:",
+          "replaced with one of the following",
           "◦",
           "1 close combat weapon and 1 relic shield*",
           "◦",
@@ -1319,7 +1319,7 @@
         "values": [
           "■",
           "1 Captain on Bike",
-          "This model is equipped with:",
+          "This model is equipped with",
           "bolt pistol; twin boltgun;",
           "Astartes chainsword."
         ]
@@ -1327,7 +1327,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Bike Squad",
           "■",
@@ -1474,7 +1474,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model’s master-crafted bolt rifle can be replaced with one of the following:",
+          "This model’s master-crafted bolt rifle can be replaced with one of the following",
           "◦",
           "1 plasma pistol",
           "◦",
@@ -1487,7 +1487,7 @@
           "■",
           "This model’s bolt pistol can be replaced with 1 heavy bolt pistol.",
           "■",
-          "This model’s close combat weapon can be replaced with one of the following:",
+          "This model’s close combat weapon can be replaced with one of the following",
           "◦",
           "1 master-crafted power weapon",
           "◦",
@@ -1499,7 +1499,7 @@
         "values": [
           "■",
           "1 Primaris Lieutenant",
-          "This model is equipped with:",
+          "This model is equipped with",
           "bolt pistol; master-crafted bolt",
           "rifle; close combat weapon."
         ]
@@ -1507,7 +1507,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Assault Intercessor Squad",
           "■",
@@ -1612,7 +1612,7 @@
         "values": [
           "■",
           "1 Lieutenant in Reiver Armour",
-          "This model is equipped with:",
+          "This model is equipped with",
           "master-crafted special issue",
           "bolt pistol; combat knife."
         ]
@@ -1620,7 +1620,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Reiver Squad",
           "You can attach this model to the above unit even if one",
@@ -1724,7 +1724,7 @@
         "values": [
           "■",
           "1 Lieutenant in Phobos Armour",
-          "This model is equipped with:",
+          "This model is equipped with",
           "bolt pistol; master-crafted",
           "scoped bolt carbine; paired combat blades."
         ]
@@ -1732,7 +1732,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Incursor Squad",
           "■",
@@ -1936,7 +1936,7 @@
         "values": [
           "■",
           "This model’s master-crafted boltgun can be",
-          "replaced with one of the following:",
+          "replaced with one of the following",
           "◦",
           "1 combi-weapon**",
           "◦",
@@ -1955,7 +1955,7 @@
           "1 storm shield*",
           "■",
           "This model’s Astartes chainsword can be",
-          "replaced with one of the following:",
+          "replaced with one of the following",
           "◦",
           "1 close combat weapon and 1 storm shield*",
           "◦",
@@ -1975,7 +1975,7 @@
         "values": [
           "■",
           "1 Lieutenant",
-          "This model is equipped with:",
+          "This model is equipped with",
           "bolt pistol; master-crafted",
           "boltgun; Astartes chainsword."
         ]
@@ -1983,7 +1983,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Assault Squad",
           "■",
@@ -2105,14 +2105,14 @@
         "values": [
           "■",
           "1 Primaris Librarian",
-          "This model is equipped with:",
+          "This model is equipped with",
           "bolt pistol; Smite; force weapon."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Assault Intercessor Squad",
           "■",
@@ -2229,14 +2229,14 @@
         "values": [
           "■",
           "1 Librarian in Phobos Armour",
-          "This model is equipped with:",
+          "This model is equipped with",
           "bolt pistol; Smite; force weapon."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Eliminator Squad",
           "■",
@@ -2351,7 +2351,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model can be equipped with one of the following:",
+          "This model can be equipped with one of the following",
           "◦",
           "1 combi-weapon",
           "◦",
@@ -2363,14 +2363,14 @@
         "values": [
           "■",
           "1 Librarian in Terminator Armour",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Smite; force weapon."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Relic Terminator Squad",
           "■",
@@ -2546,7 +2546,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model’s bolt pistol can be replaced with one of the following:",
+          "This model’s bolt pistol can be replaced with one of the following",
           "◦",
           "1 boltgun",
           "◦",
@@ -2568,14 +2568,14 @@
         "values": [
           "■",
           "1 Librarian",
-          "This model is equipped with:",
+          "This model is equipped with",
           "bolt pistol; Smite; force weapon."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Assault Squad",
           "■",
@@ -2666,7 +2666,7 @@
         "values": [
           "■",
           "1 Primaris Chaplain",
-          "This model is equipped with:",
+          "This model is equipped with",
           "absolvor bolt pistol;",
           "crozius arcanum."
         ]
@@ -2674,7 +2674,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Assault Intercessor Squad",
           "■",
@@ -2778,14 +2778,14 @@
         "values": [
           "■",
           "1 Chaplain in Terminator Armour",
-          "This model is equipped with:",
+          "This model is equipped with",
           "storm bolter; crozius arcanum."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Relic Terminator Squad",
           "■",
@@ -2884,7 +2884,7 @@
         "values": [
           "■",
           "1 Chaplain on Bike",
-          "This model is equipped with:",
+          "This model is equipped with",
           "absolvor bolt pistol; twin bolt",
           "rifle; crozius arcanum."
         ]
@@ -2892,7 +2892,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Bike Squad",
           "■",
@@ -3057,7 +3057,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model’s bolt pistol can be replaced with one of the following:",
+          "This model’s bolt pistol can be replaced with one of the following",
           "◦",
           "1 boltgun",
           "◦",
@@ -3081,14 +3081,14 @@
         "values": [
           "■",
           "1 Chaplain",
-          "This model is equipped with:",
+          "This model is equipped with",
           "bolt pistol; crozius arcanum."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Assault Squad",
           "■",
@@ -3256,7 +3256,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model’s bolt pistol can be replaced with one of the following:",
+          "This model’s bolt pistol can be replaced with one of the following",
           "◦",
           "1 boltgun",
           "◦",
@@ -3280,14 +3280,14 @@
         "values": [
           "■",
           "1 Chaplain with Jump Pack",
-          "This model is equipped with:",
+          "This model is equipped with",
           "bolt pistol; crozius arcanum."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Assault Squad with Jump Packs",
           "■",
@@ -3396,7 +3396,7 @@
         "values": [
           "■",
           "1 Primaris Techmarine",
-          "This model is equipped with:",
+          "This model is equipped with",
           "forge bolter; grav-pistol;",
           "Omnissian power axe; servo-arm."
         ]
@@ -3404,7 +3404,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Assault Intercessor Squad",
           "■",
@@ -3599,7 +3599,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model’s bolt pistol can be replaced with one of the following:",
+          "This model’s bolt pistol can be replaced with one of the following",
           "◦",
           "1 boltgun",
           "◦",
@@ -3613,7 +3613,7 @@
           "◦",
           "1 storm bolter*",
           "■",
-          "This model’s Omnissian power axe can be replaced with one of the following:",
+          "This model’s Omnissian power axe can be replaced with one of the following",
           "◦",
           "1 Astartes chainsword",
           "◦",
@@ -3631,7 +3631,7 @@
         "values": [
           "■",
           "1 Techmarine",
-          "This model is equipped with:",
+          "This model is equipped with",
           "bolt pistol; Omnissian power",
           "axe; servo-arm."
         ]
@@ -3639,7 +3639,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Astartes Servitors",
           "■",
@@ -3754,7 +3754,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "Up to 2 models can each have their Servitor servo-arm replaced with one of the following:",
+          "Up to 2 models can each have their Servitor servo-arm replaced with one of the following",
           "◦",
           "1 heavy bolter and 1 close combat weapon",
           "◦",
@@ -3768,7 +3768,7 @@
         "values": [
           "■",
           "4 Astartes Servitors",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "Servitor servo-arm.",
           "SERVITOR RETINUE",
           "At the start of the Declare Battle Formations step, this unit",
@@ -3946,7 +3946,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "The Sergeant’s bolt rifle can be replaced with one of the following:",
+          "The Sergeant’s bolt rifle can be replaced with one of the following",
           "◦",
           "1 Astartes chainsword",
           "◦",
@@ -3956,7 +3956,7 @@
           "◦",
           "1 power weapon",
           "■",
-          "The Intercessor Sergeant’s close combat weapon can be replaced with one of the following:",
+          "The Intercessor Sergeant’s close combat weapon can be replaced with one of the following",
           "◦",
           "1 Astartes chainsword",
           "◦",
@@ -3977,7 +3977,7 @@
           "1 Intercessor Sergeant",
           "■",
           "4-9 Intercessors",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "bolt pistol; bolt rifle; close",
           "combat weapon.",
           "INTERCESSOR SQUAD",
@@ -4073,7 +4073,7 @@
           "1 Infernus Sergeant",
           "■",
           "4-9 Infernus Marines",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "bolt pistol; pyreblaster; close",
           "combat weapon.",
           "INFERNUS SQUAD",
@@ -4208,13 +4208,13 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "The Assault Intercessor Sergeant’s heavy bolt pistol can be replaced with one of the following:",
+          "The Assault Intercessor Sergeant’s heavy bolt pistol can be replaced with one of the following",
           "◦",
           "1 hand flamer",
           "◦",
           "1 plasma pistol",
           "■",
-          "The Assault Intercessor Sergeant’s Astartes chainsword can be replaced with one of the following:",
+          "The Assault Intercessor Sergeant’s Astartes chainsword can be replaced with one of the following",
           "◦",
           "1 power fist",
           "◦",
@@ -4230,7 +4230,7 @@
           "1 Assault Intercessor Sergeant",
           "■",
           "4-9 Assault Intercessors",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "heavy bolt pistol;",
           "Astartes chainsword.",
           "ASSAULT INTERCESSOR SQUAD",
@@ -4401,7 +4401,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model’s bolt pistol can be replaced with one of the following:",
+          "This model’s bolt pistol can be replaced with one of the following",
           "◦",
           "1 boltgun",
           "◦",
@@ -4423,14 +4423,14 @@
         "values": [
           "■",
           "1 Librarian with Jump Pack",
-          "This model is equipped with:",
+          "This model is equipped with",
           "bolt pistol; Smite; force weapon."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Assault Squad with Jump Packs",
           "■",
@@ -4519,7 +4519,7 @@
         "values": [
           "■",
           "1 Lieutenant with Combi-weapon",
-          "This model is equipped with:",
+          "This model is equipped with",
           "combi-weapon;",
           "paired combat blades.",
           "LAST SURVIVOR",
@@ -4630,7 +4630,7 @@
           "1 Heavy Intercessor Sergeant",
           "■",
           "4-9 Heavy Intercessors",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "bolt pistol; heavy bolt rifle;",
           "close combat weapon.",
           "HEAVY INTERCESSOR SQUAD",
@@ -4731,7 +4731,7 @@
           "1 Infiltrator Sergeant",
           "■",
           "4-9 Infiltrators",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "bolt pistol; marksman bolt",
           "carbine; close combat weapon.",
           "INFILTRATOR SQUAD",
@@ -4829,7 +4829,7 @@
           "1 Incursor Sergeant",
           "■",
           "4-9 Incursors",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "bolt pistol; occulus bolt",
           "carbine; paired combat blades.",
           "INCURSOR SQUAD",
@@ -5008,7 +5008,7 @@
         "values": [
           "■",
           "1 Tactical Marine’s boltgun can be replaced with",
-          "one of the following:",
+          "one of the following",
           "◦",
           "1 flamer",
           "◦",
@@ -5033,7 +5033,7 @@
           "1 plasma gun",
           "■",
           "1 Tactical Marine’s boltgun can be replaced with",
-          "one of the following:",
+          "one of the following",
           "◦",
           "1 flamer",
           "◦",
@@ -5088,7 +5088,7 @@
           "1 Tactical Sergeant",
           "■",
           "9 Tactical Marines",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "bolt pistol; boltgun; close",
           "combat weapon.",
           "TACTICAL SQUAD",
@@ -5258,14 +5258,14 @@
         "values": [
           "■",
           "Any number of models can each have their",
-          "boltgun replaced with one of the following:",
+          "boltgun replaced with one of the following",
           "◦",
           "1 Astartes shotgun",
           "◦",
           "1 combat knife",
           "■",
           "1 Scout’s boltgun can be replaced with one of",
-          "the following:",
+          "the following",
           "◦",
           "1 heavy bolter",
           "◦",
@@ -5313,7 +5313,7 @@
           "1 Scout Sergeant",
           "■",
           "4-9 Scouts",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "bolt pistol; boltgun; close",
           "combat weapon.",
           "SCOUT SQUAD",
@@ -5430,7 +5430,7 @@
           "1 Scout Sniper Sergeant",
           "■",
           "4-9 Scout Snipers",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "bolt pistol; sniper rifle; close",
           "combat weapon.",
           "SCOUT SNIPER SQUAD",
@@ -5515,7 +5515,7 @@
         "values": [
           "■",
           "1 Primaris Company Champion",
-          "This model is equipped with:",
+          "This model is equipped with",
           "bolt pistol; master-crafted",
           "power weapon."
         ]
@@ -5523,7 +5523,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Assault Intercessor Squad",
           "■",
@@ -5625,7 +5625,7 @@
         "values": [
           "■",
           "1 Primaris Apothecary",
-          "This model is equipped with:",
+          "This model is equipped with",
           "absolvor bolt pistol; reductor",
           "pistol; close combat weapon."
         ]
@@ -5633,7 +5633,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Assault Intercessor Squad",
           "■",
@@ -5739,7 +5739,7 @@
         "values": [
           "■",
           "1 Apothecary Biologis",
-          "This model is equipped with:",
+          "This model is equipped with",
           "absolvor bolt pistol; close",
           "combat weapon."
         ]
@@ -5747,7 +5747,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Aggressor Squad",
           "■",
@@ -5862,7 +5862,7 @@
         "values": [
           "■",
           "1 Primaris Ancient",
-          "This model is equipped with:",
+          "This model is equipped with",
           "bolt pistol; bolt rifle; close",
           "combat weapon."
         ]
@@ -5870,7 +5870,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Assault Intercessor Squad",
           "■",
@@ -5977,7 +5977,7 @@
         "values": [
           "■",
           "1 Bladeguard Ancient",
-          "This model is equipped with:",
+          "This model is equipped with",
           "heavy bolt pistol; close",
           "combat weapon."
         ]
@@ -5985,7 +5985,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Bladeguard Veteran Squad",
           "You can attach this model to the above unit even if one",
@@ -6118,7 +6118,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model’s power fist can be replaced with one of the following:",
+          "This model’s power fist can be replaced with one of the following",
           "◦",
           "1 chainfist",
           "◦",
@@ -6128,7 +6128,7 @@
           "◦",
           "1 thunder hammer",
           "■",
-          "This model’s storm bolter and power fist can be replaced with one of the following:",
+          "This model’s storm bolter and power fist can be replaced with one of the following",
           "◦",
           "1 twin lightning claws",
           "◦",
@@ -6140,14 +6140,14 @@
         "values": [
           "■",
           "1 Ancient in Terminator Armour",
-          "This model is equipped with:",
+          "This model is equipped with",
           "storm bolter; power fist."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Relic Terminator Squad",
           "■",
@@ -6270,7 +6270,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "The Bladeguard Veteran Sergeant’s heavy bolt pistol can be replaced with one of the following:",
+          "The Bladeguard Veteran Sergeant’s heavy bolt pistol can be replaced with one of the following",
           "◦",
           "1 neo-volkite pistol",
           "◦",
@@ -6284,7 +6284,7 @@
           "1 Bladeguard Veteran Sergeant",
           "■",
           "2-5 Bladeguard Veterans",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "heavy bolt pistol;",
           "master-crafted power weapon.",
           "BLADEGUARD VETERAN SQUAD",
@@ -6474,7 +6474,7 @@
         "values": [
           "■",
           "Any number of models can each have their bolt",
-          "pistol replaced with one of the following:",
+          "pistol replaced with one of the following",
           "◦",
           "1 hand flamer*",
           "◦",
@@ -6492,7 +6492,7 @@
           "lightning claws.",
           "■",
           "The Company Ancient’s bolt pistol can be replaced",
-          "with one of the following:",
+          "with one of the following",
           "◦",
           "1 boltgun",
           "◦",
@@ -6502,7 +6502,7 @@
           "Astartes Armoury card.",
           "■",
           "Any number of Company Veterans can each have",
-          "their boltgun replaced with one of the following:",
+          "their boltgun replaced with one of the following",
           "◦",
           "1 Astartes chainsword",
           "◦",
@@ -6550,16 +6550,16 @@
           "1 Company Champion",
           "■",
           "2 Company Veterans",
-          "The Apothecary is equipped with:",
+          "The Apothecary is equipped with",
           "bolt pistol;",
           "Astartes chainsword.",
-          "The Company Ancient is equipped with:",
+          "The Company Ancient is equipped with",
           "bolt pistol; close",
           "combat weapon.",
-          "The Company Champion is equipped with:",
+          "The Company Champion is equipped with",
           "bolt pistol;",
           "Champion’s blade; Astartes shield.",
-          "Each Company Veteran is equipped with:",
+          "Each Company Veteran is equipped with",
           "bolt pistol; boltgun,",
           "close combat weapon.",
           "COMMAND SQUAD",
@@ -6684,7 +6684,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "Any number of models can each have their bolt pistol replaced one of the following:",
+          "Any number of models can each have their bolt pistol replaced one of the following",
           "◦",
           "1 storm shield",
           "◦",
@@ -6704,7 +6704,7 @@
           "1 Vanguard Veteran Sergeant",
           "■",
           "4-9 Vanguard Veterans",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "bolt pistol; heirloom weapon.",
           "VANGUARD VETERAN SQUAD",
           "Vanguard Veterans are close combat experts with decades of",
@@ -6828,7 +6828,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "Any number of models can each have their bolt pistol replaced one of the following:",
+          "Any number of models can each have their bolt pistol replaced one of the following",
           "◦",
           "1 storm shield",
           "◦",
@@ -6848,7 +6848,7 @@
           "1 Vanguard Veteran Sergeant with Jump Pack",
           "■",
           "4-9 Vanguard Veterans with Jump Packs",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "bolt pistol; heirloom weapon.",
           "VANGUARD VETERAN SQUAD",
           "WITH JUMP PACKS",
@@ -6963,7 +6963,7 @@
           "1 Sternguard Veteran Sergeant",
           "■",
           "4-9 Sternguard Veterans",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "Sternguard bolt pistol;",
           "Sternguard bolt rifle; close combat weapon.",
           "STERNGUARD VETERAN SQUAD",
@@ -7056,7 +7056,7 @@
         "values": [
           "■",
           "1 Judiciar",
-          "This model is equipped with:",
+          "This model is equipped with",
           "absolvor bolt pistol; executioner",
           "relic blade."
         ]
@@ -7064,7 +7064,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Assault Intercessor Squad",
           "■",
@@ -7187,7 +7187,7 @@
           "1 Reiver Sergeant",
           "■",
           "4-9 Reivers",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "special issue bolt pistol;",
           "combat knife.",
           "REIVER SQUAD",
@@ -7292,7 +7292,7 @@
           "1 Aggressor Sergeant",
           "■",
           "2-5 Aggressors",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "flamestorm gauntlets;",
           "power fist.",
           "AGGRESSOR SQUAD",
@@ -7382,7 +7382,7 @@
           "1 Assault Terminator Sergeant",
           "■",
           "4-9 Assault Terminators",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "thunder hammer; storm shield.",
           "TERMINATOR ASSAULT SQUAD",
           "Terminator Assault Squads are armed with devastating close-combat",
@@ -7518,7 +7518,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "For every 5 models in this unit, 1 Terminator’s storm bolter can be replaced with one of the following:",
+          "For every 5 models in this unit, 1 Terminator’s storm bolter can be replaced with one of the following",
           "◦",
           "1 assault cannon",
           "◦",
@@ -7538,10 +7538,10 @@
           "1 Terminator Sergeant",
           "■",
           "4-9 Terminators",
-          "The Terminator Sergeant is equipped with:",
+          "The Terminator Sergeant is equipped with",
           "storm bolter;",
           "power weapon.",
-          "Every Terminator is equipped with:",
+          "Every Terminator is equipped with",
           "storm bolter; power fist.",
           "TERMINATOR SQUAD",
           "Terminator armour is a marvel of technology that enables its wearer to",
@@ -7693,14 +7693,14 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "The Relic Terminator Sergeant’s combi-bolter can be replaced with one of the following:",
+          "The Relic Terminator Sergeant’s combi-bolter can be replaced with one of the following",
           "◦",
           "1 plasma blaster",
           "◦",
           "1 volkite charger",
           "■",
           "For every 5 models in this unit, 1 Relic Terminator’s combi-bolter can be replaced with one of",
-          "the following:",
+          "the following",
           "◦",
           "1 heavy flamer",
           "◦",
@@ -7723,7 +7723,7 @@
           "1 Relic Terminator Sergeant",
           "■",
           "4-9 Relic Terminators",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "combi-bolter; power fist.",
           "RELIC TERMINATOR SQUAD",
           "Many Chapters possess suits of Terminator armour - such as those",
@@ -7830,7 +7830,7 @@
           "1 Assault Centurion Sergeant",
           "■",
           "2-5 Assault Centurions",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "twin flamer; siege drills;",
           "Centurion bolters.",
           "CENTURION ASSAULT SQUAD",
@@ -7945,7 +7945,7 @@
           "Any number of models can each have their Centurion bolters replaced with 1 Centurion",
           "missile launcher.",
           "■",
-          "Any number of models can each have their grav-cannon replaced with one of the following:",
+          "Any number of models can each have their grav-cannon replaced with one of the following",
           "◦",
           "1 twin heavy bolter",
           "◦",
@@ -7959,7 +7959,7 @@
           "1 Devastator Centurion Sergeant",
           "■",
           "2-5 Devastator Centurions",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "grav-cannon; Centurion",
           "bolters; Centurion fists.",
           "CENTURION DEVASTATOR SQUAD",
@@ -8081,7 +8081,7 @@
         "values": [
           "■",
           "1 Invictor Tactical Warsuit",
-          "This model is equipped with:",
+          "This model is equipped with",
           "fragstorm grenade launcher;",
           "heavy bolter; incendium cannon; twin ironhail heavy stubber;",
           "Invictor fist.",
@@ -8242,7 +8242,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model’s assault cannon can be replaced with one of the following:",
+          "This model’s assault cannon can be replaced with one of the following",
           "◦",
           "1 heavy plasma cannon",
           "◦",
@@ -8250,7 +8250,7 @@
           "◦",
           "1 twin lascannon",
           "■",
-          "This model’s Dreadnought combat weapon and storm bolter can be replaced with one of the following:",
+          "This model’s Dreadnought combat weapon and storm bolter can be replaced with one of the following",
           "◦",
           "1 missile launcher and 1 close combat weapon",
           "◦",
@@ -8262,7 +8262,7 @@
         "values": [
           "■",
           "1 Dreadnought",
-          "This model is equipped with:",
+          "This model is equipped with",
           "assault cannon; storm bolter;",
           "Dreadnought combat weapon.",
           "DREADNOUGHT",
@@ -8364,7 +8364,7 @@
         "values": [
           "■",
           "1 Contemptor Dreadnought",
-          "This model is equipped with:",
+          "This model is equipped with",
           "combi-bolter; multi-melta;",
           "Dreadnought combat weapon.",
           "CONTEMPTOR DREADNOUGHT",
@@ -8412,7 +8412,7 @@
           "d": "D6"
         },
         {
-          "name": "One Shot:",
+          "name": "One Shot",
           "range": "The bearer can only shoot with this weapon once per battle.",
           "a": "Hurricane bolter [RAPID FIRE 6, TWIN-LINKED]",
           "bws": "24\"",
@@ -8517,7 +8517,7 @@
         "values": [
           "■",
           "1 Ironclad Dreadnought",
-          "This model is equipped with:",
+          "This model is equipped with",
           "meltagun; storm bolter;",
           "Dreadnought combat weapon; seismic hammer.",
           "IRONCLAD DREADNOUGHT",
@@ -8673,7 +8673,7 @@
         "values": [
           "■",
           "1 Redemptor Dreadnought",
-          "This model is equipped with:",
+          "This model is equipped with",
           "twin fragstorm grenade",
           "launcher; heavy flamer; heavy onslaught gatling cannon;",
           "Redemptor fist.",
@@ -8808,7 +8808,7 @@
         "values": [
           "■",
           "1 Brutalis Dreadnought",
-          "This model is equipped with:",
+          "This model is equipped with",
           "twin Icarus ironhail heavy",
           "stubber; twin heavy bolter; Brutalis bolt rifles; Brutalis fists.",
           "BRUTALIS DREADNOUGHT",
@@ -8922,7 +8922,7 @@
         "values": [
           "■",
           "1 Ballistus Dreadnought",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Ballistus missile launcher;",
           "Ballistus lascannon; twin storm bolter; armoured feet.",
           "BALLISTUS DREADNOUGHT",
@@ -9101,7 +9101,7 @@
         "values": [
           "■",
           "The Assault Sergeant’s bolt pistol can be",
-          "replaced with one of the following:",
+          "replaced with one of the following",
           "◦",
           "1 grav-pistol*",
           "◦",
@@ -9112,7 +9112,7 @@
           "1 plasma pistol",
           "■",
           "The Assault Sergeant’s Astartes chainsword can",
-          "be replaced with one of the following:",
+          "be replaced with one of the following",
           "◦",
           "1 power fist",
           "◦",
@@ -9120,7 +9120,7 @@
           "◦",
           "1 thunder hammer",
           "■",
-          "The Assault Sergeant can do one of the following:",
+          "The Assault Sergeant can do one of the following",
           "◦",
           "Replace its bolt pistol and Astartes",
           "chainsword with 1 twin lightning claws.",
@@ -9129,7 +9129,7 @@
           "■",
           "Up to 2 Assault Marines can each have their bolt",
           "pistol and Astartes chainsword replaced with",
-          "one of the following:",
+          "one of the following",
           "◦",
           "1 plasma pistol and 1 Astartes chainsword",
           "◦",
@@ -9154,7 +9154,7 @@
           "1 Assault Sergeant",
           "■",
           "4-9 Assault Marines",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "bolt pistol;",
           "Astartes chainsword.",
           "ASSAULT SQUAD",
@@ -9335,7 +9335,7 @@
         "values": [
           "■",
           "The Assault Sergeant with Jump Pack’s bolt",
-          "pistol can be replaced with one of the following:",
+          "pistol can be replaced with one of the following",
           "◦",
           "1 grav-pistol*",
           "◦",
@@ -9347,7 +9347,7 @@
           "■",
           "The Assault Sergeant with Jump Pack’s Astartes",
           "chainsword can be replaced with one of",
-          "the following:",
+          "the following",
           "◦",
           "1 power fist",
           "◦",
@@ -9356,7 +9356,7 @@
           "1 thunder hammer",
           "■",
           "The Assault Sergeant with Jump Pack can do one",
-          "of the following:",
+          "of the following",
           "◦",
           "Replace its bolt pistol and Astartes",
           "chainsword with 1 twin lightning claws.",
@@ -9365,7 +9365,7 @@
           "■",
           "Up to 2 Assault Marines with Jump Packs",
           "can each have their bolt pistol and Astartes",
-          "chainsword replaced with one of the following:",
+          "chainsword replaced with one of the following",
           "◦",
           "1 plasma pistol and 1 Astartes chainsword",
           "◦",
@@ -9390,7 +9390,7 @@
           "1 Assault Sergeant with Jump Pack",
           "■",
           "4-9 Assault Marines with Jump Packs",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "bolt pistol;",
           "Astartes chainsword.",
           "ASSAULT SQUAD",
@@ -9516,9 +9516,9 @@
           "2-5 Outriders",
           "■",
           "0-1 Invader ATV",
-          "The Outrider Sergeant and every Outrider is equipped with:",
+          "The Outrider Sergeant and every Outrider is equipped with",
           "heavy bolt pistol; twin bolt rifle; Astartes chainsword.",
-          "An Invader ATV is equipped with:",
+          "An Invader ATV is equipped with",
           "heavy bolt pistol; twin bolt",
           "rifle, onslaught gatling cannon; close combat weapon.",
           "OUTRIDER SQUAD",
@@ -9629,7 +9629,7 @@
         "values": [
           "■",
           "1 Invader ATV",
-          "This model is equipped with:",
+          "This model is equipped with",
           "heavy bolt pistol; twin bolt rifle,",
           "onslaught gatling cannon; close combat weapon.",
           "INVADER ATV",
@@ -9819,7 +9819,7 @@
         "values": [
           "■",
           "The Biker Sergeant’s bolt pistol can be replaced",
-          "with one of the following:",
+          "with one of the following",
           "◦",
           "1 Astartes chainsword",
           "◦",
@@ -9848,7 +9848,7 @@
           "Astartes chainsword.",
           "■",
           "Up to 2 Space Marine Bikers can each have their",
-          "bolt pistol replaced with one of the following:",
+          "bolt pistol replaced with one of the following",
           "◦",
           "1 flamer",
           "◦",
@@ -9877,10 +9877,10 @@
           "■",
           "0-1 Attack Bike",
           "The Biker Sergeant and every Space Marine Biker",
-          "is equipped with:",
+          "is equipped with",
           "bolt pistol; twin boltgun; close",
           "combat weapon.",
-          "An Attack Bike is equipped with:",
+          "An Attack Bike is equipped with",
           "bolt pistol; heavy bolter; twin",
           "boltgun; close combat weapon.",
           "BIKE SQUAD",
@@ -10068,7 +10068,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "The Scout Biker Sergeant’s bolt pistol can be replaced with one of the following:",
+          "The Scout Biker Sergeant’s bolt pistol can be replaced with one of the following",
           "◦",
           "1 Astartes chainsword",
           "◦",
@@ -10104,7 +10104,7 @@
           "1 Scout Biker Sergeant",
           "■",
           "2-5 Scout Bikers",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "Astartes shotgun; bolt pistol;",
           "twin boltgun; combat knife.",
           "SCOUT BIKE SQUAD",
@@ -10217,7 +10217,7 @@
         "values": [
           "■",
           "1-3 Attack Bikes",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "bolt pistol; heavy bolter; twin",
           "boltgun; close combat weapon.",
           "ATTACK BIKE SQUAD",
@@ -10314,7 +10314,7 @@
           "1 Suppressor Sergeant",
           "■",
           "2 Suppressors",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "accelerator autocannon; bolt",
           "pistol; close combat weapon.",
           "SUPPRESSOR SQUAD",
@@ -10424,7 +10424,7 @@
           "1 Inceptor Sergeant",
           "■",
           "2-5 Inceptors",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "assault bolters; close",
           "combat weapon.",
           "INCEPTOR SQUAD",
@@ -10526,7 +10526,7 @@
         "values": [
           "■",
           "1 Storm Speeder Hailstrike",
-          "This model is equipped with:",
+          "This model is equipped with",
           "2 fragstorm grenade launchers;",
           "onslaught gatling cannon; twin ironhail heavy stubber; close",
           "combat weapon.",
@@ -10627,7 +10627,7 @@
         "values": [
           "■",
           "1 Storm Speeder Thunderstrike",
-          "This model is equipped with:",
+          "This model is equipped with",
           "stormfury missiles;",
           "Thunderstrike las-talon; twin Icarus rocket pod; close",
           "combat weapon.",
@@ -10729,7 +10729,7 @@
         "values": [
           "■",
           "1 Storm Speeder Hammerstrike",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Hammerstrike missile launcher;",
           "2 krakstorm grenade launchers; melta destroyer; close",
           "combat weapon.",
@@ -10821,7 +10821,7 @@
         "values": [
           "■",
           "1 Land Speeder",
-          "This model is equipped with:",
+          "This model is equipped with",
           "heavy bolter; close",
           "combat weapon.",
           "LAND SPEEDER",
@@ -10932,7 +10932,7 @@
         "values": [
           "■",
           "1 Land Speeder Tornado",
-          "This model is equipped with:",
+          "This model is equipped with",
           "assault cannon; heavy bolter;",
           "close combat weapon.",
           "LAND SPEEDER TORNADO",
@@ -11045,7 +11045,7 @@
         "values": [
           "■",
           "1 Land Speeder Typhoon",
-          "This model is equipped with:",
+          "This model is equipped with",
           "heavy bolter; Typhoon missile",
           "launcher; close combat weapon.",
           "LAND SPEEDER TYPHOON",
@@ -11174,7 +11174,7 @@
           "1 Hellblaster Sergeant",
           "■",
           "4-9 Hellblasters",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "bolt pistol; plasma incinerator;",
           "close combat weapon.",
           "HELLBLASTER SQUAD",
@@ -11278,7 +11278,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "The Eliminator Sergeant’s bolt sniper rifle can be replaced with one of the following:",
+          "The Eliminator Sergeant’s bolt sniper rifle can be replaced with one of the following",
           "◦",
           "1 instigator bolt carbine",
           "◦",
@@ -11294,7 +11294,7 @@
           "1 Eliminator Sergeant",
           "■",
           "2 Eliminators",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "bolt pistol; bolt sniper rifle;",
           "close combat weapon.",
           "ELIMINATOR SQUAD",
@@ -11398,7 +11398,7 @@
           "1 Eradicator Sergeant",
           "■",
           "2-5 Eradicators",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "bolt pistol; melta rifle; close",
           "combat weapon.",
           "ERADICATOR SQUAD",
@@ -11588,7 +11588,7 @@
         "values": [
           "■",
           "Up to 4 Devastator Marines can each have their",
-          "boltgun replaced with one of the following:",
+          "boltgun replaced with one of the following",
           "◦",
           "1 grav-cannon",
           "◦",
@@ -11650,7 +11650,7 @@
           "1 Devastator Sergeant",
           "■",
           "4-9 Devastator Marines",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "bolt pistol; boltgun; close",
           "combat weapon.",
           "DEVASTATOR SQUAD",
@@ -11780,7 +11780,7 @@
           "1 Desolation Sergeant",
           "■",
           "4-9 Desolation Marines",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "bolt pistol; castellan launcher;",
           "superfrag rocket launcher; close combat weapon.",
           "DESOLATION SQUAD",
@@ -11906,10 +11906,10 @@
           "1 Techmarine Gunner",
           "■",
           "1 Thunderfire Cannon",
-          "The Techmarine Gunner is equipped with:",
+          "The Techmarine Gunner is equipped with",
           "bolt pistol; flamer;",
           "plasma cutter; Gunner’s servo-arms; close combat weapon.",
-          "The Thunderfire Cannon is equipped with:",
+          "The Thunderfire Cannon is equipped with",
           "thunderfire",
           "cannon; close combat weapon.",
           "THUNDERFIRE CANNON",
@@ -12003,7 +12003,7 @@
         "values": [
           "■",
           "1-2 Firestrike Servo-turrets",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "twin Firestrike las-talon; close",
           "combat weapon.",
           "FIRESTRIKE SERVO-TURRETS",
@@ -12041,7 +12041,7 @@
           "d": "D6"
         },
         {
-          "name": "One Shot:",
+          "name": "One Shot",
           "range": "The bearer can only shoot with this weapon once per battle.",
           "a": "Skyspear missile launcher [ANTI-FLY 3+, DEVASTATING WOUNDS, HEAVY]",
           "bws": "36\"",
@@ -12111,7 +12111,7 @@
         "values": [
           "■",
           "1 Hunter",
-          "This model is equipped with:",
+          "This model is equipped with",
           "skyspear missile launcher;",
           "armoured tracks.",
           "HUNTER",
@@ -12149,7 +12149,7 @@
           "d": "D6"
         },
         {
-          "name": "One Shot:",
+          "name": "One Shot",
           "range": "The bearer can only shoot with this weapon once per battle.",
           "a": "Icarus stormcannon [ANTI-FLY 2+]",
           "bws": "48\"",
@@ -12219,7 +12219,7 @@
         "values": [
           "■",
           "1 Stalker",
-          "This model is equipped with:",
+          "This model is equipped with",
           "2 Icarus stormcannons;",
           "armoured tracks.",
           "STALKER",
@@ -12257,7 +12257,7 @@
           "d": "D6"
         },
         {
-          "name": "One Shot:",
+          "name": "One Shot",
           "range": "The bearer can only shoot with this weapon once per battle.",
           "a": "Storm bolter [RAPID FIRE 2]",
           "bws": "24\"",
@@ -12327,7 +12327,7 @@
         "values": [
           "■",
           "1 Whirlwind",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Whirlwind vengeance launcher;",
           "armoured tracks.",
           "WHIRLWIND",
@@ -12374,7 +12374,7 @@
           "d": "D6"
         },
         {
-          "name": "One Shot:",
+          "name": "One Shot",
           "range": "The bearer can only shoot with this weapon once per battle.",
           "a": "Lascannon",
           "bws": "48\"",
@@ -12443,7 +12443,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model can be equipped with one of the following:",
+          "This model can be equipped with one of the following",
           "◦",
           "2 heavy bolters",
           "◦",
@@ -12459,7 +12459,7 @@
         "values": [
           "■",
           "1 Predator Destructor",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Predator autocannon;",
           "armoured tracks.",
           "PREDATOR DESTRUCTOR",
@@ -12515,7 +12515,7 @@
           "d": "D6"
         },
         {
-          "name": "One Shot:",
+          "name": "One Shot",
           "range": "The bearer can only shoot with this weapon once per battle.",
           "a": "Lascannon",
           "bws": "48\"",
@@ -12575,7 +12575,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model can be equipped with one of the following:",
+          "This model can be equipped with one of the following",
           "◦",
           "2 heavy bolters",
           "◦",
@@ -12591,7 +12591,7 @@
         "values": [
           "■",
           "1 Predator Annihilator",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Predator twin lascannon;",
           "armoured tracks.",
           "PREDATOR ANNIHILATOR",
@@ -12715,7 +12715,7 @@
         "values": [
           "■",
           "1 Gladiator Lancer",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Lancer laser destroyer; 2 storm",
           "bolters; armoured hull.",
           "GLADIATOR LANCER",
@@ -12828,7 +12828,7 @@
         "values": [
           "■",
           "1 Gladiator Reaper",
-          "This model is equipped with:",
+          "This model is equipped with",
           "2 tempest bolters; twin heavy",
           "onslaught gatling cannon; armoured hull.",
           "GLADIATOR REAPER",
@@ -12941,7 +12941,7 @@
         "values": [
           "■",
           "1 Gladiator Valiant",
-          "This model is equipped with:",
+          "This model is equipped with",
           "2 multi-meltas; twin las-talon;",
           "armoured hull.",
           "GLADIATOR VALIANT",
@@ -12988,7 +12988,7 @@
           "d": "D6"
         },
         {
-          "name": "One Shot:",
+          "name": "One Shot",
           "range": "The bearer can only shoot with this weapon once per battle.",
           "a": "Storm bolter [RAPID FIRE 2]",
           "bws": "24\"",
@@ -13050,7 +13050,7 @@
         "values": [
           "■",
           "1 Vindicator",
-          "This model is equipped with:",
+          "This model is equipped with",
           "demolisher cannon;",
           "armoured tracks.",
           "VINDICATOR",
@@ -13098,7 +13098,7 @@
           "d": "D6"
         },
         {
-          "name": "One Shot:",
+          "name": "One Shot",
           "range": "The bearer can only shoot with this weapon once per battle.",
           "a": "Multi-melta [MELTA 2]",
           "bws": "18\"",
@@ -13179,7 +13179,7 @@
         "values": [
           "■",
           "1 Land Raider",
-          "This model is equipped with:",
+          "This model is equipped with",
           "twin heavy bolter; 2 godhammer",
           "lascannons; armoured tracks."
         ]
@@ -13236,7 +13236,7 @@
           "d": "D6"
         },
         {
-          "name": "One Shot:",
+          "name": "One Shot",
           "range": "The bearer can only shoot with this weapon once per battle.",
           "a": "Hurricane bolter [RAPID FIRE 6, TWIN-LINKED]",
           "bws": "24\"",
@@ -13326,7 +13326,7 @@
         "values": [
           "■",
           "1 Land Raider Crusader",
-          "This model is equipped with:",
+          "This model is equipped with",
           "2 hurricane bolters; twin assault",
           "cannon; armoured tracks."
         ]
@@ -13393,7 +13393,7 @@
           "d": "D6"
         },
         {
-          "name": "One Shot:",
+          "name": "One Shot",
           "range": "The bearer can only shoot with this weapon once per battle.",
           "a": "Multi-melta [MELTA 2]",
           "bws": "18\"",
@@ -13474,7 +13474,7 @@
         "values": [
           "■",
           "1 Land Raider Redeemer",
-          "This model is equipped with:",
+          "This model is equipped with",
           "2 flamestorm cannons; twin",
           "assault cannon; armoured tracks."
         ]
@@ -13541,7 +13541,7 @@
           "d": "D6"
         },
         {
-          "name": "One Shot:",
+          "name": "One Shot",
           "range": "The bearer can only shoot with this weapon once per battle.",
           "a": "Las-talon",
           "bws": "36\"",
@@ -13631,7 +13631,7 @@
         "values": [
           "■",
           "1 Repulsor",
-          "This model is equipped with:",
+          "This model is equipped with",
           "heavy onslaught gatling cannon;",
           "hunter-slayer missile; Repulsor defensive array; twin heavy",
           "bolter; armoured hull."
@@ -13815,7 +13815,7 @@
         "values": [
           "■",
           "1 Repulsor Executioner",
-          "This model is equipped with:",
+          "This model is equipped with",
           "heavy onslaught gatling cannon;",
           "macro plasma incinerator; Repulsor Executioner defensive",
           "array; twin heavy bolter; twin Icarus ironhail heavy stubber;",
@@ -13876,7 +13876,7 @@
           "d": "D6"
         },
         {
-          "name": "One Shot:",
+          "name": "One Shot",
           "range": "The bearer can only shoot with this weapon once per battle.",
           "a": "Storm bolter [RAPID FIRE 2]",
           "bws": "24\"",
@@ -13934,7 +13934,7 @@
         "values": [
           "■",
           "1 Rhino",
-          "This model is equipped with:",
+          "This model is equipped with",
           "storm bolter; armoured tracks."
         ]
       },
@@ -13995,7 +13995,7 @@
           "d": "D6"
         },
         {
-          "name": "One Shot:",
+          "name": "One Shot",
           "range": "The bearer can only shoot with this weapon once per battle.",
           "a": "Storm bolter [RAPID FIRE 2]",
           "bws": "24\"",
@@ -14072,7 +14072,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model’s twin heavy bolter can be replaced with one of the following:",
+          "This model’s twin heavy bolter can be replaced with one of the following",
           "◦",
           "1 twin lascannon",
           "◦",
@@ -14088,7 +14088,7 @@
         "values": [
           "■",
           "1 Razorback",
-          "This model is equipped with:",
+          "This model is equipped with",
           "twin heavy bolter;",
           "armoured tracks."
         ]
@@ -14251,7 +14251,7 @@
           "■",
           "This model’s 2 storm bolters can be replaced with 2 fragstorm grenade launchers.",
           "■",
-          "This model can be equipped with one of the following:",
+          "This model can be equipped with one of the following",
           "◦",
           "1 bellicatus missile array",
           "◦",
@@ -14267,7 +14267,7 @@
         "values": [
           "■",
           "1 Impulsor",
-          "This model is equipped with:",
+          "This model is equipped with",
           "2 storm bolters; armoured hull."
         ]
       },
@@ -14364,7 +14364,7 @@
         "values": [
           "■",
           "1 Drop Pod",
-          "This model is equipped with:",
+          "This model is equipped with",
           "storm bolter."
         ]
       },
@@ -14473,7 +14473,7 @@
         "values": [
           "■",
           "1 Land Speeder Storm",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Cerberus launcher; heavy bolter;",
           "close combat weapon."
         ]
@@ -14623,7 +14623,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model’s skyhammer missile launcher can be replaced with one of the following:",
+          "This model’s skyhammer missile launcher can be replaced with one of the following",
           "◦",
           "1 twin heavy bolter",
           "◦",
@@ -14637,7 +14637,7 @@
         "values": [
           "■",
           "1 Stormhawk Interceptor",
-          "This model is equipped with:",
+          "This model is equipped with",
           "twin assault cannon;",
           "skyhammer missile launcher; las-talon; armoured hull.",
           "STORMHAWK INTERCEPTOR",
@@ -14762,7 +14762,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model’s skyhammer missile launcher can be replaced with one of the following:",
+          "This model’s skyhammer missile launcher can be replaced with one of the following",
           "◦",
           "1 twin heavy bolter",
           "◦",
@@ -14776,7 +14776,7 @@
         "values": [
           "■",
           "1 Stormtalon Gunship",
-          "This model is equipped with:",
+          "This model is equipped with",
           "skyhammer missile launcher;",
           "twin assault cannon; armoured hull.",
           "STORMTALON GUNSHIP",
@@ -14939,13 +14939,13 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model’s twin assault cannon can be replaced with one of the following:",
+          "This model’s twin assault cannon can be replaced with one of the following",
           "◦",
           "1 twin heavy plasma cannon",
           "◦",
           "1 twin lascannon",
           "■",
-          "This model’s typhoon missile launcher can be replaced with one of the following:",
+          "This model’s typhoon missile launcher can be replaced with one of the following",
           "◦",
           "1 twin heavy bolter",
           "◦",
@@ -14959,7 +14959,7 @@
         "values": [
           "■",
           "1 Stormraven Gunship",
-          "This model is equipped with:",
+          "This model is equipped with",
           "2 stormstrike missile",
           "launchers; twin assault cannon; typhoon missile launcher;",
           "armoured hull."
@@ -15092,7 +15092,7 @@
         "values": [
           "■",
           "1 Hammerfall Bunker",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Hammerfall heavy bolter array;",
           "Hammerfall missile launcher.",
           "HAMMERFALL BUNKER",
@@ -15180,7 +15180,7 @@
           "■",
           "1 Captain Sicarius -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "artisan plasma pistol;",
           "Talassarian Tempest Blade."
         ]
@@ -15188,7 +15188,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Assault Squad",
           "■",
@@ -15284,14 +15284,14 @@
           "■",
           "1 Chaplain Cassius -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Infernus; artificer crozius."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Assault Squad",
           "■",
@@ -15410,7 +15410,7 @@
           "■",
           "1 Chief Librarian Tigurius -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "bolt pistol; Storm of the",
           "Emperor’s Wrath; Rod of Tigurius."
         ]
@@ -15418,7 +15418,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Assault Intercessor Squad",
           "■",
@@ -15545,9 +15545,9 @@
           "Epic Hero",
           "■",
           "2 Victrix Honour Guard",
-          "Marneus Calgar is equipped with:",
+          "Marneus Calgar is equipped with",
           "Gauntlets of Ultramar.",
-          "Every Victrix Honour Guard is equipped with:",
+          "Every Victrix Honour Guard is equipped with",
           "Victrix",
           "power sword."
         ]
@@ -15555,7 +15555,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This unit can be attached to the following units:",
+          "This unit can be attached to the following units",
           "■",
           "Aggressor Squad",
           "■",
@@ -15578,9 +15578,9 @@
           "of bolt shells from the Gauntlets of Ultramar before tearing apart",
           "anything in his grip. When he judges the endgame of his strategy to",
           "be imminent, he leads his Ultramarines into the heart of enemy lines.",
-          "KEYWORDS - ALL MODELS:",
+          "KEYWORDS - ALL MODELS",
           "Infantry, Imperium",
-          "| MARNEUS CALGAR:",
+          "| MARNEUS CALGAR",
           "Character,",
           "Epic Hero, Gravis, Chapter Master, Marneus Calgar"
         ]
@@ -15662,7 +15662,7 @@
           "■",
           "1 Sergeant Chronus -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "bolt pistol; Chronus’ servo-arm."
         ]
       },
@@ -15755,7 +15755,7 @@
           "■",
           "1 Sergeant Telion -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "bolt pistol; Quietus;",
           "combat knife."
         ]
@@ -15763,7 +15763,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Scout Squad",
           "■",
@@ -15860,7 +15860,7 @@
           "1 Veteran Sergeant",
           "■",
           "4 Tyrannic War Veterans",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "bolt pistol; boltgun; close",
           "combat weapon.",
           "TYRANNIC WAR VETERANS",
@@ -15959,7 +15959,7 @@
           "■",
           "1 Uriel Ventris -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "bolt pistol; Invictus; Sword",
           "of Idaeus."
         ]
@@ -15967,7 +15967,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Assault Intercessor Squad",
           "■",
@@ -16076,7 +16076,7 @@
           "■",
           "1 Roboute Guilliman -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Hand of Dominion;",
           "Emperor’s Sword."
         ]
@@ -16153,14 +16153,14 @@
           "■",
           "1 Darnath Lysander -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Fist of Dorn."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Relic Terminator Squad",
           "■",
@@ -16252,7 +16252,7 @@
           "■",
           "1 Tor Garadon -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "artificer grav-gun; Hand",
           "of Defiance."
         ]
@@ -16260,7 +16260,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Aggressor Squad",
           "■",
@@ -16352,14 +16352,14 @@
           "■",
           "1 Pedro Kantor -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Dorn’s Arrow; Fist of Retribution."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Command Squad",
           "■",
@@ -16479,7 +16479,7 @@
           "■",
           "1 Iron Father Feirros -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "bolt pistol; Gorgon’s Wrath;",
           "Harrowhand; Medusan manipuli."
         ]
@@ -16487,7 +16487,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Aggressor Squad",
           "■",
@@ -16579,14 +16579,14 @@
           "■",
           "1 Kayvaan Shrike -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Blackout; the Raven’s Talons."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Assault Squad with Jump Packs",
           "■",
@@ -16676,14 +16676,14 @@
           "■",
           "1 Adrax Agatone -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Drakkis; Malleus Noctum."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Assault Intercessor Squad",
           "■",
@@ -16787,7 +16787,7 @@
           "■",
           "1 Vulkan He’stan -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "bolt pistol; Gauntlet of the Forge;",
           "Spear of Vulkan."
         ]
@@ -16795,7 +16795,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Assault Squad",
           "■",
@@ -16887,14 +16887,14 @@
           "■",
           "1 Kor’sarro Khan -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "bolt pistol; Moonfang."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Assault Intercessor Squad",
           "■",

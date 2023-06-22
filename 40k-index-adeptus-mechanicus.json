@@ -82,7 +82,7 @@
         "values": [
           "■",
           "1 Archaeopter Fusilave",
-          "This model is equipped with:",
+          "This model is equipped with",
           "cognis heavy stubber array;",
           "armoured hull; command uplink.",
           "ARCHAEOPTER FUSILAVE",
@@ -188,7 +188,7 @@
         "values": [
           "■",
           "1 Archaeopter Stratoraptor",
-          "This model is equipped with:",
+          "This model is equipped with",
           "2 cognis heavy stubbers;",
           "2 heavy phosphor blasters; twin cognis lascannon; armoured",
           "hull; command uplink.",
@@ -278,7 +278,7 @@
         "values": [
           "■",
           "1 Archaeopter Transvector",
-          "This model is equipped with:",
+          "This model is equipped with",
           "cognis heavy stubber array;",
           "armoured hull; command uplink."
         ]
@@ -361,19 +361,19 @@
         },
         {
           "name": "CANTICLES OF THE OMNISSIAH",
-          "range": "Invocation of Machine Vengeance (Aura):",
+          "range": "Invocation of Machine Vengeance (Aura)",
           "a": "While a friendly",
           "bws": "Adeptus Mechanicus",
           "s": "unit is within 6\" of this",
           "ap": "model, each time a model in that unit makes an attack, re-roll a Hit roll of 1.",
-          "d": "Mantra of Discipline (Aura):"
+          "d": "Mantra of Discipline (Aura)"
         },
         {
           "name": "While a friendly",
           "range": "Adeptus Mechanicus",
           "a": "unit is within 6\" of this model, each",
           "bws": "time you take a Battle-shock or Leadership test for that unit, you can re-roll that test.",
-          "s": "Shroudpsalm (Aura):",
+          "s": "Shroudpsalm (Aura)",
           "ap": "While a friendly",
           "d": "Adeptus Mechanicus"
         },
@@ -419,7 +419,7 @@
           "■",
           "1 Belisarius Cawl",
           "- Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "solar atomiser; arc scourge;",
           "Cawl’s Omnissian axe; mechadendrite hive."
         ]
@@ -501,7 +501,7 @@
         "values": [
           "■",
           "5-10 Corpuscarii Electro-Priests",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "electrostatic gauntlets.",
           "CORPUSCARII ELECTRO-PRIESTS",
           "Electro-Priests of the Corpuscarii faction build up huge electrical",
@@ -588,14 +588,14 @@
         "values": [
           "■",
           "1 Cybernetica Datasmith",
-          "This model is equipped with:",
+          "This model is equipped with",
           "archeotech pistol; power fist."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model must be attached to the following unit:",
+          "This model must be attached to the following unit",
           "■",
           "Kastelan Robots",
           "You must attach this model to a",
@@ -731,7 +731,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "Any number of models can each have their twin Kastelan fist replaced with one of the following:",
+          "Any number of models can each have their twin Kastelan fist replaced with one of the following",
           "◦",
           "1 Kastelan phosphor blaster and 1 Kastelan fist",
           "◦",
@@ -746,7 +746,7 @@
         "values": [
           "■",
           "2-4 Kastelan Robots",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "incendine combustor;",
           "twin Kastelan fist.",
           "KASTELAN ROBOTS",
@@ -820,7 +820,7 @@
         "values": [
           "■",
           "5-10 Fulgurite Electro-Priests",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "electroleech stave.",
           "FULGURITE ELECTRO-PRIESTS",
           "Crackling with power stolen from those they slay, Fulgurite",
@@ -916,7 +916,7 @@
         "values": [
           "■",
           "1-3 Ironstrider Ballistarii",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "twin cognis autocannon;",
           "Ironstrider feet.",
           "IRONSTRIDER BALLISTARII",
@@ -1021,7 +1021,7 @@
         "values": [
           "■",
           "3-6 Kataphron Breachers",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "heavy arc rifle; arc claw.",
           "KATAPHRON BREACHERS",
           "Kataphron Breachers are large battle servitors that grind forward on",
@@ -1146,7 +1146,7 @@
         "values": [
           "■",
           "3-6 Kataphron Destroyers",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "heavy grav-cannon; phosphor",
           "blaster; close combat weapon.",
           "KATAPHRON DESTROYERS",
@@ -1291,7 +1291,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model’s eradication beamer can be replaced with one of the following:",
+          "This model’s eradication beamer can be replaced with one of the following",
           "◦",
           "1 daedalus missile launcher and 1 Icarus array",
           "◦",
@@ -1301,7 +1301,7 @@
           "■",
           "This model can be equipped with 1 additional cognis heavy stubber.",
           "■",
-          "This model can be equipped with one of the following:",
+          "This model can be equipped with one of the following",
           "◦",
           "1 broad spectrum data-tether",
           "◦",
@@ -1313,7 +1313,7 @@
         "values": [
           "■",
           "1 Onager Dunecrawler",
-          "This model is equipped with:",
+          "This model is equipped with",
           "eradication beamer;",
           "Dunecrawler legs.",
           "ONAGER DUNECRAWLER",
@@ -1421,9 +1421,9 @@
           "1 Pteraxii Skystalker Alpha",
           "■",
           "4-9 Pteraxii Skystalkers",
-          "The Pteraxii Skystalker Alpha model is equipped with:",
+          "The Pteraxii Skystalker Alpha model is equipped with",
           "flechette blaster; taser goad.",
-          "Every Pteraxii Skystalker model is equipped with:",
+          "Every Pteraxii Skystalker model is equipped with",
           "flechette",
           "carbine; close combat weapon.",
           "PTERAXII SKYSTALKERS",
@@ -1531,9 +1531,9 @@
           "1 Pteraxii Sterylizor Alpha",
           "■",
           "4-9 Pteraxii Sterylizors",
-          "The Pteraxii Sterylizor Alpha model is equipped with:",
+          "The Pteraxii Sterylizor Alpha model is equipped with",
           "flechette blaster; Pteraxii talons; taser goad.",
-          "Every Pteraxii Sterylizor model is equipped with:",
+          "Every Pteraxii Sterylizor model is equipped with",
           "phosphor",
           "torch; Pteraxii talons.",
           "PTERAXII STERYLIZORS",
@@ -1630,10 +1630,10 @@
           "1 Serberys Raider Alpha",
           "■",
           "2-5 Serberys Raiders",
-          "The Serberys Raider Alpha model is equipped with:",
+          "The Serberys Raider Alpha model is equipped with",
           "archeotech pistol; galvanic carbine; cavalry sabre and",
           "clawed limbs.",
-          "Every Serberys Raider model is equipped with:",
+          "Every Serberys Raider model is equipped with",
           "galvanic",
           "carbine; cavalry sabre and clawed limbs.",
           "SERBERYS RAIDERS",
@@ -1766,10 +1766,10 @@
           "1 Serberys Sulphurhound Alpha",
           "■",
           "2-5 Serberys Sulphurhounds",
-          "The Serberys Sulphurhound Alpha model is equipped with:",
+          "The Serberys Sulphurhound Alpha model is equipped with",
           "phosphor blast pistol; sulphur breath; cavalry arc maul;",
           "clawed limbs.",
-          "Every Serberys Sulphurhound model is equipped with:",
+          "Every Serberys Sulphurhound model is equipped with",
           "twin",
           "phosphor pistols; sulphur breath; clawed limbs.",
           "SERBERYS SULPHURHOUNDS",
@@ -1882,7 +1882,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "Up to 2 models can each have their Servitor’s servo-arm replaced with one of the following:",
+          "Up to 2 models can each have their Servitor’s servo-arm replaced with one of the following",
           "◦",
           "1 heavy bolter and 1 Servitor’s tools",
           "◦",
@@ -1896,7 +1896,7 @@
         "values": [
           "■",
           "4 Servitors",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "Servitor’s servo-arm.",
           "SERVITOR RETINUE",
           "At the start of the Declare Battle Formations step, this unit",
@@ -2012,7 +2012,7 @@
           "1 Sicarian Infiltrator Princeps",
           "■",
           "4-9 Sicarian Infiltrators",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "stubcarbine; power weapon.",
           "SICARIAN INFILTRATORS",
           "Sicarian Infiltrators broadcast disruptive frequencies that scramble",
@@ -2110,7 +2110,7 @@
           "1 Sicarian Ruststalker Princeps",
           "■",
           "4-9 Sicarian Ruststalkers",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "transonic razor and chordclaw.",
           "SICARIAN RUSTSTALKERS",
           "Ruststalkers are unleashed as weapons of fear, to hunt down errant",
@@ -2195,14 +2195,14 @@
         "values": [
           "■",
           "1 Skitarii Marshal",
-          "This model is equipped with:",
+          "This model is equipped with",
           "archeotech pistol; control stave."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Skitarii Rangers",
           "■",
@@ -2349,7 +2349,7 @@
           "■",
           "1 Skitarii Ranger’s galvanic rifle can be replaced with 1 transuranic arquebus.",
           "■",
-          "1 Skitarii Ranger equipped with a galvanic rifle can be equipped with one of the following:",
+          "1 Skitarii Ranger equipped with a galvanic rifle can be equipped with one of the following",
           "◦",
           "1 enhanced data-tether*",
           "◦",
@@ -2365,7 +2365,7 @@
           "1 Skitarii Ranger Alpha",
           "■",
           "9 Skitarii Rangers",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "galvanic rifle; close",
           "combat weapon.",
           "SKITARII RANGERS",
@@ -2510,7 +2510,7 @@
           "■",
           "1 Skitarii Vanguard’s radium carbine can be replaced with 1 transuranic arquebus.",
           "■",
-          "1 Skitarii Vanguard equipped with a radium carbine can be equipped with one of the following:",
+          "1 Skitarii Vanguard equipped with a radium carbine can be equipped with one of the following",
           "◦",
           "1 enhanced data-tether*",
           "◦",
@@ -2526,7 +2526,7 @@
           "1 Skitarii Vanguard Alpha",
           "■",
           "9 Skitarii Vanguard",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "radium carbine; close",
           "combat weapon.",
           "SKITARII VANGUARD",
@@ -2639,7 +2639,7 @@
         "values": [
           "■",
           "1 Skorpius Disintegrator",
-          "This model is equipped with:",
+          "This model is equipped with",
           "belleros energy cannon;",
           "3 cognis heavy stubbers; disruptor missile launcher;",
           "armoured hull.",
@@ -2726,7 +2726,7 @@
         "values": [
           "■",
           "1 Skorpius Dunerider",
-          "This model is equipped with:",
+          "This model is equipped with",
           "cognis heavy stubber array;",
           "armoured hull."
         ]
@@ -2843,7 +2843,7 @@
         "values": [
           "■",
           "1-3 Sydonian Dragoons",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "taser lance.",
           "SYDONIAN DRAGOONS",
           "Striding through a mist of their own sacred incense, the long-limbed",
@@ -2969,7 +2969,7 @@
         "values": [
           "■",
           "1 Tech-Priest Dominus",
-          "This model is equipped with:",
+          "This model is equipped with",
           "macrostubber; volkite blaster;",
           "Omnissian axe."
         ]
@@ -2977,7 +2977,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Corpuscarii Electro-Priests",
           "■",
@@ -3084,7 +3084,7 @@
         "values": [
           "■",
           "1 Tech-Priest Enginseer",
-          "This model is equipped with:",
+          "This model is equipped with",
           "archeotech pistol; Omnissian",
           "axe; servo-arm."
         ]
@@ -3092,7 +3092,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Corpuscarii Electro-Priests",
           "■",
@@ -3199,7 +3199,7 @@
         "values": [
           "■",
           "1 Tech-Priest Manipulus",
-          "This model is equipped with:",
+          "This model is equipped with",
           "magnarail lance;",
           "Omnissian staff."
         ]
@@ -3207,7 +3207,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Corpuscarii Electro-Priests",
           "■",
@@ -3302,7 +3302,7 @@
         "values": [
           "■",
           "1 Technoarcheologist",
-          "This model is equipped with:",
+          "This model is equipped with",
           "archeotech pistol;",
           "servo-arc claw."
         ]
@@ -3310,7 +3310,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Corpuscarii Electro-Priests",
           "■",

@@ -144,7 +144,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model can be equipped with one of the following:",
+          "This model can be equipped with one of the following",
           "◦",
           "1 kannon",
           "◦",
@@ -152,7 +152,7 @@
           "◦",
           "1 zzap gun",
           "■",
-          "This model can be equipped with:",
+          "This model can be equipped with",
           "◦",
           "1 lobba",
           "■",
@@ -160,7 +160,7 @@
           "■",
           "This model’s tracks and wheels can be replaced with 1 deff rolla.",
           "■",
-          "This model can be equipped with any of the following:",
+          "This model can be equipped with any of the following",
           "◦",
           "1 ’ard case",
           "◦",
@@ -174,7 +174,7 @@
         "values": [
           "■",
           "1 Battlewagon",
-          "This model is equipped with:",
+          "This model is equipped with",
           "tracks and wheels."
         ]
       },
@@ -312,10 +312,10 @@
           "1 Beast Snagga Nob",
           "■",
           "9-19 Beast Snagga Boyz",
-          "The Beast Snagga Nob is equipped with:",
+          "The Beast Snagga Nob is equipped with",
           "slugga;",
           "power snappa.",
-          "Every Beast Snagga Boy is equipped with:",
+          "Every Beast Snagga Boy is equipped with",
           "slugga; choppa.",
           "BEAST SNAGGA BOYZ",
           "Big, brutal, and belligerent, Beast Snagga Boyz are a force to be",
@@ -408,7 +408,7 @@
         "values": [
           "■",
           "1 Beastboss",
-          "This model is equipped with:",
+          "This model is equipped with",
           "shoota; beastchoppa;",
           "Beast Snagga klaw."
         ]
@@ -416,7 +416,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Beast Snagga Boyz",
           "BEASTBOSS",
@@ -518,7 +518,7 @@
         "values": [
           "■",
           "1 Beastboss on Squigosaur",
-          "This model is equipped with:",
+          "This model is equipped with",
           "slugga; beastchoppa;",
           "Squigosaur’s jaws.",
           "BEASTBOSS",
@@ -633,7 +633,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model’s kustom-mega blasta can be replaced with one of the following:",
+          "This model’s kustom-mega blasta can be replaced with one of the following",
           "◦",
           "1 killsaw",
           "◦",
@@ -641,7 +641,7 @@
           "◦",
           "1 kustom shoota",
           "■",
-          "This model can be equipped with one of the following:",
+          "This model can be equipped with one of the following",
           "◦",
           "1 tellyport blasta",
           "◦",
@@ -655,7 +655,7 @@
         "values": [
           "■",
           "1 Big Mek in Mega Armour",
-          "This model is equipped with:",
+          "This model is equipped with",
           "kustom-mega blaster;",
           "power klaw."
         ]
@@ -663,7 +663,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Meganobz",
           "BIG MEK",
@@ -752,14 +752,14 @@
         "values": [
           "■",
           "1 Big Mek with Kustom Force Field",
-          "This model is equipped with:",
+          "This model is equipped with",
           "slugga; choppa."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Boyz",
           "■",
@@ -854,7 +854,7 @@
         "values": [
           "■",
           "1 Big Mek with Shokk Attack Gun",
-          "This model is equipped with:",
+          "This model is equipped with",
           "close combat weapon, shokk",
           "attack gun."
         ]
@@ -862,7 +862,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Boyz",
           "■",
@@ -964,7 +964,7 @@
         "values": [
           "■",
           "1 Big’ed Bossbunka",
-          "This model is equipped with:",
+          "This model is equipped with",
           "big shoota; Gaze of Gork."
         ]
       },
@@ -1069,7 +1069,7 @@
         "values": [
           "■",
           "1 Blitza-bommer",
-          "This model is equipped with:",
+          "This model is equipped with",
           "big shoota; twin supa-shoota;",
           "armoured hull.",
           "BLITZA-BOMMER",
@@ -1169,7 +1169,7 @@
         "values": [
           "■",
           "1 Boomdakka Snazzwagon",
-          "This model is equipped with:",
+          "This model is equipped with",
           "big shoota; grot blasta;",
           "Mek speshul; spiked wheels.",
           "BOOMDAKKA SNAZZWAGON",
@@ -1255,14 +1255,14 @@
           "■",
           "1 Boss Snikrot -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "slugga; Mork’s Teeth."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Kommandos",
           "BOSS SNIKROT",
@@ -1349,7 +1349,7 @@
           "■",
           "1 Boss Zagstruk -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Da Vulcha’s Klaws and",
           "choppa; slugga."
         ]
@@ -1357,7 +1357,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Stormboyz",
           "BOSS ZAGSTRUK",
@@ -1511,7 +1511,7 @@
           "■",
           "For every 10 models in this unit, 1 Boy’s",
           "choppa and slugga can be replaced with one of",
-          "the following:",
+          "the following",
           "◦",
           "1 big shoota and 1 close combat weapon",
           "◦",
@@ -1525,9 +1525,9 @@
           "1 Boss Nob",
           "■",
           "9-19 Boyz",
-          "The Boss Nob is equipped with:",
+          "The Boss Nob is equipped with",
           "slugga; big choppa.",
-          "Every Boy is equipped with:",
+          "Every Boy is equipped with",
           "slugga; choppa.",
           "BODYGUARD",
           "If this unit has a Starting Strength of 20, you can attach up to",
@@ -1646,7 +1646,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "Any number of Spanners can each have their big shoota replaced with one of the following:",
+          "Any number of Spanners can each have their big shoota replaced with one of the following",
           "◦",
           "1 kustom mega-blasta",
           "◦",
@@ -1662,10 +1662,10 @@
           "4-12 Burna Boyz",
           "*",
           "This unit must contain 1 Spanner for every 4 Burna Boyz it contains.",
-          "Every Spanner is equipped with:",
+          "Every Spanner is equipped with",
           "close combat weapon;",
           "big shoota.",
-          "Every Burna Boy is equipped with:",
+          "Every Burna Boy is equipped with",
           "burna; cuttin’ flames.",
           "BURNA BOYZ",
           "The burna is a cutting torch intended for slicing up battlefield",
@@ -1764,7 +1764,7 @@
         "values": [
           "■",
           "1 Burna-bommer",
-          "This model is equipped with:",
+          "This model is equipped with",
           "twin big shoota;",
           "twin supa-shoota; armoured hull.",
           "BURNA-BOMMER",
@@ -1848,7 +1848,7 @@
         "values": [
           "■",
           "1 Dakkajet",
-          "This model is equipped with:",
+          "This model is equipped with",
           "2 twin supa-shootas;",
           "armoured hull.",
           "DAKKAJET",
@@ -1923,7 +1923,7 @@
           "d": "3"
         },
         {
-          "name": "Dead Choppy:",
+          "name": "Dead Choppy",
           "range": "The Attacks characteristic of this weapon is increased by 1 for each additional dread klaw",
           "a": "this model is equipped with.",
           "bws": "Stompy feet",
@@ -1963,7 +1963,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model’s big shootas can each be replaced with one of the following:",
+          "This model’s big shootas can each be replaced with one of the following",
           "◦",
           "1 dread klaw",
           "◦",
@@ -1973,7 +1973,7 @@
           "◦",
           "1 skorcha",
           "■",
-          "This model’s dread klaws can each be replaced with one of the following:",
+          "This model’s dread klaws can each be replaced with one of the following",
           "◦",
           "1 big shoota",
           "◦",
@@ -1989,7 +1989,7 @@
         "values": [
           "■",
           "1 Deff Dread",
-          "This model is equipped with:",
+          "This model is equipped with",
           "2 big shootas; 2 dread klaws;",
           "stompy feet.",
           "DEFF DREAD",
@@ -2094,7 +2094,7 @@
         "values": [
           "■",
           "1 Defkilla Wartrike",
-          "This model is equipped with:",
+          "This model is equipped with",
           "defkilla boomsticks; killajet;",
           "snagga klaw."
         ]
@@ -2102,7 +2102,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Warbikers",
           "DEFFKILLA WARTRIKE",
@@ -2205,7 +2205,7 @@
         "values": [
           "■",
           "3-6 Deffkoptas",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "kopta rokkits; slugga;",
           "spinnin’ blades.",
           "DEFFKOPTAS",
@@ -2293,7 +2293,7 @@
           "1 Kaptin",
           "■",
           "4-9 Flash Gitz",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "snazzgun; choppa.",
           "FLASH GITZ",
           "Flash Gitz are despised by other greenskins for being self-important",
@@ -2398,16 +2398,16 @@
           "Epic Hero",
           "■",
           "1 Makari",
-          "Ghazghkull Thraka is equipped with:",
+          "Ghazghkull Thraka is equipped with",
           "Mork’s Roar; Gork’s Klaw.",
-          "Makari is equipped with:",
+          "Makari is equipped with",
           "Makari’s stabba."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This unit can be attached to the following unit:",
+          "This unit can be attached to the following unit",
           "■",
           "Meganobz",
           "If this unit’s Bodyguard unit is destroyed, Ghazkghull Thraka and Makari",
@@ -2533,7 +2533,7 @@
         "values": [
           "■",
           "1 Gorkanaut",
-          "This model is equipped with:",
+          "This model is equipped with",
           "deffstorm mega-shoota; 2 rokkit",
           "launchas; skorcha; 2 twin big shootas; klaw of Gork."
         ]
@@ -2652,9 +2652,9 @@
           "1-2 Runtherds",
           "■",
           "10-20 Gretchin",
-          "Every Runtherd is equipped with:",
+          "Every Runtherd is equipped with",
           "slugga; grot-smacka.",
-          "Every Gretchin is equipped with:",
+          "Every Gretchin is equipped with",
           "grot blasta;",
           "close combat weapon.",
           "GRETCHIN",
@@ -2701,7 +2701,7 @@
           "d": "3"
         },
         {
-          "name": "Snagged:",
+          "name": "Snagged",
           "range": "Each time this weapon scores a hit against an enemy",
           "a": "Monster",
           "bws": "or",
@@ -2774,7 +2774,7 @@
         "values": [
           "■",
           "1 Hunta Rig",
-          "This model is equipped with:",
+          "This model is equipped with",
           "’eavy lobba; stikka kannon;",
           "butcha boyz; savage horns and hooves; saw blades."
         ]
@@ -2889,14 +2889,14 @@
           "■",
           "1 Kaptin Badrukk -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "slugga; choppa; Da Rippa."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Flash Gitz",
           "KAPTIN BADRUKK",
@@ -2944,7 +2944,7 @@
           "d": "3"
         },
         {
-          "name": "Snagged:",
+          "name": "Snagged",
           "range": "Each time this weapon scores a hit against an enemy",
           "a": "Monster",
           "bws": "or",
@@ -3026,7 +3026,7 @@
         "values": [
           "■",
           "1 Kill Rig",
-          "This model is equipped with:",
+          "This model is equipped with",
           "’eavy lobba; stikka kannon;",
           "wurrtower; butcha boyz; savage horns and hooves;",
           "saw blades."
@@ -3138,7 +3138,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "Each Killa Kan’s Kan shoota can be replaced with one of the following:",
+          "Each Killa Kan’s Kan shoota can be replaced with one of the following",
           "◦",
           "1 grotzooka",
           "◦",
@@ -3152,7 +3152,7 @@
         "values": [
           "■",
           "3-6 Killa Kans",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "Kan shoota; Kan klaw.",
           "KILLA KANS",
           "Surgically wiring grots into combat walkers is risky: the runty loons",
@@ -3293,7 +3293,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "The Boss Nob’s choppa can be replaced with one of the following:",
+          "The Boss Nob’s choppa can be replaced with one of the following",
           "◦",
           "1 big choppa",
           "◦",
@@ -3320,7 +3320,7 @@
           "1 Boss Nob",
           "■",
           "9 Kommandos",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "slugga; choppa.",
           "KOMMANDOS",
           "No right-thinking Ork trusts Kommandos. They sneak up on the enemy",
@@ -3419,7 +3419,7 @@
         "values": [
           "■",
           "1 Kustom Boosta-blasta",
-          "This model is equipped with:",
+          "This model is equipped with",
           "burna exhausts; grot blasta;",
           "rivet kannon; spiked wheels.",
           "KUSTOM BOOSTA-BLASTA",
@@ -3522,7 +3522,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "Any number of Spanners can each have their big shoota replaced with one of the following:",
+          "Any number of Spanners can each have their big shoota replaced with one of the following",
           "◦",
           "1 kustom mega-blasta",
           "◦",
@@ -3537,10 +3537,10 @@
           "■",
           "4-12 Lootas",
           "* This unit must contain 1 Spanner for every 4 Lootas it contains.",
-          "Every Spanner is equipped with:",
+          "Every Spanner is equipped with",
           "big shoota;",
           "close combat weapon.",
-          "Every Loota is equipped with:",
+          "Every Loota is equipped with",
           "deffgun; close combat weapon.",
           "LOOTAS",
           "Lootas grub together every toof and fistful of scrap they can, then use",
@@ -3634,7 +3634,7 @@
           "■",
           "1 Mad Dok Grotsnik -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "slugga; power klaw;",
           "’urty syringe."
         ]
@@ -3642,7 +3642,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Boyz",
           "■",
@@ -3755,7 +3755,7 @@
         "values": [
           "■",
           "Any number of models can each have their kustom shoota and power klaw replaced with one of",
-          "the following:",
+          "the following",
           "◦",
           "1 kombi-weapon and 1 power klaw",
           "◦",
@@ -3773,7 +3773,7 @@
         "values": [
           "■",
           "2-6 Meganobz",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "kustom shoota; power klaw.",
           "MEGANOBZ",
           "Mega armour comprises massive slabs of metal bashed roughly into",
@@ -3871,7 +3871,7 @@
         "values": [
           "■",
           "1 Megatrakk Scrapjet",
-          "This model is equipped with:",
+          "This model is equipped with",
           "rokkit kannon; twin big shoota;",
           "wing missiles; nose drill.",
           "MEGATRAKK SCRAPJET",
@@ -3965,14 +3965,14 @@
         "values": [
           "■",
           "1 Mek",
-          "This model is equipped with:",
+          "This model is equipped with",
           "kustom mega-slugga; wrench."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Boyz",
           "■",
@@ -4039,7 +4039,7 @@
           "name": "12",
           "range": "-3",
           "a": "D6+3",
-          "bws": "Bubblechukka:",
+          "bws": "Bubblechukka",
           "s": "Before selecting targets for this weapon, roll one D6 to determine which of its profiles to",
           "ap": "make attacks with, comparing the result with the numbers shown on the left.",
           "d": "Kustom mega-kannon [BLAST, HAZARDOUS]"
@@ -4108,7 +4108,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "Each model’s smasha gun can be replaced with one of the following:",
+          "Each model’s smasha gun can be replaced with one of the following",
           "◦",
           "1 bubblechukka",
           "◦",
@@ -4122,9 +4122,9 @@
         "values": [
           "■",
           "1-3 Mek Gunz",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "smasha gun; grot crew.",
-          "Designer’s Note:",
+          "Designer’s Note",
           "Place five Grot Crew tokens next to each Mek",
           "Gun model when this unit is first set up, removing one each",
           "time its Mek Gun model loses a wound (a Mek Gun model",
@@ -4252,7 +4252,7 @@
         "values": [
           "■",
           "1 Morkanaut",
-          "This model is equipped with:",
+          "This model is equipped with",
           "kustom mega-blasta;",
           "kustom mega-zappa; 2 rokkit launchas; 2 twin big shootas;",
           "klaw of Mork."
@@ -4364,7 +4364,7 @@
           "■",
           "1 Mozrog Skragbad -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "thump gun; Big Chompa’s",
           "jaws; gutrippa.",
           "MOZROG SKRAGBAD",
@@ -4457,7 +4457,7 @@
         "values": [
           "■",
           "1 Nob on Smasha Squig",
-          "This model is equipped with:",
+          "This model is equipped with",
           "slugga; big choppa;",
           "smasha squig jaws."
         ]
@@ -4465,7 +4465,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Squighog Boyz",
           "NOB",
@@ -4550,14 +4550,14 @@
         "values": [
           "■",
           "1 Nob with Waaagh! Banner",
-          "This model is equipped with:",
+          "This model is equipped with",
           "kustom shoota; Waaagh! banner."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Boyz",
           "■",
@@ -4680,7 +4680,7 @@
           "1 Boss Nob",
           "■",
           "4-9 Nobz",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "slugga; big choppa.",
           "NOBZ",
           "Nobz swagger into battle wielding a jaw-dropping assortment of",
@@ -4757,14 +4757,14 @@
         "values": [
           "■",
           "1 Painboss",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Beast Snagga klaw."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Beast Snagga Boyz",
           "PAINBOSS",
@@ -4848,14 +4848,14 @@
         "values": [
           "■",
           "1 Painboy",
-          "This model is equipped with:",
+          "This model is equipped with",
           "power klaw; ’urty syringe."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Boyz",
           "■",
@@ -4955,7 +4955,7 @@
         "values": [
           "■",
           "1 Rukkatrukk Squigbuggy",
-          "This model is equipped with:",
+          "This model is equipped with",
           "sawn-off shotgun;",
           "squig-launchas; saw blades.",
           "RUKKATRUKK SQUIGBUGGY",
@@ -5045,7 +5045,7 @@
         "values": [
           "■",
           "1 Shokkjump Dragsta",
-          "This model is equipped with:",
+          "This model is equipped with",
           "kustom shokk rifle; rokkits;",
           "saw blades.",
           "SHOKKJUMP DRAGSTA",
@@ -5149,7 +5149,7 @@
         "values": [
           "■",
           "3-6 Squighog Boyz",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "saddlegit weapons; stikka;",
           "squighog jaws and saddlegits.",
           "SQUIGHOG BOYZ",
@@ -5293,7 +5293,7 @@
         "values": [
           "■",
           "1 Stompa",
-          "This model is equipped with:",
+          "This model is equipped with",
           "3 big shootas;",
           "deffkannon; skorcha; supa-gatler; supa-rokkits;",
           "twin big shoota; mega-choppa."
@@ -5408,7 +5408,7 @@
           "1 Boss Nob",
           "■",
           "4-9 Stormboyz",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "slugga; choppa.",
           "STORMBOYZ",
           "Most Orks mock Stormboyz for their acts of juvenile rebellion, from",
@@ -5510,15 +5510,15 @@
           "1 Boss Nob",
           "■",
           "4 Tankbustas",
-          "The Boss Nob is equipped with:",
+          "The Boss Nob is equipped with",
           "rokkit launcha;",
           "close combat weapon.",
-          "One Tankbusta is equipped with:",
+          "One Tankbusta is equipped with",
           "pair of rokkit pistols;",
           "close combat weapon.",
-          "One other Tankbusta is equipped with:",
+          "One other Tankbusta is equipped with",
           "tankhammer.",
-          "Two other Tankbustas are equipped with:",
+          "Two other Tankbustas are equipped with",
           "rokkit launcha;",
           "close combat weapon.",
           "TANKBUSTAS",
@@ -5610,7 +5610,7 @@
         "values": [
           "■",
           "1 Trukk",
-          "This model is equipped with:",
+          "This model is equipped with",
           "big shoota; spiked wheels."
         ]
       },
@@ -5733,13 +5733,13 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "Each Warbiker can be equipped with one of the following:",
+          "Each Warbiker can be equipped with one of the following",
           "◦",
           "1 slugga",
           "◦",
           "1 choppa",
           "■",
-          "The Boss Nob on Warbike can be equipped with one of the following:",
+          "The Boss Nob on Warbike can be equipped with one of the following",
           "◦",
           "1 slugga",
           "◦",
@@ -5755,7 +5755,7 @@
           "1 Boss Nob on Warbike",
           "■",
           "2-5 Warbikers",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "twin dakkagun;",
           "close combat weapon.",
           "WARBIKERS",
@@ -5868,7 +5868,7 @@
         "values": [
           "■",
           "1 Warboss",
-          "This model is equipped with:",
+          "This model is equipped with",
           "kombi-weapon; twin slugga;",
           "big choppa."
         ]
@@ -5876,7 +5876,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Boyz",
           "■",
@@ -5961,14 +5961,14 @@
         "values": [
           "■",
           "1 Warboss in Mega Armour",
-          "This model is equipped with:",
+          "This model is equipped with",
           "big shoota; ’uge choppa."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Meganobz",
           "WARBOSS IN MEGA ARMOUR",
@@ -6085,7 +6085,7 @@
         "values": [
           "■",
           "1 Wazbom Blastajet",
-          "This model is equipped with:",
+          "This model is equipped with",
           "smasha gun;",
           "twin wazbom mega-kannon; armoured hull.",
           "WAZBOM BLASTAJET",
@@ -6170,14 +6170,14 @@
         "values": [
           "■",
           "1 Weirdboy",
-          "This model is equipped with:",
+          "This model is equipped with",
           "’Eadbanger; weirdboy staff."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Boyz",
           "WEIRDBOY",
@@ -6261,7 +6261,7 @@
         "values": [
           "■",
           "1 Wurrboy",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Eyez of Mork; close",
           "combat weapon."
         ]
@@ -6269,7 +6269,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Beast Snagga Boyz",
           "WURRBOY",
@@ -6356,14 +6356,14 @@
           "■",
           "1 Zodgrod Wortsnagga -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Da Grabzappa; slugga."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Gretchin",
           "ZODGROD WORTSNAGGA",

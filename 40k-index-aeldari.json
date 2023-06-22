@@ -79,7 +79,7 @@
           "■",
           "1 Asurmen -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "the Bloody Twins; the Sword",
           "of Asur."
         ]
@@ -87,7 +87,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Dire Avengers",
           "ASURMEN",
@@ -231,7 +231,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model’s shuriken pistol can be replaced with one of the following:",
+          "This model’s shuriken pistol can be replaced with one of the following",
           "◦",
           "1 death spinner",
           "◦",
@@ -244,7 +244,7 @@
           "This model can be equipped with 1 Howling Banshee mask.",
           "■",
           "If this model is not equipped with 1 Howling Banshee mask, this model’s shuriken pistol and star",
-          "glaive can be replaced with all of the following:",
+          "glaive can be replaced with all of the following",
           "◦",
           "1 fusion pistol",
           "◦",
@@ -258,14 +258,14 @@
         "values": [
           "■",
           "1 Autarch",
-          "This model is equipped with:",
+          "This model is equipped with",
           "shuriken pistol; star glaive."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Guardian Defenders",
           "■",
@@ -412,7 +412,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model’s shuriken pistol can be replaced with one of the following:",
+          "This model’s shuriken pistol can be replaced with one of the following",
           "◦",
           "1 death spinner",
           "◦",
@@ -425,7 +425,7 @@
           "This model can be equipped with 1 Howling Banshee mask.",
           "■",
           "If this model is not equipped with 1 Howling Banshee mask, this model’s shuriken pistol and star",
-          "glaive can be replaced with all of the following:",
+          "glaive can be replaced with all of the following",
           "◦",
           "1 fusion pistol",
           "◦",
@@ -439,7 +439,7 @@
         "values": [
           "■",
           "1 Autarch Wayleaper",
-          "This model is equipped with:",
+          "This model is equipped with",
           "shuriken pistol; star glaive.",
           "AUTARCH",
           "WAYLEAPER",
@@ -544,7 +544,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model’s laser lance can be replaced with one of the following:",
+          "This model’s laser lance can be replaced with one of the following",
           "◦",
           "1 Dragon fusion gun",
           "◦",
@@ -556,7 +556,7 @@
         "values": [
           "■",
           "1 Autarch Skyrunner",
-          "This model is equipped with:",
+          "This model is equipped with",
           "laser lance;",
           "twin shuriken catapult."
         ]
@@ -564,7 +564,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Windriders",
           "AUTARCH SKYRUNNER",
@@ -663,7 +663,7 @@
           "■",
           "1 Avatar of Khaine -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "the Wailing Doom",
           "AVATAR OF KHAINE",
           "The Avatar of Khaine is an ancient war deity incarnate, whose mere",
@@ -750,7 +750,7 @@
           "■",
           "1 Baharroth -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Fury of the Tempest;",
           "the Shining Blade."
         ]
@@ -758,7 +758,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Swooping Hawks",
           "BAHARROTH",
@@ -891,13 +891,13 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "The Voidreaver Felarch’s shuriken pistol can be replaced with one of the following:",
+          "The Voidreaver Felarch’s shuriken pistol can be replaced with one of the following",
           "◦",
           "1 neuro disruptor",
           "◦",
           "1 shuriken rifle",
           "■",
-          "The Voidreaver Felarch can be equipped with:",
+          "The Voidreaver Felarch can be equipped with",
           "◦",
           "1 mistshield",
           "■",
@@ -905,14 +905,14 @@
           "replaced with 1 shuriken rifle.",
           "■",
           "For every 5 models in this unit, 1 Corsair Voidreaver’s Aeldari power sword or shuriken rifle can be",
-          "replaced with one of the following:",
+          "replaced with one of the following",
           "◦",
           "1 Corsair blaster",
           "◦",
           "1 Corsair shredder",
           "■",
           "If this unit contains 10 models, 1 Corsair Voidreaver’s shuriken rifle can be replaced with one of",
-          "the following:",
+          "the following",
           "◦",
           "1 shuriken cannon",
           "◦",
@@ -926,7 +926,7 @@
           "1 Voidreaver Felarch",
           "■",
           "4-9 Corsair Voidreavers",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "shuriken pistol; Aeldari power",
           "sword",
           "CORSAIR VOIDREAVERS",
@@ -1109,7 +1109,7 @@
           "sword replaced with 1 shuriken rifle.",
           "■",
           "The Voidscarred Felarch’s shuriken pistol can be",
-          "replaced with one of the following:",
+          "replaced with one of the following",
           "◦",
           "1 neuro disruptor",
           "◦",
@@ -1120,7 +1120,7 @@
           "■",
           "For every 5 models in this unit, 1 Corsair",
           "Voidscarred’s shuriken rifle can be replaced with",
-          "one of the following:",
+          "one of the following",
           "◦",
           "1 Corsair blaster",
           "◦",
@@ -1128,7 +1128,7 @@
           "■",
           "If this unit contains 10 models, 1 Corsair",
           "Voidscarred’s shuriken rifle can be replaced with",
-          "one of the following:",
+          "one of the following",
           "◦",
           "1 shuriken cannon",
           "◦",
@@ -1162,15 +1162,15 @@
           "■",
           "0-1 Way Seeker",
           "Every Corsair Voidscarred and Voidscarred Felarch is",
-          "equipped with:",
+          "equipped with",
           "shuriken pistol; Aeldari power sword.",
-          "A Shade Runner is equipped with:",
+          "A Shade Runner is equipped with",
           "shuriken pistol; paired",
           "Hekatarii blades.",
-          "A Soul Weaver is equipped with:",
+          "A Soul Weaver is equipped with",
           "shuriken pistol; Aeldari power",
           "sword; channeller stones.",
-          "A Way Seeker is equipped with:",
+          "A Way Seeker is equipped with",
           "shuriken pistol; Executioner;",
           "witch staff.",
           "CORSAIR VOIDSCARRED",
@@ -1180,9 +1180,9 @@
           "unique skills and fighting styles over the years, and carry specialist",
           "wargear into battle.",
           "KEYWORDS",
-          "- ALL MODELS:",
+          "- ALL MODELS",
           "Infantry, Grenades, Anhrathe, Corsair Voidscarred",
-          "| WAY SEEKER:",
+          "| WAY SEEKER",
           "Psyker"
         ]
       }
@@ -1277,7 +1277,7 @@
         "values": [
           "■",
           "1 Crimson Hunter",
-          "This model is equipped with:",
+          "This model is equipped with",
           "2 starcannons; pulse laser;",
           "wraithbone hull.",
           "CRIMSON HUNTER",
@@ -1399,7 +1399,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "The Dark Reaper Exarch’s Reaper launcher can be replaced with 1 of the following:",
+          "The Dark Reaper Exarch’s Reaper launcher can be replaced with 1 of the following",
           "◦",
           "1 Aeldari missile launcher",
           "◦",
@@ -1415,7 +1415,7 @@
           "1 Dark Reaper Exarch",
           "■",
           "4-9 Dark Reapers",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "Reaper launcher.",
           "DARK REAPERS",
           "Dark Reapers unleash firestorms with their long-ranged Reaper",
@@ -1499,7 +1499,7 @@
         "values": [
           "■",
           "1 Death Jester",
-          "This model is equipped with:",
+          "This model is equipped with",
           "shrieker cannon; Jester’s blade.",
           "DEATH JESTER",
           "The arrival of a Death Jester upon the battlefield is announced by a",
@@ -1602,7 +1602,7 @@
         "values": [
           "■",
           "The Dire Avenger Exarch’s Avenger shuriken catapult can be replaced with 1 shuriken pistol and one",
-          "of the following:",
+          "of the following",
           "◦",
           "1 diresword",
           "◦",
@@ -1611,7 +1611,7 @@
           "If this unit’s Dire Avenger Exarch is equipped with 1 Avenger shuriken catapult, it can be equipped",
           "with 1 additional Avenger shuriken catapult.",
           "■",
-          "The Dire Avenger Exarch’s shuriken pistol can be replaced with:",
+          "The Dire Avenger Exarch’s shuriken pistol can be replaced with",
           "◦",
           "1 shimmershield"
         ]
@@ -1623,7 +1623,7 @@
           "1 Dire Avenger Exarch",
           "■",
           "4-9 Dire Avengers",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "Avenger shuriken catapult.",
           "DIRE AVENGERS",
           "Furious in attack and immovable in defence, Dire Avengers wield",
@@ -1718,7 +1718,7 @@
           "■",
           "1 Eldrad Ulthran -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "shuriken pistol; Mind War; the",
           "Staff of Ulthamar and witchblade."
         ]
@@ -1726,7 +1726,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Guardian Defenders",
           "■",
@@ -1872,7 +1872,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model’s scatter laser can be replaced with one of the following:",
+          "This model’s scatter laser can be replaced with one of the following",
           "◦",
           "1 Aeldari missile launcher",
           "◦",
@@ -1890,7 +1890,7 @@
         "values": [
           "■",
           "1 Falcon",
-          "This model is equipped with:",
+          "This model is equipped with",
           "pulse laser; scatter laser; twin",
           "shuriken catapult; wraithbone hull."
         ]
@@ -2015,7 +2015,7 @@
         "values": [
           "■",
           "1 Farseer",
-          "This model is equipped with:",
+          "This model is equipped with",
           "shuriken pistol; Eldritch",
           "Storm; witchblade."
         ]
@@ -2023,7 +2023,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Guardian Defenders",
           "■",
@@ -2150,7 +2150,7 @@
         "values": [
           "■",
           "1 Farseer Skyrunner",
-          "This model is equipped with:",
+          "This model is equipped with",
           "shuriken pistol; twin shuriken",
           "catapult; Eldritch Storm; witchblade."
         ]
@@ -2158,7 +2158,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Warlock Skyrunner Conclave",
           "■",
@@ -2253,7 +2253,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "The Fire Dragon Exarch’s Dragon fusion gun can be replaced with 1 of the following:",
+          "The Fire Dragon Exarch’s Dragon fusion gun can be replaced with 1 of the following",
           "◦",
           "1 Dragon’s breath flamer",
           "◦",
@@ -2267,7 +2267,7 @@
           "1 Fire Dragon Exarch",
           "■",
           "4-9 Fire Dragons",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "Dragon fusion gun; close",
           "combat weapon.",
           "FIRE DRAGONS",
@@ -2312,7 +2312,7 @@
           "d": "6"
         },
         {
-          "name": "Linked Fire:",
+          "name": "Linked Fire",
           "range": "When selecting targets for this weapon, you can measure range and determine visibility",
           "a": "from another friendly",
           "bws": "Fire Prism",
@@ -2386,7 +2386,7 @@
         "values": [
           "■",
           "1 Fire Prism",
-          "This model is equipped with:",
+          "This model is equipped with",
           "prism cannon; twin shuriken",
           "catapult; wraithbone hull.",
           "FIRE PRISM",
@@ -2485,14 +2485,14 @@
           "■",
           "1 Fuegan -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Searsong; the Fire Axe."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Fire Dragons",
           "FUEGAN",
@@ -2626,7 +2626,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "The Heavy Weapon Platform can replace its shuriken cannon with one of the following:",
+          "The Heavy Weapon Platform can replace its shuriken cannon with one of the following",
           "◦",
           "1 Aeldari missile launcher",
           "◦",
@@ -2644,10 +2644,10 @@
           "10 Guardian Defenders",
           "■",
           "1 Heavy Weapon Platform",
-          "Every Guardian Defender is equipped with:",
+          "Every Guardian Defender is equipped with",
           "shuriken",
           "catapult; close combat weapon.",
-          "The Heavy Weapon Platform is equipped with:",
+          "The Heavy Weapon Platform is equipped with",
           "shuriken",
           "cannon; close combat weapon.",
           "GUARDIAN DEFENDERS",
@@ -2732,7 +2732,7 @@
         "values": [
           "■",
           "1 Hemlock Wraithfighter",
-          "This model is equipped with:",
+          "This model is equipped with",
           "2 heavy D-scythes;",
           "wraithbone hull.",
           "HEMLOCK WRAITHFIGHTER",
@@ -2842,7 +2842,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "The Howling Banshee Exarch’s Banshee blade can be replaced with 1 of the following:",
+          "The Howling Banshee Exarch’s Banshee blade can be replaced with 1 of the following",
           "◦",
           "1 executioner",
           "◦",
@@ -2859,7 +2859,7 @@
           "1 Howling Banshee Exarch",
           "■",
           "4-9 Howling Banshees",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "shuriken pistol;",
           "Banshee blade.",
           "HOWLING BANSHEES",
@@ -2961,7 +2961,7 @@
           "■",
           "1 Illic Nightspear -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Voidbringer; shuriken pistol;",
           "Aeldari power sword."
         ]
@@ -2969,7 +2969,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Rangers",
           "ILLIC NIGHTSPEAR",
@@ -3067,7 +3067,7 @@
           "■",
           "1 Jain Zar -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "the Silent Death; the Blade",
           "of Destruction."
         ]
@@ -3075,7 +3075,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Howling Banshees",
           "JAIN ZAR",
@@ -3171,7 +3171,7 @@
           "■",
           "1 Karandras -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Arhra’s Bane; Isirmathil; the",
           "Scorpion’s Bite."
         ]
@@ -3179,7 +3179,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Striking Scorpions",
           "KARANDRAS",
@@ -3264,14 +3264,14 @@
         "values": [
           "■",
           "1 Maugan Ra",
-          "This model is equipped with:",
+          "This model is equipped with",
           "the Maugetar."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Dark Reapers",
           "MAUGAN RA",
@@ -3373,7 +3373,7 @@
         "values": [
           "■",
           "1 Night Spinner",
-          "This model is equipped with:",
+          "This model is equipped with",
           "doomweaver; twin shuriken",
           "catapult; wraithbone hull.",
           "NIGHT SPINNER",
@@ -3459,7 +3459,7 @@
           "■",
           "1 Prince Yriel -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "the Eye of Wrath; the Spear",
           "of Twilight."
         ]
@@ -3467,7 +3467,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Corsair Voidreavers",
           "■",
@@ -3572,7 +3572,7 @@
         "values": [
           "■",
           "5-10 Rangers",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "Ranger long rifle; shuriken",
           "pistol; close combat weapon.",
           "RANGERS",
@@ -3668,14 +3668,14 @@
         "values": [
           "■",
           "1 Shadowseer",
-          "This model is equipped with:",
+          "This model is equipped with",
           "shuriken pistol; miststave."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Troupe",
           "SHADOWSEER",
@@ -3795,7 +3795,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "The Shining Spear Exarch’s laser lance can be replaced with one of the following:",
+          "The Shining Spear Exarch’s laser lance can be replaced with one of the following",
           "◦",
           "1 paragon sabre",
           "◦",
@@ -3813,7 +3813,7 @@
           "1 Shining Spear Exarch",
           "■",
           "2-5 Shining Spears",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "laser lance; twin",
           "shuriken catapult.",
           "SHINING SPEARS",
@@ -3922,7 +3922,7 @@
         "values": [
           "■",
           "3-6 Shroud Runners",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "Ranger long rifle; scatter laser;",
           "shuriken pistol; close combat weapon.",
           "SHROUD RUNNERS",
@@ -4038,7 +4038,7 @@
         "values": [
           "■",
           "2-4 Skyweavers",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "shuriken cannon; star bolas;",
           "close combat weapon.",
           "SKYWEAVERS",
@@ -4115,7 +4115,7 @@
           "■",
           "1 Solitaire -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Solitaire weapons.",
           "PATH OF DAMNATION",
           "This model cannot be your",
@@ -4202,14 +4202,14 @@
         "values": [
           "■",
           "1 Spiritseer",
-          "This model is equipped with:",
+          "This model is equipped with",
           "shuriken pistol; witch staff."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Wraithblades",
           "■",
@@ -4299,7 +4299,7 @@
         "values": [
           "■",
           "1 Starweaver",
-          "This model is equipped with:",
+          "This model is equipped with",
           "2 shuriken cannons; close",
           "combat weapon."
         ]
@@ -4430,10 +4430,10 @@
           "10 Storm Guardians",
           "■",
           "1 Serpent’s Scale Platform",
-          "Every Storm Guardian is equipped with:",
+          "Every Storm Guardian is equipped with",
           "shuriken pistol;",
           "Guardian combat weapon.",
-          "The Serpent’s Scale Platform is equipped with:",
+          "The Serpent’s Scale Platform is equipped with",
           "Guardian",
           "combat weapon; Serpent shield.",
           "STORM GUARDIANS",
@@ -4547,7 +4547,7 @@
           "1 Striking Scorpion Exarch",
           "■",
           "4-9 Striking Scorpions",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "shuriken pistol; Scorpion",
           "chainsword; mandiblasters.",
           "STRIKING SCORPIONS",
@@ -4648,7 +4648,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "Any number of models can each have their shadow weaver replaced with one of the following:",
+          "Any number of models can each have their shadow weaver replaced with one of the following",
           "◦",
           "1 D-cannon",
           "◦",
@@ -4660,7 +4660,7 @@
         "values": [
           "■",
           "1 Support Weapon",
-          "This model is equipped with:",
+          "This model is equipped with",
           "shadow weaver; shuriken",
           "catapult; close combat weapon.",
           "SUPPORT WEAPONS",
@@ -4767,7 +4767,7 @@
           "1 Swooping Hawk Exarch",
           "■",
           "4-9 Swooping Hawks",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "lasblaster; close",
           "combat weapon.",
           "SWOOPING HAWKS",
@@ -4843,7 +4843,7 @@
           "■",
           "1 Visarch -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Asu-var, the Sword of",
           "Silent Screams."
         ]
@@ -4851,7 +4851,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Corsair Voidreavers",
           "■",
@@ -4974,7 +4974,7 @@
           "■",
           "1 Yncarne -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "swirling soul energy; Vilith-zhar,",
           "the Sword of Souls.",
           "THE YNCARNE",
@@ -5093,13 +5093,13 @@
           "■",
           "The Lead Player’s Harlequin’s blade can be replaced with 1 Aeldari power sword.",
           "■",
-          "If this unit contains 10 or fewer models:",
+          "If this unit contains 10 or fewer models",
           "◦",
           "Up to two models can each have their shuriken pistol replaced with 1 neuro disruptor",
           "◦",
           "Up to two models can each have their shuriken pistol replaced with 1 fusion pistol",
           "■",
-          "If this unit contains 11 or more models:",
+          "If this unit contains 11 or more models",
           "◦",
           "Up to four models can each have their shuriken pistol replaced with 1 neuro disruptor",
           "◦",
@@ -5113,7 +5113,7 @@
           "1 Lead Player",
           "■",
           "4-11 Players",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "shuriken pistol;",
           "Harlequin’s blade.",
           "TROUPE",
@@ -5217,7 +5217,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model’s shuriken pistol can be replaced with one of the following:",
+          "This model’s shuriken pistol can be replaced with one of the following",
           "◦",
           "1 fusion pistol",
           "◦",
@@ -5231,7 +5231,7 @@
         "values": [
           "■",
           "1 Troupe Master",
-          "This model is equipped with:",
+          "This model is equipped with",
           "shuriken pistol; Troupe",
           "Master’s blade."
         ]
@@ -5239,7 +5239,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Troupe",
           "TROUPE MASTER",
@@ -5363,7 +5363,7 @@
         "values": [
           "■",
           "1 Voidweaver",
-          "This model is equipped with:",
+          "This model is equipped with",
           "2 shuriken cannons; Voidweaver",
           "haywire cannon; close combat weapon.",
           "VOIDWEAVER",
@@ -5494,7 +5494,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "Any number of models can each have their shuriken cannon replaced with one of the following:",
+          "Any number of models can each have their shuriken cannon replaced with one of the following",
           "◦",
           "1 Aeldari missile launcher",
           "◦",
@@ -5510,7 +5510,7 @@
         "values": [
           "■",
           "1 Vyper",
-          "This model is equipped with:",
+          "This model is equipped with",
           "shuriken cannon; twin shuriken",
           "catapult; wraithbone hull.",
           "VYPERS",
@@ -5632,7 +5632,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "Each model can have each shuriken cannon it is equipped with replaced with one of the following:",
+          "Each model can have each shuriken cannon it is equipped with replaced with one of the following",
           "◦",
           "1 Aeldari missile launcher",
           "◦",
@@ -5648,7 +5648,7 @@
         "values": [
           "■",
           "1 War Walker",
-          "This model is equipped with:",
+          "This model is equipped with",
           "2 shuriken cannons; War",
           "Walker feet.",
           "WAR WALKERS",
@@ -5770,7 +5770,7 @@
         "values": [
           "■",
           "1 Warlock Skyrunner",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Destructor; shuriken pistol;",
           "twin shuriken catapult; witchblade."
         ]
@@ -5778,7 +5778,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Windriders",
           "You can attach this unit to the above unit, even if one other",
@@ -5897,7 +5897,7 @@
         "values": [
           "■",
           "1 Warlock",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Destructor; shuriken",
           "pistol; witchblade."
         ]
@@ -5905,7 +5905,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Guardian Defenders",
           "■",
@@ -6011,7 +6011,7 @@
           "1 Warp Spider Exarch",
           "■",
           "4-9 Warp Spiders",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "death spinner; close",
           "combat weapon.",
           "WARP SPIDERS",
@@ -6153,7 +6153,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model’s twin shuriken cannon can be replaced with one of the following:",
+          "This model’s twin shuriken cannon can be replaced with one of the following",
           "◦",
           "1 twin Aeldari missile launcher",
           "◦",
@@ -6171,7 +6171,7 @@
         "values": [
           "■",
           "1 Wave Serpent",
-          "This model is equipped with:",
+          "This model is equipped with",
           "twin shuriken cannon; twin",
           "shuriken catapult; wraithbone hull."
         ]
@@ -6247,7 +6247,7 @@
         "values": [
           "■",
           "2 Wraithbone Arches",
-          "This unit is equipped with:",
+          "This unit is equipped with",
           "nothing.",
           "WARGEAR OPTIONS",
           "■",
@@ -6352,7 +6352,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "Any number of models can each have their twin shuriken catapult replaced with one of the following:",
+          "Any number of models can each have their twin shuriken catapult replaced with one of the following",
           "◦",
           "1 scatter laser",
           "◦",
@@ -6364,7 +6364,7 @@
         "values": [
           "■",
           "3-9 Windriders",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "twin shuriken catapult; close",
           "combat weapon.",
           "WINDRIDERS",
@@ -6449,7 +6449,7 @@
         "values": [
           "■",
           "5-10 Wraithblades",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "ghostswords.",
           "WRAITHBLADES",
           "Wraithblades are inhabited by wrathful spirits who are eager to get to",
@@ -6541,7 +6541,7 @@
         "values": [
           "■",
           "5-10 Wraithguard",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "wraithcannon; close",
           "combat weapon.",
           "WRAITHGUARD",
@@ -6677,7 +6677,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model’s titanic ghostglaive can be replaced with one of the following:",
+          "This model’s titanic ghostglaive can be replaced with one of the following",
           "◦",
           "1 heavy wraithcannon",
           "◦",
@@ -6685,7 +6685,7 @@
           "■",
           "This model’s scattershield can be replaced with 1 heavy wraithcannon.",
           "■",
-          "This model can be equipped with up to two of the following:",
+          "This model can be equipped with up to two of the following",
           "◦",
           "1 scatter laser",
           "◦",
@@ -6699,7 +6699,7 @@
         "values": [
           "■",
           "1 Wraithknight",
-          "This model is equipped with:",
+          "This model is equipped with",
           "titanic ghostglaive; titanic",
           "feet; scattershield.",
           "WRAITHKNIGHT",
@@ -6862,7 +6862,7 @@
           "■",
           "This model can be equipped with 1 ghostglaive.",
           "■",
-          "This model can be equipped with up to two of the following:",
+          "This model can be equipped with up to two of the following",
           "◦",
           "1 Aeldari missile launcher",
           "◦",
@@ -6880,7 +6880,7 @@
         "values": [
           "■",
           "1 Wraithlord",
-          "This model is equipped with:",
+          "This model is equipped with",
           "2 shuriken catapults;",
           "wraithbone fists.",
           "WRAITHLORD",
@@ -6967,7 +6967,7 @@
           "■",
           "1 Yvraine -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Storm of Whispers; Kha-vir, the",
           "Sword of Sorrows."
         ]
@@ -6975,7 +6975,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Corsair Voidscarred",
           "■",
@@ -7115,7 +7115,7 @@
         "values": [
           "■",
           "2-3 Warlock Skyrunners",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "Destructor; shuriken pistol;",
           "twin shuriken catapult; witchblade.",
           "WARLOCK SKYRUNNER CONCLAVE",
@@ -7226,7 +7226,7 @@
         "values": [
           "■",
           "2-4 Warlocks",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "Destructor; shuriken",
           "pistol; witchblade.",
           "WARLOCK CONCLAVE",

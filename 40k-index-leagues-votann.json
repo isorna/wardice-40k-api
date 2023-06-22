@@ -256,7 +256,7 @@
               ]
             },
             {
-              "title": "This model is equipped with:",
+              "title": "This model is equipped with",
               "text": "volkanite disintegrator; Blade of the Ancestors; rampart crest."
             }
           ]
@@ -265,7 +265,7 @@
           "title": "LEADER",
           "values": [
             {
-              "text": "This model can be attached to the following units:"
+              "text": "This model can be attached to the following units"
             },
             {
               "list": [
@@ -411,7 +411,7 @@
               ]
             },
             {
-              "title": "This model is equipped with:",
+              "title": "This model is equipped with",
               "text": "Autoch-pattern combi-bolter; forgewrought plasma axe; rampart crest."
             }
           ]
@@ -420,7 +420,7 @@
           "title": "LEADER",
           "values": [
             {
-              "text": "This model can be attached to the following units:"
+              "text": "This model can be attached to the following units"
             },
             {
               "list": [
@@ -547,7 +547,7 @@
               ]
             },
             {
-              "title": "This model is equipped with:",
+              "title": "This model is equipped with",
               "text": "Autoch-pattern combi-bolter; mass hammer; weavefield crest."
             }
           ]
@@ -556,7 +556,7 @@
           "title": "LEADER",
           "values": [
             {
-              "text": "This model can be attached to the following unit:"
+              "text": "This model can be attached to the following unit"
             },
             {
               "list": [
@@ -723,11 +723,11 @@
               "text": "* If this unit's Grimnyr model is ever destroyed, all of this unit's remaining CORV models are also destroyed."
             },
             {
-              "title": "The Grimnyr is equipped with:",
+              "title": "The Grimnyr is equipped with",
               "text": "Ancestral Wrath; ancestral ward stave."
             },
             {
-              "title": "Every CORV is equipped with:",
+              "title": "Every CORV is equipped with",
               "text": "Autoch-pattern bolter; close combat weapon."
             }
           ]
@@ -736,7 +736,7 @@
           "title": "LEADER",
           "values": [
             {
-              "text": "This model can be attached to the following unit:"
+              "text": "This model can be attached to the following unit"
             },
             {
               "list": [
@@ -917,23 +917,23 @@
               "text": "* If this unit's Iron-master is ever destroyed, this unit's Ironkyn Assistant and all remaining E-COGs are also destroyed."
             },
             {
-              "title": "The Iron-master is equipped with:",
+              "title": "The Iron-master is equipped with",
               "text": "graviton rifle; graviton hammer."
             },
             {
-              "title": "The Ironkin Assistant is equipped with:",
+              "title": "The Ironkin Assistant is equipped with",
               "text": "las-beam cutter; close combat weapon."
             },
             {
-              "title": "One E-COG is equipped with:",
+              "title": "One E-COG is equipped with",
               "text": "Autoch-pattern bolt pistol; close combat weapon."
             },
             {
-              "title": "One other E-COG is equipped with:",
+              "title": "One other E-COG is equipped with",
               "text": "plasma torch."
             },
             {
-              "title": "One other E-COG is equipped with:",
+              "title": "One other E-COG is equipped with",
               "text": "manipulator arms."
             }
           ]
@@ -942,7 +942,7 @@
           "title": "LEADER",
           "values": [
             {
-              "text": "This model can be attached to the following units:"
+              "text": "This model can be attached to the following units"
             },
             {
               "list": [
@@ -1101,7 +1101,7 @@
               "text": "Eye of the Ancestors"
             },
             {
-              "title": "Luck Has. Need Keeps. Toil Earns:",
+              "title": "Luck Has. Need Keeps. Toil Earns",
               "text": "At the end of your Command phase, if this unit is within range of an objective marker you control, that objective marker remains under your control, even if you have no models within range of it, until your opponent controls it at the start or end of any turn."
             }
           ]
@@ -1152,7 +1152,7 @@
             },
             {
               "list": [
-                "Up to 2 Hearthkyn Warriors can each have their Autoch-pattern bolter or ion blaster replaced with one of the following:",
+                "Up to 2 Hearthkyn Warriors can each have their Autoch-pattern bolter or ion blaster replaced with one of the following",
                 [
                   "1 HYLas auto rifle*",
                   "1 HYLas rotary cannon*",
@@ -1168,7 +1168,7 @@
             },
             {
               "list": [
-                "Up to 3 different Hearthkyn Warriors equipped with either an Autoch-pattern bolter or an ion blaster can each be equipped with one of the following (to a maximum of 1 of each per unit):",
+                "Up to 3 different Hearthkyn Warriors equipped with either an Autoch-pattern bolter or an ion blaster can each be equipped with one of the following (to a maximum of 1 of each per unit)",
                 [
                   "1 medipack**",
                   "1 comms array**",
@@ -1181,7 +1181,7 @@
             },
             {
               "list": [
-                "The Theyn's Autoch-pattern bolt pistol can be replaced with one of the following:",
+                "The Theyn's Autoch-pattern bolt pistol can be replaced with one of the following",
                 [
                   "1 ion pistol",
                   "1 EtaCarn plasma pistol"
@@ -1205,11 +1205,11 @@
               ]
             },
             {
-              "title": "Every model is equipped with:",
+              "title": "Every model is equipped with",
               "text": "Autoch-pattern bolt pistol; Autoch-pattern bolter; close combat weapon."
             },
             {
-              "title": "The Theyn is additionally equipped with:",
+              "title": "The Theyn is additionally equipped with",
               "text": "weavefield crest."
             }
           ]
@@ -1300,7 +1300,7 @@
               "text": "Eye of the Ancestors"
             },
             {
-              "title": "Oathband Bodyguard:",
+              "title": "Oathband Bodyguard",
               "text": "While a Character is leading this unit, each time an attack targets this unit, if the Strength characteristic of that attack is greater than this unit's Toughness characteristic, subtract 1 from the Wound roll."
             }
           ]
@@ -1353,11 +1353,11 @@
               ]
             },
             {
-              "title": "Every model is equipped with:",
+              "title": "Every model is equipped with",
               "text": "EtaCarn plasma gun; exo-armour grenade launcher; concussion gauntlet."
             },
             {
-              "title": "The Hesyr is additionally equipped with:",
+              "title": "The Hesyr is additionally equipped with",
               "text": "weavefield crest."
             }
           ]
@@ -1479,7 +1479,7 @@
               ]
             },
             {
-              "title": "Designer's Note:",
+              "title": "Designer's Note",
               "text": "If a Cthonian Beserk is equipped with a mole grenade launcher, it will be accompanied by an L-COG unit: both models should be placed on the same base and together they act as a single model for all rules purposes (albeit one with improved characteristics)."
             }
           ]
@@ -1493,7 +1493,7 @@
               ]
             },
             {
-              "title": "Every model is equipped with:",
+              "title": "Every model is equipped with",
               "text": "heavy plasma axe."
             }
           ]
@@ -1589,7 +1589,7 @@
               "text": "Eye of the Ancestors"
             },
             {
-              "title": "Outflanking Mag-Riders:",
+              "title": "Outflanking Mag-Riders",
               "text": "At the end of your opponent's turn, if this unit is within 6\" of any battlefield edge and is not within Engagement Range of any enemy units, you can remove this unit from the battlefield and place it into Strategic Reserves."
             }
           ]
@@ -1628,7 +1628,7 @@
           "values": [
             {
               "list": [
-                "For every 3 models in this unit, 1 model can be equipped with one of the following (if a model is equipped with any of these weapons, add 1 to its Wounds characteristic):",
+                "For every 3 models in this unit, 1 model can be equipped with one of the following (if a model is equipped with any of these weapons, add 1 to its Wounds characteristic)",
                 [
                   "1 HYLas rotary cannon",
                   "1 ion beamer"
@@ -1637,7 +1637,7 @@
             },
             {
               "list": [
-                "Up to 3 different models that are not equipped with either a HYLas rotary cannon or an ion beamer can each be equipped with 1 of the following (to a maximum of 1 of each per unit):",
+                "Up to 3 different models that are not equipped with either a HYLas rotary cannon or an ion beamer can each be equipped with 1 of the following (to a maximum of 1 of each per unit)",
                 [
                   "1 comms array*",
                   "1 pan spectral scanner*",
@@ -1659,7 +1659,7 @@
               ]
             },
             {
-              "title": "Every model is equipped with:",
+              "title": "Every model is equipped with",
               "text": "bolt revolver; bolt shotgun; magna-coil autocannon; plasma knife."
             }
           ]
@@ -1786,7 +1786,7 @@
           "values": [
             {
               "list": [
-                "This model's HYLas beam cannon can be replaced with one of the following:",
+                "This model's HYLas beam cannon can be replaced with one of the following",
                 [
                   "1 L7 missile launcher and 1 Sagitaur missile launcher",
                   "1 MATR autocannon"
@@ -1804,7 +1804,7 @@
               ]
             },
             {
-              "title": "This model is equipped with:",
+              "title": "This model is equipped with",
               "text": "HYLas beam cannon; twin bolt cannon; armoured wheels."
             }
           ]
@@ -1864,7 +1864,7 @@
             "d": "3"
           },
           {
-            "name": "Conversion:",
+            "name": "Conversion",
             "text": "Each time an attack is made with this weapon, if the target is more than 12\" from the bearer, an unmodified successful Hit roll of 4+ scores a Critical Hit."
           }
         ],
@@ -1892,7 +1892,7 @@
               "text": "Eye of the Ancestors"
             },
             {
-              "title": "Oathband Covering Fire:",
+              "title": "Oathband Covering Fire",
               "text": "Each time you target this unit with the Fire Overwatch Stratagem, hits are scored on unmodified Hit rolls of 5+ when resolving that Stratagem."
             }
           ]
@@ -1927,7 +1927,7 @@
               ]
             },
             {
-              "title": "Every model is equipped with:",
+              "title": "Every model is equipped with",
               "text": "bolt cannon; close combat weapon."
             }
           ]
@@ -1975,7 +1975,7 @@
             "d": "2"
           },
           {
-            "name": "One Shot:",
+            "name": "One Shot",
             "text": "The bearer can only shoot with this weapon once per battle."
           },
           {
@@ -1997,7 +1997,7 @@
             "d": "4"
           },
           {
-            "name": "Conversion:",
+            "name": "Conversion",
             "text": "Each time an attack is made with this weapon, if the target is more than 12\" from the bearer, an unmodified successful Hit roll of 4+ scores a Critical Hit."
           },
           {
@@ -2088,7 +2088,7 @@
           "values": [
             {
               "list": [
-                "This model can do one of the following:",
+                "This model can do one of the following",
                 [
                   "Replace 1 twin bolt cannon with 1 twin ion beamer",
                   "Replace 2 twin bolt cannons with 2 twin ion beamers"
@@ -2097,7 +2097,7 @@
             },
             {
               "list": [
-                "This model's cyclic ion cannon can be replaced with one of the following:",
+                "This model's cyclic ion cannon can be replaced with one of the following",
                 [
                   "1 SP heavy conversion beamer",
                   "1 heavy magna-rail cannon"
@@ -2120,7 +2120,7 @@
               ]
             },
             {
-              "title": "This model is equipped with:",
+              "title": "This model is equipped with",
               "text": "cyclic ion cannon; MATR autocannon; 2 twin bolt cannons; armoured wheels; pan spectral scanner."
             }
           ]

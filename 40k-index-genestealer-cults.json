@@ -86,10 +86,10 @@
           "1 Aberrant Hypermorph",
           "■",
           "4-9 Aberrants",
-          "The Aberrant Hypermorph is equipped with:",
+          "The Aberrant Hypermorph is equipped with",
           "heavy power",
           "weapon; hypermorph tail.",
-          "Every Aberrant is equipped with:",
+          "Every Aberrant is equipped with",
           "heavy power weapon.",
           "ABERRANTS",
           "No one truly knows what causes Aberrants to spring up amidst the",
@@ -163,14 +163,14 @@
         "values": [
           "■",
           "1 Abominant",
-          "This model is equipped with:",
+          "This model is equipped with",
           "power sledgehammer."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Aberrants",
           "ABOMINANT",
@@ -276,13 +276,13 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "Any number of models can each have their heavy mining laser replaced with one of the following:",
+          "Any number of models can each have their heavy mining laser replaced with one of the following",
           "◦",
           "1 achilles missile launcher",
           "◦",
           "1 heavy mortar",
           "■",
-          "Any number of models can each have their flare launcher replaced with one of the following:",
+          "Any number of models can each have their flare launcher replaced with one of the following",
           "◦",
           "1 spotter",
           "◦",
@@ -294,7 +294,7 @@
         "values": [
           "■",
           "1-2 Achilles Ridgerunners",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "heavy mining laser;",
           "twin heavy stubbers; Ridgerunner wheels; flare launcher.",
           "ACHILLES RIDGERUNNERS",
@@ -343,7 +343,7 @@
           "d": "2"
         },
         {
-          "name": "One Shot:",
+          "name": "One Shot",
           "range": "The bearer can only shoot with this weapon once per battle.",
           "a": "Hand flamer [IGNORES COVER, PISTOL, TORRENT]",
           "bws": "12\"",
@@ -420,7 +420,7 @@
           "One Acolyte Hybrid’s autopistol can be replaced with 1 cult icon.",
           "■",
           "For every 5 models in this unit, up to 2 Acolyte Hybrids can each have their autopistol and cult claws",
-          "and knife replaced with one of the following:",
+          "and knife replaced with one of the following",
           "◦",
           "1 demolition charges and 1 cult claws and knife",
           "◦",
@@ -436,7 +436,7 @@
           "1 Acolyte Leader",
           "■",
           "4-9 Acolyte Hybrids",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "autopistol; cult claws",
           "and knife.",
           "ACOLYTE HYBRIDS",
@@ -521,14 +521,14 @@
         "values": [
           "■",
           "1 Acolyte Iconward",
-          "This model is equipped with:",
+          "This model is equipped with",
           "autopistol; cult claws."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Acolyte Hybrids",
           "■",
@@ -674,7 +674,7 @@
           "grenade launcher.",
           "■",
           "Any number of Atalan Wolfquads can each have their heavy stubber replaced with one of",
-          "the following:",
+          "the following",
           "◦",
           "1 Atalan incinerator",
           "◦",
@@ -691,10 +691,10 @@
           "*",
           "This unit can only contain 2 Atalan Wolfquads if it also contains 8",
           "Atalan Jackals.",
-          "Every Atalan Jackal is equipped with:",
+          "Every Atalan Jackal is equipped with",
           "Atalan small arms;",
           "close combat weapon.",
-          "Every Atalan Wolfquad is equipped with:",
+          "Every Atalan Wolfquad is equipped with",
           "Atalan small arms;",
           "heavy stubber; close combat weapon.",
           "ATALAN JACKALS",
@@ -791,7 +791,7 @@
         "values": [
           "■",
           "1 Biophagus",
-          "This model is equipped with:",
+          "This model is equipped with",
           "autopistol; chemical vials;",
           "injector goad."
         ]
@@ -799,7 +799,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Aberrants",
           "■",
@@ -903,7 +903,7 @@
         "values": [
           "■",
           "1 Clamavus",
-          "This model is equipped with:",
+          "This model is equipped with",
           "autopistol; close",
           "combat weapon."
         ]
@@ -911,7 +911,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Acolyte Hybrids",
           "■",
@@ -1041,7 +1041,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model’s heavy mining laser can be replaced with one of the following:",
+          "This model’s heavy mining laser can be replaced with one of the following",
           "◦",
           "1 clearance incinerator",
           "◦",
@@ -1053,7 +1053,7 @@
         "values": [
           "■",
           "1 Goliath Rockgrinder",
-          "This model is equipped with:",
+          "This model is equipped with",
           "heavy mining laser; heavy",
           "stubber; drilldozer blade; demolition charge cache."
         ]
@@ -1165,7 +1165,7 @@
         "values": [
           "■",
           "1 Goliath Truck",
-          "This model is equipped with:",
+          "This model is equipped with",
           "heavy stubber; twin",
           "autocannon; demolition charge cache; Goliath wheels."
         ]
@@ -1298,10 +1298,10 @@
           "1 Metamorph Leader",
           "■",
           "4-9 Hybrid Metamorphs",
-          "The Metamorph Leader is equipped with:",
+          "The Metamorph Leader is equipped with",
           "autopistol; Leader’s",
           "cult weapons.",
-          "Every Hybrid Metamorph is equipped with:",
+          "Every Hybrid Metamorph is equipped with",
           "autopistol;",
           "Metamorph mutations.",
           "HYBRID METAMORPHS",
@@ -1396,7 +1396,7 @@
         "values": [
           "■",
           "1 Jackal Alphus",
-          "This model is equipped with:",
+          "This model is equipped with",
           "autopistol; cult sniper rifle;",
           "close combat weapon."
         ]
@@ -1404,7 +1404,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Atalan Jackals",
           "JACKAL ALPHUS",
@@ -1488,7 +1488,7 @@
         "values": [
           "■",
           "1 Kelermorph",
-          "This model is equipped with:",
+          "This model is equipped with",
           "liberator autostubs;",
           "close combat weapon.",
           "KELERMORPH",
@@ -1562,14 +1562,14 @@
         "values": [
           "■",
           "1 Locus",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Locus blades."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Acolyte Hybrids",
           "■",
@@ -1677,14 +1677,14 @@
         "values": [
           "■",
           "1 Magus",
-          "This model is equipped with:",
+          "This model is equipped with",
           "autopistol; Magus stave."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Acolyte Hybrids",
           "■",
@@ -1878,7 +1878,7 @@
           "■",
           "For every 10 models in this unit, up to 2",
           "Neophyte Hybrids can each have their Hybrid",
-          "firearm replaced with one of the following:",
+          "firearm replaced with one of the following",
           "◦",
           "Heavy stubber",
           "◦",
@@ -1888,7 +1888,7 @@
           "■",
           "For every 10 models in this unit, up to 2",
           "Neophyte Hybrids can each have their Hybrid",
-          "firearm replaced with one of the following:",
+          "firearm replaced with one of the following",
           "◦",
           "Flamer",
           "◦",
@@ -1898,7 +1898,7 @@
           "■",
           "The Neophyte Leader’s Hybrid firearm and",
           "close combat weapon can be replaced with 1 of",
-          "the following:",
+          "the following",
           "◦",
           "1 Leader pistol and 1 chainsword",
           "◦",
@@ -1912,7 +1912,7 @@
           "1 Neophyte Leader",
           "■",
           "9-19 Neophyte Hybrids",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "autopistol; Hybrid firearm;",
           "close combat weapon.",
           "NEOPHYTE HYBRIDS",
@@ -1996,7 +1996,7 @@
         "values": [
           "■",
           "1 Nexos",
-          "This model is equipped with:",
+          "This model is equipped with",
           "autopistol;",
           "close combat weapon."
         ]
@@ -2004,7 +2004,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Acolyte Hybrids",
           "■",
@@ -2102,14 +2102,14 @@
           "■",
           "1 Patriarch -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Patriarch’s claws."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Purestrain Genestealers"
         ]
@@ -2201,7 +2201,7 @@
         "values": [
           "■",
           "1 Primus",
-          "This model is equipped with:",
+          "This model is equipped with",
           "scoped needle pistol; cult",
           "bonesword; toxin injector claw."
         ]
@@ -2209,7 +2209,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Acolyte Hybrids",
           "■",
@@ -2286,7 +2286,7 @@
         "values": [
           "■",
           "5-10 Purestrain Genestealers",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "cult claws and talons.",
           "PURESTRAIN GENESTEALERS",
           "Vanguard organisms for the Tyranid hive fleets, Purestrain",
@@ -2332,7 +2332,7 @@
           "d": "2"
         },
         {
-          "name": "One Shot:",
+          "name": "One Shot",
           "range": "The bearer can only shoot with this weapon once per battle.",
           "a": "Remote explosives [BLAST, INDIRECT FIRE]",
           "bws": "24\"",
@@ -2395,7 +2395,7 @@
         "values": [
           "■",
           "1 Reductus Saboteur",
-          "This model is equipped with:",
+          "This model is equipped with",
           "autopistol; demolition charges;",
           "remote explosives; close combat weapon.",
           "REDUCTUS SABOTEUR",
@@ -2489,7 +2489,7 @@
         "values": [
           "■",
           "1 Sanctus",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Sanctus bio-dagger.",
           "SANCTUS",
           "A Sanctus is an inescapable assassin who can track by psychic spoor",

@@ -94,7 +94,7 @@
           "■",
           "1 Skarbrand -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "bellow of endless fury;",
           "Slaughter and Carnage.",
           "SKARBRAND",
@@ -222,7 +222,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model’s great axe of Khorne can be replaced with 1 axe of Khorne and one of the following:",
+          "This model’s great axe of Khorne can be replaced with 1 axe of Khorne and one of the following",
           "◦",
           "1 bloodflail",
           "◦",
@@ -234,7 +234,7 @@
         "values": [
           "■",
           "1 Bloodthirster",
-          "This model is equipped with:",
+          "This model is equipped with",
           "hellfire breath;",
           "great axe of Khorne",
           "BLOODTHIRSTER",
@@ -312,14 +312,14 @@
           "■",
           "1 Skulltaker -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "the Slayer Sword."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Bloodletters",
           "SKULLTAKER",
@@ -395,14 +395,14 @@
         "values": [
           "■",
           "1 Bloodmaster",
-          "This model is equipped with:",
+          "This model is equipped with",
           "blade of blood."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Bloodletters",
           "BLOODMASTER",
@@ -487,7 +487,7 @@
         "values": [
           "■",
           "1 Skullmaster",
-          "This model is equipped with:",
+          "This model is equipped with",
           "blade of blood; Juggernaut’s",
           "bladed horn."
         ]
@@ -495,7 +495,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Bloodcrushers",
           "SKULLMASTER",
@@ -581,7 +581,7 @@
         "values": [
           "■",
           "1 Rendmaster on Blood Throne",
-          "This model is equipped with:",
+          "This model is equipped with",
           "attendants’ hellblades; blade",
           "of blood.",
           "RENDMASTER",
@@ -663,7 +663,7 @@
           "■",
           "1 Karanak -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "soul-rending fangs; collar",
           "of Khorne."
         ]
@@ -671,7 +671,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "F",
           "lesh Hounds",
@@ -754,7 +754,7 @@
           "1 Bloodreaper",
           "■",
           "9 Bloodletters",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "hellblade.",
           "BLOODLETTERS",
           "Bloodletters are hate and violence made manifest. Attacking in berserk",
@@ -845,7 +845,7 @@
           "1 Bloodhunter",
           "■",
           "2-5 Bloodcrushers",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "hellblade; Juggernaut’s",
           "bladed horn.",
           "BLOODCRUSHERS",
@@ -933,10 +933,10 @@
           "1 Gore Hound",
           "■",
           "4-9 Flesh Hounds",
-          "The Gore Hound is equipped with:",
+          "The Gore Hound is equipped with",
           "burning",
           "roar; gore-drenched fangs; collar of Khorne.",
-          "Every Flesh Hound is equipped with:",
+          "Every Flesh Hound is equipped with",
           "gore-drenched fangs; collar of Khorne.",
           "FLESH HOUNDS",
           "These hunting hounds of Khorne track the terror spoor of their prey",
@@ -1029,7 +1029,7 @@
         "values": [
           "■",
           "1 Skull Cannon",
-          "This model is equipped with:",
+          "This model is equipped with",
           "skull cannon; attendants’",
           "hellblades; biting maw.",
           "SKULL CANNON",
@@ -1094,7 +1094,7 @@
         "values": [
           "■",
           "1 Skull Altar",
-          "This model is equipped with:",
+          "This model is equipped with",
           "nothing.",
           "WARGEAR OPTIONS",
           "■",
@@ -1198,7 +1198,7 @@
           "■",
           "1 Kairos Fateweaver -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Infernal Gateway;",
           "Staff of Tomorrow.",
           "KAIROS FATEWEAVER",
@@ -1309,7 +1309,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model can be equipped with one of the following:",
+          "This model can be equipped with one of the following",
           "◦",
           "1 rod of sorcery",
           "◦",
@@ -1321,7 +1321,7 @@
         "values": [
           "■",
           "1 Lord of Change",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Bolt of Change; staff of Tzeentch.",
           "LORD OF CHANGE",
           "Greater Daemons of Tzeentch are infinitely cunning sorcerers and",
@@ -1421,7 +1421,7 @@
           "■",
           "1 The Changeling -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Infernal Flames;",
           "the Trickster’s Staff.",
           "THE CHANGELING",
@@ -1529,7 +1529,7 @@
         "values": [
           "■",
           "1 Fateskimmer",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Arcane Fireball; Herald combat",
           "weapon; Screamer bites."
         ]
@@ -1537,7 +1537,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Screamers",
           "FATESKIMMER",
@@ -1636,7 +1636,7 @@
         "values": [
           "■",
           "1 Fluxmaster",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Arcane Fireball; Herald",
           "combat weapon."
         ]
@@ -1644,7 +1644,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Pink Horrors",
           "■",
@@ -1724,7 +1724,7 @@
           "■",
           "1 The Blue Scribes -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "sharp quills.",
           "THE BLUE SCRIBES",
           "These quarrelsome daemons flit through time and space upon their",
@@ -1822,7 +1822,7 @@
         "values": [
           "■",
           "1 Changecaster",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Arcane Fireball; Herald",
           "combat weapon."
         ]
@@ -1830,7 +1830,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Blue Horrors",
           "■",
@@ -1934,11 +1934,11 @@
         "values": [
           "■",
           "10 Blue Horrors",
-          "Every Blue Horror is equipped with:",
+          "Every Blue Horror is equipped with",
           "Coruscating Blue Flames;",
           "blue claws.",
           "Every Brimstone Horror added to this unit using the",
-          "Split ability is equipped with:",
+          "Split ability is equipped with",
           "Coruscating Yellow Flames;",
           "yellow claws.",
           "BLUE HORRORS",
@@ -1947,12 +1947,12 @@
           "with conjured gouts of mutating warpflame. Should one of these",
           "wretched beings be slain, it bursts into a roiling cloud of fume from",
           "which a pair of crackling Brimstone Horrors emerge.",
-          "KEYWORDS - ALL MODELS:",
+          "KEYWORDS - ALL MODELS",
           "Infantry, Battleline, Chaos, Daemon, Tzeentch,",
           "Horrors",
-          "| BLUE HORRORS:",
+          "| BLUE HORRORS",
           "Blue",
-          "| BRIMSTONE HORRORS:",
+          "| BRIMSTONE HORRORS",
           "Brimstone"
         ]
       }
@@ -1966,7 +1966,7 @@
     "name": "PINK HORRORS",
     "subtype": "",
     "keywords": [
-      "| PINK HORRORS:"
+      "| PINK HORRORS"
     ],
     "weapons": {
       "ranged": [
@@ -2066,14 +2066,14 @@
         "values": [
           "■",
           "10 Pink Horrors",
-          "Every Pink Horror is equipped with:",
+          "Every Pink Horror is equipped with",
           "Coruscating Pink Flames;",
           "pink claws.",
           "Every Blue Horror added to this unit using the Split ability is",
-          "equipped with:",
+          "equipped with",
           "Coruscating Blue Flames; blue claws.",
           "Every Brimstone Horror added to this unit using the",
-          "Split ability is equipped with:",
+          "Split ability is equipped with",
           "Coruscating Yellow Flames;",
           "yellow claws.",
           "HORRORS ARE PINK. HORRORS ARE BLUE. WHERE",
@@ -2084,7 +2084,7 @@
           "use the",
           "Blue Horrors",
           "datasheet for this unit.",
-          "Designer’s Note:",
+          "Designer’s Note",
           "While this unit contains one or more",
           "Pink",
           "Horror",
@@ -2099,13 +2099,13 @@
           "their victims. Pink Horrors cackle, riddle and caper endlessly, their",
           "unsettling glee ending only in the moment when their mortal form is",
           "destroyed and forced to split messily into two Blue Horrors.",
-          "KEYWORDS - ALL MODELS:",
+          "KEYWORDS - ALL MODELS",
           "Infantry, Battleline, Chaos, Daemon, Tzeentch, Horrors",
-          "| PINK HORRORS:",
+          "| PINK HORRORS",
           "Pink",
-          "|BLUE HORRORS:",
+          "|BLUE HORRORS",
           "Blue",
-          "| BRIMSTONE HORRORS:",
+          "| BRIMSTONE HORRORS",
           "Brimstone"
         ]
       }
@@ -2186,7 +2186,7 @@
           "1 Pyrocaster",
           "■",
           "2-5 Flamers",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "Flickering Flames;",
           "Flamer mouths.",
           "FLAMERS",
@@ -2286,14 +2286,14 @@
         "values": [
           "■",
           "1 Exalted Flamer",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Fire of Tzeentch; Flamer mouths."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Flamers",
           "MANIFESTATION OF DESTRUCTION",
@@ -2374,7 +2374,7 @@
         "values": [
           "■",
           "3-6 Screamers",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "lamprey bite.",
           "SCREAMERS",
           "These predatory daemons strike like sudden and inescapable change.",
@@ -2479,7 +2479,7 @@
         "values": [
           "■",
           "1 Burning Chariot",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Fire of Tzeentch; Flamer mouths;",
           "Screamer bites.",
           "BURNING CHARIOT",
@@ -2581,7 +2581,7 @@
           "■",
           "1 Rotigus -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "streams of brackish",
           "filth; gnarlrod.",
           "ROTIGUS",
@@ -2668,7 +2668,7 @@
           "d": "2"
         },
         {
-          "name": "Reverberating Summons:",
+          "name": "Reverberating Summons",
           "range": "Each time a model is destroyed by this weapon, you can select one friendly",
           "a": "Plaguebearers",
           "bws": "unit within 12\" of the bearer and return 1 destroyed Plaguebearer model to that unit."
@@ -2716,7 +2716,7 @@
         "values": [
           "■",
           "1 Great Unclean One",
-          "This model is equipped with:",
+          "This model is equipped with",
           "plague flail; putrid",
           "vomit; bilesword.",
           "GREAT UNCLEAN ONE",
@@ -2793,14 +2793,14 @@
         "values": [
           "■",
           "1 Poxbringer",
-          "This model is equipped with:",
+          "This model is equipped with",
           "foul balesword."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Plaguebearers",
           "POXBRINGER",
@@ -2886,7 +2886,7 @@
         "values": [
           "■",
           "1 Spoilpox Scrivener",
-          "This model is equipped with:",
+          "This model is equipped with",
           "disgusting sneezes;",
           "plaguesword and distended maw."
         ]
@@ -2894,7 +2894,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Plaguebearers",
           "SPOILPOX SCRIVENER",
@@ -2972,7 +2972,7 @@
           "■",
           "1 Epidemius -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "balesword and",
           "Nurgling attendants."
         ]
@@ -2980,7 +2980,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Plaguebearers",
           "EPIDEMIUS",
@@ -3056,14 +3056,14 @@
         "values": [
           "■",
           "1 Sloppity Bilepiper",
-          "This model is equipped with:",
+          "This model is equipped with",
           "marotter."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Plaguebearers",
           "SLOPPITY BILEPIPER",
@@ -3150,14 +3150,14 @@
           "■",
           "1 Horticulous Slimux -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "acidic maw; lopping shears."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Beasts of Nurgle",
           "HORTICULOUS SLIMUX",
@@ -3240,7 +3240,7 @@
           "1 Plagueridden",
           "■",
           "9 Plaguebearers",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "plaguesword.",
           "PLAGUEBEARERS",
           "Born from the souls of those who die of Nurgle’s Rot, Plaguebearers",
@@ -3316,7 +3316,7 @@
         "values": [
           "■",
           "3-9 Nurgling Swarms",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "diseased claws and teeth.",
           "NURGLINGS",
           "Nurglings are malicious plague mites that pour across the battlefield",
@@ -3390,7 +3390,7 @@
         "values": [
           "■",
           "1-2 Beasts of Nurgle",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "putrid appendages.",
           "BEASTS OF NURGLE",
           "Filled with dim-witted ebullience at odds with their plague-ridden",
@@ -3493,7 +3493,7 @@
           "1 Plaguebringer",
           "■",
           "2-5 Plague Drones",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "death’s heads; foul",
           "mouthparts; plaguesword.",
           "PLAGUE DRONES",
@@ -3557,7 +3557,7 @@
         "values": [
           "■",
           "1 Feculent Gnarlmaw",
-          "This model is equipped with:",
+          "This model is equipped with",
           "nothing.",
           "WARGEAR OPTIONS",
           "■",
@@ -3679,7 +3679,7 @@
           "■",
           "1 Shalaxi Helbane -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "lash of Slaanesh; Pavane of",
           "Slaanesh; snapping claws; soulpiercer.",
           "SHALAXI HELBANE",
@@ -3798,7 +3798,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model can be equipped with one of the following:",
+          "This model can be equipped with one of the following",
           "◦",
           "Living whip",
           "◦",
@@ -3812,7 +3812,7 @@
         "values": [
           "■",
           "1 Keeper of Secrets",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Phantasmagoria; snapping",
           "claws; witstealer sword.",
           "KEEPER OF SECRETS",
@@ -3909,14 +3909,14 @@
         "values": [
           "■",
           "1 Infernal Enrapturess",
-          "This model is equipped with:",
+          "This model is equipped with",
           "heartstring lyre; ravaging claws."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Daemonettes",
           "INFERNAL ENRAPTURESS",
@@ -3996,7 +3996,7 @@
           "■",
           "1 The Masque of Slaanesh -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "serrated claws.",
           "THE MASQUE OF SLAANESH",
           "Once high in the favour of the Dark Prince, this daemon was cursed",
@@ -4116,7 +4116,7 @@
           "■",
           "1 Syll’Esske -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Cacophonic Choir; scourging",
           "whip; Axe of Dominion."
         ]
@@ -4124,7 +4124,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Daemonettes",
           "SYLL’ESSKE",
@@ -4209,14 +4209,14 @@
         "values": [
           "■",
           "1 Contorted Epitome",
-          "This model is equipped with:",
+          "This model is equipped with",
           "coiled tentacles; ravaging claws."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Daemonettes",
           "CONTORTED EPITOME",
@@ -4313,7 +4313,7 @@
         "values": [
           "■",
           "1 Tormentbringer on Exalted Seeker Chariot",
-          "This model is equipped with:",
+          "This model is equipped with",
           "lashes of torment; Exalted",
           "Seeker tongues; ravaging claws.",
           "TORMENTBRINGER",
@@ -4391,14 +4391,14 @@
         "values": [
           "■",
           "1 Tranceweaver",
-          "This model is equipped with:",
+          "This model is equipped with",
           "ravaging claws."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Daemonettes",
           "TRANCEWEAVER",
@@ -4481,7 +4481,7 @@
           "1 Alluress",
           "■",
           "9 Daemonettes",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "slashing claws.",
           "DAEMONETTES",
           "Known to mortals as the handmaidens of Slaanesh, these daemons",
@@ -4557,7 +4557,7 @@
           "1 Blissbringer",
           "■",
           "2-5 Fiends",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "barbed tail and",
           "dissecting claws.",
           "FIENDS",
@@ -4647,7 +4647,7 @@
           "1 Heartseeker",
           "■",
           "4-9 Seekers",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "lashing tongue;",
           "slashing claws.",
           "SEEKERS",
@@ -4750,7 +4750,7 @@
         "values": [
           "■",
           "1-2 Hellflayers",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "lashes of torment; bladed axle;",
           "Seeker tongues; slashing claws.",
           "HELLFLAYER",
@@ -4844,7 +4844,7 @@
         "values": [
           "■",
           "1-2 Seeker Chariots",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "lashes of torment; Seeker",
           "tongues; slashing claws.",
           "SEEKER CHARIOT",
@@ -4937,7 +4937,7 @@
         "values": [
           "■",
           "1 Exalted Seeker Chariot",
-          "This model is equipped with:",
+          "This model is equipped with",
           "lashes of torment; Exalted",
           "Seeker tongues; slashing claws.",
           "EXALTED SEEKER CHARIOT",
@@ -5008,19 +5008,19 @@
         },
         {
           "name": "SHADOW FORM ABILITIES",
-          "range": "Wreathed in Shadows (Aura, Psychic):",
+          "range": "Wreathed in Shadows (Aura, Psychic)",
           "a": "While a friendly",
           "bws": "Legiones Daemonica",
           "s": "unit is within 6\" of this",
           "ap": "model, that unit can only be targeted by a ranged attack if the attacking model is within 18\".",
-          "d": "Pall of Despair (Aura, Psychic):"
+          "d": "Pall of Despair (Aura, Psychic)"
         },
         {
           "name": "In the Battle-shock step of your opponent’s Command phase, if",
           "range": "an enemy unit that is below its Starting Strength is within 6\" of this model, that unit must take a",
           "a": "Battle-shock test. For the purposes of this ability, if a unit has a Starting Strength of 1, it is considered to",
           "bws": "be below its Starting Strength while it has lost one or more wounds.",
-          "s": "Shadow Lord (Aura, Psychic):",
+          "s": "Shadow Lord (Aura, Psychic)",
           "ap": "While a friendly",
           "d": "Legiones Daemonica"
         },
@@ -5070,7 +5070,7 @@
           "■",
           "1 Be’lakor -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Betraying Shades; the Blade",
           "of Shadows."
         ]
@@ -5205,16 +5205,16 @@
           "Until the end of the battle, this model has that keyword and the additional wargear stated for that",
           "keyword below.",
           "Khorne",
-          "This model is additionally equipped with:",
+          "This model is additionally equipped with",
           "torrent of burning blood",
           "Tzeentch",
-          "This model is additionally equipped with:",
+          "This model is additionally equipped with",
           "warp gaze",
           "Nurgle",
-          "This model is additionally equipped with:",
+          "This model is additionally equipped with",
           "phlegm bombardment",
           "Slaanesh",
-          "This model is additionally equipped with:",
+          "This model is additionally equipped with",
           "scream of despair"
         ]
       },
@@ -5223,7 +5223,7 @@
         "values": [
           "■",
           "1 Soul Grinder",
-          "This model is equipped with:",
+          "This model is equipped with",
           "harvester cannon; iron",
           "claw; warpsword.",
           "SOUL GRINDER",
@@ -5283,26 +5283,26 @@
         },
         {
           "name": "DAEMONIC ALLEGIANCE",
-          "range": "Daemon Prince of Khorne:",
+          "range": "Daemon Prince of Khorne",
           "a": "If this model has the",
           "bws": "Khorne",
           "s": "keyword, add 2 to the Strength characteristic of",
           "ap": "this model’s hellforged weapons.",
-          "d": "Daemon Prince of Tzeentch:"
+          "d": "Daemon Prince of Tzeentch"
         },
         {
           "name": "If this model has the",
           "range": "Tzeentch",
           "a": "keyword, add 3 to the Attacks characteristic",
           "bws": "of this model’s infernal cannon.",
-          "s": "Daemon Prince of Nurgle:",
+          "s": "Daemon Prince of Nurgle",
           "ap": "If this model has the",
           "d": "Nurgle"
         },
         {
           "name": "keyword, add 1 to this model’s",
           "range": "Toughness characteristic.",
-          "a": "Daemon Prince of Slaanesh:",
+          "a": "Daemon Prince of Slaanesh",
           "bws": "If this model has the",
           "s": "Slaanesh",
           "ap": "keyword, add 2\" to this model’s",
@@ -5348,12 +5348,12 @@
         "values": [
           "■",
           "1 Daemon Prince of Chaos",
-          "This model is equipped with:",
+          "This model is equipped with",
           "infernal cannon;",
           "hellforged weapons.",
           "DAEMONIC ALLEGIANCE",
           "When you select this model to include in your army, you must",
-          "select one of the following keywords for it to gain:",
+          "select one of the following keywords for it to gain",
           "■",
           "Khorne",
           "■",
@@ -5421,26 +5421,26 @@
         },
         {
           "name": "DAEMONIC ALLEGIANCE",
-          "range": "Daemon Prince of Khorne:",
+          "range": "Daemon Prince of Khorne",
           "a": "If this model has the",
           "bws": "Khorne",
           "s": "keyword, add 2 to the Strength characteristic of",
           "ap": "this model’s hellforged weapons.",
-          "d": "Daemon Prince of Tzeentch:"
+          "d": "Daemon Prince of Tzeentch"
         },
         {
           "name": "If this model has the",
           "range": "Tzeentch",
           "a": "keyword, add 3 to the Attacks characteristic",
           "bws": "of this model’s infernal cannon.",
-          "s": "Daemon Prince of Nurgle:",
+          "s": "Daemon Prince of Nurgle",
           "ap": "If this model has the",
           "d": "Nurgle"
         },
         {
           "name": "keyword, add 1 to this model’s",
           "range": "Toughness characteristic.",
-          "a": "Daemon Prince of Slaanesh:",
+          "a": "Daemon Prince of Slaanesh",
           "bws": "If this model has the",
           "s": "Slaanesh",
           "ap": "keyword, add 2\" to this model’s",
@@ -5487,12 +5487,12 @@
         "values": [
           "■",
           "1 Daemon Prince of Chaos with Wings",
-          "This model is equipped with:",
+          "This model is equipped with",
           "infernal cannon;",
           "hellforged weapons.",
           "DAEMONIC ALLEGIANCE",
           "When you select this model to include in your army, you must",
-          "select one of the following keywords for it to gain:",
+          "select one of the following keywords for it to gain",
           "■",
           "Khorne",
           "■",

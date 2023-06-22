@@ -84,7 +84,7 @@
           "■",
           "1 Azrael -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Lion’s Wrath; the Sword of",
           "Secrets; the Lion Helm."
         ]
@@ -92,7 +92,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Assault Intercessor Squad",
           "■",
@@ -190,7 +190,7 @@
           "■",
           "1 Belial -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "master-crafted storm bolter;",
           "the Sword of Silence."
         ]
@@ -198,7 +198,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Deathwing Command Squad",
           "■",
@@ -316,7 +316,7 @@
           "■",
           "1 Sammael -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "bolt pistol; master-crafted",
           "plasma cannon; twin storm bolter; the Raven Sword."
         ]
@@ -324,7 +324,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Bike Squad",
           "■",
@@ -445,7 +445,7 @@
           "■",
           "1 Ezekiel -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "the Deliverer; Mind Wipe;",
           "Traitor’s Bane; Book of Salvation."
         ]
@@ -453,7 +453,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Assault Squad",
           "■",
@@ -557,7 +557,7 @@
           "■",
           "1 Asmodai -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "bolt pistol; Blades of Reason;",
           "crozius arcanum."
         ]
@@ -565,7 +565,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Assault Squad",
           "■",
@@ -666,7 +666,7 @@
         "values": [
           "■",
           "1 Ravenwing Talonmaster",
-          "This model is equipped with:",
+          "This model is equipped with",
           "twin assault cannon; twin heavy",
           "bolter; power weapon.",
           "RAVENWING TALONMASTER",
@@ -755,14 +755,14 @@
           "■",
           "1 Lazarus -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "bolt pistol; Enmity’s Edge."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Assault Intercessor Squad",
           "■",
@@ -895,7 +895,7 @@
         "values": [
           "■",
           "This model’s storm bolter and master-crafted power weapon can be replaced with either 1 twin",
-          "lightning claws, or two different weapons from the following list:",
+          "lightning claws, or two different weapons from the following list",
           "◦",
           "1 storm bolter",
           "◦",
@@ -915,7 +915,7 @@
         "values": [
           "■",
           "1 Deathwing Strikemaster",
-          "This model is equipped with:",
+          "This model is equipped with",
           "storm bolter; master-crafted",
           "power weapon."
         ]
@@ -923,7 +923,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Deathwing Command Squad",
           "■",
@@ -1121,7 +1121,7 @@
         "values": [
           "■",
           "Any number of Deathwing Command Terminators can each have their storm bolter and power fist",
-          "replaced with one of the following:",
+          "replaced with one of the following",
           "◦",
           "1 twin lightning claws",
           "◦",
@@ -1131,7 +1131,7 @@
           "1 chainfist.",
           "■",
           "For every 5 models in this unit, 1 Deathwing Command Terminator can replace its storm bolter with",
-          "one of the following:",
+          "one of the following",
           "◦",
           "1 assault cannon",
           "◦",
@@ -1158,16 +1158,16 @@
           "1 Deathwing Champion",
           "■",
           "2-7 Deathwing Command Terminators",
-          "The Deathwing Ancient is equipped with:",
+          "The Deathwing Ancient is equipped with",
           "storm bolter;",
           "power fist.",
-          "The Deathwing Apothecary is equipped with:",
+          "The Deathwing Apothecary is equipped with",
           "storm",
           "bolter; chainfist.",
-          "The Deathwing Champion is equipped with:",
+          "The Deathwing Champion is equipped with",
           "halberd",
           "of Caliban.",
-          "Every Deathwing Command Terminator is equipped with:",
+          "Every Deathwing Command Terminator is equipped with",
           "storm bolter; power fist.",
           "ATTACHED UNIT",
           "If a",
@@ -1347,7 +1347,7 @@
         "values": [
           "■",
           "Any number of Deathwing Terminators can each have their storm bolter and power fist replaced with",
-          "one of the following:",
+          "one of the following",
           "◦",
           "1 twin lightning claws",
           "◦",
@@ -1356,7 +1356,7 @@
           "Any number of Deathwing Terminators can each have their power fist replaced with 1 chainfist.",
           "■",
           "For every 5 models in this unit, 1 Deathwing Terminator can replace its storm bolter with one of",
-          "the following:",
+          "the following",
           "◦",
           "1 assault cannon",
           "◦",
@@ -1379,10 +1379,10 @@
           "1 Deathwing Sergeant",
           "■",
           "4-9 Deathwing Terminators",
-          "The Deathwing Sergeant is equipped with:",
+          "The Deathwing Sergeant is equipped with",
           "storm bolter;",
           "power weapon.",
-          "Every Deathwing Terminator is equipped with:",
+          "Every Deathwing Terminator is equipped with",
           "storm bolter;",
           "power fist.",
           "ATTACHED UNIT",
@@ -1479,9 +1479,9 @@
           "1 Knight Master",
           "■",
           "4-9 Deathwing Knights",
-          "The Knight Master is equipped with:",
+          "The Knight Master is equipped with",
           "flail of the Unforgiven.",
-          "Every Deathwing Knight is equipped with:",
+          "Every Deathwing Knight is equipped with",
           "mace",
           "of absolution.",
           "ATTACHED UNIT",
@@ -1630,16 +1630,16 @@
           "1 Ravenwing Ancient",
           "■",
           "0-3 Ravenwing Knights",
-          "The Ravenwing Champion is equipped with:",
+          "The Ravenwing Champion is equipped with",
           "bolt pistol;",
           "plasma talon; master-crafted power weapon.",
-          "The Ravenwing Apothecary is equipped with:",
+          "The Ravenwing Apothecary is equipped with",
           "bolt pistol;",
           "plasma talon; Black Knight combat weapon.",
-          "The Ravenwing Ancient is equipped with:",
+          "The Ravenwing Ancient is equipped with",
           "bolt pistol; plasma",
           "talon; Black Knight combat weapon.",
-          "Every Ravenwing Knight is equipped with:",
+          "Every Ravenwing Knight is equipped with",
           "bolt pistol; plasma",
           "talon; Black Knight combat weapon.",
           "ATTACHED UNIT",
@@ -1774,7 +1774,7 @@
           "1 Ravenwing Huntmaster",
           "■",
           "2-5 Ravenwing Black Knights",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "bolt pistol; plasma talon; Black",
           "Knight combat weapon.",
           "ATTACHED UNIT",
@@ -1875,7 +1875,7 @@
         "values": [
           "■",
           "1 Ravenwing Darkshroud",
-          "This model is equipped with:",
+          "This model is equipped with",
           "heavy bolter; close",
           "combat weapon.",
           "RAVENWING DARKSHROUD",
@@ -1990,7 +1990,7 @@
         "values": [
           "■",
           "1 Ravenwing Land Speeder Vengeance",
-          "This model is equipped with:",
+          "This model is equipped with",
           "heavy bolter; plasma storm",
           "battery; close combat weapon.",
           "RAVENWING LAND SPEEDER VENGEANCE",
@@ -2089,7 +2089,7 @@
         "values": [
           "■",
           "1 Ravenwing Dark Talon",
-          "This model is equipped with:",
+          "This model is equipped with",
           "rift cannon; 2 hurricane bolters;",
           "armoured hull.",
           "RAVENWING DARK TALON",
@@ -2206,7 +2206,7 @@
         "values": [
           "■",
           "1 Nephilim Jetfighter",
-          "This model is equipped with:",
+          "This model is equipped with",
           "avenger mega bolter;",
           "blacksword missiles; twin heavy bolter; armoured hull.",
           "NEPHILIM JETFIGHTER",
@@ -2275,7 +2275,7 @@
         },
         {
           "name": "PRIMARCH OF THE FIRST LEGION",
-          "range": "All Secrets Revealed:",
+          "range": "All Secrets Revealed",
           "a": "Once per turn, when your opponent targets a unit from their army with a Stratagem",
           "bws": "but before that Stratagem’s effects are resolved, if that unit is within 12\" of this model, you gain 1CP",
           "s": "and that enemy unit must take a Battle-shock test. If that test is failed, in addition to that unit being",
@@ -2283,12 +2283,12 @@
           "d": "used this phase)."
         },
         {
-          "name": "Martial Exemplar (Aura):",
+          "name": "Martial Exemplar (Aura)",
           "range": "While a friendly",
           "a": "Adeptus Astartes",
           "bws": "unit is within 6\" of this model , each time a",
           "s": "model in that unit makes a melee attack, add 1 to the Hit roll.",
-          "ap": "No Hiding From the Watchers (Aura):",
+          "ap": "No Hiding From the Watchers (Aura)",
           "d": "While a friendly"
         },
         {
@@ -2340,7 +2340,7 @@
           "■",
           "1 Lion El’Jonson -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Arma Luminis; Fealty."
         ]
       },

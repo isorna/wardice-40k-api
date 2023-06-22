@@ -10,7 +10,7 @@
         "text": "Each time you select this unit to shoot, if it is not an Observer unit, it can use this ability. If it does, select one other friendly unit with this ability that is also eligible to shoot (excluding Fortification, Battle- shocked and Observer units). Until the end of the phase, this unit is considered a Guided unit, and that friendly unit is considered an Observer unit. Then select one enemy unit that is visible to both your units to be their Spotted unit."
       },
       {
-        "text": "Until the end of the phase:"
+        "text": "Until the end of the phase"
       },
       {
         "list": [
@@ -157,7 +157,7 @@
     },
     {
       "name": "GUN DRONE",
-      "text": "The bearer is equipped with the following ranged weapon:",
+      "text": "The bearer is equipped with the following ranged weapon",
       "weapons": [
         {
           "name": "Twin pulse carbine [ASSAULT, TWIN-LINKED]",
@@ -176,7 +176,7 @@
     },
     {
       "name": "MISSILE DRONE",
-      "text": "The bearer is equipped with the following ranged weapon:",
+      "text": "The bearer is equipped with the following ranged weapon",
       "weapons": [
         {
           "name": "Missile pod",
@@ -338,7 +338,7 @@
             ]
           },
           {
-            "title": "This model is equipped with:",
+            "title": "This model is equipped with",
             "text": "flechette launcher; 2 high-energy fusion blasters; light missile pod; pulse pistol; battlesuit fists; advanced guardian drone; command-link drone."
           }
         ]
@@ -467,7 +467,7 @@
             ]
           },
           {
-            "title": "This model is equipped with:",
+            "title": "This model is equipped with",
             "text": "high-intensity plasma rifle; Dawn Blade."
           }
         ]
@@ -476,7 +476,7 @@
         "title": "LEADER",
         "values": [
           {
-            "text": "This model can be attached to the following unit:"
+            "text": "This model can be attached to the following unit"
           },
           {
             "list": [
@@ -646,7 +646,7 @@
         "values": [
           {
             "list": [
-              "This model's burst cannon can be replaced with one of the following:",
+              "This model's burst cannon can be replaced with one of the following",
               [
                 "1 airbursting fragmentation projector*",
                 "1 battlesuit support system*",
@@ -662,7 +662,7 @@
           },
           {
             "list": [
-              "This model can be equipped with up to two of the following, and can take duplicates:",
+              "This model can be equipped with up to two of the following, and can take duplicates",
               [
                 "1 gun drone**",
                 "1 marker drone**",
@@ -672,7 +672,7 @@
           },
           {
             "list": [
-              "This model can be equipped with up to three of the following, and can take duplicates:",
+              "This model can be equipped with up to three of the following, and can take duplicates",
               [
                 "1 airbursting fragmentation projector*",
                 "1 battlesuit support system*",
@@ -704,7 +704,7 @@
             ]
           },
           {
-            "title": "This model is equipped with:",
+            "title": "This model is equipped with",
             "text": "burst cannon; battlesuit fists."
           }
         ]
@@ -713,7 +713,7 @@
         "title": "LEADER",
         "values": [
           {
-            "text": "This model can be attached to the following unit:"
+            "text": "This model can be attached to the following unit"
           },
           {
             "list": [
@@ -883,7 +883,7 @@
         "values": [
           {
             "list": [
-              "This model's burst cannon can be replaced with one of the following:",
+              "This model's burst cannon can be replaced with one of the following",
               [
                 "1 airbursting fragmentation projector*",
                 "1 battlesuit support system*",
@@ -899,7 +899,7 @@
           },
           {
             "list": [
-              "This model can be equipped with up to two of the following, and can take duplicates:",
+              "This model can be equipped with up to two of the following, and can take duplicates",
               [
                 "1 gun drone**",
                 "1 marker drone**",
@@ -909,7 +909,7 @@
           },
           {
             "list": [
-              "This model can be equipped with up to three of the following, and can take duplicates:",
+              "This model can be equipped with up to three of the following, and can take duplicates",
               [
                 "1 airbursting fragmentation projector*",
                 "1 battlesuit support system*",
@@ -941,7 +941,7 @@
             ]
           },
           {
-            "title": "This model is equipped with:",
+            "title": "This model is equipped with",
             "text": "burst cannon; battlesuit fists."
           }
         ]
@@ -950,7 +950,7 @@
         "title": "LEADER",
         "values": [
           {
-            "text": "This model can be attached to the following unit:"
+            "text": "This model can be attached to the following unit"
           },
           {
             "list": [
@@ -1129,7 +1129,7 @@
         "values": [
           {
             "list": [
-              "This model's high-output burst cannon can be replaced with one of the following:",
+              "This model's high-output burst cannon can be replaced with one of the following",
               [
                 "1 airbursting fragmentation projector*",
                 "1 battlesuit support system*",
@@ -1146,7 +1146,7 @@
           },
           {
             "list": [
-              "This model can be equipped with up to two of the following, and can take duplicates:",
+              "This model can be equipped with up to two of the following, and can take duplicates",
               [
                 "1 gun drone**",
                 "1 marker drone**",
@@ -1156,7 +1156,7 @@
           },
           {
             "list": [
-              "This model can be equipped with up to three of the following, and can take duplicates:",
+              "This model can be equipped with up to three of the following, and can take duplicates",
               [
                 "1 airbursting fragmentation projector*",
                 "1 battlesuit support system*",
@@ -1188,7 +1188,7 @@
             ]
           },
           {
-            "title": "This model is equipped with:",
+            "title": "This model is equipped with",
             "text": "high-output burst cannon; battlesuit fists."
           }
         ]
@@ -1197,7 +1197,7 @@
         "title": "LEADER",
         "values": [
           {
-            "text": "This model can be attached to the following unit:"
+            "text": "This model can be attached to the following unit"
           },
           {
             "list": [
@@ -1284,7 +1284,7 @@
         "values": [
           {
             "list": [
-              "This model can be equipped with up to two of the following, and can take duplicates:",
+              "This model can be equipped with up to two of the following, and can take duplicates",
               [
                 "1 gun drone*",
                 "1 marker drone*",
@@ -1306,7 +1306,7 @@
             ]
           },
           {
-            "title": "This model is equipped with:",
+            "title": "This model is equipped with",
             "text": "Fireblade pulse rifle; close combat weapon."
           }
         ]
@@ -1315,7 +1315,7 @@
         "title": "LEADER",
         "values": [
           {
-            "text": "This model can be attached to the following units:"
+            "text": "This model can be attached to the following units"
           },
           {
             "list": [
@@ -1385,11 +1385,11 @@
             "text": "Leader, Scouts 7\", Stealth"
           },
           {
-            "title": "The Shaper Commands:",
+            "title": "The Shaper Commands",
             "text": "While this model is leading a unit, models in that unit have the Feel No Pain 6+ ability. If models in that unit destroy an enemy unit in the Fight phase, then until the end of the battle, while this model is leading that unit, models in the unit have the Feel No Pain 4+ ability instead."
           },
           {
-            "title": "Ritualistic Feeding:",
+            "title": "Ritualistic Feeding",
             "text": "Each time this model ends a Charge move, until the end of the turn, add 3 to the Attacks"
           }
         ]
@@ -1423,7 +1423,7 @@
             ]
           },
           {
-            "title": "This model is equipped with:",
+            "title": "This model is equipped with",
             "text": "Kroot rifle; Shaper's ritual blade."
           }
         ]
@@ -1432,7 +1432,7 @@
         "title": "LEADER",
         "values": [
           {
-            "text": "This model can be attached to the following unit:"
+            "text": "This model can be attached to the following unit"
           },
           {
             "list": [
@@ -1479,11 +1479,11 @@
             "text": "Leader"
           },
           {
-            "title": "Failure Is Not an Option:",
+            "title": "Failure Is Not an Option",
             "text": "While this model is leading a unit, models in that unit have the Feel No Pain 5+ ability."
           },
           {
-            "title": "Coordinated Leadership:",
+            "title": "Coordinated Leadership",
             "text": "In your Command phase, roll one D6: on a 4+, you gain 1CP."
           }
         ]
@@ -1525,7 +1525,7 @@
           {
             "list": [
               "This model can be equipped with 1 hover drone.",
-              "This model can be equipped with up to two of the following, and can take duplicates:",
+              "This model can be equipped with up to two of the following, and can take duplicates",
               [
                 "1 gun drone*",
                 "1 marker drone*",
@@ -1547,7 +1547,7 @@
             ]
           },
           {
-            "title": "This model is equipped with:",
+            "title": "This model is equipped with",
             "text": "honour stave."
           }
         ]
@@ -1556,7 +1556,7 @@
         "title": "LEADER",
         "values": [
           {
-            "text": "This model can be attached to the following units:"
+            "text": "This model can be attached to the following units"
           },
           {
             "list": [
@@ -1625,15 +1625,15 @@
             "text": "Lone Operative"
           },
           {
-            "title": "Duality Shield:",
+            "title": "Duality Shield",
             "text": "Once per battle, each time an attack targets this unit, it can use this ability. If it does, until the end of the phase, models in this unit have a 2+ invulnerable save."
           },
           {
-            "title": "Paradox of Duality:",
+            "title": "Paradox of Duality",
             "text": "Each time an attack targets this unit, subtract 1 from the Hit roll and subtract 1 from the Wound roll."
           },
           {
-            "title": "Supreme Loyalty (Aura):",
+            "title": "Supreme Loyalty (Aura)",
             "text": "While a friendly T'au Empire unit is within 6\" of this unit, each time that unit takes a Battle-shock or Leadership test, add 1 to that test."
           }
         ]
@@ -1690,11 +1690,11 @@
             ]
           },
           {
-            "title": "Aun'Va is equipped with:",
+            "title": "Aun'Va is equipped with",
             "text": "close combat weapon."
           },
           {
-            "title": "Ethereal Guard is equipped with:",
+            "title": "Ethereal Guard is equipped with",
             "text": "supreme honour blade."
           }
         ]
@@ -1739,12 +1739,12 @@
               "text": "Leader"
             },
             {
-              "title": "Inspirational Defiance:",
+              "title": "Inspirational Defiance",
               "text": "While this model is leading a unit, add 1 to the Objective Control characteristic of models in that unit."
           },
           {
             "name": "Martial Warrior",
-            "text": "Each time this model is selected to fight, select one of the following abilities to be active while resolving those attacks:"
+            "text": "Each time this model is selected to fight, select one of the following abilities to be active while resolving those attacks"
           },
           {
             "list": [
@@ -1794,7 +1794,7 @@
             ]
           },
           {
-            "title": "This model is equipped with:",
+            "title": "This model is equipped with",
             "text": "Fidelity."
           }
         ]
@@ -1803,7 +1803,7 @@
         "title": "LEADER",
         "values": [
           {
-            "text": "This model can be attached to the following units:"
+            "text": "This model can be attached to the following units"
           },
           {
             "list": [
@@ -1907,7 +1907,7 @@
             ]
           },
           {
-            "title": "This model is equipped with:",
+            "title": "This model is equipped with",
             "text": "Shade; close combat weapon."
           }
         ]
@@ -1916,7 +1916,7 @@
         "title": "LEADER",
         "values": [
           {
-            "text": "This model can be attached to the following unit:"
+            "text": "This model can be attached to the following unit"
           },
           {
             "list": [
@@ -1988,7 +1988,7 @@
           "d": "D6+1"
         },
         {
-          "name": "One Shot:",
+          "name": "One Shot",
           "text": "The bearer can only shoot with this weapon once per battle."
         },
         {
@@ -2084,7 +2084,7 @@
           },
           {
             "list": [
-              "This model's 2 twin pulse carbines can be replaced with one of the following:",
+              "This model's 2 twin pulse carbines can be replaced with one of the following",
               [
                 "2 accelerator burst cannons",
                 "2 twin smart missile systems"
@@ -2107,7 +2107,7 @@
             ]
           },
           {
-            "name": "This model is equipped with:",
+            "name": "This model is equipped with",
             "text": "2 twin pulse carbines; railgun; armoured hull."
           }
         ]
@@ -2218,7 +2218,7 @@
         "values": [
           {
             "list": [
-              "The Fire Warrior Shas'ui can be equipped with up to two of the following, and can take duplicates:",
+              "The Fire Warrior Shas'ui can be equipped with up to two of the following, and can take duplicates",
               [
                 "1 guardian drone* (it cannot take duplicates of this piece of wargear)",
                 "1 gun drone*",
@@ -2247,7 +2247,7 @@
             ]
           },
           {
-            "title": "Every model is equipped with:",
+            "title": "Every model is equipped with",
             "text": "pulse pistol; pulse rifle; close combat weapon."
           }
         ]
@@ -2349,7 +2349,7 @@
         "values": [
           {
             "list": [
-              "The Breacher Fire Warrior Shas'ui can be equipped with up to two of the following, and can take duplicates:",
+              "The Breacher Fire Warrior Shas'ui can be equipped with up to two of the following, and can take duplicates",
               [
                 "1 guardian drone* (it cannot take duplicates of this piece of wargear)",
                 "1 gun drone*",
@@ -2373,7 +2373,7 @@
             ]
           },
           {
-            "title": "Every model is equipped with:",
+            "title": "Every model is equipped with",
             "text": "pulse blaster; pulse pistol; close combat weapon."
           }
         ]
@@ -2429,7 +2429,7 @@
               "text": "Scouts 7\", Stealth"
             },
             {
-              "title": "Grisly Feast:",
+              "title": "Grisly Feast",
               "text": "If this unit destroys an enemy unit in the Fight phase, until the end of the battle, models in this unit have the Feel No Pain 5+ ability."
           }
         ]
@@ -2463,7 +2463,7 @@
             ]
           },
           {
-            "title": "Every model is equipped with:",
+            "title": "Every model is equipped with",
             "text": "Kroot rifle."
           }
         ]
@@ -2519,7 +2519,7 @@
               "text": "Scouts 7\""
             },
             {
-              "title": "Kroot Packmates:",
+              "title": "Kroot Packmates",
               "text": "While one or more friendly Kroot Carnivore units are within 6\" of this unit, each time a model in this unit makes an attack, add 1 to the Hit roll."
           }
         ]
@@ -2553,7 +2553,7 @@
             ]
           },
           {
-            "title": "Every model is equipped with:",
+            "title": "Every model is equipped with",
             "text": "Kroot gun; Krootox fists."
           }
         ]
@@ -2719,7 +2719,7 @@
         "values": [
           {
             "list": [
-              "Any number of models can each have their burst cannon replaced with one of the following:",
+              "Any number of models can each have their burst cannon replaced with one of the following",
               [
                 "1 airbursting fragmentation projector*",
                 "1 battlesuit support system*",
@@ -2735,7 +2735,7 @@
           },
           {
             "list": [
-              "Any number of models can be equipped with up to two of the following, and can take duplicates:",
+              "Any number of models can be equipped with up to two of the following, and can take duplicates",
               [
                 "1 gun drone**",
                 "1 marker drone**",
@@ -2745,7 +2745,7 @@
           },
           {
             "list": [
-              "Any number of models can each be equipped with up to three of the following, and can take duplicates***:",
+              "Any number of models can each be equipped with up to three of the following, and can take duplicates***",
               [
                 "1 airbursting fragmentation projector*",
                 "1 battlesuit support system*",
@@ -2781,7 +2781,7 @@
             ]
           },
           {
-            "title": "Every model is equipped with:",
+            "title": "Every model is equipped with",
             "text": "burst cannon; battlesuit fists."
           }
         ]
@@ -2889,7 +2889,7 @@
         "values": [
           {
             "list": [
-              "The Stealth Shas'vre can be equipped with up to two of the following, and can take duplicates:",
+              "The Stealth Shas'vre can be equipped with up to two of the following, and can take duplicates",
               [
                 "1 gun drone*",
                 "1 marker drone*",
@@ -2914,7 +2914,7 @@
             ]
           },
           {
-            "title": "Every model is equipped with:",
+            "title": "Every model is equipped with",
             "text": "burst cannon; battlesuit fists."
           }
         ]
@@ -3069,7 +3069,7 @@
           {
             "list": [
               "This model's fusion collider can be replaced with 1 cyclic ion raker.",
-              "This model's twin T'au flamer can be replaced with one of the following:",
+              "This model's twin T'au flamer can be replaced with one of the following",
               [
                 "1 twin fusion blaster",
                 "1 twin burst cannon"
@@ -3088,7 +3088,7 @@
             ]
           },
           {
-            "title": "This model is equipped with:",
+            "title": "This model is equipped with",
             "text": "fusion collider; twin T'au flamer; Ghostkeel fists."
           }
         ]
@@ -3190,11 +3190,11 @@
             ]
           },
           {
-            "title": "This model is equipped with:",
+            "title": "This model is equipped with",
             "text": "longshot pulse rifles; pulse pistol; close combat weapons."
           },
           {
-            "title": "Designer's Note:",
+            "title": "Designer's Note",
             "text": "The Firesight Marksman model and sniper drone models are treated as a single model for all rules purposes. All distances are measured to and from the Farsight Marksman model. The sniper drone models do not count as models for any rules purposes."
           }
         ]
@@ -3358,19 +3358,19 @@
         "values": [
           {
             "list": [
-              "The Pathfinder Shas'ui can be equipped with one of the following:",
+              "The Pathfinder Shas'ui can be equipped with one of the following",
               [
                 "1 grav-inhibitor drone",
                 "1 pulse accelerator drone",
                 "1 recon drone"
               ],
-              "Up to 3 Pathfinders can each have their pulse carbine replaced with one of the following:",
+              "Up to 3 Pathfinders can each have their pulse carbine replaced with one of the following",
               [
                 "1 ion rifle",
                 "1 rail rifle"
               ],
               "1 model in this unit equipped with a pulse carbine can be equipped with 1 semi-automatic grenade launcher. That model's pulse carbine cannot be replaced.",
-              "1 model in this unit can be equipped with up to two of the following, and can take duplicates:",
+              "1 model in this unit can be equipped with up to two of the following, and can take duplicates",
               [
                 "1 gun drone*",
                 "1 marker drone*",
@@ -3393,7 +3393,7 @@
             ]
           },
           {
-            "title": "Every model is equipped with:",
+            "title": "Every model is equipped with",
             "text": "pulse carbine; pulse pistol; close combat weapon."
           }
         ]
@@ -3443,7 +3443,7 @@
           "d": "D6+1"
         },
         {
-          "name": "One Shot:",
+          "name": "One Shot",
           "text": "The bearer can only shoot with this weapon once per battle."
         },
         {
@@ -3519,7 +3519,7 @@
             ]
           },
           {
-            "title": "Every model is equipped with:",
+            "title": "Every model is equipped with",
             "text": "Piranha burst cannon; 2 twin pulse carbines; armoured hull."
           }
         ]
@@ -3608,7 +3608,7 @@
             ]
           },
           {
-            "title": "Every model is equipped with:",
+            "title": "Every model is equipped with",
             "text": "neutron blaster; stingwing claws."
           }
         ]
@@ -3653,7 +3653,7 @@
               "text": "Scouts 9\", Stealth"
             },
             {
-              "title": "Hunting Pack:",
+              "title": "Hunting Pack",
               "text": "While one or more friendly Kroot Carnivore units within 6\" of this unit are within Engagement Range of one or more enemy units, each time a model in this unit makes a melee attack, add 1 to the Wound roll."
           }
         ]
@@ -3687,7 +3687,7 @@
             ]
           },
           {
-            "title": "Every model is equipped with:",
+            "title": "Every model is equipped with",
             "text": "ripping fangs."
           }
         ]
@@ -3738,7 +3738,7 @@
           "d": "D6+1"
         },
         {
-          "name": "One Shot:",
+          "name": "One Shot",
           "text": "The bearer can only shoot with this weapon once per battle."
         },
         {
@@ -3820,7 +3820,7 @@
           {
             "list": [
               "Any number of models can each have their heavy rail rifle replaced with 1 high-yield missile pods.",
-              "Any number of models can each be equipped with up to two of the following, but cannot take duplicates:",
+              "Any number of models can each be equipped with up to two of the following, but cannot take duplicates",
               [
                 "1 battlesuit support system",
                 "1 seeker missile",
@@ -3828,7 +3828,7 @@
                 "1 twin smart missile system*",
                 "1 weapon support system"
               ],
-              "Any number of models can each be equipped with up to two of the following, and can take duplicates:",
+              "Any number of models can each be equipped with up to two of the following, and can take duplicates",
               [
                 "1 gun drone**",
                 "1 marker drone**",
@@ -3855,7 +3855,7 @@
             ]
           },
           {
-            "title": "Every model is equipped with:",
+            "title": "Every model is equipped with",
             "text": "heavy rail rifle; crushing bulk."
           }
         ]
@@ -4012,7 +4012,7 @@
           {
             "list": [
               "This model's heavy burst cannon can be replaced with 1 ion accelerator.",
-              "This model's twin plasma rifles can be replaced with one of the following:",
+              "This model's twin plasma rifles can be replaced with one of the following",
               [
                 "1 twin fusion blaster",
                 "1 twin smart missile system"
@@ -4034,7 +4034,7 @@
             ]
           },
           {
-            "title": "This model is equipped with:",
+            "title": "This model is equipped with",
             "text": "heavy burst cannon; twin plasma rifle; Riptide fists."
           }
         ]
@@ -4100,7 +4100,7 @@
           "d": "D6+1"
         },
         {
-          "name": "One Shot:",
+          "name": "One Shot",
           "text": "The bearer can only shoot with this weapon once per battle."
         },
         {
@@ -4188,7 +4188,7 @@
           {
             "list": [
               "This model's railgun can be replaced with 1 ion cannon.",
-              "This model's 2 twin pulse carbines can be replaced with one of the following:",
+              "This model's 2 twin pulse carbines can be replaced with one of the following",
               [
                 "2 accelerator burst cannons",
                 "2 twin smart missile systems"
@@ -4207,7 +4207,7 @@
             ]
           },
           {
-            "title": "This model is equipped with:",
+            "title": "This model is equipped with",
             "text": "1 railgun; 2 twin pulse carbines; armoured hull."
           }
         ]
@@ -4327,7 +4327,7 @@
         "values": [
           {
             "list": [
-              "This model's 2 twin pulse carbines can be replaced with one of the following:",
+              "This model's 2 twin pulse carbines can be replaced with one of the following",
               [
                 "2 accelerator burst cannons",
                 "2 twin smart missile systems"
@@ -4345,7 +4345,7 @@
             ]
           },
           {
-            "title": "This model is equipped with:",
+            "title": "This model is equipped with",
             "text": "1 seeker missile rack; 2 twin pulse carbines; armoured hull."
           }
         ]
@@ -4386,7 +4386,7 @@
           "d": "D6+1"
         },
         {
-          "name": "One Shot:",
+          "name": "One Shot",
           "text": "The bearer can only shoot with this weapon once per battle."
         },
         {
@@ -4471,7 +4471,7 @@
             ]
           },
           {
-            "title": "This model is equipped with:",
+            "title": "This model is equipped with",
             "text": "accelerator burst cannon; 2 twin pulse carbines; armoured hull."
           }
         ]
@@ -4546,7 +4546,7 @@
           "d": "D6+1"
         },
         {
-          "name": "One Shot:",
+          "name": "One Shot",
           "text": "The bearer can only shoot with this weapon once per battle."
         }
       ],
@@ -4625,7 +4625,7 @@
             ]
           },
           {
-            "title": "This model is equipped with:",
+            "title": "This model is equipped with",
             "text": "accelerator burst cannon; quad ion turret; 2 seeker missiles; armoured hull."
           }
         ]
@@ -4665,7 +4665,7 @@
           "d": "D6+1"
         },
         {
-          "name": "One Shot:",
+          "name": "One Shot",
           "text": "The bearer can only shoot with this weapon once per battle."
         },
         {
@@ -4762,7 +4762,7 @@
             ]
           },
           {
-            "title": "This model is equipped with:",
+            "title": "This model is equipped with",
             "text": "twin missile pod; 2 seeker missiles; 2 twin ion rifles; armoured hull."
           }
         ]
@@ -4795,8 +4795,8 @@
               "text": "Deadly Demise D3, Firing Deck 20"
             },
             {
-              "title": "Fortification:",
-              "text": "While an enemy unit is only within Engagement Range of one or more Fortifications from your army:"
+              "title": "Fortification",
+              "text": "While an enemy unit is only within Engagement Range of one or more Fortifications from your army"
             },
             {
               "list": [
@@ -4805,11 +4805,11 @@
               ]
             },
             {
-              "title": "Tidewall Cover:",
+              "title": "Tidewall Cover",
               "text": "Each time a ranged attack is allocated to a model, if that model is not fully visible to every model in the attacking unit because of this Fortification , that model has the Benefit of Cover against that attack."
             },
             {
-              "title": "Tidewall Defence Platform:",
+              "title": "Tidewall Defence Platform",
               "text": "If equipped with a Tidewall defence platform, this Fortification has a Wounds characteristic of 15."
             }
         ]
@@ -4902,12 +4902,12 @@
               "text": "Deadly Demise D3, Firing Deck 11"
             },
             {
-              "title": "Droneport:",
+              "title": "Droneport",
               "text": "Each time this Fortification is selected to shoot, its drone defenders weapon will target and resolve attacks against every enemy unit that is an eligible target to this Fortification."
             },
             {
-              "title": "Fortification:",
-              "text": "While an enemy unit is only within Engagement Range of one or more Fortifications from your army:"
+              "title": "Fortification",
+              "text": "While an enemy unit is only within Engagement Range of one or more Fortifications from your army"
             },
             {
               "list": [
@@ -4916,7 +4916,7 @@
               ]
             },
             {
-              "title": "Tidewall Cover:",
+              "title": "Tidewall Cover",
               "text": "Each time a ranged attack is allocated to a model, if that model is not fully visible to every model in the attacking unit because of this Fortification , that model has the Benefit of Cover against that attack."
             }
         ]
@@ -4950,7 +4950,7 @@
             ]
           },
           {
-            "title": "This model is equipped with:",
+            "title": "This model is equipped with",
             "text": "drone defenders."
           }
         ]
@@ -5003,8 +5003,8 @@
               "text": "Deadly Demise D3, Firing Deck 11"
             },
             {
-              "title": "Fortification:",
-              "text": "While an enemy unit is only within Engagement Range of one or more Fortifications from your army:"
+              "title": "Fortification",
+              "text": "While an enemy unit is only within Engagement Range of one or more Fortifications from your army"
             },
             {
               "list": [
@@ -5013,7 +5013,7 @@
               ]
             },
             {
-              "title": "Tidewall Cover:",
+              "title": "Tidewall Cover",
               "text": "Each time a ranged attack is allocated to a model, if that model is not fully visible to every model in the attacking unit because of this Fortification , that model has the Benefit of Cover against that attack."
             }
         ]
@@ -5047,7 +5047,7 @@
             ]
           },
           {
-            "title": "This model is equipped with:",
+            "title": "This model is equipped with",
             "text": "supremacy railgun."
           }
         ]
@@ -5239,7 +5239,7 @@
           {
             "list": [
               "This model's pulse driver cannon can be replaced with 1 pulse blast cannon.",
-              "This model's twin T'au flamer can be replaced with one of the following:",
+              "This model's twin T'au flamer can be replaced with one of the following",
               [
                 "1 twin airbursting fragmentation projector",
                 "1 twin burst cannon"
@@ -5257,7 +5257,7 @@
             ]
           },
           {
-            "title": "This model is equipped with:",
+            "title": "This model is equipped with",
             "text": "cluster rocket system; destroyer missiles; pulse driver cannon; 2 twin smart missile system; twin T'au flamer; thunderous footfalls."
           }
         ]
@@ -5343,7 +5343,7 @@
             ]
           },
           {
-            "title": "This model is equipped with:",
+            "title": "This model is equipped with",
             "text": "twin pulse carbine; close combat weapon."
           }
         ]
@@ -5461,7 +5461,7 @@
               "text": "Infiltrators, Stealth"
             },
             {
-              "title": "Bounty Hunters:",
+              "title": "Bounty Hunters",
               "text": "At the start of the battle, select one unit from your opponent's army. Each time a model in this unit makes an attack that targets that unit, that attack has the [LETHAL HITS] and [PRECISION] abilities."
           }
         ]
@@ -5504,12 +5504,12 @@
         "values": [
           {
             "list": [
-              "The Kroot Kill-broker's Farstalker firearm can be replaced with one of the following:",
+              "The Kroot Kill-broker's Farstalker firearm can be replaced with one of the following",
             [
               "1 pulse carbine",
               "1 pulse rifle"
             ],
-            "1 Kroot Farstalker's Farstalker firearm can be replaced with one of the following:",
+            "1 Kroot Farstalker's Farstalker firearm can be replaced with one of the following",
             [
               "1 Dvorgite skinner",
               "1 Londaxi tribalest"
@@ -5530,15 +5530,15 @@
             ]
           },
           {
-            "title": "The Kroot Kill-broker is equipped with:",
+            "title": "The Kroot Kill-broker is equipped with",
             "text": "Farstalker firearm; Kroot pistol; ritual blade."
           },
           {
-            "title": "Every Kroot Farstalker is equipped with:",
+            "title": "Every Kroot Farstalker is equipped with",
             "text": "Farstalker firearm; Kroot pistol; close combat weapon."
           },
           {
-            "title": "Every Kroot Hound is equipped with:",
+            "title": "Every Kroot Hound is equipped with",
             "text": "ripping fangs."
           }
         ]

@@ -109,7 +109,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model’s monstrous bonesword and lash whip can be replaced with one of the following:",
+          "This model’s monstrous bonesword and lash whip can be replaced with one of the following",
           "◦",
           "1 heavy venom cannon",
           "◦",
@@ -123,7 +123,7 @@
         "values": [
           "■",
           "1 Winged Hive Tyrant",
-          "This model is equipped with:",
+          "This model is equipped with",
           "monstrous bonesword and lash",
           "whip; Tyrant talons.",
           "WINGED HIVE TYRANT",
@@ -229,7 +229,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model’s monstrous bonesword and lash whip can be replaced with one of the following:",
+          "This model’s monstrous bonesword and lash whip can be replaced with one of the following",
           "◦",
           "1 heavy venom cannon",
           "◦",
@@ -237,7 +237,7 @@
           "◦",
           "1 monstrous scything talons",
           "■",
-          "This model’s monstrous scything talons can be replaced with one of the following:",
+          "This model’s monstrous scything talons can be replaced with one of the following",
           "◦",
           "1 heavy venom cannon*",
           "◦",
@@ -252,7 +252,7 @@
         "values": [
           "■",
           "1 Hive Tyrant",
-          "This model is equipped with:",
+          "This model is equipped with",
           "monstrous bonesword and lash",
           "whip; monstrous scything talons."
         ]
@@ -260,7 +260,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Tyrant Guard",
           "HIVE TYRANT",
@@ -361,14 +361,14 @@
           "■",
           "1 Swarmlord -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "synaptic pulse; bone sabres."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Tyrant Guard",
           "THE SWARMLORD",
@@ -453,14 +453,14 @@
         "values": [
           "■",
           "1 Broodlord",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Broodlord claws and talons."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Genestealers",
           "BROODLORD",
@@ -550,14 +550,14 @@
         "values": [
           "■",
           "1 Winged Tyranid Prime",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Prime talons."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Gargoyles",
           "■",
@@ -686,7 +686,7 @@
         "values": [
           "■",
           "1 Tervigon",
-          "This model is equipped with:",
+          "This model is equipped with",
           "stinger salvoes; massive",
           "scything talons.",
           "TERVIGON",
@@ -785,14 +785,14 @@
           "■",
           "1 Old One Eye -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Old One Eye’s claws and talons."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Carnifexes",
           "OLD ONE EYE",
@@ -907,7 +907,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "Any number of models can each have their devourer replaced with one of the following:",
+          "Any number of models can each have their devourer replaced with one of the following",
           "◦",
           "1 deathspitter",
           "◦",
@@ -925,7 +925,7 @@
           "1 Tyranid Prime",
           "■",
           "2-5 Tyranid Warriors",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "devourer; bio-weapons.",
           "TYRANID WARRIORS",
           "WITH RANGED BIO-WEAPONS",
@@ -1008,7 +1008,7 @@
           "1 Tyranid Prime",
           "■",
           "2-5 Tyranid Warriors",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "bio-weapons.",
           "TYRANID WARRIORS",
           "WITH MELEE BIO-WEAPONS",
@@ -1116,7 +1116,7 @@
         "values": [
           "■",
           "10-20 Termagants",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "fleshborer; xenos claws",
           "and teeth.",
           "TERMAGANTS",
@@ -1194,7 +1194,7 @@
         "values": [
           "■",
           "10-20 Hormagaunts",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "Hormagaunt talons.",
           "HORMAGAUNTS",
           "Swarming shock troops, Hormagaunts are seeded onto prey worlds in",
@@ -1286,7 +1286,7 @@
         "values": [
           "■",
           "10-20 Gargoyles",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "fleshborer; blinding venom.",
           "GARGOYLES",
           "Gargoyles are often the first warrior organisms hurled against a prey",
@@ -1383,7 +1383,7 @@
         "values": [
           "■",
           "1 Toxicrene",
-          "This model is equipped with:",
+          "This model is equipped with",
           "massive toxic lashes.",
           "TOXICRENE",
           "The semi-sentient spores spewed by the Toxicrene can penetrate even",
@@ -1470,7 +1470,7 @@
         "values": [
           "■",
           "Any number of models can each have their scything talons and rending claws replaced with one of",
-          "the following:",
+          "the following",
           "◦",
           "1 bone cleaver, lash whip and rending claws",
           "◦",
@@ -1482,7 +1482,7 @@
         "values": [
           "■",
           "3-6 Tyrant Guard",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "scything talons and",
           "rending claws.",
           "TYRANT GUARD",
@@ -1529,17 +1529,17 @@
         },
         {
           "name": "ABILITIES",
-          "range": "CORE:",
+          "range": "CORE",
           "a": "Leader",
-          "bws": "FACTION:",
+          "bws": "FACTION",
           "s": "Synapse, Shadow in the Warp",
-          "ap": "Node Lash (Psychic):",
+          "ap": "Node Lash (Psychic)",
           "d": "While this model is leading a unit, each"
         },
         {
           "name": "time a model in that unit makes an attack, add 1 to the Hit roll.",
           "range": "If the target is Battle-shocked, add 1 to the Wound roll as well.",
-          "a": "Psychic Terror (Psychic):",
+          "a": "Psychic Terror (Psychic)",
           "bws": "If one or more",
           "s": "Neurotyrants",
           "ap": "from your army are on the battlefield when you unleash the",
@@ -1547,7 +1547,7 @@
         },
         {
           "name": "each enemy unit on the battlefield must take as a result.",
-          "range": "Synaptic Relays:",
+          "range": "Synaptic Relays",
           "a": "In your Command phase, you can select",
           "bws": "up to two friendly",
           "s": "Tyranids",
@@ -1557,7 +1557,7 @@
         {
           "name": "units are always considered to be within Synapse Range of",
           "range": "your army.",
-          "a": "Designer’s Note:",
+          "a": "Designer’s Note",
           "bws": "Place a Synaptic Relay token next to each selected unit to",
           "s": "remind you.",
           "ap": "INVULNERABLE SAVE",
@@ -1578,7 +1578,7 @@
           "a": "9",
           "bws": "7+",
           "s": "3",
-          "ap": "KEYWORDS:",
+          "ap": "KEYWORDS",
           "d": "Monster, Character, Fly, Psyker, Great Devourer, Synapse,"
         },
         {
@@ -1639,7 +1639,7 @@
         "values": [
           "■",
           "1 Neurotyrant",
-          "This model is equipped with:",
+          "This model is equipped with",
           "psychic scream; Neurotyrant",
           "claws and lashes."
         ]
@@ -1647,7 +1647,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Neurogaunts",
           "■",
@@ -1733,7 +1733,7 @@
         "values": [
           "■",
           "1 Lictor",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Lictor claws and talons.",
           "LICTOR",
           "Lictors are an adaptation of the Tyranid Warrior bioform specialising in",
@@ -1823,7 +1823,7 @@
           "■",
           "1 Deathleaper -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Lictor claws and talons.",
           "HUNTER ORGANISM",
           "This model cannot be your",
@@ -1934,7 +1934,7 @@
         "values": [
           "■",
           "1 Maleceptor",
-          "This model is equipped with:",
+          "This model is equipped with",
           "psychic overload; massive",
           "scything talons.",
           "MALECEPTOR",
@@ -2026,7 +2026,7 @@
         "values": [
           "■",
           "1-3 Pyrovores",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "flamespurt;",
           "chitin-barbed limbs.",
           "PYROVORES",
@@ -2129,7 +2129,7 @@
         "values": [
           "■",
           "1 Haruspex",
-          "This model is equipped with:",
+          "This model is equipped with",
           "grasping tongue; ravenous maw;",
           "shovelling claws.",
           "HARUSPEX",
@@ -2215,7 +2215,7 @@
         "values": [
           "■",
           "3-6 Venomthropes",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "toxic lashes.",
           "VENOMTHROPES",
           "Venomthropes drift forward amidst miasmal clouds of spores that",
@@ -2295,7 +2295,7 @@
         "values": [
           "■",
           "3-6 Von Ryan’s Leapers",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "Leaper’s talons.",
           "VON RYAN’S LEAPERS",
           "Stealthy hunters and expert ambushers, Von Ryan’s Leapers are swift,",
@@ -2332,9 +2332,9 @@
         },
         {
           "name": "ABILITIES",
-          "range": "FACTION:",
+          "range": "FACTION",
           "a": "Synapse",
-          "bws": "Neurocytes:",
+          "bws": "Neurocytes",
           "s": "While this unit is within Synapse Range of your",
           "ap": "army, it has the",
           "d": "Synapse"
@@ -2355,7 +2355,7 @@
           "bws": "1",
           "s": "8+",
           "ap": "1",
-          "d": "KEYWORDS:"
+          "d": "KEYWORDS"
         },
         {
           "name": "Infantry, Great Devourer, Endless Multitude, Neurogaunts"
@@ -2401,7 +2401,7 @@
           "1-2 Neurogaunt Nodebeasts*",
           "■",
           "10-20 Neurogaunts",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "xenos claws and teeth.",
           "*",
           "This unit can only contain 2 Neurogaunt Nodebeasts if it contains",
@@ -2511,7 +2511,7 @@
           "1 Neurothrope",
           "■",
           "2-5 Zoanthropes",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "Warp Blast; xenos claws",
           "and teeth.",
           "ZOANTHROPES",
@@ -2592,7 +2592,7 @@
         "values": [
           "■",
           "5-10 Genestealers",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "Genestealer claws and talons.",
           "GENESTEALERS",
           "Swift vanguard organisms armoured in chitin and possessed of",
@@ -2682,7 +2682,7 @@
         "values": [
           "■",
           "3-6 Raveners",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "Ravener claws and talons.",
           "RAVENERS",
           "Serpentine bioforms capable of a terrifying turn of speed, Raveners",
@@ -2772,7 +2772,7 @@
         "values": [
           "■",
           "3-6 Ripper Swarms",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "xenos claws and teeth.",
           "RIPPER SWARMS",
           "Living carpets of Rippers squirm across the ground wherever the",
@@ -2866,7 +2866,7 @@
         "values": [
           "■",
           "1 Parasite of Mortrex",
-          "This model is equipped with:",
+          "This model is equipped with",
           "barbed ovipositor; clawed limbs.",
           "PARASITE OF MORTREX",
           "Swooping on leathery wings, Parasites of Mortrex use their barbed",
@@ -2958,7 +2958,7 @@
         "values": [
           "■",
           "1 Mawloc",
-          "This model is equipped with:",
+          "This model is equipped with",
           "distensible jaw; Mawloc",
           "scything talons.",
           "MAWLOC",
@@ -3039,7 +3039,7 @@
         "values": [
           "■",
           "1 Trygon",
-          "This model is equipped with:",
+          "This model is equipped with",
           "bio-electric pulse; Trygon",
           "scything talons.",
           "TRYGON",
@@ -3119,7 +3119,7 @@
         "values": [
           "■",
           "1-2 Mucolid Spores",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "nothing.",
           "MUCOLID SPORES",
           "These rudimentary organisms are filled with poisonous gases",
@@ -3198,7 +3198,7 @@
         "values": [
           "■",
           "3-6 Spore Mines",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "nothing.",
           "SPORE MINES",
           "Spore Mines are a form of living mine or bomb, which drift across the",
@@ -3291,7 +3291,7 @@
         "values": [
           "■",
           "1 Exocrine",
-          "This model is equipped with:",
+          "This model is equipped with",
           "bio-plasmic cannon;",
           "powerful limbs.",
           "EXOCRINE",
@@ -3383,7 +3383,7 @@
         "values": [
           "■",
           "1-3 Biovores",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "Spore Mine launcher;",
           "chitin-barbed limbs.",
           "BIOVORES",
@@ -3547,7 +3547,7 @@
         "values": [
           "■",
           "Any number of models can each have their Carnifex extra scything talons replaced with one of",
-          "the following:",
+          "the following",
           "◦",
           "1 deathspitters with slimer maggots",
           "◦",
@@ -3560,7 +3560,7 @@
           "1 Carnifex crushing claws",
           "■",
           "Any number of models can each have their Carnifex scything talons replaced with one of",
-          "the following:",
+          "the following",
           "◦",
           "1 deathspitters with slimer maggots",
           "◦",
@@ -3578,7 +3578,7 @@
         "values": [
           "■",
           "1-2 Carnifexes",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "Carnifex scything talons;",
           "Carnifex extra scything talons; xenos claws and teeth.",
           "CARNIFEXES",
@@ -3668,7 +3668,7 @@
         "values": [
           "■",
           "1 Screamer-Killer",
-          "This model is equipped with:",
+          "This model is equipped with",
           "bio-plasmic scream;",
           "Screamer-Killer talons.",
           "SCREAMER-KILLER",
@@ -3764,7 +3764,7 @@
         "values": [
           "■",
           "3-6 Hive Guard",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "shockcannon; xenos claws",
           "and teeth.",
           "HIVE GUARD",
@@ -3877,7 +3877,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model’s fleshborer hive can be replaced with one of the following:",
+          "This model’s fleshborer hive can be replaced with one of the following",
           "◦",
           "1 acid spray",
           "◦",
@@ -3889,7 +3889,7 @@
         "values": [
           "■",
           "1 Tyrannofex",
-          "This model is equipped with:",
+          "This model is equipped with",
           "fleshborer hive; stinger salvoes;",
           "powerful limbs.",
           "TYRANNOFEX",
@@ -3993,7 +3993,7 @@
         "values": [
           "■",
           "1 Tyrannocyte",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Tyrannocyte bio-weapons;",
           "flensing whips."
         ]
@@ -4135,7 +4135,7 @@
         "values": [
           "■",
           "1 Hive Crone",
-          "This model is equipped with:",
+          "This model is equipped with",
           "drool cannon; stinger salvoes;",
           "tentaclids; scything wings; thorax spur.",
           "HIVE CRONE",
@@ -4257,7 +4257,7 @@
         "values": [
           "■",
           "1 Harpy",
-          "This model is equipped with:",
+          "This model is equipped with",
           "stinger salvoes; twin",
           "stranglethorn cannon; scything wings.",
           "HARPY",
@@ -4293,7 +4293,7 @@
           "d": "2"
         },
         {
-          "name": "Hive Defences:",
+          "name": "Hive Defences",
           "range": "Each time an enemy unit is set up or ends a Normal, Advance or Fall Back move within",
           "a": "range of this weapon, if that enemy unit is an eligible target, the bearer can shoot with this weapon at",
           "bws": "that unit as if it were your Shooting phase (the bearer can do so up to four times per phase)."
@@ -4352,7 +4352,7 @@
         "values": [
           "■",
           "1 Sporocyst",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Sporocyst bio-weapons;",
           "flensing whips.",
           "SPOROCYST",
@@ -4446,7 +4446,7 @@
         "values": [
           "■",
           "1 Psychophage",
-          "This model is equipped with:",
+          "This model is equipped with",
           "psychoclastic torrent; talons",
           "and betentacled maw.",
           "PSYCHOPHAGE",
@@ -4537,7 +4537,7 @@
         "values": [
           "■",
           "5-10 Barbgaunts",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "bio-cannon; xenos claws",
           "and teeth.",
           "BARBGAUNTS",

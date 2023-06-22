@@ -111,7 +111,7 @@
           "■",
           "1 Morvenn Vahl -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Fidelis; Paragon missile",
           "launcher; Lance of Illumination."
         ]
@@ -119,7 +119,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Paragon Warsuits"
         ]
@@ -165,7 +165,7 @@
           "d": "2"
         },
         {
-          "name": "One Shot:",
+          "name": "One Shot",
           "range": "The bearer can only shoot with this weapon once per battle.",
           "a": "Condemnor boltgun [ANTI-PSYKER 2+,",
           "bws": "DEVASTATING WOUNDS, PRECISION, RAPID FIRE 1]",
@@ -268,7 +268,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model’s bolt pistol can be replaced with one of the following:",
+          "This model’s bolt pistol can be replaced with one of the following",
           "◦",
           "1 condemnor boltgun",
           "◦",
@@ -276,19 +276,19 @@
           "◦",
           "1 plasma pistol",
           "■",
-          "This model’s chainsword can be replaced with one of the following:",
+          "This model’s chainsword can be replaced with one of the following",
           "◦",
           "1 blessed blade",
           "◦",
           "1 power weapon",
           "■",
-          "If this model is equipped with a chainsword, it can be equipped with one of the following:",
+          "If this model is equipped with a chainsword, it can be equipped with one of the following",
           "◦",
           "1 brazier of holy fire",
           "◦",
           "1 null rod",
           "■",
-          "If this model is equipped with a plasma pistol and a power weapon, it can be equipped with:",
+          "If this model is equipped with a plasma pistol and a power weapon, it can be equipped with",
           "◦",
           "1 rod of office"
         ]
@@ -298,14 +298,14 @@
         "values": [
           "■",
           "1 Canoness",
-          "This model is equipped with:",
+          "This model is equipped with",
           "bolt pistol; chainsword."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Battle Sisters Squad",
           "■",
@@ -414,14 +414,14 @@
         "values": [
           "■",
           "1 Palatine",
-          "This model is equipped with:",
+          "This model is equipped with",
           "bolt pistol; Palatine blade."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Battle Sisters Squad",
           "■",
@@ -514,7 +514,7 @@
           "■",
           "1 Junith Eruita -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "twin Ministorum heavy flamer;",
           "Mace of Castigation."
         ]
@@ -522,7 +522,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Battle Sisters Squad",
           "■",
@@ -628,7 +628,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model’s power weapon can be replaced with one of the following:",
+          "This model’s power weapon can be replaced with one of the following",
           "◦",
           "1 autogun and 1 chainsword",
           "◦",
@@ -640,14 +640,14 @@
         "values": [
           "■",
           "1 Missionary",
-          "This model is equipped with:",
+          "This model is equipped with",
           "holy pistol; power weapon."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Arco-flagellants",
           "■",
@@ -761,9 +761,9 @@
           "Epic Hero",
           "■",
           "2 Geminae Superia",
-          "Saint Celestine is equipped with:",
+          "Saint Celestine is equipped with",
           "the Ardent Blade.",
-          "Each Geminae Superia is equipped with:",
+          "Each Geminae Superia is equipped with",
           "bolt pistol;",
           "power weapon."
         ]
@@ -771,7 +771,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This unit can be attached to the following units:",
+          "This unit can be attached to the following units",
           "■",
           "Seraphim Squad",
           "■",
@@ -783,9 +783,9 @@
           "Geminae champions, her gestures can heal the sick, or strike like the",
           "Emperor’s judgement itself to smite the foe with divine strength.",
           "KEYWORDS",
-          "- ALL MODELS:",
+          "- ALL MODELS",
           "Infantry, Jump Pack, Fly, Grenades, Imperium",
-          "- SAINT CELESTINE:",
+          "- SAINT CELESTINE",
           "Character, Epic Hero, Saint Celestine"
         ]
       }
@@ -829,7 +829,7 @@
         },
         {
           "name": "RELICS OF THE MATRIARCHS",
-          "range": "The Fiery Heart (Aura):",
+          "range": "The Fiery Heart (Aura)",
           "a": "While a friendly",
           "bws": "Adepta",
           "s": "Sororitas",
@@ -838,7 +838,7 @@
         },
         {
           "name": "automatically a 6.",
-          "range": "Simulacrum of the Argent Shroud (Aura):",
+          "range": "Simulacrum of the Argent Shroud (Aura)",
           "a": "While a",
           "bws": "friendly",
           "s": "Adepta Sororitas",
@@ -847,19 +847,19 @@
         },
         {
           "name": "Fire weapons equipped by models in that unit.",
-          "range": "Censer of the Sacred Rose (Aura):",
+          "range": "Censer of the Sacred Rose (Aura)",
           "a": "While a friendly",
           "bws": "Adepta Sororitas",
           "s": "unit is within 6\" of this model,",
           "ap": "improve that unit’s Leadership characteristic by 1.",
-          "d": "Icon of the Valorous Heart (Aura):"
+          "d": "Icon of the Valorous Heart (Aura)"
         },
         {
           "name": "While a friendly",
           "range": "Adepta Sororitas",
           "a": "unit is within 6\" of this model,",
           "bws": "that unit has the Feel No Pain 6+ ability.",
-          "s": "Simulacrum of the Ebon Chalice (Aura):",
+          "s": "Simulacrum of the Ebon Chalice (Aura)",
           "ap": "While a",
           "d": "friendly"
         },
@@ -868,7 +868,7 @@
           "range": "unit is within 6\" of this",
           "a": "model, that unit can perform any number of Acts of",
           "bws": "Faith per phase, instead of only one.",
-          "s": "Petals of the Bloody Rose (Aura):",
+          "s": "Petals of the Bloody Rose (Aura)",
           "ap": "While a friendly",
           "d": "Adepta Sororitas"
         },
@@ -915,14 +915,14 @@
           "■",
           "1 Triumph of Saint Katherine -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "bolt pistols; relic weapons."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Battle Sisters Squad",
           "TRIUMPH OF SAINT KATHERINE",
@@ -1023,9 +1023,9 @@
           "■",
           "1 Kyganil of the Bloody Tears -",
           "Epic Hero",
-          "Ephrael Stern is equipped with:",
+          "Ephrael Stern is equipped with",
           "bolt pistol; Sanctity.",
-          "Kyganil of the Bloody Tears is equipped with:",
+          "Kyganil of the Bloody Tears is equipped with",
           "the",
           "Outcast’s Weapons.",
           "DAEMONIFUGE",
@@ -1186,7 +1186,7 @@
         "values": [
           "■",
           "The Sister Superior’s boltgun can be replaced",
-          "with one of the following:",
+          "with one of the following",
           "◦",
           "1 bolt pistol",
           "◦",
@@ -1201,14 +1201,14 @@
           "1 plasma pistol*",
           "■",
           "The Sister Superior can be equipped with one of",
-          "the following:",
+          "the following",
           "◦",
           "1 chainsword",
           "◦",
           "1 power weapon",
           "■",
           "1 Battle Sister’s boltgun can be replaced with",
-          "one of the following:",
+          "one of the following",
           "◦",
           "1 artificer-crafted storm bolter",
           "◦",
@@ -1217,7 +1217,7 @@
           "1 Ministorum flamer",
           "■",
           "1 Battle Sister’s boltgun can be replaced with",
-          "one of the following:",
+          "one of the following",
           "◦",
           "1 artificer-crafted storm bolter",
           "◦",
@@ -1246,7 +1246,7 @@
           "1 Sister Superior",
           "■",
           "9 Battle Sisters",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "bolt pistol; boltgun; close",
           "combat weapon.",
           "BATTLE SISTERS SQUAD",
@@ -1399,7 +1399,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "The Novitiate Superior’s bolt pistol and boltgun can be replaced with one of the following:",
+          "The Novitiate Superior’s bolt pistol and boltgun can be replaced with one of the following",
           "◦",
           "1 bolt pistol and 1 power weapon",
           "◦",
@@ -1422,10 +1422,10 @@
           "1 Novitiate Superior",
           "■",
           "9 Sisters Novitiate",
-          "The Novitiate Superior is equipped with:",
+          "The Novitiate Superior is equipped with",
           "bolt pistol; boltgun;",
           "close combat weapon.",
-          "Each Sister Novitiate is equipped with:",
+          "Each Sister Novitiate is equipped with",
           "autopistol; autogun;",
           "close combat weapon.",
           "SISTERS NOVITIATE SQUAD",
@@ -1522,16 +1522,16 @@
           "■",
           "1 Agathae Dolan -",
           "Epic Hero",
-          "Aestred Thurga is equipped with:",
+          "Aestred Thurga is equipped with",
           "bolt pistol; Blade of Vigil.",
-          "Agathae Dolan is equipped with:",
+          "Agathae Dolan is equipped with",
           "bolt pistol; scribe’s staff."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This unit can be attached to the following units:",
+          "This unit can be attached to the following units",
           "■",
           "Battle Sisters Squad",
           "■",
@@ -1632,7 +1632,7 @@
         "values": [
           "■",
           "1 Imagifier",
-          "This model is equipped with:",
+          "This model is equipped with",
           "bolt pistol; boltgun;",
           "close combat weapon."
         ]
@@ -1640,7 +1640,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Battle Sisters Squad",
           "■",
@@ -1743,14 +1743,14 @@
         "values": [
           "■",
           "1 Dialogus",
-          "This model is equipped with:",
+          "This model is equipped with",
           "bolt pistol; Dialogus staff."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Battle Sisters Squad",
           "■",
@@ -1874,14 +1874,14 @@
         "values": [
           "■",
           "1 Preacher",
-          "This model is equipped with:",
+          "This model is equipped with",
           "zealot’s vindictor."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Arco-flagellants",
           "■",
@@ -2022,7 +2022,7 @@
           "■",
           "The Sacresant Superior’s hallowed mace can be replaced with 1 spear of the faithful.",
           "■",
-          "The Sacresant Superior’s bolt pistol can be replaced with one of the following:",
+          "The Sacresant Superior’s bolt pistol can be replaced with one of the following",
           "◦",
           "1 inferno pistol",
           "◦",
@@ -2040,7 +2040,7 @@
           "1 Sacresant Superior",
           "■",
           "4-9 Celestian Sacresants",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "bolt pistol; hallowed mace.",
           "CELESTIAN SACRESANTS",
           "Part of the Celestian elite of the Orders Militant, Celestian Sacresants",
@@ -2125,14 +2125,14 @@
         "values": [
           "■",
           "1 Hospitaller",
-          "This model is equipped with:",
+          "This model is equipped with",
           "bolt pistol; chirurgeon’s tools."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Battle Sisters Squad",
           "■",
@@ -2238,7 +2238,7 @@
         "values": [
           "■",
           "1 Dogmata",
-          "This model is equipped with:",
+          "This model is equipped with",
           "bolt pistol; mace of",
           "the righteous."
         ]
@@ -2246,7 +2246,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Battle Sisters Squad",
           "■",
@@ -2398,7 +2398,7 @@
           "Any number of models can each have their Paragon storm bolters replaced with 1 Paragon",
           "grenade launchers.",
           "■",
-          "Any number of models can each have their heavy bolter replaced with one of the following:",
+          "Any number of models can each have their heavy bolter replaced with one of the following",
           "◦",
           "1 Ministorum heavy flamer",
           "◦",
@@ -2414,7 +2414,7 @@
           "1 Paragon Superior",
           "■",
           "2 Paragons",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "bolt pistol; heavy bolter;",
           "Paragon storm bolters; Paragon war blade.",
           "PARAGON WARSUITS",
@@ -2509,10 +2509,10 @@
           "1 Repentia Superior",
           "■",
           "4-9 Sisters Repentia",
-          "The Repentia Superior is equipped with:",
+          "The Repentia Superior is equipped with",
           "bolt pistol;",
           "neural whips.",
-          "Each Sister Repentia is equipped with:",
+          "Each Sister Repentia is equipped with",
           "penitent eviscerator.",
           "REPENTIA SQUAD",
           "Sisters Repentia charge across the battlefield howling prayers, filled with the need for",
@@ -2585,7 +2585,7 @@
         "values": [
           "■",
           "2-6 Crusaders",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "power weapon.",
           "CRUSADERS",
           "These pious bodyguards are chosen for their martial skill and devotion",
@@ -2658,7 +2658,7 @@
         "values": [
           "■",
           "2-6 Death Cult Assassins",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "Death Cult power blades.",
           "DEATH CULT ASSASSINS",
           "Death Cult Assassins are obsessed with spilling the blood of the",
@@ -2790,7 +2790,7 @@
         "values": [
           "■",
           "The Dominion Superior’s boltgun can be",
-          "replaced with one of the following:",
+          "replaced with one of the following",
           "◦",
           "1 bolt pistol",
           "◦",
@@ -2805,14 +2805,14 @@
           "1 plasma pistol*",
           "■",
           "The Dominion Superior can be equipped with",
-          "one of the following:",
+          "one of the following",
           "◦",
           "1 chainsword",
           "◦",
           "1 power weapon",
           "■",
           "Up to 4 Dominions can each have their boltgun",
-          "replaced with one of the following:",
+          "replaced with one of the following",
           "◦",
           "1 artificer-crafted storm bolter",
           "◦",
@@ -2835,7 +2835,7 @@
           "1 Dominion Superior",
           "■",
           "9 Dominions",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "bolt pistol; boltgun;",
           "close combat weapon.",
           "DOMINION SQUAD",
@@ -2974,7 +2974,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "The Seraphim Superior’s 2 bolt pistols can be replaced with one of the following:",
+          "The Seraphim Superior’s 2 bolt pistols can be replaced with one of the following",
           "◦",
           "1 bolt pistol and 1 chainsword",
           "◦",
@@ -2987,7 +2987,7 @@
           "1 plasma pistol and 1 power weapon",
           "■",
           "For every 5 models in the unit, up to 2 Seraphim can each have their 2 bolt pistols replaced with one",
-          "of the following:",
+          "of the following",
           "◦",
           "2 inferno pistols",
           "◦",
@@ -3001,7 +3001,7 @@
           "1 Seraphim Superior",
           "■",
           "4-9 Seraphim",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "2 bolt pistols;",
           "close combat weapon.",
           "SERAPHIM SQUAD",
@@ -3113,7 +3113,7 @@
           "1 Zephyrim Superior",
           "■",
           "4-9 Zephyrim",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "bolt pistol; power weapon.",
           "ZEPHYRIM SQUAD",
           "Only those who experience a direct and persistent connection with",
@@ -3244,7 +3244,7 @@
         "values": [
           "■",
           "The Retributor Superior’s boltgun can be",
-          "replaced with one of the following:",
+          "replaced with one of the following",
           "◦",
           "1 bolt pistol",
           "◦",
@@ -3259,14 +3259,14 @@
           "1 plasma pistol*",
           "■",
           "The Retributor Superior can be equipped with",
-          "one of the following:",
+          "one of the following",
           "◦",
           "1 chainsword",
           "◦",
           "1 power weapon",
           "■",
           "Each Retributor’s heavy bolter can be replaced",
-          "with one of the following:",
+          "with one of the following",
           "◦",
           "1 Ministorum heavy flamer",
           "◦",
@@ -3283,10 +3283,10 @@
           "1 Retributor Superior",
           "■",
           "4 Retributors",
-          "The Retributor Superior is equipped with:",
+          "The Retributor Superior is equipped with",
           "bolt pistol; boltgun;",
           "close combat weapon.",
-          "Each Retributor is equipped with:",
+          "Each Retributor is equipped with",
           "bolt pistol; heavy bolter;",
           "close combat weapon.",
           "RETRIBUTOR SQUAD",
@@ -3401,14 +3401,14 @@
           "■",
           "1 model can be equipped with 1 anchorite sarcophagus.",
           "■",
-          "Any number of models can each have their 2 heavy bolters replaced with one of the following:",
+          "Any number of models can each have their 2 heavy bolters replaced with one of the following",
           "◦",
           "1 heavy bolter and 1 Mortifier flamer",
           "◦",
           "2 Mortifier flamers",
           "■",
           "Any number of models can each have their twin penitent buzz-blades replaced with one of",
-          "the following:",
+          "the following",
           "◦",
           "1 twin penitent flails",
           "◦",
@@ -3420,7 +3420,7 @@
         "values": [
           "■",
           "1-2 Mortifiers",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "2 heavy bolters;",
           "twin penitent buzz-blades.",
           "MORTIFIERS",
@@ -3530,7 +3530,7 @@
         "values": [
           "■",
           "Any number of models can each have their twin penitent buzz-blades replaced with one of",
-          "the following:",
+          "the following",
           "◦",
           "1 penitent buzz-blade and 1 penitent flail",
           "◦",
@@ -3542,7 +3542,7 @@
         "values": [
           "■",
           "1-2 Penitent Engines",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "penitent flamers; twin",
           "penitent buzz-blades.",
           "PENITENT ENGINES",
@@ -3607,7 +3607,7 @@
           "d": "D6"
         },
         {
-          "name": "One Shot:",
+          "name": "One Shot",
           "range": "The bearer can only shoot with this weapon once per battle."
         }
       ],
@@ -3659,7 +3659,7 @@
         "values": [
           "■",
           "1 Exorcist",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Exorcist missile launcher;",
           "heavy bolter; armoured tracks.",
           "EXORCIST",
@@ -3724,7 +3724,7 @@
           "d": "D6"
         },
         {
-          "name": "One Shot:",
+          "name": "One Shot",
           "range": "The bearer can only shoot with this weapon once per battle.",
           "a": "Storm bolter [RAPID FIRE 2]",
           "bws": "24\"",
@@ -3790,7 +3790,7 @@
         "values": [
           "■",
           "1 Castigator",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Castigator autocannons;",
           "3 heavy bolters; armoured tracks.",
           "CASTIGATOR",
@@ -3828,7 +3828,7 @@
           "d": "D6"
         },
         {
-          "name": "One Shot:",
+          "name": "One Shot",
           "range": "The bearer can only shoot with this weapon once per battle.",
           "a": "Storm bolter [RAPID FIRE 2]",
           "bws": "24\"",
@@ -3886,7 +3886,7 @@
         "values": [
           "■",
           "1 Sororitas Rhino",
-          "This model is equipped with:",
+          "This model is equipped with",
           "storm bolter; armoured tracks."
         ]
       },
@@ -3947,7 +3947,7 @@
           "d": "D6"
         },
         {
-          "name": "One Shot:",
+          "name": "One Shot",
           "range": "The bearer can only shoot with this weapon once per battle.",
           "a": "Immolation flamers [IGNORES COVER, TORRENT]",
           "bws": "18\"",
@@ -4015,7 +4015,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model’s immolation flamers can be replaced with one of the following:",
+          "This model’s immolation flamers can be replaced with one of the following",
           "◦",
           "1 twin heavy bolter",
           "◦",
@@ -4029,7 +4029,7 @@
         "values": [
           "■",
           "1 Immolator",
-          "This model is equipped with:",
+          "This model is equipped with",
           "heavy bolter; immolation",
           "flamers; armoured tracks."
         ]
@@ -4135,7 +4135,7 @@
           "■",
           "3-10",
           "Arco-flagellants",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "arco-flails.",
           "ARCO-FLAGELLANTS",
           "Arco-flagellants are fitted with cybernetic weaponry and subdermal",

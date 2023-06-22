@@ -45,12 +45,12 @@
         },
         {
           "name": "WRATHFUL PRESENCE",
-          "range": "Glorious Bloodletting (Aura):",
+          "range": "Glorious Bloodletting (Aura)",
           "a": "While a friendly",
           "bws": "World Eaters",
           "s": "unit is within 6\" of this model,",
           "ap": "each time a Charge roll is made for that unit, add 1 to the roll.",
-          "d": "Infectious Rage (Aura):"
+          "d": "Infectious Rage (Aura)"
         },
         {
           "name": "While a friendly",
@@ -62,7 +62,7 @@
           "d": "more wounds."
         },
         {
-          "name": "Righteous Slaughter (Aura):",
+          "name": "Righteous Slaughter (Aura)",
           "range": "While a friendly",
           "a": "World Eaters",
           "bws": "unit is within 6\" of this model,",
@@ -111,7 +111,7 @@
           "■",
           "1 Angron -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Samni’arius and Spinegrinder."
         ]
       },
@@ -198,14 +198,14 @@
           "■",
           "1 Khârn the Betrayer -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Khârn’s plasma pistol; Gorechild."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Khorne Berzerkers",
           "KHÂRN THE BETRAYER",
@@ -302,7 +302,7 @@
           "■",
           "1 Lord Invocatus -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "bolt pistol; Coward’s Bane,",
           "Juggernaut’s bladed horn."
         ]
@@ -310,7 +310,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Eightbound",
           "■",
@@ -412,7 +412,7 @@
         "values": [
           "■",
           "1 World Eaters Daemon Prince",
-          "This model is equipped with:",
+          "This model is equipped with",
           "infernal cannon;",
           "hellforged weapons.",
           "WORLD EATERS DAEMON PRINCE",
@@ -513,7 +513,7 @@
         "values": [
           "■",
           "1 World Eaters Daemon Prince with Wings",
-          "This model is equipped with:",
+          "This model is equipped with",
           "infernal cannon;",
           "hellforged weapons.",
           "WORLD EATERS DAEMON PRINCE",
@@ -620,7 +620,7 @@
         "values": [
           "■",
           "1 World Eaters Lord on Juggernaut",
-          "This model is equipped with:",
+          "This model is equipped with",
           "plasma pistol; exalted",
           "chainblade; Juggernaut’s bladed horn."
         ]
@@ -628,7 +628,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Eightbound",
           "■",
@@ -718,7 +718,7 @@
         "values": [
           "■",
           "1 World Eaters Master of Executions",
-          "This model is equipped with:",
+          "This model is equipped with",
           "bolt pistol;",
           "axe of dismemberment."
         ]
@@ -726,7 +726,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Khorne Berzerkers",
           "WORLD EATERS MASTER OF EXECUTIONS",
@@ -854,7 +854,7 @@
           "1 Khorne Berzerker Champion",
           "■",
           "4-9 Khorne Berzerkers",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "bolt pistol;",
           "Berzerker chainblade.",
           "KHORNE BERZERKERS",
@@ -973,12 +973,12 @@
         "values": [
           "■",
           "1 Jakhal Pack Leader, 1 Dishonoured and 8 Jakhals",
-          "or:",
+          "or",
           "■",
           "1 Jakhal Pack Leader, 2 Dishonoured and 17 Jakhals",
-          "The Jakhal Pack Leader and every Jakhal is equipped with:",
+          "The Jakhal Pack Leader and every Jakhal is equipped with",
           "autopistol; Jakhal chainblades.",
-          "Every Dishonoured is equipped with:",
+          "Every Dishonoured is equipped with",
           "Dishonoured chainblades.",
           "JAKHALS",
           "Jakhals are amongst the strongest and most bloodthirsty of all",
@@ -1109,7 +1109,7 @@
         "values": [
           "■",
           "For every 5 models in this unit, 1 World Eaters Terminator’s combi-bolter can be replaced with one of",
-          "the following:",
+          "the following",
           "◦",
           "1 heavy flamer",
           "◦",
@@ -1133,7 +1133,7 @@
           "1 World Eaters Terminator Champion",
           "■",
           "4-9 World Eaters Terminators",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "combi-bolter;",
           "accursed weapon.",
           "WORLD EATERS TERMINATOR SQUAD",
@@ -1229,9 +1229,9 @@
           "■",
           "2-5 Eightbound",
           "The Eightbound Champion model is equipped",
-          "with:",
+          "with",
           "lacerators.",
-          "Every Eightbound model is equipped with:",
+          "Every Eightbound model is equipped with",
           "Eightbound eviscerators.",
           "EIGHTBOUND",
           "Virtually unrecognisable from the World Eaters they once were,",
@@ -1326,7 +1326,7 @@
         "values": [
           "■",
           "The Exalted Eightbound Champion’s Eightbound eviscerator and Eightbound chainfist can be replaced",
-          "with one of the following:",
+          "with one of the following",
           "◦",
           "1 paired Eightbound chainfists",
           "◦",
@@ -1340,7 +1340,7 @@
           "1 Exalted Eightbound Champion",
           "■",
           "2-5 Exalted Eightbound",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "Eightbound eviscerator;",
           "Eightbound chainfist.",
           "EXALTED EIGHTBOUND",
@@ -1454,7 +1454,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model can be equipped with one of the following:",
+          "This model can be equipped with one of the following",
           "◦",
           "1 combi-bolter",
           "◦",
@@ -1468,7 +1468,7 @@
         "values": [
           "■",
           "1 World Eaters Land Raider",
-          "This model is equipped with:",
+          "This model is equipped with",
           "2 soulshatter lascannons;",
           "twin heavy bolter; armoured tracks."
         ]
@@ -1605,13 +1605,13 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model can be equipped with one of the following:",
+          "This model can be equipped with one of the following",
           "◦",
           "2 heavy bolters",
           "◦",
           "2 lascannons",
           "■",
-          "This model can be equipped with one of the following:",
+          "This model can be equipped with one of the following",
           "◦",
           "1 combi-bolter",
           "◦",
@@ -1625,7 +1625,7 @@
         "values": [
           "■",
           "1 World Eaters Predator Annihilator",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Predator twin lascannon;",
           "armoured tracks.",
           "WORLD EATERS PREDATOR ANNIHILATOR",
@@ -1746,13 +1746,13 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model can be equipped with one of the following:",
+          "This model can be equipped with one of the following",
           "◦",
           "2 heavy bolters",
           "◦",
           "2 lascannons",
           "■",
-          "This model can be equipped with one of the following:",
+          "This model can be equipped with one of the following",
           "◦",
           "1 combi-bolter",
           "◦",
@@ -1766,7 +1766,7 @@
         "values": [
           "■",
           "1 World Eaters Predator Destructor",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Predator autocannon;",
           "armoured tracks.",
           "WORLD EATERS PREDATOR DESTRUCTOR",
@@ -1917,19 +1917,19 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model’s twin heavy flamer can be replaced with one of the following:",
+          "This model’s twin heavy flamer can be replaced with one of the following",
           "◦",
           "1 havoc launcher",
           "◦",
           "1 Defiler scourge",
           "■",
-          "This model’s reaper autocannon can be replaced with one of the following:",
+          "This model’s reaper autocannon can be replaced with one of the following",
           "◦",
           "1 twin heavy bolter",
           "◦",
           "1 twin lascannon",
           "■",
-          "This model can be equipped with one of the following:",
+          "This model can be equipped with one of the following",
           "◦",
           "1 combi-bolter",
           "◦",
@@ -1941,7 +1941,7 @@
         "values": [
           "■",
           "1 World Eaters Defiler",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Defiler cannon;",
           "reaper autocannon; twin heavy flamer; Defiler claws.",
           "WORLD EATERS DEFILER",
@@ -2047,7 +2047,7 @@
         "values": [
           "■",
           "1 World Eaters Forgefiend",
-          "This model is equipped with:",
+          "This model is equipped with",
           "2 Hades autocannons;",
           "1 Forgefiend jaws.",
           "WORLD EATERS FORGEFIEND",
@@ -2226,7 +2226,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model’s multi-melta can be replaced with one of the following:",
+          "This model’s multi-melta can be replaced with one of the following",
           "◦",
           "1 Helbrute plasma cannon",
           "◦",
@@ -2238,7 +2238,7 @@
           "◦",
           "1 Helbrute fist",
           "■",
-          "This model’s missile launcher can be replaced with one of the following:",
+          "This model’s missile launcher can be replaced with one of the following",
           "◦",
           "1 Helbrute fist",
           "◦",
@@ -2246,7 +2246,7 @@
           "◦",
           "1 power scourge",
           "■",
-          "For each Helbrute fist this model is equipped with, it can be equipped with one of the following:",
+          "For each Helbrute fist this model is equipped with, it can be equipped with one of the following",
           "◦",
           "1 combi-bolter",
           "◦",
@@ -2258,7 +2258,7 @@
         "values": [
           "■",
           "1 World Eaters Helbrute",
-          "This model is equipped with:",
+          "This model is equipped with",
           "missile launcher; multi-melta;",
           "close combat weapon.",
           "WORLD EATERS HELBRUTE",
@@ -2354,7 +2354,7 @@
         "values": [
           "■",
           "1 World Eaters Heldrake",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Hades autocannon;",
           "Heldrake claws.",
           "WORLD EATERS HELDRAKE",
@@ -2450,7 +2450,7 @@
         "values": [
           "■",
           "1 World Eaters Maulerfiend",
-          "This model is equipped with:",
+          "This model is equipped with",
           "lasher tendrils;",
           "Maulerfiend fists.",
           "WORLD EATERS MAULERFIEND",
@@ -2545,7 +2545,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model can be equipped with one of the following:",
+          "This model can be equipped with one of the following",
           "◦",
           "1 additional combi-bolter",
           "◦",
@@ -2556,7 +2556,7 @@
           "NIT COMPOSITION",
           "■",
           "1 World Eaters Rhino",
-          "This model is equipped with:",
+          "This model is equipped with",
           "combi-bolter; armoured tracks."
         ]
       },
@@ -2641,7 +2641,7 @@
         "values": [
           "■",
           "2 Chaos Spawn",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "hideous mutations.",
           "WORLD EATERS CHAOS SPAWN",
           "Becoming a Chaos Spawn is the dark fate of many upon the Path",
@@ -2766,7 +2766,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model’s gorestorm cannon can be replaced with one of the following:",
+          "This model’s gorestorm cannon can be replaced with one of the following",
           "◦",
           "1 daemongore cannon",
           "◦",
@@ -2780,7 +2780,7 @@
         "values": [
           "■",
           "1 Khorne Lord of Skulls",
-          "This model is equipped with:",
+          "This model is equipped with",
           "gorestorm cannon;",
           "Hades gatling cannon; great cleaver of Khorne.",
           "KHORNE LORD OF SKULLS",

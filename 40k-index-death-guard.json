@@ -90,7 +90,7 @@
         "values": [
           "■",
           "1 Death Guard Daemon Prince",
-          "This model is equipped with:",
+          "This model is equipped with",
           "plague spewer;",
           "hellforged weapons.",
           "DEATH GUARD DAEMON PRINCE",
@@ -190,7 +190,7 @@
         "values": [
           "■",
           "1 Death Guard Daemon Prince with Wings",
-          "This model is equipped with:",
+          "This model is equipped with",
           "plague spewer;",
           "hellforged weapons.",
           "DEATH GUARD DAEMON PRINCE",
@@ -280,14 +280,14 @@
           "■",
           "1 Typhus -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "master-crafted manreaper."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Blightlord Terminators",
           "■",
@@ -435,7 +435,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model’s plague bolt pistol can be replaced with one of the following:",
+          "This model’s plague bolt pistol can be replaced with one of the following",
           "◦",
           "1 combi-weapon",
           "◦",
@@ -447,7 +447,7 @@
           "◦",
           "1 plasma pistol",
           "■",
-          "This model’s Astartes chainsword can be replaced with one of the following:",
+          "This model’s Astartes chainsword can be replaced with one of the following",
           "◦",
           "1 plague fist",
           "◦",
@@ -461,7 +461,7 @@
         "values": [
           "■",
           "1 Death Guard Chaos Lord",
-          "This model is equipped with:",
+          "This model is equipped with",
           "plague bolt pistol;",
           "Astartes chainsword."
         ]
@@ -469,7 +469,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Plague Marines",
           "DEATH GUARD CHAOS LORD",
@@ -583,13 +583,13 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model’s plague combi-bolter can be replaced with one of the following:",
+          "This model’s plague combi-bolter can be replaced with one of the following",
           "◦",
           "1 combi-weapon",
           "◦",
           "1 plague-encrusted exalted weapon",
           "■",
-          "This model’s plague-encrusted exalted weapon can be replaced with one of the following:",
+          "This model’s plague-encrusted exalted weapon can be replaced with one of the following",
           "◦",
           "1 chainfist",
           "◦",
@@ -604,7 +604,7 @@
         "values": [
           "■",
           "1 Death Guard Chaos Lord in Terminator Armour",
-          "This model is equipped with:",
+          "This model is equipped with",
           "plague combi-bolter;",
           "plague-encrusted exalted weapon."
         ]
@@ -612,7 +612,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Blightlord Terminators",
           "■",
@@ -700,7 +700,7 @@
         "values": [
           "■",
           "1 Lord of Virulence",
-          "This model is equipped with:",
+          "This model is equipped with",
           "twin plague spewer; heavy",
           "plague fist."
         ]
@@ -708,7 +708,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Blightlord Terminators",
           "■",
@@ -798,14 +798,14 @@
         "values": [
           "■",
           "1 Lord of Contagion",
-          "This model is equipped with:",
+          "This model is equipped with",
           "plagueblade."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Blightlord Terminators",
           "■",
@@ -952,13 +952,13 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model’s plague combi-bolter can be replaced with one of the following:",
+          "This model’s plague combi-bolter can be replaced with one of the following",
           "◦",
           "1 combi-weapon",
           "◦",
           "1 plague-encrusted exalted weapon",
           "■",
-          "This model’s force weapon can be replaced with one of the following:",
+          "This model’s force weapon can be replaced with one of the following",
           "◦",
           "1 chainfist",
           "◦",
@@ -974,7 +974,7 @@
         "values": [
           "■",
           "1 Death Guard Sorcerer in Terminator Armour",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Curse of the Leper;",
           "plague combi-bolter; force weapon."
         ]
@@ -982,7 +982,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Blightlord Terminators",
           "■",
@@ -1091,7 +1091,7 @@
         "values": [
           "■",
           "1 Malignant Plaguecaster",
-          "This model is equipped with:",
+          "This model is equipped with",
           "plague bolt pistol; Plague Wind;",
           "corrupted staff."
         ]
@@ -1099,7 +1099,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Plague Marines",
           "MALIGNANT PLAGUECASTER",
@@ -1280,7 +1280,7 @@
         "values": [
           "■",
           "The Plague Champion’s plague boltgun can be",
-          "replaced with one of the following:",
+          "replaced with one of the following",
           "◦",
           "1 plague bolt pistol",
           "◦",
@@ -1289,7 +1289,7 @@
           "1 plasma pistol",
           "■",
           "The Plague Champion’s plague knives can be",
-          "replaced with one of the following:",
+          "replaced with one of the following",
           "◦",
           "1 bubotic weapons",
           "◦",
@@ -1305,7 +1305,7 @@
           "■",
           "For every 5 models in this unit, 1 Plague",
           "Marine’s plague boltgun can be replaced with",
-          "one of the following:",
+          "one of the following",
           "◦",
           "1 meltagun",
           "◦",
@@ -1329,7 +1329,7 @@
           "1 Plague Champion",
           "■",
           "4-9 Plague Marines",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "plague boltgun; plague knives.",
           "PLAGUE MARINES",
           "The mainstay of Death Guard vectoriums, Plague Marines excel in",
@@ -1457,7 +1457,7 @@
           "1 Death Guard Cultist Champion",
           "■",
           "9-19 Death Guard Cultists",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "Cultist firearm;",
           "brutal assault weapon.",
           "DEATH GUARD CULTISTS",
@@ -1532,7 +1532,7 @@
         "values": [
           "■",
           "10-20 Poxwalkers",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "improvised weapon.",
           "POXWALKERS",
           "Poxwalkers are victims of the Walking Pox, a cruel virulence that rots",
@@ -1628,7 +1628,7 @@
         "values": [
           "■",
           "1 Noxious Blightbringer",
-          "This model is equipped with:",
+          "This model is equipped with",
           "plasma pistol; cursed",
           "plague bell."
         ]
@@ -1636,7 +1636,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Plague Marines",
           "You can attach this model to a",
@@ -1729,7 +1729,7 @@
         "values": [
           "■",
           "1 Foul Blightspawn",
-          "This model is equipped with:",
+          "This model is equipped with",
           "plague sprayer; close",
           "combat weapon."
         ]
@@ -1737,7 +1737,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Plague Marines",
           "You can attach this model to a",
@@ -1840,7 +1840,7 @@
         "values": [
           "■",
           "1 Biologus Putrifier",
-          "This model is equipped with:",
+          "This model is equipped with",
           "hyper blight grenades; injector",
           "pistol; plague knives."
         ]
@@ -1848,7 +1848,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Plague Marines",
           "You can attach this model to a",
@@ -1953,7 +1953,7 @@
         "values": [
           "■",
           "1 Tallyman",
-          "This model is equipped with:",
+          "This model is equipped with",
           "infected plasma pistol; close",
           "combat weapon."
         ]
@@ -1961,7 +1961,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Plague Marines",
           "You can attach this model to a",
@@ -2056,14 +2056,14 @@
         "values": [
           "■",
           "1 Plague Surgeon",
-          "This model is equipped with:",
+          "This model is equipped with",
           "plague bolt pistol; balesword."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Plague Marines",
           "You can attach this model to a",
@@ -2192,11 +2192,11 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "For every 5 models in this unit:",
+          "For every 5 models in this unit",
           "◦",
           "Up to 3 models’ plague combi-bolters can each be replaced with 1 combi-weapon.",
           "◦",
-          "1 Blightlord Terminator’s plague combi-bolter can be replaced with one of the following:",
+          "1 Blightlord Terminator’s plague combi-bolter can be replaced with one of the following",
           "1 blight launcher; 1 reaper autocannon.",
           "◦",
           "1 Blightlord Terminator’s plague combi-bolter can be replaced with 1 plague spewer.",
@@ -2212,7 +2212,7 @@
           "1 Blightlord Champion",
           "■",
           "4-9 Blightlord Terminators",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "plague combi-bolter;",
           "bubotic blade.",
           "BLIGHTLORD TERMINATORS",
@@ -2311,7 +2311,7 @@
           "1 Deathshroud Champion",
           "■",
           "2-5 Deathshroud Terminators",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "plaguespurt gauntlet;",
           "manreaper.",
           "DEATHSHROUD TERMINATORS",
@@ -2492,7 +2492,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model’s multi-melta can be replaced with one of the following:",
+          "This model’s multi-melta can be replaced with one of the following",
           "◦",
           "1 Helbrute plasma cannon",
           "◦",
@@ -2504,7 +2504,7 @@
           "◦",
           "1 Helbrute fist",
           "■",
-          "This model’s missile launcher can be replaced with one of the following:",
+          "This model’s missile launcher can be replaced with one of the following",
           "◦",
           "1 Helbrute fist",
           "◦",
@@ -2512,7 +2512,7 @@
           "◦",
           "1 power scourge",
           "■",
-          "For each Helbrute fist this model is equipped with, it can be equipped with one of the following:",
+          "For each Helbrute fist this model is equipped with, it can be equipped with one of the following",
           "◦",
           "1 plague combi-bolter",
           "◦",
@@ -2524,7 +2524,7 @@
         "values": [
           "■",
           "1 Death Guard Helbrute",
-          "This model is equipped with:",
+          "This model is equipped with",
           "multi-melta; missile launcher;",
           "close combat weapon.",
           "DEATH GUARD HELBRUTE",
@@ -2597,7 +2597,7 @@
         "values": [
           "■",
           "2 Chaos Spawn",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "hideous mutations.",
           "DEATH GUARD CHAOS SPAWN",
           "Many of Nurgle’s gifts take the form of metaphysical maladies,",
@@ -2713,7 +2713,7 @@
         "values": [
           "■",
           "1-3 Myphitic Blight-hulers",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "bile spurt; missile launcher;",
           "multi-melta; gnashing maw.",
           "MYPHITIC BLIGHT-HAULERS",
@@ -2808,7 +2808,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model’s fleshmower can be replaced with one of the following:",
+          "This model’s fleshmower can be replaced with one of the following",
           "◦",
           "1 heavy blight launcher",
           "◦",
@@ -2820,7 +2820,7 @@
         "values": [
           "■",
           "1 Foetid Bloat-drone",
-          "This model is equipped with:",
+          "This model is equipped with",
           "fleshmower; plague probe.",
           "FOETID BLOAT-DRONE",
           "The Foetid Bloat-drones’ trailing tubules suckle filth from the ground",
@@ -2942,7 +2942,7 @@
         "values": [
           "■",
           "1 Plagueburst Crawler",
-          "This model is equipped with:",
+          "This model is equipped with",
           "2 entropy cannons; heavy",
           "slugger; Plagueburst mortar; armoured tracks.",
           "PLAGUEBURST CRAWLER",
@@ -3056,7 +3056,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model can be equipped with one of the following:",
+          "This model can be equipped with one of the following",
           "◦",
           "1 combi-weapon",
           "◦",
@@ -3070,7 +3070,7 @@
         "values": [
           "■",
           "1 Death Guard Land Raider",
-          "This model is equipped with:",
+          "This model is equipped with",
           "2 soulshatter lascannons; twin",
           "plague heavy bolter; armoured tracks."
         ]
@@ -3208,13 +3208,13 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model can be equipped with one of the following:",
+          "This model can be equipped with one of the following",
           "◦",
           "2 lascannons",
           "◦",
           "2 plague heavy bolters",
           "■",
-          "This model can be equipped with one of the following:",
+          "This model can be equipped with one of the following",
           "◦",
           "1 combi-weapon",
           "◦",
@@ -3228,7 +3228,7 @@
         "values": [
           "■",
           "1 Death Guard Predator Annihilator",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Predator twin lascannon;",
           "armoured tracks.",
           "DEATH GUARD PREDATOR ANNIHILATOR",
@@ -3351,13 +3351,13 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model can be equipped with one of the following:",
+          "This model can be equipped with one of the following",
           "◦",
           "2 lascannons",
           "◦",
           "2 plague heavy bolters",
           "■",
-          "This model can be equipped with one of the following:",
+          "This model can be equipped with one of the following",
           "◦",
           "1 combi-weapon",
           "◦",
@@ -3371,7 +3371,7 @@
         "values": [
           "■",
           "1 Death Guard Predator Destructor",
-          "This model is equipped with:",
+          "This model is equipped with",
           "predator autocannon;",
           "armoured tracks.",
           "DEATH GUARD PREDATOR DESTRUCTOR",
@@ -3520,19 +3520,19 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model’s twin heavy flamer can be replaced with one of the following:",
+          "This model’s twin heavy flamer can be replaced with one of the following",
           "◦",
           "1 Defiler scourge",
           "◦",
           "1 havoc launcher",
           "■",
-          "This model’s reaper autocannon can be replaced with one of the following:",
+          "This model’s reaper autocannon can be replaced with one of the following",
           "◦",
           "1 twin lascannon",
           "◦",
           "1 twin plague heavy bolter",
           "■",
-          "This model can be equipped with one of the following:",
+          "This model can be equipped with one of the following",
           "◦",
           "1 combi-weapon",
           "◦",
@@ -3544,7 +3544,7 @@
         "values": [
           "■",
           "1 Death Guard Defiler",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Defiler cannon;",
           "reaper autocannon; twin heavy flamer; Defiler claws.",
           "DEATH GUARD DEFILER",
@@ -3638,7 +3638,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model can be equipped with one of the following:",
+          "This model can be equipped with one of the following",
           "◦",
           "1 combi-weapon",
           "◦",
@@ -3652,7 +3652,7 @@
         "values": [
           "■",
           "1 Death Guard Rhino",
-          "This model is equipped with:",
+          "This model is equipped with",
           "plague combi-bolter;",
           "armoured tracks."
         ]
@@ -3738,19 +3738,19 @@
         },
         {
           "name": "HOST OF PLAGUES",
-          "range": "Miasma of Pestilence (Aura):",
+          "range": "Miasma of Pestilence (Aura)",
           "a": "While a friendly",
           "bws": "Death Guard",
           "s": "unit is within 6\" of this model, each time a",
           "ap": "ranged attack targets that unit, models in that unit have the Benefit of Cover against that attack.",
-          "d": "Diseased Influence (Aura):"
+          "d": "Diseased Influence (Aura)"
         },
         {
           "name": "While a friendly",
           "range": "Death Guard",
           "a": "unit is within 6\" of this model, each time a",
           "bws": "model in that unit makes an attack, re-roll a Wound roll of 1.",
-          "s": "Toxic Presence (Aura):",
+          "s": "Toxic Presence (Aura)",
           "ap": "While a friendly",
           "d": "Death Guard"
         },
@@ -3800,7 +3800,7 @@
           "■",
           "1 Mortarion -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Rotwind; the Lantern; Silence."
         ]
       },
@@ -3883,14 +3883,14 @@
         "values": [
           "■",
           "1 Death Guard Icon Bearer",
-          "This model is equipped with:",
+          "This model is equipped with",
           "plague boltgun; plague knife."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Plague Marines",
           "You can attach this model to a",
@@ -3973,7 +3973,7 @@
         "values": [
           "■",
           "1 Miasmic Malignifier",
-          "This model is equipped with:",
+          "This model is equipped with",
           "noxious stink.",
           "MIASMIC MALIGNIFIER",
           "Festooned with swaying plague censers and tainted bells, Miasmic",

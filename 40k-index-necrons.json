@@ -89,7 +89,7 @@
           "■",
           "1 Imotekh the Stormlord",
           "- Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Gauntlet of Fire; Staff of",
           "the Destroyer."
         ]
@@ -97,7 +97,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Immortals",
           "■",
@@ -178,14 +178,14 @@
           "■",
           "1 Orikan the Diviner",
           "- Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Staff of Tomorrow."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Immortals",
           "■",
@@ -237,7 +237,7 @@
           "d": "D6+2"
         },
         {
-          "name": "One Shot:",
+          "name": "One Shot",
           "range": "The bearer can only shoot with this weapon once per battle."
         }
       ],
@@ -290,14 +290,14 @@
           "■",
           "1 Anrakyr the Traveller",
           "- Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "tachyon arrow; warscythe."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Immortals",
           "ANRAKYR THE TRAVELLER",
@@ -372,14 +372,14 @@
           "■",
           "1 Vargard Obyron",
           "- Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "warscythe."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Immortals",
           "■",
@@ -485,7 +485,7 @@
           "■",
           "1 Illuminor Szeras",
           "- Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "eldritch lance; impaling legs.",
           "ILLUMINOR SZERAS",
           "Illuminor Szeras is a ghoulish bio-scientist who haunts the battlefield",
@@ -570,14 +570,14 @@
           "■",
           "1 Nemesor Zahndrekh",
           "- Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "staff of light."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Immortals",
           "■",
@@ -658,14 +658,14 @@
           "■",
           "1 Trazyn the Infinite",
           "- Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Empathic Obliterator."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Immortals",
           "■",
@@ -753,7 +753,7 @@
         "values": [
           "■",
           "1 Royal Warden",
-          "This model is equipped with:",
+          "This model is equipped with",
           "relic gauss blaster; close",
           "combat weapon."
         ]
@@ -761,7 +761,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Immortals",
           "■",
@@ -855,7 +855,7 @@
         "values": [
           "■",
           "1 Skorpekh Lord",
-          "This model is equipped with:",
+          "This model is equipped with",
           "enmitic annihilator; flensing",
           "claw; hyperphase harvester."
         ]
@@ -863,7 +863,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Skorpekh Destroyers",
           "SKORPEKH LORD",
@@ -952,7 +952,7 @@
           "■",
           "This model’s staff of light can be replaced with 1 Lord’s blade.",
           "■",
-          "This model can be equipped with one of the following:",
+          "This model can be equipped with one of the following",
           "◦",
           "1 phylactery",
           "◦",
@@ -964,14 +964,14 @@
         "values": [
           "■",
           "1 Lokhust Lord",
-          "This model is equipped with:",
+          "This model is equipped with",
           "staff of light."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Lokhust Destroyers",
           "■",
@@ -1069,14 +1069,14 @@
         "values": [
           "■",
           "1 Lord",
-          "This model is equipped with:",
+          "This model is equipped with",
           "staff of light."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Immortals",
           "■",
@@ -1196,7 +1196,7 @@
         "values": [
           "■",
           "1 Catacomb Command Barge",
-          "This model is equipped with:",
+          "This model is equipped with",
           "gauss cannon; staff of light.",
           "CATACOMB COMMAND BARGE",
           "Some Necron nobles ride to battle enthroned on Catacomb Command",
@@ -1242,7 +1242,7 @@
           "d": "D6+2"
         },
         {
-          "name": "One Shot:",
+          "name": "One Shot",
           "range": "The bearer can only shoot with this weapon once per battle."
         }
       ],
@@ -1303,7 +1303,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model’s tachyon arrow and Overlord’s blade can be replaced with one of the following:",
+          "This model’s tachyon arrow and Overlord’s blade can be replaced with one of the following",
           "◦",
           "1 Overlord’s blade",
           "◦",
@@ -1319,14 +1319,14 @@
         "values": [
           "■",
           "1 Overlord",
-          "This model is equipped with:",
+          "This model is equipped with",
           "tachyon arrow; Overlord’s blade."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Immortals",
           "■",
@@ -1418,14 +1418,14 @@
         "values": [
           "■",
           "1 Technomancer",
-          "This model is equipped with:",
+          "This model is equipped with",
           "staff of light; Canoptek cloak."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Immortals",
           "■",
@@ -1523,14 +1523,14 @@
         "values": [
           "■",
           "1 Psychomancer",
-          "This model is equipped with:",
+          "This model is equipped with",
           "abyssal lance."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Immortals",
           "■",
@@ -1628,14 +1628,14 @@
         "values": [
           "■",
           "1 Chronomancer",
-          "This model is equipped with:",
+          "This model is equipped with",
           "aeonstave."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Lychguard",
           "■",
@@ -1731,14 +1731,14 @@
         "values": [
           "■",
           "1 Plasmancer",
-          "This model is equipped with:",
+          "This model is equipped with",
           "plasmic lance."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Immortals",
           "■",
@@ -1843,7 +1843,7 @@
         "values": [
           "■",
           "10-20 Necron Warriors",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "gauss flayer; close",
           "combat weapon.",
           "NECRON WARRIORS",
@@ -1936,7 +1936,7 @@
         "values": [
           "■",
           "5-10 Immortals",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "gauss blaster; close",
           "combat weapon.",
           "IMMORTALS",
@@ -2019,7 +2019,7 @@
         "values": [
           "■",
           "1 Canoptek Reanimator",
-          "This model is equipped with:",
+          "This model is equipped with",
           "2 atomiser beams;",
           "Reanimator’s claws.",
           "CANOPTEK REANIMATOR",
@@ -2103,7 +2103,7 @@
         "values": [
           "■",
           "1 Hexmark Destroyer",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "enmitic disintegrator pistols;",
           "close combat weapon.",
           "HEXMARK DESTROYER",
@@ -2186,7 +2186,7 @@
         "values": [
           "■",
           "5-10 Lychguard",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "warscythe.",
           "LYCHGUARD",
           "Incapable of disloyalty and clad in forms as resilient and resplendent",
@@ -2267,7 +2267,7 @@
         "values": [
           "■",
           "5-10 Deathmarks",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "synaptic disintegrator; close",
           "combat weapon.",
           "DEATHMARKS",
@@ -2339,7 +2339,7 @@
         "values": [
           "■",
           "5-10 Flayed Ones",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "flayer claws.",
           "FLAYED ONES",
           "Flayed Ones keen shrill hunting cries as they fall upon the foe,",
@@ -2421,7 +2421,7 @@
         "values": [
           "■",
           "2 Cryptothralls",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "scouring eye; scythed limbs.",
           "CRYPTEK RETINUE",
           "At the start of the Declare Battle Formations step, this unit",
@@ -2505,7 +2505,7 @@
         "values": [
           "■",
           "3-6 Skorpekh Destroyers",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "Skorpekh",
           "hyperphase weapons.",
           "SKORPEKH DESTROYERS",
@@ -2609,7 +2609,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model’s heat ray can be replaced with one of the following:",
+          "This model’s heat ray can be replaced with one of the following",
           "◦",
           "1 particle shredder",
           "◦",
@@ -2621,7 +2621,7 @@
         "values": [
           "■",
           "1 Triarch Stalker",
-          "This model is equipped with:",
+          "This model is equipped with",
           "heat ray; Stalker’s forelimbs.",
           "TRIARCH STALKER",
           "Triarch Stalkers are agile combat walkers whose heavy firepower",
@@ -2707,7 +2707,7 @@
           "■",
           "1 C’tan Shard of the Deceiver",
           "- Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "cosmic insanity; golden fists.",
           "ENSLAVED STAR GOD",
           "This model cannot be your",
@@ -2807,7 +2807,7 @@
           "■",
           "1 C’tan Shard of the Nightbringer",
           "- Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "gaze of death; Scythe of",
           "the Nightbringer.",
           "ENSLAVED STAR GOD",
@@ -2925,7 +2925,7 @@
           "■",
           "1 C’tan Shard of the Void Dragon",
           "- Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Spear of the Void Dragon; voltaic",
           "storm; Canoptek tail blades.",
           "ENSLAVED STAR GOD",
@@ -3013,7 +3013,7 @@
         "values": [
           "■",
           "1 Transcendent C’tan",
-          "This model is equipped with:",
+          "This model is equipped with",
           "seismic assault;",
           "crackling tendrils.",
           "ENSLAVED STAR GOD",
@@ -3108,7 +3108,7 @@
         "values": [
           "■",
           "1-2 Canoptek Spyders",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "automaton claws.",
           "CANOPTEK SPYDERS",
           "Canoptek Spyders are formidable control-and-repair constructs,",
@@ -3184,7 +3184,7 @@
         "values": [
           "■",
           "3-6 Canoptek Scarab Swarms",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "feeder mandibles.",
           "CANOPTEK SCARAB SWARMS",
           "Canoptek Scarabs attack in skimming swarms. They descend upon",
@@ -3259,7 +3259,7 @@
         "values": [
           "■",
           "3-6 Ophydian Destroyers",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "Ophydian hyperphase weapons.",
           "OPHYDIAN DESTROYERS",
           "Repugnant to other Necrons, Ophydian Destroyers echo",
@@ -3354,7 +3354,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "Any number of models can each have their twin gauss blaster replaced with one of the following:",
+          "Any number of models can each have their twin gauss blaster replaced with one of the following",
           "◦",
           "1 particle beamer",
           "◦",
@@ -3362,7 +3362,7 @@
           "■",
           "Any number of models can each be equipped with 1 shieldvanes.",
           "■",
-          "Any number of models can each be equipped with one of the following:",
+          "Any number of models can each be equipped with one of the following",
           "◦",
           "1 nebuloscope",
           "◦",
@@ -3374,7 +3374,7 @@
         "values": [
           "■",
           "3-6 Tomb Blades",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "twin gauss blaster; close",
           "combat weapon.",
           "TOMB BLADES",
@@ -3476,7 +3476,7 @@
         "values": [
           "■",
           "5-10 Triarch Praetorians",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "rod of covenant.",
           "TRIARCH PRAETORIANS",
           "Triarch Praetorians fight tirelessly to uphold the ancient dynastic",
@@ -3569,7 +3569,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "Any number of models can each be equipped with one of the following:",
+          "Any number of models can each be equipped with one of the following",
           "◦",
           "1 particle caster",
           "◦",
@@ -3583,7 +3583,7 @@
         "values": [
           "■",
           "3-6 Canoptek Wraiths",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "vicious claws.",
           "CANOPTEK WRAITHS",
           "These constructs serve as the eyes and ears of their masters while",
@@ -3683,7 +3683,7 @@
         "values": [
           "■",
           "1 Annihilation Barge",
-          "This model is equipped with:",
+          "This model is equipped with",
           "gauss cannon; twin tesla",
           "destructor; armoured bulk.",
           "ANNIHILATION BARGE",
@@ -3775,7 +3775,7 @@
         "values": [
           "■",
           "1 Doomsday Ark",
-          "This model is equipped with:",
+          "This model is equipped with",
           "doomsday cannon; 2 gauss",
           "flayer arrays; armoured bulk.",
           "DOOMSDAY ARK",
@@ -3860,7 +3860,7 @@
         "values": [
           "■",
           "1-6 Lokhust Destroyers",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "gauss cannon; close",
           "combat weapon.",
           "LOKHUST DESTROYERS",
@@ -3954,7 +3954,7 @@
         "values": [
           "■",
           "1-3 Lokhust Heavy Destroyers",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "gauss destructor; close",
           "combat weapon.",
           "LOKHUST HEAVY DESTROYERS",
@@ -4047,7 +4047,7 @@
         "values": [
           "■",
           "1 Canoptek Doomstalker",
-          "This model is equipped with:",
+          "This model is equipped with",
           "doomsday blaster; twin gauss",
           "flayer; Doomstalker limbs.",
           "CANOPTEK DOOMSTALKER",
@@ -4133,7 +4133,7 @@
         "values": [
           "■",
           "1 Ghost Ark",
-          "This model is equipped with:",
+          "This model is equipped with",
           "2 gauss flayer arrays;",
           "armoured bulk."
         ]
@@ -4238,7 +4238,7 @@
         "values": [
           "■",
           "1 Doom Scythe",
-          "This model is equipped with:",
+          "This model is equipped with",
           "heavy death ray; twin tesla",
           "destructor; armoured bulk.",
           "DOOM SCYTHE",
@@ -4325,7 +4325,7 @@
         "values": [
           "■",
           "1 Night Scythe",
-          "This model is equipped with:",
+          "This model is equipped with",
           "twin tesla destructor;",
           "armoured bulk."
         ]
@@ -4420,7 +4420,7 @@
         "values": [
           "■",
           "1 Obelisk",
-          "This model is equipped with:",
+          "This model is equipped with",
           "4 tesla spheres; armoured bulk.",
           "OBELISK",
           "The Necron Obelisk is a slab-sided war engine designed to ensure air",
@@ -4540,7 +4540,7 @@
         "values": [
           "■",
           "1 Tesseract Vault",
-          "This model is equipped with:",
+          "This model is equipped with",
           "4 tesla spheres; armoured bulk.",
           "TESSERACT VAULT",
           "These super-heavy war engines channel the furious might of",
@@ -4644,7 +4644,7 @@
         "values": [
           "■",
           "1 Monolith",
-          "This model is equipped with:",
+          "This model is equipped with",
           "4 gauss flux arcs; particle whip;",
           "portal of exile.",
           "MONOLITH",
@@ -4722,19 +4722,19 @@
         },
         {
           "name": "TRIARCH ABILITIES",
-          "range": "Phaeron of the Stars (Aura):",
+          "range": "Phaeron of the Stars (Aura)",
           "a": "While a friendly",
           "bws": "Necrons",
           "s": "unit is within 6\" of this unit’s Szarekh model,",
           "ap": "each time a model in that unit makes a ranged attack, re-roll a Hit roll of 1 and re-roll a Wound roll of 1.",
-          "d": "Phaeron of the Blades (Aura):"
+          "d": "Phaeron of the Blades (Aura)"
         },
         {
           "name": "While a friendly",
           "range": "Necrons",
           "a": "unit is within 6\" of this unit’s Szarekh model,",
           "bws": "you can re-roll Charge rolls made for that unit.",
-          "s": "Bringer of Unity (Aura):",
+          "s": "Bringer of Unity (Aura)",
           "ap": "While a friendly",
           "d": "Necrons"
         },
@@ -4784,10 +4784,10 @@
           "- Epic Hero",
           "■",
           "2 Triarchal Menhirs",
-          "Szarekh is equipped with:",
+          "Szarekh is equipped with",
           "Sceptre of Eternal Glory; Staff of",
           "Stars; Scythe of Dust.",
-          "Every Triarchal Menhir is equipped with:",
+          "Every Triarchal Menhir is equipped with",
           "annihilator beam;",
           "close combat weapon."
         ]
@@ -4860,7 +4860,7 @@
         "values": [
           "■",
           "3 Convergence of Dominion Starsteles",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "transdimensional abductor.",
           "DEPLOYMENT",
           "When this unit is first set up on the battlefield, its models do",

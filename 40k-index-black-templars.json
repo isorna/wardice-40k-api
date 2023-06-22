@@ -135,10 +135,10 @@
           "Epic Hero",
           "■",
           "3 Cenobyte Servitors",
-          "Chaplain Grimaldus is equipped with:",
+          "Chaplain Grimaldus is equipped with",
           "plasma pistol;",
           "artificer crozius.",
-          "Every Cenobyte Servitor is equipped with:",
+          "Every Cenobyte Servitor is equipped with",
           "close",
           "combat weapon."
         ]
@@ -146,7 +146,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This unit can be attached to the following units:",
+          "This unit can be attached to the following units",
           "■",
           "Assault Intercessor Squad",
           "■",
@@ -163,10 +163,10 @@
           "singular, his zeal coldly furious, and his martial skill attested by the",
           "trail of broken foes laid at his heels. His Cenobyte Servitors lurch to war",
           "at his side, bearing with them holy relics of the faith.",
-          "KEYWORDS - ALL MODELS:",
+          "KEYWORDS - ALL MODELS",
           "Infantry, Imperium, Tacticus",
           "|",
-          "GRIMALDUS:",
+          "GRIMALDUS",
           "Character, Epic Hero, Grenades, Chaplain Grimaldus"
         ]
       }
@@ -385,7 +385,7 @@
           "1 thunder hammer",
           "■",
           "Any number of Neophytes can each have their",
-          "boltgun replaced with one of the following:",
+          "boltgun replaced with one of the following",
           "◦",
           "1 Astartes shotgun",
           "◦",
@@ -395,7 +395,7 @@
           "replaced with 1 Astartes chainsword.",
           "■",
           "1 Initiate’s boltgun can be replaced with one of",
-          "the following:",
+          "the following",
           "◦",
           "1 flamer",
           "◦",
@@ -406,7 +406,7 @@
           "1 grav-gun",
           "■",
           "1 Initiate’s boltgun can be replaced with one of",
-          "the following:",
+          "the following",
           "◦",
           "1 power weapon",
           "◦",
@@ -436,7 +436,7 @@
           "4-9 Initiates",
           "■",
           "0-10 Neophytes",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "boltgun; bolt pistol; close",
           "combat weapon.",
           "ATTACHED UNIT",
@@ -548,7 +548,7 @@
           "■",
           "1 High Marshal Helbrecht -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Ferocity; Sword of the",
           "High Marshals."
         ]
@@ -556,7 +556,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Assault Intercessor Squad",
           "■",
@@ -721,7 +721,7 @@
           "Astartes chainsword.",
           "■",
           "For every 10 models in this unit, up to 2 Primaris Initiates can each have their bolt rifle replaced with",
-          "one of the following:",
+          "one of the following",
           "◦",
           "1 heavy bolt pistol and 1 power fist",
           "◦",
@@ -737,13 +737,13 @@
           "5-11 Primaris Initiates",
           "■",
           "4-8 Primaris Neophytes",
-          "The Primaris Sword Brother is equipped with:",
+          "The Primaris Sword Brother is equipped with",
           "heavy bolt",
           "pistol; power weapon.",
-          "Every Primaris Initiate is equipped with:",
+          "Every Primaris Initiate is equipped with",
           "bolt pistol; bolt rifle;",
           "close combat weapon.",
-          "Every Primaris Neophyte is equipped with:",
+          "Every Primaris Neophyte is equipped with",
           "bolt pistol;",
           "Astartes chainsword.",
           "ATTACHED UNIT",
@@ -909,7 +909,7 @@
           "replaced with 1 pyre pistol.",
           "■",
           "The Sword Brother Castellan’s heavy bolt pistol and Astartes chainsword can be replaced with one of",
-          "the following:",
+          "the following",
           "◦",
           "1 combi-weapon and 1 Astartes chainsword.",
           "◦",
@@ -925,7 +925,7 @@
           "1 Sword Brother Castellan",
           "■",
           "4-10 Primaris Sword Brothers",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "heavy bolt pistol;",
           "Astartes chainsword.",
           "ATTACHED UNIT",
@@ -1033,14 +1033,14 @@
           "■",
           "1 Emperor’s Champion -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "bolt pistol; Black Sword."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Assault Intercessor Squad",
           "■",
@@ -1155,7 +1155,7 @@
         "values": [
           "■",
           "1 Castellan",
-          "This model is equipped with:",
+          "This model is equipped with",
           "combi-weapon; master-crafted",
           "power weapon."
         ]
@@ -1163,7 +1163,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Assault Intercessor Squad",
           "■",
@@ -1291,7 +1291,7 @@
         "values": [
           "■",
           "1 Marshal",
-          "This model is equipped with:",
+          "This model is equipped with",
           "plasma pistol; master-crafted",
           "power weapon."
         ]
@@ -1299,7 +1299,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Assault Intercessor Squad",
           "■",
@@ -1433,7 +1433,7 @@
           "■",
           "This model’s 2 storm bolters can be replaced with 2 fragstorm grenade launchers.",
           "■",
-          "This model can be equipped with one of the following:",
+          "This model can be equipped with one of the following",
           "◦",
           "1 ironhail heavy stubber",
           "◦",
@@ -1447,7 +1447,7 @@
         "values": [
           "■",
           "1 Gladiator Lancer",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Lancer laser destroyer; 2 storm",
           "bolters; armoured hull.",
           "BLACK TEMPLARS GLADIATOR LANCER",
@@ -1560,7 +1560,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model can be equipped with one of the following:",
+          "This model can be equipped with one of the following",
           "◦",
           "1 ironhail heavy stubber",
           "◦",
@@ -1574,7 +1574,7 @@
         "values": [
           "■",
           "1 Gladiator Reaper",
-          "This model is equipped with:",
+          "This model is equipped with",
           "2 tempest bolters; twin heavy",
           "onslaught gatling cannon; armoured hull.",
           "BLACK TEMPLARS GLADIATOR REAPER",
@@ -1678,7 +1678,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model can be equipped with one of the following:",
+          "This model can be equipped with one of the following",
           "◦",
           "1 ironhail heavy stubber",
           "◦",
@@ -1692,7 +1692,7 @@
         "values": [
           "■",
           "1 Gladiator Valiant",
-          "This model is equipped with:",
+          "This model is equipped with",
           "2 multi-meltas; twin las-talon;",
           "armoured hull.",
           "BLACK TEMPLARS GLADIATOR VALIANT",
@@ -1838,7 +1838,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model can be equipped with one of the following:",
+          "This model can be equipped with one of the following",
           "◦",
           "1 ironhail heavy stubber",
           "◦",
@@ -1846,7 +1846,7 @@
           "■",
           "This model’s 2 storm bolters can be replaced with 2 fragstorm grenade launchers.",
           "■",
-          "This model can be equipped with one of the following:",
+          "This model can be equipped with one of the following",
           "◦",
           "1 bellicatus missile array",
           "◦",
@@ -1862,7 +1862,7 @@
         "values": [
           "■",
           "1 Impulsor",
-          "This model is equipped with:",
+          "This model is equipped with",
           "2 storm bolters; armoured hull."
         ]
       },
@@ -1922,7 +1922,7 @@
           "d": "D6"
         },
         {
-          "name": "One Shot:",
+          "name": "One Shot",
           "range": "The bearer can only shoot with this weapon once per battle.",
           "a": "Las-talon",
           "bws": "36\"",
@@ -2024,7 +2024,7 @@
         "values": [
           "■",
           "1 Repulsor",
-          "This model is equipped with:",
+          "This model is equipped with",
           "heavy onslaught gatling cannon;",
           "hunter-slayer missile; Repulsor defensive array; twin heavy",
           "bolter; armoured hull."
@@ -2206,7 +2206,7 @@
           "■",
           "This model’s macro plasma incinerator can be replaced with 1 heavy laser destroyer.",
           "■",
-          "This model can be equipped with one of the following:",
+          "This model can be equipped with one of the following",
           "◦",
           "1 ironhail heavy stubber",
           "◦",
@@ -2220,7 +2220,7 @@
         "values": [
           "■",
           "1 Repulsor Executioner",
-          "This model is equipped with:",
+          "This model is equipped with",
           "heavy onslaught gatling cannon;",
           "macro plasma incinerator; Repulsor Executioner defensive",
           "array; twin heavy bolter; twin Icarus ironhail heavy stubber;",

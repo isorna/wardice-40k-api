@@ -83,7 +83,7 @@
           "■",
           "1 Astorath -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "bolt pistol; the",
           "Executioner’s Axe."
         ]
@@ -91,7 +91,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Death Company Marines with Jump Packs",
           "ASTORATH",
@@ -156,7 +156,7 @@
           "d": "D6"
         },
         {
-          "name": "One Shot:",
+          "name": "One Shot",
           "range": "The bearer can only shoot with this weapon once per battle.",
           "a": "Storm bolter [RAPID FIRE 2]",
           "bws": "24\"",
@@ -224,7 +224,7 @@
           "■",
           "This model can be equipped with 1 storm bolter.",
           "■",
-          "This model can be equipped with one of the following:",
+          "This model can be equipped with one of the following",
           "◦",
           "2 heavy bolters",
           "◦",
@@ -236,7 +236,7 @@
         "values": [
           "■",
           "1 Baal Predator",
-          "This model is equipped with:",
+          "This model is equipped with",
           "twin assault cannon;",
           "armoured tracks.",
           "BAAL PREDATOR",
@@ -322,14 +322,14 @@
           "■",
           "1 Brother Corbulo -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "bolt pistol; Heaven’s Teeth."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Assault Squad",
           "■",
@@ -431,7 +431,7 @@
           "■",
           "1 Captain Tycho -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Blood Song; bolt pistol;",
           "Dead Man’s Hand."
         ]
@@ -439,7 +439,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Assault Squad",
           "■",
@@ -571,7 +571,7 @@
           "■",
           "1 Chief Librarian Mephiston -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "plasma pistol; Fury of the",
           "Ancients; Vitarus."
         ]
@@ -579,7 +579,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Assault Intercessor Squad",
           "■",
@@ -671,14 +671,14 @@
           "■",
           "1 Commander Dante -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Perdition; the Axe Mortalis."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Assault Squad with Jump Packs",
           "■",
@@ -802,7 +802,7 @@
         "values": [
           "■",
           "1 Death Company Dreadnought",
-          "This model is equipped with:",
+          "This model is equipped with",
           "meltagun; storm bolter; twin",
           "Furioso fists.",
           "DEATH COMPANY DREADNOUGHT",
@@ -986,7 +986,7 @@
           "All models in this unit can each have their bolt pistol and bolt rifle replaced with 1 heavy bolt pistol",
           "and 1 Astartes chainsword.",
           "■",
-          "1 model’s heavy bolt pistol can be replaced with one of the following:",
+          "1 model’s heavy bolt pistol can be replaced with one of the following",
           "◦",
           "1 hand flamer",
           "◦",
@@ -995,7 +995,7 @@
           "For every 5 models in this unit, 1 model equipped with a bolt rifle can be equipped with 1 Astartes",
           "grenade launcher.",
           "■",
-          "1 model can replace its bolt rifle or Astartes chainsword with one of the following:",
+          "1 model can replace its bolt rifle or Astartes chainsword with one of the following",
           "◦",
           "1 power fist",
           "◦",
@@ -1009,7 +1009,7 @@
         "values": [
           "■",
           "5-10 Death Company Intercessors",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "bolt pistol; bolt rifle; close",
           "combat weapon.",
           "DEATH COMPANY",
@@ -1181,13 +1181,13 @@
         "values": [
           "■",
           "Any number of models can each have their boltgun and close combat weapon replaced with one of",
-          "the following:",
+          "the following",
           "◦",
           "1 Astartes chainsword and 1 bolt pistol",
           "◦",
           "1 thunder hammer",
           "■",
-          "Any number of models can each have their bolt pistol replaced with one of the following:",
+          "Any number of models can each have their bolt pistol replaced with one of the following",
           "◦",
           "1 hand flamer",
           "◦",
@@ -1195,7 +1195,7 @@
           "◦",
           "1 plasma pistol",
           "■",
-          "Any number of models can each have their Astartes chainsword replaced with one of the following:",
+          "Any number of models can each have their Astartes chainsword replaced with one of the following",
           "◦",
           "1 power fist",
           "◦",
@@ -1207,7 +1207,7 @@
         "values": [
           "■",
           "5-10 Death Company Marines",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "boltgun; close combat weapon.",
           "DEATH COMPANY",
           "If a",
@@ -1379,13 +1379,13 @@
         "values": [
           "■",
           "Any number of models can each have their boltgun and close combat weapon replaced with one of",
-          "the following:",
+          "the following",
           "◦",
           "1 Astartes chainsword and 1 bolt pistol",
           "◦",
           "1 thunder hammer",
           "■",
-          "Any number of models can each have their bolt pistol replaced with one of the following:",
+          "Any number of models can each have their bolt pistol replaced with one of the following",
           "◦",
           "1 hand flamer",
           "◦",
@@ -1393,7 +1393,7 @@
           "◦",
           "1 plasma pistol",
           "■",
-          "Any number of models can each have their Astartes chainsword replaced with one of the following:",
+          "Any number of models can each have their Astartes chainsword replaced with one of the following",
           "◦",
           "1 power fist",
           "◦",
@@ -1405,7 +1405,7 @@
         "values": [
           "■",
           "5-10 Death Company Marines with Jump Packs",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "boltgun; close combat weapon.",
           "DEATH COMPANY",
           "If a",
@@ -1534,7 +1534,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model’s heavy frag cannon and Furioso fist can be replaced with one of the following:",
+          "This model’s heavy frag cannon and Furioso fist can be replaced with one of the following",
           "◦",
           "1 Blood Talons and 1 meltagun",
           "◦",
@@ -1552,7 +1552,7 @@
         "values": [
           "■",
           "1 Furioso Dreadnought",
-          "This model is equipped with:",
+          "This model is equipped with",
           "heavy frag cannon; Furioso fist;",
           "storm bolter.",
           "FURIOSO DREADNOUGHT",
@@ -1639,14 +1639,14 @@
           "■",
           "1 Gabriel Seth -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "bolt pistol; Blood Reaver."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Assault Squad",
           "■",
@@ -1747,14 +1747,14 @@
           "■",
           "1 Lemartes -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "bolt pistol; the Blood Crozius."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Death Company Marines with Jump Packs",
           "LEMARTES",
@@ -1881,7 +1881,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model’s storm bolter can be replaced with one of the following:",
+          "This model’s storm bolter can be replaced with one of the following",
           "◦",
           "1 heavy flamer",
           "◦",
@@ -1893,7 +1893,7 @@
         "values": [
           "■",
           "1 Librarian Dreadnought",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Blood Lance; storm bolter;",
           "Furioso fist, Furioso force halberd.",
           "LIBRARIAN DREADNOUGHT",
@@ -2013,7 +2013,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "Any number of models can each have their angelus boltgun replaced with one of the following:",
+          "Any number of models can each have their angelus boltgun replaced with one of the following",
           "◦",
           "1 inferno pistol",
           "◦",
@@ -2029,7 +2029,7 @@
         "values": [
           "■",
           "5-10 Sanguinary Guard",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "angelus boltgun;",
           "encarmine blade.",
           "ATTACHED UNIT",
@@ -2123,14 +2123,14 @@
         "values": [
           "■",
           "1 Sanguinary Priest",
-          "This model is equipped with:",
+          "This model is equipped with",
           "bolt pistol; Astartes chainsword."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Assault Squad",
           "■",
@@ -2226,7 +2226,7 @@
           "■",
           "1 The Sanguinor -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "encarmine broadsword.",
           "THE SANGUINOR",
           "The Sanguinor is a mysterious figure who fights only on battlefields",
@@ -2324,7 +2324,7 @@
           "■",
           "1 Tycho the Lost -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Blood Song; bolt pistol;",
           "Dead Man’s Hand."
         ]
@@ -2332,7 +2332,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Death Company Marines",
           "TYCHO",
@@ -2426,14 +2426,14 @@
         "values": [
           "■",
           "1 Sanguinary Priest",
-          "This model is equipped with:",
+          "This model is equipped with",
           "bolt pistol; Astartes chainsword."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Assault Squad with Jump Packs",
           "■",

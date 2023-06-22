@@ -130,7 +130,7 @@
           "Any number of models can each have their guardian spear replaced with 1 sentinel blade and 1",
           "praesidium shield.",
           "■",
-          "1 model’s guardian spear can be replaced with one of the following:",
+          "1 model’s guardian spear can be replaced with one of the following",
           "◦",
           "1 vexilla and 1 misericordia",
           "◦",
@@ -142,7 +142,7 @@
         "values": [
           "■",
           "4-10 Custodian Guard",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "guardian spear.",
           "CUSTODIAN GUARD",
           "These warriors form the backbone of the shield companies, and every",
@@ -265,7 +265,7 @@
         "values": [
           "■",
           "3-6 Custodian Wardens",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "guardian spear.",
           "CUSTODIAN WARDENS",
           "Veterans with centuries of service, Custodian Wardens are",
@@ -413,7 +413,7 @@
         "values": [
           "■",
           "2-6 Allarus Custodians",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "balistus grenade launcher;",
           "guardian spear.",
           "ALLARUS CUSTODIANS",
@@ -520,7 +520,7 @@
         "values": [
           "■",
           "2-6 Vertus Praetors",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "salvo launcher;",
           "interceptor lance.",
           "VERTUS PRAETORS",
@@ -617,7 +617,7 @@
           "1 Prosecutor Sister Superior",
           "■",
           "3-9 Prosecutors",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "boltgun; close combat weapon.",
           "PROSECUTORS",
           "Protected from the malevolence of witches by their rare anti-psychic",
@@ -702,7 +702,7 @@
           "1 Vigilator Sister Superior",
           "■",
           "3-9 Vigilators",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "executioner greatblade.",
           "VIGILATORS",
           "The surest way to bring an end to a witch’s malefic rampage is to",
@@ -759,11 +759,11 @@
     "abilities": {
       "core": [
         "Scouts 6\"",
-        "Daughters of the Abyss:",
+        "Daughters of the Abyss",
         "Models in this unit have the",
         "Feel No Pain 3+",
         "ability against Psychic Attacks.",
-        "Sanctified Flames:",
+        "Sanctified Flames",
         "Each time this unit shoots, after it has",
         "shot, select one enemy unit that was hit by one or more of"
       ],
@@ -807,7 +807,7 @@
           "1 Witchseeker Sister Superior",
           "■",
           "3-9 Witchseekers",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "Witchseeker flamer; close",
           "combat weapon.",
           "WITCHSEEKERS",
@@ -942,7 +942,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model’s guardian spear can be replaced with one of the following:",
+          "This model’s guardian spear can be replaced with one of the following",
           "◦",
           "1 castellan axe",
           "◦",
@@ -956,14 +956,14 @@
         "values": [
           "■",
           "1 Shield-Captain",
-          "This model is equipped with:",
+          "This model is equipped with",
           "guardian spear."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Custodian Guard",
           "■",
@@ -1075,14 +1075,14 @@
         "values": [
           "■",
           "1 Blade Champion",
-          "This model is equipped with:",
+          "This model is equipped with",
           "vaultswords."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Custodian Guard",
           "■",
@@ -1134,15 +1134,15 @@
     "abilities": {
       "core": [
         "Feel No Pain 5+, Leader, Scouts 6\"",
-        "Tactical Perception:",
+        "Tactical Perception",
         "While this model is leading a unit, models",
         "in that unit have the Fights First ability.",
-        "Tenacious Spirit:",
+        "Tenacious Spirit",
         "While this model is leading a unit, each",
         "time a model in that unit makes an attack, add 1 to the Hit",
         "roll if that unit is below its Starting Strength, and add 1 to the",
         "Wound roll as well if that unit is Below Half-strength.",
-        "Daughter of the Abyss:",
+        "Daughter of the Abyss",
         "This model has the Feel No Pain 3+"
       ],
       "faction": [
@@ -1188,14 +1188,14 @@
           "■",
           "1 Aleya",
           "- Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Somnus."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Prosecutors",
           "■",
@@ -1238,7 +1238,7 @@
           "d": "D6"
         },
         {
-          "name": "One Shot:",
+          "name": "One Shot",
           "range": "The bearer can only shoot with this weapon once per battle.",
           "a": "Storm bolter [RAPID FIRE 2]",
           "bws": "24\"",
@@ -1269,10 +1269,10 @@
     "abilities": {
       "core": [
         "Deadly Demise D3",
-        "Daughters of the Abyss:",
+        "Daughters of the Abyss",
         "This model has the Feel No Pain 3+",
         "ability against Psychic Attacks.",
-        "Self Repair:",
+        "Self Repair",
         "At the start of your Command phase, this model"
       ],
       "faction": [
@@ -1313,7 +1313,7 @@
         "values": [
           "■",
           "1 Anathema Psykana Rhino",
-          "This model is equipped with:",
+          "This model is equipped with",
           "storm bolter; armoured tracks."
         ]
       },
@@ -1386,14 +1386,14 @@
     "abilities": {
       "core": [
         "Leader, Scouts 6\"",
-        "Seeker's Instincts:",
+        "Seeker's Instincts",
         "While this model is leading a unit, add 2\"",
         "to the Move characteristic of models in that unit and add 2 to",
         "Advance and Charge rolls made for that unit.",
-        "Daughter of the Abyss:",
+        "Daughter of the Abyss",
         "This model has the Feel No Pain 3+",
         "ability against Psychic Attacks.",
-        "Corner the Quarry:",
+        "Corner the Quarry",
         "Each time an enemy unit (excluding",
         "Monsters",
         "and",
@@ -1441,7 +1441,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model’s executioner greatblade can be replaced with one of the following:",
+          "This model’s executioner greatblade can be replaced with one of the following",
           "◦",
           "1 master-crafted boltgun",
           "◦",
@@ -1453,14 +1453,14 @@
         "values": [
           "■",
           "1 Knight-Centura",
-          "This model is equipped with:",
+          "This model is equipped with",
           "executioner greatblade."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Prosecutors",
           "■",
@@ -1591,7 +1591,7 @@
         "values": [
           "■",
           "1 Shield-Captain in Allarus Terminator Armour",
-          "This model is equipped with:",
+          "This model is equipped with",
           "balistus grenade launcher;",
           "guardian spear."
         ]
@@ -1599,7 +1599,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Allarus Custodians",
           "SHIELD-CAPTAIN",
@@ -1709,7 +1709,7 @@
         "values": [
           "■",
           "1 Shield-Captain on Dawneagle Jetbike",
-          "This model is equipped with:",
+          "This model is equipped with",
           "salvo launcher;",
           "interceptor lance."
         ]
@@ -1717,7 +1717,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Vertus Praetors",
           "SHIELD-CAPTAIN",
@@ -1823,14 +1823,14 @@
           "■",
           "1 Trajann Valoris",
           "- Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Watcher’s Axe."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Custodian Guard",
           "■",
@@ -1931,14 +1931,14 @@
           "■",
           "1 Valerian",
           "- Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Gnosis."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Custodian Guard",
           "■",
@@ -2052,7 +2052,7 @@
         "values": [
           "■",
           "1 Venerable Contemptor Dreadnought",
-          "This model is equipped with:",
+          "This model is equipped with",
           "combi-bolter; multi-melta;",
           "Contemptor combat weapon.",
           "VENERABLE CONTEMPTOR DREADNOUGHT",
@@ -2100,7 +2100,7 @@
           "d": "D6"
         },
         {
-          "name": "One Shot:",
+          "name": "One Shot",
           "range": "The bearer can only shoot with this weapon once per battle.",
           "a": "Storm bolter [RAPID FIRE 2]",
           "bws": "24\"",
@@ -2181,7 +2181,7 @@
         "values": [
           "■",
           "1 Venerable Land Raider",
-          "This model is equipped with:",
+          "This model is equipped with",
           "2 godhammer lascannons; twin",
           "heavy bolter; armoured tracks."
         ]

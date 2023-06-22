@@ -81,14 +81,14 @@
         "values": [
           "■",
           "1 Watch Master",
-          "This model is equipped with:",
+          "This model is equipped with",
           "vigil spear."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Deathwatch Veterans",
           "■",
@@ -179,7 +179,7 @@
         "values": [
           "■",
           "1 Watch Captain Artemis",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Hellfire Extremis; master-crafted",
           "power weapon."
         ]
@@ -187,7 +187,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Deathwatch Veterans",
           "■",
@@ -339,27 +339,27 @@
         },
         {
           "name": "ABILITIES",
-          "range": "CORE:",
+          "range": "CORE",
           "a": "Deep Strike",
-          "bws": "FACTION:",
+          "bws": "FACTION",
           "s": "Oath of Moment, Kill Team",
-          "ap": "Catechism of Death:",
+          "ap": "Catechism of Death",
           "d": "While this unit contains Chaplain"
         },
         {
           "name": "Cassius, melee weapons equipped by models in this unit",
           "range": "have the [DEVASTATING WOUNDS]",
           "a": "ability.",
-          "bws": "Unflinching:",
+          "bws": "Unflinching",
           "s": "Each time this unit takes a Battle-shock or",
           "ap": "Leadership test, you can re-roll that test.",
           "d": "WARGEAR ABILITIES"
         },
         {
-          "name": "Jump Pack:",
+          "name": "Jump Pack",
           "range": "The bearer has a Move characteristic of 12\" and",
           "a": "can move over models and terrain as if they were not there.",
-          "bws": "Psychic Hood:",
+          "bws": "Psychic Hood",
           "s": "Models in the bearer’s unit have the",
           "ap": "Feel No Pain 4+ ability against Psychic Attacks.",
           "d": "INVULNERABLE SAVE"
@@ -429,7 +429,7 @@
           "1 Chaplain Cassius -",
           "Epic Hero",
           "■",
-          "8 Kill Team Veterans:",
+          "8 Kill Team Veterans",
           "◦",
           "Vael Donatus",
           "◦",
@@ -463,10 +463,10 @@
           "an unauthorised mission, the kill team uncovered the first recorded",
           "Genestealer Cult alongside him on Ghosar Quintus. They have fought",
           "together many times since, and baulk at no xenos horror.",
-          "KEYWORDS - ALL MODELS:",
+          "KEYWORDS - ALL MODELS",
           "Infantry, Kill Team, Grenades, Imperium,",
           "Kill Team Cassius",
-          "| CHAPLAIN CASSIUS:",
+          "| CHAPLAIN CASSIUS",
           "Character, Epic Hero"
         ]
       }
@@ -588,9 +588,9 @@
         },
         {
           "name": "ABILITIES",
-          "range": "FACTION:",
+          "range": "FACTION",
           "a": "Oath of Moment",
-          "bws": "Death to the Alien:",
+          "bws": "Death to the Alien",
           "s": "Each time a model in this unit makes",
           "ap": "an attack, re-roll a Hit roll of 1. If the target of that attack",
           "d": "does not have the"
@@ -602,7 +602,7 @@
           "bws": "keywords, you can",
           "s": "re-roll the Hit roll instead.",
           "ap": "WARGEAR ABILITIES",
-          "d": "Astartes Shield:"
+          "d": "Astartes Shield"
         },
         {
           "name": "The bearer has a 4+ invulnerable save.",
@@ -620,7 +620,7 @@
           "bws": "2",
           "s": "6+",
           "ap": "2",
-          "d": "KEYWORDS:"
+          "d": "KEYWORDS"
         },
         {
           "name": "Infantry, Battleline, Kill Team, Grenades, Imperium,",
@@ -661,7 +661,7 @@
           "■",
           "Any number of models can each have their",
           "boltgun and Long Vigil melee weapon replaced",
-          "with one of the following:",
+          "with one of the following",
           "◦",
           "1 Long Vigil ranged weapon and 1 close",
           "combat weapon",
@@ -680,7 +680,7 @@
           "For every 5 models in this unit, up to 2",
           "models can each have their boltgun and Long",
           "Vigil melee weapon replaced with one of",
-          "the following:",
+          "the following",
           "◦",
           "1 frag cannon and 1 close combat weapon",
           "◦",
@@ -704,7 +704,7 @@
           "1 Watch Sergeant",
           "■",
           "4-9 Deathwatch Veterans",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "boltgun; Long Vigil",
           "melee weapon.",
           "ATTACHED UNIT",
@@ -886,7 +886,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "Up to 3 Deathwatch Terminators can each have their storm bolter replaced with one of the following:",
+          "Up to 3 Deathwatch Terminators can each have their storm bolter replaced with one of the following",
           "◦",
           "1 assault cannon",
           "◦",
@@ -897,7 +897,7 @@
           "1 cyclone missile launcher and 1 storm bolter (this model’s storm bolter cannot be replaced)",
           "■",
           "Any number of models can each have their power fist and storm bolter replaced with one of",
-          "the following:",
+          "the following",
           "◦",
           "1 storm bolter and 1 power weapon",
           "◦",
@@ -915,7 +915,7 @@
           "1 Deathwatch Terminator Sergeant",
           "■",
           "4-9 Deathwatch Terminators",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "power fist; storm bolter.",
           "ATTACHED UNIT",
           "If a",
@@ -1037,7 +1037,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "The Veteran Biker Sergeant can be equipped with one of the following:",
+          "The Veteran Biker Sergeant can be equipped with one of the following",
           "◦",
           "1 Long Vigil ranged weapon",
           "◦",
@@ -1057,7 +1057,7 @@
           "1 Veteran Biker Sergeant",
           "■",
           "2-5 Veteran Bikers",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "bolt pistol; close combat",
           "weapon; twin boltgun.",
           "ATTACHED UNIT",
@@ -1189,7 +1189,7 @@
           "■",
           "This model can be equipped with 1 hurricane bolter.",
           "■",
-          "This model can be equipped with one of the following:",
+          "This model can be equipped with one of the following",
           "◦",
           "1 auspex array",
           "◦",
@@ -1201,7 +1201,7 @@
         "values": [
           "■",
           "1 Corvus Blackstar",
-          "This model is equipped with:",
+          "This model is equipped with",
           "2 Blackstar rocket launchers;",
           "twin assault cannon; armoured hull."
         ]
@@ -1363,24 +1363,24 @@
         },
         {
           "name": "ABILITIES",
-          "range": "FACTION:",
+          "range": "FACTION",
           "a": "Kill Team, Oath of Moment",
-          "bws": "Proteus Doctrines:",
+          "bws": "Proteus Doctrines",
           "s": "Each time a model in this unit makes an",
           "ap": "attack that targets a unit that is not Below Half-strength, add",
           "d": "1 to the Hit roll."
         },
         {
           "name": "WARGEAR ABILITIES",
-          "range": "Astartes Shield:",
+          "range": "Astartes Shield",
           "a": "The bearer has a 4+ invulnerable save.",
-          "bws": "Jump Pack:",
+          "bws": "Jump Pack",
           "s": "The bearer has a Move characteristic of 12\" and",
           "ap": "can move over models and terrain features as if they were",
           "d": "not there."
         },
         {
-          "name": "Storm Shield:",
+          "name": "Storm Shield",
           "range": "The bearer has a Wounds characteristic of 4.",
           "a": "INVULNERABLE SAVE"
         },
@@ -1420,7 +1420,7 @@
         "values": [
           "■",
           "Any number of Kill Team Veterans can replace",
-          "their boltgun and Long Vigil melee weapon with:",
+          "their boltgun and Long Vigil melee weapon with",
           "◦",
           "1 Long Vigil ranged weapon*",
           "◦",
@@ -1435,21 +1435,21 @@
           "■",
           "For every 5 models in the unit, up to 2 models",
           "can replace their boltgun and Long Vigil melee",
-          "weapon with one of the following:",
+          "weapon with one of the following",
           "◦",
           "1 frag cannon",
           "◦",
           "1 Infernus heavy bolter*",
           "■",
           "Any number of Kill Team Biker models can be",
-          "equipped with one of the following:",
+          "equipped with one of the following",
           "◦",
           "1 bolt pistol",
           "◦",
           "1 Long Vigil melee weapon",
           "■",
           "Up to 3 models can each have their storm bolter",
-          "replaced with one of the following:",
+          "replaced with one of the following",
           "◦",
           "1 assault cannon*",
           "◦",
@@ -1463,7 +1463,7 @@
           "■",
           "Any number of Kill Team Terminator models can",
           "replace their power fist and storm bolter with",
-          "one of the following:",
+          "one of the following",
           "◦",
           "1 storm bolter and 1 power weapon",
           "◦",
@@ -1485,15 +1485,15 @@
           "0-2 Kill Team Bikers",
           "■",
           "0-4 Kill Team Terminators",
-          "Every Kill Team Veteran is equipped with:",
+          "Every Kill Team Veteran is equipped with",
           "boltgun; Long Vigil",
           "melee weapon; close combat weapon.",
-          "Every Kill Team Veteran with Jump Pack is equipped with:",
+          "Every Kill Team Veteran with Jump Pack is equipped with",
           "Long Vigil melee weapon; close combat weapon; jump pack.",
-          "Every Kill Team Biker is equipped with:",
+          "Every Kill Team Biker is equipped with",
           "twin boltgun; close",
           "combat weapon.",
-          "Every Kill Team Terminator is equipped with:",
+          "Every Kill Team Terminator is equipped with",
           "storm bolter;",
           "power fist.",
           "ATTACHED UNIT",
@@ -1638,9 +1638,9 @@
         },
         {
           "name": "ABILITIES",
-          "range": "FACTION:",
+          "range": "FACTION",
           "a": "Kill Team, Oath of Moment",
-          "bws": "Fortis Doctrines:",
+          "bws": "Fortis Doctrines",
           "s": "Each time a model in this unit makes an",
           "ap": "attack that targets a unit that is Below Half-strength, add 1 to",
           "d": "the Hit roll."
@@ -1674,7 +1674,7 @@
         },
         {
           "name": "INTERCESSOR",
-          "range": "KEYWORDS:",
+          "range": "KEYWORDS",
           "a": "Infantry, Kill Team, Grenades, Imperium, Tacticus,",
           "bws": "Fortis Kill Team"
         }
@@ -1710,7 +1710,7 @@
         "values": [
           "■",
           "1 Kill Team Intercessor’s bolt rifle can be",
-          "replaced with one of the following:",
+          "replaced with one of the following",
           "◦",
           "1 hand flamer",
           "◦",
@@ -1721,7 +1721,7 @@
           "1 Long Vigil melee weapon",
           "■",
           "1 model equipped with a bolt rifle can replace its",
-          "close combat weapon with one of the following:",
+          "close combat weapon with one of the following",
           "◦",
           "1 Astartes chainsword",
           "◦",
@@ -1746,17 +1746,17 @@
           "0-4 Kill Team Intercessors with heavy bolt pistols",
           "■",
           "0-2 Kill Team Outriders",
-          "Every Kill Team Intercessor is equipped with:",
+          "Every Kill Team Intercessor is equipped with",
           "bolt pistol; bolt",
           "rifle; close combat weapon.",
           "Every Kill Team Intercessor with plasma incinerator",
-          "is equipped with:",
+          "is equipped with",
           "bolt pistol; plasma incinerator; close",
           "combat weapon.",
           "Every Kill Team Intercessor with heavy bolt pistol is",
-          "equipped with:",
+          "equipped with",
           "heavy bolt pistol; Astartes chainsword.",
-          "Every Kill Team Outrider is equipped with:",
+          "Every Kill Team Outrider is equipped with",
           "bolt pistol; twin",
           "bolt rifle; Astartes chainsword.",
           "ATTACHED UNIT",
@@ -1901,9 +1901,9 @@
         },
         {
           "name": "ABILITIES",
-          "range": "FACTION:",
+          "range": "FACTION",
           "a": "Kill Team, Oath of Moment",
-          "bws": "Indomitor Doctrines:",
+          "bws": "Indomitor Doctrines",
           "s": "Each time a model in this unit makes",
           "ap": "an attack, add 1 to the Hit roll if this unit is below its Starting",
           "d": "Strength, and add 1 to the Wound roll as well if this unit is"
@@ -1911,7 +1911,7 @@
         {
           "name": "Below Half-strength.",
           "range": "WARGEAR ABILITIES",
-          "a": "Jump Pack:",
+          "a": "Jump Pack",
           "bws": "The bearer has a Move characteristic of 10\" and",
           "s": "can move over models and terrain features as if they were",
           "ap": "not there.",
@@ -1931,7 +1931,7 @@
           "range": "3",
           "a": "6+",
           "bws": "1",
-          "s": "KEYWORDS:",
+          "s": "KEYWORDS",
           "ap": "Infantry, Kill Team, Grenades, Imperium, Gravis,",
           "d": "Indomitor Kill Team"
         }
@@ -1990,17 +1990,17 @@
           "0-2 Kill Team Heavy Intercessors with melta rifles",
           "■",
           "0-2 Kill Team Heavy Intercessors with jump packs",
-          "Every Kill Team Heavy Intercessor is equipped with:",
+          "Every Kill Team Heavy Intercessor is equipped with",
           "bolt",
           "pistol*; heavy bolt rifle; close combat weapon.",
           "Every Kill Team Heavy Intercessor with power fists is",
-          "equipped with:",
+          "equipped with",
           "flamestorm gauntlets; power fists.",
           "Every Kill Team Heavy Intercessor with melta rifle is",
-          "equipped with:",
+          "equipped with",
           "bolt pistol*; melta rifle; close combat weapon.",
           "Every Kill Team Heavy Intercessor with jump pack is",
-          "equipped with:",
+          "equipped with",
           "assault bolters; close combat weapon;",
           "jump pack.",
           "*",
@@ -2130,11 +2130,11 @@
         },
         {
           "name": "ABILITIES",
-          "range": "CORE:",
+          "range": "CORE",
           "a": "Infiltrators, Scouts 6\"",
-          "bws": "FACTION:",
+          "bws": "FACTION",
           "s": "Kill Team, Oath of Moment",
-          "ap": "Spectrus Doctrines:",
+          "ap": "Spectrus Doctrines",
           "d": "At the end of your opponent’s turn, if"
         },
         {
@@ -2143,16 +2143,16 @@
           "a": "Strategic Reserves. It will arrive back on the battlefield in the",
           "bws": "Reinforcements step of your next Movement phase.",
           "s": "WARGEAR ABILITIES",
-          "ap": "Helix Gauntlet:",
+          "ap": "Helix Gauntlet",
           "d": "Models in the bearer’s unit have the"
         },
         {
           "name": "Feel No Pain 6+",
           "range": "ability.",
-          "a": "Infiltrator Comms Array:",
+          "a": "Infiltrator Comms Array",
           "bws": "Each time you target the bearer’s",
           "s": "unit with a Stratagem, roll one D6: on a 5+, you gain 1CP.",
-          "ap": "Jump Pack:",
+          "ap": "Jump Pack",
           "d": "The bearer has a Move characteristic of 12\" and"
         },
         {
@@ -2174,7 +2174,7 @@
           "d": "1"
         },
         {
-          "name": "KEYWORDS:",
+          "name": "KEYWORDS",
           "range": "Infantry, Kill Team, Smoke, Grenades, Imperium, Phobos,",
           "a": "Spectrus Kill Team"
         }
@@ -2210,7 +2210,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "One model equipped with a marksman bolt carbine can be equipped with one of the following:",
+          "One model equipped with a marksman bolt carbine can be equipped with one of the following",
           "◦",
           "1 helix gauntlet",
           "◦",
@@ -2233,21 +2233,21 @@
           "0-4 Kill Team Infiltrators with occulus bolt carbines",
           "■",
           "0-4 Kill Team Infiltrators with combat knives",
-          "Every Kill Team Infiltrator is equipped with:",
+          "Every Kill Team Infiltrator is equipped with",
           "bolt pistol;",
           "marksman bolt carbine; close combat weapon.",
           "Every Kill Team Infiltrator with bolt sniper rifle is equipped",
-          "with:",
+          "with",
           "bolt pistol; bolt sniper rifle; close combat weapon.",
-          "Every Kill Team Infiltrator with jump pack is equipped with:",
+          "Every Kill Team Infiltrator with jump pack is equipped with",
           "bolt pistol; accelerator autocannon; close combat weapon;",
           "jump pack.",
           "Every Kill Team Infiltrator with occulus bolt carbine is",
-          "equipped with:",
+          "equipped with",
           "bolt pistol; occulus bolt carbine; paired",
           "combat blades.",
           "Every Kill Team Infiltrator with combat knife is equipped",
-          "with:",
+          "with",
           "special-issue bolt pistol; combat knife.",
           "SPECTRUS KILL TEAM",
           "Sinister, silent and all but invisible until they strike, Spectrus Kill",

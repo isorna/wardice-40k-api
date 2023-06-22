@@ -105,7 +105,7 @@
         "values": [
           "■",
           "1 Armiger Helverin",
-          "This model is equipped with:",
+          "This model is equipped with",
           "2 Armiger autocannons;",
           "Questoris heavy stubber; armoured feet.",
           "ARMIGER HELVERIN",
@@ -229,7 +229,7 @@
         "values": [
           "■",
           "1 Armiger Warglaive",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Questoris heavy stubber;",
           "thermal spear; reaper chain-cleaver.",
           "ARMIGER WARGLAIVE",
@@ -395,7 +395,7 @@
           "■",
           "This model’s reaper chainsword can be replaced with 1 thunderstrike gauntlet.",
           "■",
-          "This model can be equipped with one of the following:",
+          "This model can be equipped with one of the following",
           "◦",
           "1 Icarus autocannons",
           "◦",
@@ -409,7 +409,7 @@
         "values": [
           "■",
           "1 Knight Paladin",
-          "This model is equipped with:",
+          "This model is equipped with",
           "meltagun; Questoris heavy",
           "stubber; rapid-fire battlecannon; reaper chainsword.",
           "KNIGHT PALADIN",
@@ -575,7 +575,7 @@
           "■",
           "This model’s reaper chainsword can be replaced with 1 thunderstrike gauntlet.",
           "■",
-          "This model can be equipped with one of the following:",
+          "This model can be equipped with one of the following",
           "◦",
           "1 Icarus autocannons",
           "◦",
@@ -589,7 +589,7 @@
         "values": [
           "■",
           "1 Knight Errant",
-          "This model is equipped with:",
+          "This model is equipped with",
           "meltagun;",
           "thermal cannon; reaper chainsword.",
           "KNIGHT ERRANT",
@@ -745,7 +745,7 @@
           "■",
           "This model’s meltagun can be replaced with 1 Questoris heavy stubber.",
           "■",
-          "This model can be equipped with one of the following:",
+          "This model can be equipped with one of the following",
           "◦",
           "1 Icarus autocannons",
           "◦",
@@ -759,7 +759,7 @@
         "values": [
           "■",
           "1 Knight Gallant",
-          "This model is equipped with:",
+          "This model is equipped with",
           "meltagun; thunderstrike",
           "gauntlet; reaper chainsword.",
           "KNIGHT GALLANT",
@@ -934,7 +934,7 @@
           "■",
           "This model’s reaper chainsword can be replaced with 1 thunderstrike gauntlet.",
           "■",
-          "This model can be equipped with one of the following:",
+          "This model can be equipped with one of the following",
           "◦",
           "1 Icarus autocannons",
           "◦",
@@ -948,7 +948,7 @@
         "values": [
           "■",
           "1 Knight Warden",
-          "This model is equipped with:",
+          "This model is equipped with",
           "avenger gatling cannon;",
           "heavy flamer; meltagun; reaper chainsword.",
           "KNIGHT WARDEN",
@@ -1109,11 +1109,11 @@
           "■",
           "This model’s meltagun can be replaced with 1 Questoris heavy stubber.",
           "■",
-          "This model’s thermal cannon can be replaced with:",
+          "This model’s thermal cannon can be replaced with",
           "◦",
           "1 rapid-fire battlecannon and 1 Questoris heavy stubber",
           "■",
-          "This model can be equipped with one of the following:",
+          "This model can be equipped with one of the following",
           "◦",
           "1 Icarus autocannons",
           "◦",
@@ -1127,7 +1127,7 @@
         "values": [
           "■",
           "1 Knight Crusader",
-          "This model is equipped with:",
+          "This model is equipped with",
           "avenger gatling cannon;",
           "heavy flamer; meltagun; thermal cannon; titanic feet.",
           "KNIGHT CRUSADER",
@@ -1308,7 +1308,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model’s Preceptor multi-laser can be replaced with one of the following:",
+          "This model’s Preceptor multi-laser can be replaced with one of the following",
           "◦",
           "1 meltagun",
           "◦",
@@ -1316,7 +1316,7 @@
           "■",
           "This model’s reaper chainsword can be replaced with 1 thunderstrike gauntlet.",
           "■",
-          "This model can be equipped with one of the following:",
+          "This model can be equipped with one of the following",
           "◦",
           "1 Icarus autocannons",
           "◦",
@@ -1330,7 +1330,7 @@
         "values": [
           "■",
           "1 Knight Preceptor",
-          "This model is equipped with:",
+          "This model is equipped with",
           "las-impulsor;",
           "Preceptor multi-laser; reaper chainsword.",
           "KNIGHT PRECEPTOR",
@@ -1465,7 +1465,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model’s 2 shieldbreaker missile launchers and twin siegebreaker cannon can be replaced with:",
+          "This model’s 2 shieldbreaker missile launchers and twin siegebreaker cannon can be replaced with",
           "◦",
           "1 shieldbreaker missile launcher and 2 twin siegebreaker cannons"
         ]
@@ -1475,7 +1475,7 @@
         "values": [
           "■",
           "1 Knight Castellan",
-          "This model is equipped with:",
+          "This model is equipped with",
           "plasma decimator;",
           "2 shieldbreaker missile launchers; 2 twin meltaguns;",
           "twin siegebreaker cannon, volcano lance; titanic feet.",
@@ -1600,7 +1600,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model’s 2 shieldbreaker missile launchers and twin siegebreaker cannon can be replaced with:",
+          "This model’s 2 shieldbreaker missile launchers and twin siegebreaker cannon can be replaced with",
           "◦",
           "1 shieldbreaker missile launcher and 2 twin siegebreaker cannons"
         ]
@@ -1610,7 +1610,7 @@
         "values": [
           "■",
           "1 Knight Valiant",
-          "This model is equipped with:",
+          "This model is equipped with",
           "conflagration cannon;",
           "2 shieldbreaker missile launchers; thundercoil harpoon;",
           "2 twin meltaguns; twin siegebreaker cannon, titanic feet.",
@@ -1632,7 +1632,7 @@
     "name": "CANIS REX",
     "subtype": "If Canis Rex is destroyed, flip this card and follow the",
     "keywords": [
-      "KEYWORDS:"
+      "KEYWORDS"
     ],
     "weapons": {
       "ranged": [
@@ -1697,7 +1697,7 @@
           "d": "Epic Hero"
         },
         {
-          "name": "Canis Rex is equipped with:",
+          "name": "Canis Rex is equipped with",
           "range": "Chainbreaker las-impulsor;",
           "a": "Chainbreaker multi-laser; Freedom’s Hand."
         },
@@ -1745,11 +1745,11 @@
           "■",
           "1 Sir Hekhtur -",
           "Epic Hero",
-          "Sir Hekhtur is equipped with:",
+          "Sir Hekhtur is equipped with",
           "Hekhtur’s pistol; close",
           "combat weapon.",
           "ABILITIES",
-          "CORE:",
+          "CORE",
           "Lone Operative",
           "USING SIR HEKHTUR",
           "When your Canis Rex model is destroyed, Sir Hekhtur is",

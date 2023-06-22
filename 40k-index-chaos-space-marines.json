@@ -54,12 +54,12 @@
         },
         {
           "name": "WARMASTER",
-          "range": "Paragon of Hatred (Aura):",
+          "range": "Paragon of Hatred (Aura)",
           "a": "While a friendly",
           "bws": "Heretic Astartes",
           "s": "unit is within 6\" of this model, each time a",
           "ap": "model in that unit makes an attack, you can re-roll the Hit roll.",
-          "d": "Mark of Chaos Ascendant (Aura):"
+          "d": "Mark of Chaos Ascendant (Aura)"
         },
         {
           "name": "While a friendly",
@@ -68,7 +68,7 @@
           "bws": "Heretic Astartes",
           "s": "Mounted",
           "ap": "unit is within 6\" of this model, models in that unit have a 4+ invulnerable save.",
-          "d": "Lord of the Traitor Legions (Aura):"
+          "d": "Lord of the Traitor Legions (Aura)"
         },
         {
           "name": "While a friendly",
@@ -114,14 +114,14 @@
           "■",
           "1 Abaddon the Despoiler -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Talon of Horus; Drach’nyen."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Chaos Terminator Squad",
           "■",
@@ -219,14 +219,14 @@
           "■",
           "1 Haarken Worldclaimer -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Helspear; Herald’s Talon."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Raptors",
           "HAARKEN WORLDCLAIMER",
@@ -323,14 +323,14 @@
           "■",
           "1 Huron Blackheart -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Tyrant’s Claw; exalted weapon."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Chosen",
           "■",
@@ -392,25 +392,25 @@
         },
         {
           "name": "DAEMONIC ALLEGIANCE",
-          "range": "Daemon Prince of Khorne:",
+          "range": "Daemon Prince of Khorne",
           "a": "If this model has the",
           "bws": "Khorne",
           "s": "keyword, add 2 to the Strength characteristic of",
           "ap": "its hellforged weapons.",
-          "d": "Daemon Prince of Tzeentch:"
+          "d": "Daemon Prince of Tzeentch"
         },
         {
           "name": "If this model has the",
           "range": "Tzeentch",
           "a": "keyword, add 3 to the Attacks characteristic",
           "bws": "of its infernal cannon.",
-          "s": "Daemon Prince of Nurgle:",
+          "s": "Daemon Prince of Nurgle",
           "ap": "If this model has the",
           "d": "Nurgle"
         },
         {
           "name": "keyword, add 1 to its Toughness characteristic.",
-          "range": "Daemon Prince of Slaanesh:",
+          "range": "Daemon Prince of Slaanesh",
           "a": "If this model has the",
           "bws": "Slaanesh",
           "s": "keyword, add 2\" to its Move characteristic."
@@ -454,7 +454,7 @@
         "values": [
           "■",
           "1 Heretic Astartes Daemon Prince",
-          "This model is equipped with:",
+          "This model is equipped with",
           "infernal cannon;",
           "hellforged weapons.",
           "HERETIC ASTARTES DAEMON PRINCE",
@@ -514,25 +514,25 @@
         },
         {
           "name": "DAEMONIC ALLEGIANCE",
-          "range": "Daemon Prince of Khorne:",
+          "range": "Daemon Prince of Khorne",
           "a": "If this model has the",
           "bws": "Khorne",
           "s": "keyword, add 2 to the Strength characteristic of",
           "ap": "its hellforged weapons.",
-          "d": "Daemon Prince of Tzeentch:"
+          "d": "Daemon Prince of Tzeentch"
         },
         {
           "name": "If this model has the",
           "range": "Tzeentch",
           "a": "keyword, add 3 to the Attacks characteristic",
           "bws": "of its infernal cannon.",
-          "s": "Daemon Prince of Nurgle:",
+          "s": "Daemon Prince of Nurgle",
           "ap": "If this model has the",
           "d": "Nurgle"
         },
         {
           "name": "keyword, add 1 to its Toughness characteristic.",
-          "range": "Daemon Prince of Slaanesh:",
+          "range": "Daemon Prince of Slaanesh",
           "a": "If this model has the",
           "bws": "Slaanesh",
           "s": "keyword, add 2\" to its Move characteristic."
@@ -577,7 +577,7 @@
         "values": [
           "■",
           "1 Heretic Astartes Daemon Prince with Wings",
-          "This model is equipped with:",
+          "This model is equipped with",
           "infernal cannon;",
           "hellforged weapons.",
           "HERETIC ASTARTES DAEMON PRINCE",
@@ -682,10 +682,10 @@
           "Epic Hero",
           "■",
           "1 Surgeon Acolyte",
-          "Fabius Bile is equipped with:",
+          "Fabius Bile is equipped with",
           "Xyclos Needler; Chirurgeon;",
           "Rod of Torment.",
-          "The Surgeon Acolyte is equipped with:",
+          "The Surgeon Acolyte is equipped with",
           "Surgeon",
           "Acolyte’s tools."
         ]
@@ -693,7 +693,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This unit can be attached to the following units:",
+          "This unit can be attached to the following units",
           "■",
           "Chosen",
           "■",
@@ -705,9 +705,9 @@
           "while with his other he fires toxic darts from the Xyclos Needler, as the",
           "arachnid arms of his Chirurgeon seal his own injuries.",
           "KEYWORDS",
-          "- ALL MODELS:",
+          "- ALL MODELS",
           "Infantry, Chaos, Chaos Undivided",
-          "- FABIUS BILE ONLY:",
+          "- FABIUS BILE ONLY",
           "Character, Epic Hero, Fabius Bile"
         ]
       }
@@ -796,7 +796,7 @@
           "■",
           "1 Cypher -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Cypher’s bolt pistol; Cypher’s",
           "plasma pistol; close combat weapon.",
           "CYPHER",
@@ -903,7 +903,7 @@
         "values": [
           "■",
           "1 Master of Possession",
-          "This model is equipped with:",
+          "This model is equipped with",
           "bolt pistol; Rite of Possession;",
           "staff of possession."
         ]
@@ -911,7 +911,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Chosen",
           "■",
@@ -1041,7 +1041,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model’s daemon hammer can be replaced with one of the following:",
+          "This model’s daemon hammer can be replaced with one of the following",
           "◦",
           "1 accursed weapon",
           "◦",
@@ -1049,7 +1049,7 @@
           "◦",
           "1 power fist",
           "■",
-          "This model’s plasma pistol can be replaced with one of the following:",
+          "This model’s plasma pistol can be replaced with one of the following",
           "◦",
           "1 bolt pistol",
           "◦",
@@ -1067,14 +1067,14 @@
         "values": [
           "■",
           "1 Chaos Lord",
-          "This model is equipped with:",
+          "This model is equipped with",
           "plasma pistol; daemon hammer."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Chosen",
           "■",
@@ -1200,14 +1200,14 @@
         "values": [
           "■",
           "1 Chaos Lord in Terminator Armour",
-          "This model is equipped with:",
+          "This model is equipped with",
           "combi-bolter; exalted weapon."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Chaos Terminator Squad",
           "CHAOS LORD",
@@ -1316,7 +1316,7 @@
         "values": [
           "■",
           "1 Sorcerer",
-          "This model is equipped with:",
+          "This model is equipped with",
           "bolt pistol; Infernal Gaze;",
           "force weapon."
         ]
@@ -1324,7 +1324,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Chosen",
           "■",
@@ -1445,7 +1445,7 @@
         "values": [
           "■",
           "1 Sorcerer in Terminator Armour",
-          "This model is equipped with:",
+          "This model is equipped with",
           "combi-bolter; Infernal Gaze;",
           "force weapon."
         ]
@@ -1453,7 +1453,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following unit:",
+          "This model can be attached to the following unit",
           "■",
           "Chaos Terminator Squad",
           "SORCERER",
@@ -1542,7 +1542,7 @@
           "■",
           "1 Lucius the Eternal -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "doom siren; duellist’s sword and",
           "Lash of Torment."
         ]
@@ -1550,7 +1550,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Legionaries",
           "■",
@@ -1695,7 +1695,7 @@
         "values": [
           "■",
           "1 Lord Discordant on Helstalker",
-          "This model is equipped with:",
+          "This model is equipped with",
           "bolt pistol; Helstalker",
           "autocannon; techno-virus injector; bladed limbs;",
           "impaler chainglaive.",
@@ -1824,7 +1824,7 @@
         "values": [
           "■",
           "1 Warpsmith",
-          "This model is equipped with:",
+          "This model is equipped with",
           "flamer tendril; melta tendril;",
           "plasma pistol; exalted weapon."
         ]
@@ -1832,7 +1832,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Chosen",
           "■",
@@ -1930,7 +1930,7 @@
         "values": [
           "■",
           "1 Exalted Champion",
-          "This model is equipped with:",
+          "This model is equipped with",
           "bolt pistol; combi-weapon;",
           "exalted weapon."
         ]
@@ -1938,7 +1938,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Chosen",
           "■",
@@ -2047,17 +2047,17 @@
           "1 Dark Apostle",
           "■",
           "2 Dark Disciples",
-          "The Dark Apostle is equipped with:",
+          "The Dark Apostle is equipped with",
           "bolt pistol;",
           "accursed crozius.",
-          "Every Dark Disciple is equipped with:",
+          "Every Dark Disciple is equipped with",
           "close combat weapon."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Accursed Cultists",
           "■",
@@ -2073,9 +2073,9 @@
           "accursed crozius, they roar profane blessings using their deadliest",
           "weapon: their voice.",
           "KEYWORDS",
-          "- ALL MODELS:",
+          "- ALL MODELS",
           "Infantry, Grenades, Chaos",
-          "- DARK APOSTLE ONLY:",
+          "- DARK APOSTLE ONLY",
           "Character, Dark Apostle"
         ]
       }
@@ -2196,23 +2196,23 @@
           "1 Iconarch",
           "■",
           "2 Blessed Blades",
-          "The Cult Demagogue is equipped with:",
+          "The Cult Demagogue is equipped with",
           "autopistol;",
           "Commune stave.",
-          "The Mindwitch is equipped with:",
+          "The Mindwitch is equipped with",
           "Warp Curse; close",
           "combat weapon.",
-          "The Iconarch is equipped with:",
+          "The Iconarch is equipped with",
           "autopistol; close combat",
           "weapon; Chaos icon.",
-          "Every Blessed Blade is equipped with:",
+          "Every Blessed Blade is equipped with",
           "Commune blade."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This unit can be attached to the following units:",
+          "This unit can be attached to the following units",
           "■",
           "Accursed Cultists",
           "■",
@@ -2223,12 +2223,12 @@
           "promises of power. They command Mindwitches, whose psychic",
           "powers are bought at terrible cost, and Iconarchs, who carry foul",
           "sigils that spread the Dark Gods’ malefic influence.",
-          "KEYWORDS - ALL MODELS:",
+          "KEYWORDS - ALL MODELS",
           "Infantry, Grenades, Chaos, Dark Commune",
           "|",
-          "MINDWITCH ONLY:",
+          "MINDWITCH ONLY",
           "Psyker",
-          "| CULT DEMAGOGUE ONLY:",
+          "| CULT DEMAGOGUE ONLY",
           "Character, Cult Demagogue"
         ]
       }
@@ -2409,7 +2409,7 @@
           "1 Aspiring Champion",
           "■",
           "4-9 Legionaries",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "bolt pistol; boltgun; close",
           "combat weapon.",
           "LEGIONARIES",
@@ -2425,7 +2425,7 @@
           "Champion’s",
           "boltgun",
           "can be",
-          "replaced with one of the following:",
+          "replaced with one of the following",
           "◦",
           "1 plasma pistol*",
           "◦",
@@ -2436,7 +2436,7 @@
           "1 heavy melee weapon",
           "■",
           "The Aspiring Champion’s bolt pistol can be",
-          "replaced with one of the following:",
+          "replaced with one of the following",
           "◦",
           "1 plasma pistol*",
           "◦",
@@ -2459,7 +2459,7 @@
           "■",
           "For every 5 models in this unit, 1 Legionary’s",
           "boltgun can be replaced with one of the",
-          "following (duplicates are not allowed):",
+          "following (duplicates are not allowed)",
           "◦",
           "1 plasma pistol",
           "◦",
@@ -2638,7 +2638,7 @@
           "1 Cultist Champion",
           "■",
           "9-19 Chaos Cultists",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "autopistol; brutal",
           "assault weapon.",
           "CULTIST MOB",
@@ -2722,9 +2722,9 @@
           "3-6 Torments",
           "■",
           "5-10 Mutants",
-          "Every Torment is equipped with:",
+          "Every Torment is equipped with",
           "hideous mutations.",
-          "Every Mutant is equipped with:",
+          "Every Mutant is equipped with",
           "blasphemous appendages.",
           "ACCURSED CULTISTS",
           "Whether born of dark ritual, empyric experimentation or the predations",
@@ -2855,7 +2855,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "For every 5 models in this unit, 1 Terminator’s combi-bolter can be replaced with one of the following:",
+          "For every 5 models in this unit, 1 Terminator’s combi-bolter can be replaced with one of the following",
           "◦",
           "1 heavy flamer",
           "◦",
@@ -2879,7 +2879,7 @@
           "1 Terminator Champion",
           "■",
           "4-9 Chaos Terminators",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "combi-bolter;",
           "accursed weapon.",
           "CHAOS TERMINATOR SQUAD",
@@ -2965,7 +2965,7 @@
         "values": [
           "■",
           "1 Master of Executions",
-          "This model is equipped with:",
+          "This model is equipped with",
           "bolt pistol;",
           "axe of dismemberment."
         ]
@@ -2973,7 +2973,7 @@
       {
         "name": "LEADER",
         "values": [
-          "This model can be attached to the following units:",
+          "This model can be attached to the following units",
           "■",
           "Chosen",
           "■",
@@ -3062,7 +3062,7 @@
           "1 Possessed Champion",
           "■",
           "4-9 Possessed",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "hideous mutations.",
           "POSSESSED",
           "In blasphemous union with fell daemons of the Chaos Gods,",
@@ -3217,7 +3217,7 @@
           "1 Chosen Champion",
           "■",
           "4-9 Chosen",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "boltgun; bolt pistol;",
           "accursed weapon.",
           "CHOSEN",
@@ -3390,7 +3390,7 @@
         "values": [
           "■",
           "Any number of Noise Marines can each have their",
-          "boltgun replaced with one of the following:",
+          "boltgun replaced with one of the following",
           "◦",
           "1 Astartes chainsword",
           "◦",
@@ -3400,7 +3400,7 @@
           "1 blastmaster.",
           "■",
           "The Noise Champion’s bolt pistol can be replaced with",
-          "one of the following:",
+          "one of the following",
           "◦",
           "1 plasma pistol*",
           "◦",
@@ -3411,7 +3411,7 @@
           "1 power fist",
           "■",
           "The Noise Champion’s boltgun can be",
-          "replaced with one of the following:",
+          "replaced with one of the following",
           "◦",
           "1 plasma pistol*",
           "◦",
@@ -3438,7 +3438,7 @@
           "1 Noise Champion",
           "■",
           "4-9 Noise Marines",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "bolt pistol; boltgun; close",
           "combat weapon.",
           "NOISE MARINES",
@@ -3522,7 +3522,7 @@
         "values": [
           "■",
           "1 Venomcrawler",
-          "This model is equipped with:",
+          "This model is equipped with",
           "2 excruciator cannons;",
           "soulflayer tendrils and claws.",
           "VENOMCRAWLER",
@@ -3701,7 +3701,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "The Biker Champion’s bolt pistol can be replaced with one of the following:",
+          "The Biker Champion’s bolt pistol can be replaced with one of the following",
           "◦",
           "1 plasma pistol",
           "◦",
@@ -3715,7 +3715,7 @@
           "Any number of Chaos Bikers can each have their bolt pistol replaced with 1 Astartes chainsword.",
           "■",
           "Up to 2 Chaos Bikers can each have their combi-bolter replaced with 1 combi-weapon, or can be",
-          "equipped with one of the following:",
+          "equipped with one of the following",
           "◦",
           "1 flamer",
           "◦",
@@ -3733,7 +3733,7 @@
           "1 Biker Champion",
           "■",
           "2-5 Chaos Bikers",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "bolt pistol; combi-bolter; close",
           "combat weapon.",
           "CHAOS BIKERS",
@@ -3897,14 +3897,14 @@
           "■",
           "The Raptor Champion’s bolt pistol can be replaced with 1 plasma pistol.",
           "■",
-          "The Raptor Champion’s Astartes chainsword can be replaced with one of the following:",
+          "The Raptor Champion’s Astartes chainsword can be replaced with one of the following",
           "◦",
           "1 accursed weapon",
           "◦",
           "1 power fist",
           "■",
           "For every 5 models in this unit, up to 2 Raptors can each have their bolt pistol replaced with 1 plasma",
-          "pistol, or have theirbolt pistol and Astartes chainsword replaced with one of the following:",
+          "pistol, or have theirbolt pistol and Astartes chainsword replaced with one of the following",
           "◦",
           "1 flamer and 1 close combat weapon",
           "◦",
@@ -3920,7 +3920,7 @@
           "1 Raptor Champion",
           "■",
           "4-9 Raptors",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "bolt pistol;",
           "Astartes chainsword.",
           "RAPTORS",
@@ -3999,7 +3999,7 @@
           "1 Warp Talon Champion",
           "■",
           "4-9 Warp Talons",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "warp claws.",
           "WARP TALONS",
           "Often appearing from the immaterium, wreathed in unholy fire and",
@@ -4157,14 +4157,14 @@
         "values": [
           "■",
           "The Havoc Champion’s Astartes chainsword can",
-          "be replaced with one of the following:",
+          "be replaced with one of the following",
           "◦",
           "1 accursed weapon",
           "◦",
           "1 power fist",
           "■",
           "The Havoc Champion’s flamer can be replaced",
-          "with one of the following:",
+          "with one of the following",
           "◦",
           "1 boltgun*",
           "◦",
@@ -4183,7 +4183,7 @@
           "■",
           "Any number of Havocs can each have their",
           "Havoc autocannon or Havoc lascannon replaced",
-          "with one of the following:",
+          "with one of the following",
           "◦",
           "1 Havoc autocannon",
           "◦",
@@ -4203,13 +4203,13 @@
           "1 Havoc Champion",
           "■",
           "4 Havocs",
-          "The Havoc Champion is equipped with:",
+          "The Havoc Champion is equipped with",
           "flamer;",
           "Astartes chainsword.",
-          "2 Havocs are equipped with:",
+          "2 Havocs are equipped with",
           "Havoc autocannon; close",
           "combat weapon.",
-          "2 Havocs are equipped with:",
+          "2 Havocs are equipped with",
           "Havoc lascannon; close",
           "combat weapon.",
           "HAVOCS",
@@ -4315,7 +4315,7 @@
         "values": [
           "■",
           "2-4 Obliterators",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "fleshmetal guns;",
           "crushing fists.",
           "OBLITERATORS",
@@ -4428,7 +4428,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model can be equipped with one of the following:",
+          "This model can be equipped with one of the following",
           "◦",
           "1 combi-bolter",
           "◦",
@@ -4442,7 +4442,7 @@
         "values": [
           "■",
           "1 Chaos Land Raider",
-          "This model is equipped with:",
+          "This model is equipped with",
           "2 soulshatter lascannons; twin",
           "heavy bolter; armoured tracks."
         ]
@@ -4582,13 +4582,13 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model can be equipped with one of the following:",
+          "This model can be equipped with one of the following",
           "◦",
           "2 heavy bolters",
           "◦",
           "2 lascannons",
           "■",
-          "This model can be equipped with one of the following:",
+          "This model can be equipped with one of the following",
           "◦",
           "1 combi-bolter",
           "◦",
@@ -4602,7 +4602,7 @@
         "values": [
           "■",
           "1 Chaos Predator Annihilator",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Predator twin lascannon;",
           "armoured tracks.",
           "CHAOS PREDATOR ANNIHILATOR",
@@ -4723,13 +4723,13 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model can be equipped with one of the following:",
+          "This model can be equipped with one of the following",
           "◦",
           "2 heavy bolters",
           "◦",
           "2 lascannons",
           "■",
-          "This model can be equipped with one of the following:",
+          "This model can be equipped with one of the following",
           "◦",
           "1 combi-bolter",
           "◦",
@@ -4743,7 +4743,7 @@
         "values": [
           "■",
           "1 Chaos Predator Destructor",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Predator autocannon;",
           "armoured tracks.",
           "CHAOS PREDATOR DESTRUCTOR",
@@ -4847,7 +4847,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model can be equipped with one of the following:",
+          "This model can be equipped with one of the following",
           "◦",
           "1 combi-bolter",
           "◦",
@@ -4861,7 +4861,7 @@
         "values": [
           "■",
           "1 Chaos Vindicator",
-          "This model is equipped with:",
+          "This model is equipped with",
           "demolisher cannon;",
           "armoured tracks.",
           "CHAOS VINDICATOR",
@@ -5012,19 +5012,19 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model’s twin heavy flamer can be replaced with one of the following:",
+          "This model’s twin heavy flamer can be replaced with one of the following",
           "◦",
           "1 Defiler scourge",
           "◦",
           "1 havoc launcher",
           "■",
-          "This model’s reaper autocannon can be replaced with one of the following:",
+          "This model’s reaper autocannon can be replaced with one of the following",
           "◦",
           "1 twin heavy bolter",
           "◦",
           "1 twin lascannon",
           "■",
-          "This model can be equipped with one of the following:",
+          "This model can be equipped with one of the following",
           "◦",
           "1 combi-bolter",
           "◦",
@@ -5036,7 +5036,7 @@
         "values": [
           "■",
           "1 Defiler",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Defiler cannon; reaper",
           "autocannon; twin heavy flamer; Defiler claws.",
           "DEFILER",
@@ -5142,7 +5142,7 @@
         "values": [
           "■",
           "1 Forgefiend",
-          "This model is equipped with:",
+          "This model is equipped with",
           "2 Hades autocannons;",
           "Forgefiend jaws.",
           "FORGEFIEND",
@@ -5320,7 +5320,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model’s multi-melta can be replaced with one of the following:",
+          "This model’s multi-melta can be replaced with one of the following",
           "◦",
           "1 Helbrute plasma cannon",
           "◦",
@@ -5332,7 +5332,7 @@
           "◦",
           "1 Helbrute fist",
           "■",
-          "This model’s missile launcher can be replaced with one of the following:",
+          "This model’s missile launcher can be replaced with one of the following",
           "◦",
           "1 Helbrute fist",
           "◦",
@@ -5340,7 +5340,7 @@
           "◦",
           "1 power scourge",
           "■",
-          "For each Helbrute fist this model is equipped with, it can be equipped with one of the following:",
+          "For each Helbrute fist this model is equipped with, it can be equipped with one of the following",
           "◦",
           "1 combi-bolter",
           "◦",
@@ -5352,7 +5352,7 @@
         "values": [
           "■",
           "1 Helbrute",
-          "This model is equipped with:",
+          "This model is equipped with",
           "missile launcher; multi-melta;",
           "close combat weapon",
           "HELBRUTE",
@@ -5447,7 +5447,7 @@
         "values": [
           "■",
           "1 Heldrake",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Hades autocannon;",
           "Heldrake claws.",
           "HELDRAKE",
@@ -5541,7 +5541,7 @@
         "values": [
           "■",
           "1 Maulerfiend",
-          "This model is equipped with:",
+          "This model is equipped with",
           "lasher tendrils;",
           "Maulerfiend fists.",
           "MAULERFIEND",
@@ -5636,7 +5636,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model can be equipped with one of the following:",
+          "This model can be equipped with one of the following",
           "◦",
           "1 combi-bolter",
           "◦",
@@ -5650,7 +5650,7 @@
         "values": [
           "■",
           "1 Chaos Rhino",
-          "This model is equipped with:",
+          "This model is equipped with",
           "combi-bolter; armoured tracks."
         ]
       },
@@ -5735,7 +5735,7 @@
         "values": [
           "■",
           "2 Chaos Spawn",
-          "Every model is equipped with:",
+          "Every model is equipped with",
           "hideous mutations.",
           "CHAOS SPAWN",
           "Becoming a Chaos Spawn is the fate of many upon the Path to Glory.",
@@ -5860,7 +5860,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "This model’s gorestorm cannon can be replaced with one of the following:",
+          "This model’s gorestorm cannon can be replaced with one of the following",
           "◦",
           "1 daemongore cannon",
           "◦",
@@ -5875,7 +5875,7 @@
         "values": [
           "■",
           "1 Khorne Lord of Skulls",
-          "This model is equipped with:",
+          "This model is equipped with",
           "gorestorm cannon;",
           "Hades gatling cannon; great cleaver of Khorne.",
           "KHORNE LORD OF SKULLS",
@@ -5950,7 +5950,7 @@
         "values": [
           "■",
           "1 Noctilith Crown",
-          "This model is equipped with:",
+          "This model is equipped with",
           "lashing warp energies.",
           "NOCTILITH CROWN",
           "Wreathed in fluctuating, eldritch energies, Noctilith Crowns are ritual",
@@ -6050,7 +6050,7 @@
           "■",
           "1 Vashtorr the Arkifane -",
           "Epic Hero",
-          "This model is equipped with:",
+          "This model is equipped with",
           "Vashtorr’s claw;",
           "Vashtorr’s hammer.",
           "VASHTORR THE ARKIFANE",
@@ -6227,7 +6227,7 @@
         "name": "WARGEAR OPTIONS",
         "values": [
           "■",
-          "Up to 3 Traitor Guardsmen can each have their lasgun replaced with one of the following:",
+          "Up to 3 Traitor Guardsmen can each have their lasgun replaced with one of the following",
           "◦",
           "1 Cultist grenade launcher",
           "◦",
@@ -6239,7 +6239,7 @@
           "◦",
           "1 Cultist sniper rifle",
           "■",
-          "The Traitor Sergeant’s close combat weapon can be replaced with one of the following:",
+          "The Traitor Sergeant’s close combat weapon can be replaced with one of the following",
           "◦",
           "1 chainsword",
           "◦",
@@ -6255,10 +6255,10 @@
           "1 Traitor Sergeant",
           "■",
           "9 Traitor Guardsmen",
-          "The Traitor Sergeant is equipped with:",
+          "The Traitor Sergeant is equipped with",
           "corrupted pistol; close",
           "combat weapon.",
-          "Every Traitor Guardsman is equipped with:",
+          "Every Traitor Guardsman is equipped with",
           "lasgun; close",
           "combat weapon.",
           "TRAITOR GUARDSMEN SQUAD",
@@ -6414,10 +6414,10 @@
           "1 Fellgor Champion",
           "■",
           "9 Fellgor Beastmen",
-          "The Fellgor Champion is equipped with:",
+          "The Fellgor Champion is equipped with",
           "bolt",
           "pistol; chainsword.",
-          "Every Fellgor Beastman is equipped with:",
+          "Every Fellgor Beastman is equipped with",
           "autopistol; close",
           "combat weapon.",
           "FELLGOR BEASTMEN",
@@ -6520,16 +6520,16 @@
           "1 Traitor Enforcer",
           "■",
           "1 Traitor Ogryn",
-          "The Traitor Enforcer is equipped with:",
+          "The Traitor Enforcer is equipped with",
           "bolt pistol; power fist.",
-          "The Traitor Ogryn is equipped with:",
+          "The Traitor Ogryn is equipped with",
           "Ogryn weapons."
         ]
       },
       {
         "name": "LEADER",
         "values": [
-          "This unit can be attached to the following unit:",
+          "This unit can be attached to the following unit",
           "■",
           "Traitor Guardsmen Squad",
           "TRAITOR ENFORCER",
@@ -6539,9 +6539,9 @@
           "position by exploiting savage Traitor Ogryns as living shields, crude",
           "line-breakers and added muscle to help impose their violent rule.",
           "KEYWORDS",
-          "- ALL MODELS:",
+          "- ALL MODELS",
           "Infantry, Chaos, Grenades",
-          "- TRAITOR ENFORCER ONLY:",
+          "- TRAITOR ENFORCER ONLY",
           "Character, Traitor Enforcer"
         ]
       }

@@ -1,50 +1,110 @@
 {
   "factionId": "adeptus-custodes",
-  "rules": {
-    "name": "MARTIAL KA’TAH",
-    "rules": [
-      {
-        "text": ""
-      },
-      {
-        "text": ""
-      },
-      {
-        "list": [
-          "",
-          ""
-        ]
-      }
-    ]
-  },
+  "rules": [
+    {
+      "title": "MARTIAL KA’TAH",
+      "rules": [
+        {
+          "text": "At the start of the Fight phase, select one Ka’tah Stance from the list below to be active for your army until the end of the phase. While a Ka’tah Stance is active for your army, each unit from your army with this ability gains the relevant ability."
+        },
+        {
+          "title": "KAPTARIS STANCE"
+        },
+        {
+          "text": "Each time a melee attack targets this unit, subtract 1 from the Hit roll."
+        },
+        {
+          "title": "DACATARAI STANCE"
+        },
+        {
+          "text": "Melee weapons equipped by models in this unit have the [SUSTAINED HITS 1] ability."
+        },
+        {
+          "title": "RENDAX STANCE"
+        },
+        {
+          "text": "Melee weapons equipped by models in this unit have the [LETHAL HITS] ability."
+        }
+      ]
+    }
+  ],
   "detachments": [
     {
       "title": "SHIELD HOST",
       "rules": [
         {
-          "title": ""
+          "title": "AEGIS OF THE EMPEROR"
         },
         {
-          "text": ""
-        },
-        {
-          "list": [
-            "",
-            ""
-          ]
+          "text": "Adeptus Custodes models from your army have the Feel No Pain 4+ ability against mortal wounds."
         }
       ],
       "stratagems": [
         {
-          "title": "",
-          "cost": "CP",
-          "category": "BATTLE TACTIC STRATAGEM",
-          "phase": ["CHARGE", "FIGHT", "MOVEMENT", "SHOOTING"],
+          "title": "SLAYERS OF NIGHTMARES",
+          "cost": "1CP",
+          "category": "SHIELD HOST - BATTLE TACTIC STRATAGEM",
+          "phase": ["FIGHT"],
           "rules": {
-            "when": "phase",
-            "target": "",
-            "effect": "",
-            "restrictions": ""
+            "when": "Fight phase",
+            "target": "One Adeptus Custodes unit from your army that has not been selected to fight this phase.",
+            "effect": "Until the end of the phase, each time a model in your unit makes an attack that targets a Monster or Vehicle unit, add 1 to the Wound roll."
+          }
+        },
+        {
+          "title": "AVENGE THE FALLEN",
+          "cost": "1CP",
+          "category": "SHIELD HOST - BATTLE TACTIC STRATAGEM",
+          "phase": ["FIGHT"],
+          "rules": {
+            "when": "Start of the Fight phase.",
+            "target": "One Adeptus Custodes unit from your army that is below its Starting Strength and has not been selected to fight this phase.",
+            "effect": "Until the end of the phase, add 1 to the Attacks characteristic of melee weapons equipped by models in that unit. If that unit is Below Half-strength, until the end of the phase, add 2 to the Attacks characteristic of those melee weapons instead."
+          }
+        },
+        {
+          "title": "UNWAVERING SENTINELS",
+          "cost": "2CP",
+          "category": "SHIELD HOST - BATTLE TACTIC STRATAGEM",
+          "phase": ["FIGHT"],
+          "rules": {
+            "when": "Start of the Fight phase.",
+            "target": "One Adeptus Custodes unit from your army (excluding Anathema Psykana units) that is within range of an objective marker.",
+            "effect": "Until the end of the phase, your unit has the Fights First ability."
+          }
+        },
+        {
+          "title": "ARCANE GENETIC ALCHEMY",
+          "cost": "2CP",
+          "category": "SHIELD HOST - BATTLE TACTIC STRATAGEM",
+          "phase": ["FIGHT", "SHOOTING"],
+          "rules": {
+            "when": "Your opponent’s Shooting phase or 2CP the Fight phase, just after an enemy unit has selected its targets.",
+            "target": "One Adeptus Custodes Infantry unit from your army (excluding Anathema Psykana units) that was selected as the target of one or more of that enemy unit’s attacks.",
+            "effect": "Until the end of the phase, each time an attack is allocated to a model in your unit, subtract 1 from the Damage characteristic of that attack."
+          }
+        },
+        {
+          "title": "VIGIL UNENDING",
+          "cost": "1CP",
+          "category": "SHIELD HOST - EPIC DEED STRATAGEM",
+          "phase": ["COMMAND"],
+          "rules": {
+            "when": "Your Command phase.",
+            "target": "One Adeptus Custodes Infantry unit from your army (excluding Anathema Psykana units).",
+            "effect": "One destroyed model (excluding Character models) is returned to your unit with its full wounds remaining.",
+            "restrictions": "You cannot target the same unit with this Stratagem more than once per battle."
+          }
+        },
+        {
+          "title": "SWORN GUARDIANS",
+          "cost": "1CP",
+          "category": "SHIELD HOST - STRATEGIC PLOY STRATAGEM",
+          "phase": ["MOVEMENT"],
+          "rules": {
+            "when": "Your Movement phase.",
+            "target": "One Adeptus Custodes unit from your army (excluding Anathema Psykana units) within range of an objective marker you control.",
+            "effect": "That objective marker remains under your control even if you have no models within range of it, until your opponent controls it at the start or end of any turn."
           }
         }
       ],

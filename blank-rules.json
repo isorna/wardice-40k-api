@@ -1,0 +1,334 @@
+{
+  "factionId": "",
+  "rules": {
+    "title": "",
+    "rules": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "list": [
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  "detachments": [
+    {
+      "title": "",
+      "rules": [
+        {
+          "title": ""
+        },
+        {
+          "text": ""
+        },
+        {
+          "list": [
+            "",
+            ""
+          ]
+        }
+      ],
+      "stratagems": [
+        {
+          "title": "",
+          "cost": "CP",
+          "category": "BATTLE TACTIC STRATAGEM",
+          "phase": ["COMMAND", "CHARGE", "FIGHT", "MOVEMENT", "SHOOTING"],
+          "rules": {
+            "when": "phase",
+            "target": "",
+            "effect": "",
+            "restrictions": ""
+          }
+        },
+        {
+          "title": "",
+          "cost": "CP",
+          "category": "BATTLE TACTIC STRATAGEM",
+          "phase": ["COMMAND", "CHARGE", "FIGHT", "MOVEMENT", "SHOOTING"],
+          "rules": {
+            "when": "phase",
+            "target": "",
+            "effect": "",
+            "restrictions": ""
+          }
+        },
+        {
+          "title": "",
+          "cost": "CP",
+          "category": "BATTLE TACTIC STRATAGEM",
+          "phase": ["COMMAND", "CHARGE", "FIGHT", "MOVEMENT", "SHOOTING"],
+          "rules": {
+            "when": "phase",
+            "target": "",
+            "effect": "",
+            "restrictions": ""
+          }
+        },
+        {
+          "title": "",
+          "cost": "CP",
+          "category": "BATTLE TACTIC STRATAGEM",
+          "phase": ["COMMAND", "CHARGE", "FIGHT", "MOVEMENT", "SHOOTING"],
+          "rules": {
+            "when": "phase",
+            "target": "",
+            "effect": "",
+            "restrictions": ""
+          }
+        },
+        {
+          "title": "",
+          "cost": "CP",
+          "category": "BATTLE TACTIC STRATAGEM",
+          "phase": ["COMMAND", "CHARGE", "FIGHT", "MOVEMENT", "SHOOTING"],
+          "rules": {
+            "when": "phase",
+            "target": "",
+            "effect": "",
+            "restrictions": ""
+          }
+        },
+        {
+          "title": "",
+          "cost": "CP",
+          "category": "BATTLE TACTIC STRATAGEM",
+          "phase": ["COMMAND", "CHARGE", "FIGHT", "MOVEMENT", "SHOOTING"],
+          "rules": {
+            "when": "phase",
+            "target": "",
+            "effect": "",
+            "restrictions": ""
+          }
+        }
+      ],
+      "enhancements": [
+        {
+          "title": "",
+          "points": 0,
+          "rules": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "title": "",
+          "points": 0,
+          "rules": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "title": "",
+          "points": 0,
+          "rules": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "title": "",
+          "points": 0,
+          "rules": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "profiles": [
+    {
+      "id": "40k-index-leagues-votann-0",
+      "points": [
+        { "per": "1 model", "points": 115}
+      ],
+      "name": "ÛTHAR THE DESTINED",
+      "keywords": [
+        "Infantry",
+        "Character",
+        "Epic Hero",
+        "Ûthar the Destined"
+      ],
+      "keywords": [
+        {
+          "keywordGroup": "KEYWORDS - ALL MODELS",
+          "value": [
+            "Infantry",
+            "Grimnyr"
+          ]
+        },
+        {
+          "keywordGroup": "GRIMNYR",
+          "value": [
+            "Character",
+            "Psyker"
+          ]
+        }
+      ],
+      "weapons": {
+        "ranged": [
+          {
+            "name": "Volkanite disintegrator [DEVASTATING WOUNDS]",
+            "range": "18\"",
+            "a": "3",
+            "bws": "2+",
+            "s": "5",
+            "ap": "0",
+            "d": "1"
+          }
+        ],
+        "melee": [
+          {
+            "name": "Blade of the Ancestors [DEVASTATING WOUNDS]",
+            "range": "Melee",
+            "a": "5",
+            "bws": "2+",
+            "s": "6",
+            "ap": "-3",
+            "d": "2"
+          }
+        ]
+      },
+      "factionKeywords": [
+        "Leagues of Votann"
+      ],
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+            {
+              "title": "CORE",
+              "text": "Leader"
+            },
+            {
+              "title": "FACTION",
+              "text": "Eye of the Ancestors"
+            },
+            {
+              "title": "",
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "wargearAbilities": [
+        {
+          "title": "WARGEAR ABILITIES",
+          "values": [
+            {
+              "title": "",
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "damaged": [
+        {
+          "title": "DAMAGED 1-5 WOUNDS REMAINING",
+          "values": [
+            {
+              "text": "While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
+            }
+          ]
+        }
+      ],
+      "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
+      "stats": {
+        "m": "5\"",
+        "t": "5",
+        "sv": "3+",
+        "w": "5",
+        "ld": "7+",
+        "oc": "1"
+      },
+      "stats": [
+        {
+          "name": "GRIMNYR",
+          "m": "5\"",
+          "t": "5",
+          "sv": "4+",
+          "w": "4",
+          "ld": "6+",
+          "oc": "1"
+        },
+        {
+          "name": "CORV",
+          "m": "5\"",
+          "t": "5",
+          "sv": "4+",
+          "w": "1",
+          "ld": "6+",
+          "oc": "1"
+        }
+      ],
+      "wargear": [
+        {
+          "title": "WARGEAR OPTIONS",
+          "values": [
+            {
+              "list": [
+                "None"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "title": "TRANSPORT",
+          "values": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

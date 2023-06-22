@@ -1,16 +1,18 @@
 {
   "factionId": "leagues-votann",
-  "rules": {
-    "title": "EYE OF THE ANCESTORS",
-    "rules": [
+  "rules": [
       {
-        "text": "If your Army Faction is Leagues of Votann, each time an enemy unit destroys a Leagues of Votann unit from your army, that enemy unit gains 1 Judgement token. An enemy unit can never have more than 2 Judgement tokens (any further Judgement tokens a unit would gain beyond this are ignored)."
-      },
-      {
-        "text": "Each time a model from your army with this ability makes an attack that targets a unit that has one or more Judgement tokens, until that model’s attacks have been resolved, apply the relevant bonus from the table below to that attack."
-      }
-    ]
-  },
+      "title": "EYE OF THE ANCESTORS",
+      "rules": [
+        {
+          "text": "If your Army Faction is Leagues of Votann, each time an enemy unit destroys a Leagues of Votann unit from your army, that enemy unit gains 1 Judgement token. An enemy unit can never have more than 2 Judgement tokens (any further Judgement tokens a unit would gain beyond this are ignored)."
+        },
+        {
+          "text": "Each time a model from your army with this ability makes an attack that targets a unit that has one or more Judgement tokens, until that model’s attacks have been resolved, apply the relevant bonus from the table below to that attack."
+        }
+      ]
+    }
+  ],
   "detachments": [
     {
       "title": "OATHBAND",

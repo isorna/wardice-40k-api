@@ -1,7 +1,7 @@
 {
   "factionId": "agents-imperium",
   "rules": {
-    "name": "ASSIGNED AGENTS",
+    "title": "ASSIGNED AGENTS",
     "rules": [
       {
         "text": ""
@@ -39,7 +39,67 @@
           "title": "",
           "cost": "CP",
           "category": "BATTLE TACTIC STRATAGEM",
-          "phase": ["CHARGE", "FIGHT", "MOVEMENT", "SHOOTING"],
+          "phase": ["COMMAND", "CHARGE", "FIGHT", "MOVEMENT", "SHOOTING"],
+          "rules": {
+            "when": "phase",
+            "target": "",
+            "effect": "",
+            "restrictions": ""
+          }
+        },
+        {
+          "title": "",
+          "cost": "CP",
+          "category": "BATTLE TACTIC STRATAGEM",
+          "phase": ["COMMAND", "CHARGE", "FIGHT", "MOVEMENT", "SHOOTING"],
+          "rules": {
+            "when": "phase",
+            "target": "",
+            "effect": "",
+            "restrictions": ""
+          }
+        },
+        {
+          "title": "",
+          "cost": "CP",
+          "category": "BATTLE TACTIC STRATAGEM",
+          "phase": ["COMMAND", "CHARGE", "FIGHT", "MOVEMENT", "SHOOTING"],
+          "rules": {
+            "when": "phase",
+            "target": "",
+            "effect": "",
+            "restrictions": ""
+          }
+        },
+        {
+          "title": "",
+          "cost": "CP",
+          "category": "BATTLE TACTIC STRATAGEM",
+          "phase": ["COMMAND", "CHARGE", "FIGHT", "MOVEMENT", "SHOOTING"],
+          "rules": {
+            "when": "phase",
+            "target": "",
+            "effect": "",
+            "restrictions": ""
+          }
+        },
+        {
+          "title": "",
+          "cost": "CP",
+          "category": "BATTLE TACTIC STRATAGEM",
+          "phase": ["COMMAND", "CHARGE", "FIGHT", "MOVEMENT", "SHOOTING"],
+          "rules": {
+            "when": "phase",
+            "target": "",
+            "effect": "",
+            "restrictions": ""
+          }
+        },
+        {
+          "title": "",
+          "cost": "CP",
+          "category": "BATTLE TACTIC STRATAGEM",
+          "phase": ["COMMAND", "CHARGE", "FIGHT", "MOVEMENT", "SHOOTING"],
           "rules": {
             "when": "phase",
             "target": "",

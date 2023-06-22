@@ -1,10 +1,93 @@
 {
   "factionId": "death-guard",
   "rules": {
-    "name": "",
-    "rules": []
+    "name": "NURGLE’S GIFT (AURA)",
+    "rules": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "list": [
+          "",
+          ""
+        ]
+      }
+    ]
   },
-  "detachments": [],
+  "detachments": [
+    {
+      "title": "PLAGUE COMPANY",
+      "rules": [
+        {
+          "title": ""
+        },
+        {
+          "text": ""
+        },
+        {
+          "list": [
+            "",
+            ""
+          ]
+        }
+      ],
+      "stratagems": [
+        {
+          "title": "",
+          "cost": "CP",
+          "category": "BATTLE TACTIC STRATAGEM",
+          "phase": ["CHARGE", "FIGHT", "MOVEMENT", "SHOOTING"],
+          "rules": {
+            "when": "phase",
+            "target": "",
+            "effect": "",
+            "restrictions": ""
+          }
+        }
+      ],
+      "enhancements": [
+        {
+          "title": "LIVING PLAGUE",
+          "points": 20,
+          "rules": [
+            {
+              "text": "Death Guard model only. Add 3\" to the range of the bearer’s Aura abilities (including Nurgle’s Gift)."
+            }
+          ]
+        },
+        {
+          "title": "THE DRONING (AURA)",
+          "points": 10,
+          "rules": [
+            {
+              "text": "Death Guard model only. While an enemy unit is within Contagion Range of the bearer, each time that unit fails a Battle-shock test, roll one D6: on a 2-5, that unit suffers 1 mortal wound; on a 6, that unit suffers D3 mortal wounds."
+            }
+          ]
+        },
+        {
+          "title": "DEADLY PATHOGEN",
+          "points": 15,
+          "rules": [
+            {
+              "text": "Death Guard model only. Add 1 to the Strength and Attacks characteristics of the bearer’s melee weapons. While the bearer is within range of an Infected objective marker you control, add 2 to the Strength and Attacks characteristics of the bearer’s melee weapons instead."
+            }
+          ]
+        },
+        {
+          "title": "SHAMBLEROT",
+          "points": 25,
+          "rules": [
+            {
+              "text": "Death Guard model only. Each time the bearer’s unit is selected as a target of an enemy unit’s charge, until the end of the phase, subtract 2 from Charge rolls made for that enemy unit."
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "profiles": [
   {
     "id": "40k-index-death-guard-0",

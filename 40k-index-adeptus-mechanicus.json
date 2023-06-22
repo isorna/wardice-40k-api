@@ -1,10 +1,93 @@
 {
   "factionId": "adeptus-mechanicus",
   "rules": {
-    "name": "",
-    "rules": []
+    "name": "DOCTRINA IMPERATIVES",
+    "rules": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "list": [
+          "",
+          ""
+        ]
+      }
+    ]
   },
-  "detachments": [],
+  "detachments": [
+    {
+      "title": "RAD-COHORT",
+      "rules": [
+        {
+          "title": ""
+        },
+        {
+          "text": ""
+        },
+        {
+          "list": [
+            "",
+            ""
+          ]
+        }
+      ],
+      "stratagems": [
+        {
+          "title": "",
+          "cost": "CP",
+          "category": "BATTLE TACTIC STRATAGEM",
+          "phase": ["CHARGE", "FIGHT", "MOVEMENT", "SHOOTING"],
+          "rules": {
+            "when": "phase",
+            "target": "",
+            "effect": "",
+            "restrictions": ""
+          }
+        }
+      ],
+      "enhancements": [
+        {
+          "title": "ARCHIVED PURGE PROTOCOLS",
+          "points": 10,
+          "rules": [
+            {
+              "text": "Skitarii Marshal model only. At the start of the battle round, you can select one friendly Skitarii unit within 12\" of the bearer. Until the start of the next battle round, if the Protector Imperative is active for your army, the Conqueror Imperative is active for that unit instead, and if the Conqueror Imperative is active for your army, the Protector Imperative is active for that unit instead."
+            }
+          ]
+        },
+        {
+          "title": "EXCORIATING EMANATION",
+          "points": 25,
+          "rules": [
+            {
+              "text": "Adeptus Mechanicus model only. While the bearer is leading a unit, models in that unit have the Stealth ability."
+            }
+          ]
+        },
+        {
+          "title": "MASTER ANNIHILATOR",
+          "points": 35,
+          "rules": [
+            {
+              "text": "Adeptus Mechanicus model only. While the bearer is leading a unit, ranged weapons equipped by models in that unit have the [SUSTAINED HITS 1] ability."
+            }
+          ]
+        },
+        {
+          "title": "OMNI-STERILISER",
+          "points": 20,
+          "rules": [
+            {
+              "text": "Adeptus Mechanicus model only. Add 3 to the Attacks characteristic of the bearer's ranged weapons. In addition, the bearer's ranged weapons have the [ANTI-INFANTRY 2+] and [ANTI-MONSTER 4+] abilities."
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "profiles": [
   {
     "id": "40k-index-adeptus-mechanicus-0",

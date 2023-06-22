@@ -1,10 +1,93 @@
 {
   "factionId": "orks",
   "rules": {
-    "name": "",
-    "rules": []
+    "name": "WAAAGH!",
+    "rules": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "list": [
+          "",
+          ""
+        ]
+      }
+    ]
   },
-  "detachments": [],
+  "detachments": [
+    {
+      "title": "WAAAGH! TRIBE",
+      "rules": [
+        {
+          "title": ""
+        },
+        {
+          "text": ""
+        },
+        {
+          "list": [
+            "",
+            ""
+          ]
+        }
+      ],
+      "stratagems": [
+        {
+          "title": "",
+          "cost": "CP",
+          "category": "BATTLE TACTIC STRATAGEM",
+          "phase": ["CHARGE", "FIGHT", "MOVEMENT", "SHOOTING"],
+          "rules": {
+            "when": "phase",
+            "target": "",
+            "effect": "",
+            "restrictions": ""
+          }
+        }
+      ],
+      "enhancements": [
+        {
+          "title": "FOLLOW ME LADZ",
+          "points": 25,
+          "rules": [
+            {
+              "text": "Orks model only. While the bearer is leading a unit, add 2\" to the Move characteristic of models in that unit."
+            }
+          ]
+        },
+        {
+          "title": "HEADWOPPA’S KILLCHOPPA",
+          "points": 20,
+          "rules": [
+            {
+              "text": "Orks model only. Melee weapons equipped by the bearer that do not have the [EXTRA ATTACKS] ability have the [DEVASTATING WOUNDS] ability."
+            }
+          ]
+        },
+        {
+          "title": "KUNNIN’ BUT BRUTAL",
+          "points": 15,
+          "rules": [
+            {
+              "text": "Orks model only. While the bearer is leading a unit, that unit is eligible to shoot and declare a charge in a turn in which it Fell Back."
+            }
+          ]
+        },
+        {
+          "title": "SUPA-CYBORK BODY",
+          "points": 15,
+          "rules": [
+            {
+              "text": "Orks model only. The bearer has the Feel No Pain 4+ ability."
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "profiles": [
   {
     "id": "40k-index-orks-0",

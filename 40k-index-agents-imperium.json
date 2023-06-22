@@ -1,10 +1,93 @@
 {
   "factionId": "agents-imperium",
   "rules": {
-    "name": "",
-    "rules": []
+    "name": "ASSIGNED AGENTS",
+    "rules": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "list": [
+          "",
+          ""
+        ]
+      }
+    ]
   },
-  "detachments": [],
+  "detachments": [
+    {
+      "title": "",
+      "rules": [
+        {
+          "title": ""
+        },
+        {
+          "text": ""
+        },
+        {
+          "list": [
+            "",
+            ""
+          ]
+        }
+      ],
+      "stratagems": [
+        {
+          "title": "",
+          "cost": "CP",
+          "category": "BATTLE TACTIC STRATAGEM",
+          "phase": ["CHARGE", "FIGHT", "MOVEMENT", "SHOOTING"],
+          "rules": {
+            "when": "phase",
+            "target": "",
+            "effect": "",
+            "restrictions": ""
+          }
+        }
+      ],
+      "enhancements": [
+        {
+          "title": "",
+          "points": 0,
+          "rules": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "title": "",
+          "points": 0,
+          "rules": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "title": "",
+          "points": 0,
+          "rules": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "title": "",
+          "points": 0,
+          "rules": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "profiles": [
   {
     "id": "40k-index-agents-imperium-0",

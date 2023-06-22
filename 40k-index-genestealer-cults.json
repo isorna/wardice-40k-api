@@ -1,10 +1,93 @@
 {
   "factionId": "genestealer-cults",
   "rules": {
-    "name": "",
-    "rules": []
+    "name": "CULT AMBUSH",
+    "rules": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "list": [
+          "",
+          ""
+        ]
+      }
+    ]
   },
-  "detachments": [],
+  "detachments": [
+    {
+      "title": "ASCENSION DAY",
+      "rules": [
+        {
+          "title": ""
+        },
+        {
+          "text": ""
+        },
+        {
+          "list": [
+            "",
+            ""
+          ]
+        }
+      ],
+      "stratagems": [
+        {
+          "title": "",
+          "cost": "CP",
+          "category": "BATTLE TACTIC STRATAGEM",
+          "phase": ["CHARGE", "FIGHT", "MOVEMENT", "SHOOTING"],
+          "rules": {
+            "when": "phase",
+            "target": "",
+            "effect": "",
+            "restrictions": ""
+          }
+        }
+      ],
+      "enhancements": [
+        {
+          "title": "PROWLING AGITANT",
+          "points": 15,
+          "rules": [
+            {
+              "text": "Genestealer Cults model only. Once per turn, when an enemy unit ends a Normal, Advance or Fall Back move within 9\" of the bearer’s unit, if the bearer’s unit is not within Engagement Range of any enemy units, it can make a Normal move of up to D6\"."
+            }
+          ]
+        },
+        {
+          "title": "INSCRUTABLE CUNNING",
+          "points": 30,
+          "rules": [
+            {
+              "text": "Genestealer Cults model only. While the bearer is leading a unit, models in that unit have the Infiltrators ability and each time you select that unit as the target of a Stratagem, roll one D6: on a 4+, you gain 1CP."
+            }
+          ]
+        },
+        {
+          "title": "METICULOUS PLANNER",
+          "points": 40,
+          "rules": [
+            {
+              "text": "Genestealer Cults model only. Once per battle, just after your opponent uses a Stratagem, if the bearer is on the battlefield, it can use this ability. If it does, until the end of the battle, the CP cost your opponent must pay to use that Stratagem again is increased by 1CP."
+            }
+          ]
+        },
+        {
+          "title": "FOCUS OF ADORATION",
+          "points": 10,
+          "rules": [
+            {
+              "text": "Genestealer Cults model only. While the bearer is leading a unit, you can target that unit with the Heroic Intervention Stratagem for 0CP, and can do so even if you have already targeted a different unit with that Stratagem this phase."
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "profiles": [
   {
     "id": "40k-index-genestealer-cults-0",

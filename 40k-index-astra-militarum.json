@@ -1,10 +1,93 @@
 {
   "factionId": "astra-militarum",
   "rules": {
-    "name": "",
-    "rules": []
+    "name": "VOICE OF COMMAND",
+    "rules": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "list": [
+          "",
+          ""
+        ]
+      }
+    ]
   },
-  "detachments": [],
+  "detachments": [
+    {
+      "title": "COMBINED REGIMENT",
+      "rules": [
+        {
+          "title": ""
+        },
+        {
+          "text": ""
+        },
+        {
+          "list": [
+            "",
+            ""
+          ]
+        }
+      ],
+      "stratagems": [
+        {
+          "title": "",
+          "cost": "CP",
+          "category": "BATTLE TACTIC STRATAGEM",
+          "phase": ["CHARGE", "FIGHT", "MOVEMENT", "SHOOTING"],
+          "rules": {
+            "when": "phase",
+            "target": "",
+            "effect": "",
+            "restrictions": ""
+          }
+        }
+      ],
+      "enhancements": [
+        {
+          "title": "DEATH MASK OF OLLANIUS",
+          "points": 10,
+          "rules": [
+            {
+              "text": "Officer model only. While the bearer’s unit is Battle-shocked, subtract 1 from the Objective Control characteristic of models in that unit, instead of changing it to 0."
+            }
+          ]
+        },
+        {
+          "title": "DRILL COMMANDER",
+          "points": 20,
+          "rules": [
+            {
+              "text": "Officer model only. While the bearer is leading a unit, each time a model in that unit makes a ranged attack, if that unit Remained Stationary this turn, a Critical Hit is scored on a successful unmodified Hit roll of 5+."
+            }
+          ]
+        },
+        {
+          "title": "KUROV’S AQUILA",
+          "points": 40,
+          "rules": [
+            {
+              "text": "Officer model only. Once per battle, just after your opponent has used a Stratagem, the bearer can use this Enhancement. If it does, until the end of the battle, the CP cost your opponent must pay to use that Stratagem again is increased by 1CP."
+            }
+          ]
+        },
+        {
+          "title": "GRAND STRATEGIST",
+          "points": 15,
+          "rules": [
+            {
+              "text": "Officer model only. In your Command phase, the bearer can issue one additional Order."
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "profiles": [
   {
     "id": "40k-index-astra-militarum-0",

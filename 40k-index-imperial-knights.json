@@ -1,10 +1,102 @@
 {
   "factionId": "imperial-knights",
   "rules": {
-    "name": "",
-    "rules": []
+    "name": "CODE CHIVALRIC",
+    "rules": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "list": [
+          "",
+          ""
+        ]
+      }
+    ]
   },
-  "detachments": [],
+  "detachments": [
+    {
+      "title": "NOBLE LANCE",
+      "rules": [
+        {
+          "title": ""
+        },
+        {
+          "text": ""
+        },
+        {
+          "list": [
+            "",
+            ""
+          ]
+        }
+      ],
+      "stratagems": [
+        {
+          "title": "",
+          "cost": "CP",
+          "category": "BATTLE TACTIC STRATAGEM",
+          "phase": ["CHARGE", "FIGHT", "MOVEMENT", "SHOOTING"],
+          "rules": {
+            "when": "phase",
+            "target": "",
+            "effect": "",
+            "restrictions": ""
+          }
+        }
+      ],
+      "enhancements": [
+        {
+          "title": "REVERED KNIGHT (AURA)",
+          "points": 20,
+          "rules": [
+            {
+              "text": "Imperial Knights model only. While a friendly Imperial Knights model is within 6\" of the bearer, improve that model’s Leadership characteristic by 1. If your army is Honoured, increase the range of this Aura ability to 12\"."
+            }
+          ]
+        },
+        {
+          "title": "MYSTERIOUS GUARDIAN",
+          "points": 35,
+          "rules": [
+            {
+              "text": "Imperial Knights model only. The bearer has the Deep Strike ability. Once per battle, at the end of your opponent’s turn, if the bearer is not within Engagement Range of any enemy units, it can fade away. If it does, remove it from the battlefield then, in the Reinforcements step of your subsequent Movement phase, set it up anywhere on the battlefield that is more than 9\" horizontally away from all enemy models. If the battle ends and the bearer is not on the battlefield, it is destroyed."
+            }
+          ]
+        },
+        {
+          "title": "MYTHIC HERO",
+          "points": 25,
+          "rules": [
+            {
+              "text": "Questoris model with a Bondsman ability only. Each time the bearer uses its Bondsman ability, you can select one additional friendly Armiger model within 12\" of the bearer that is not already being affected by a Bondsman ability. Until the start of your next Command phase, that model is also affected by that Bondsman ability."
+            }
+          ]
+        },
+        {
+          "title": "BANNER OF MACHARIUS TRIUMPHANT",
+          "points": 30,
+          "rules": [
+            {
+              "text": "Imperial Knights model only. If you control an objective marker at the end of your Command phase and the bearer is within range of that objective marker, that objective marker remains under your control even if you have no models within range of it, until your opponent controls it at the start or end of any turn."
+            }
+          ]
+        },
+        {
+          "title": "UNYIELDING PARAGON",
+          "points": 40,
+          "rules": [
+            {
+              "text": "Questoris model only. Each time an attack is allocated to the bearer, worsen the Armour Penetration characteristic of that attack by 1."
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "profiles": [
   {
     "id": "40k-index-imperial-knights-0",

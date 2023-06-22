@@ -1,10 +1,93 @@
 {
   "factionId": "aeldari",
   "rules": {
-    "name": "",
-    "rules": []
+    "name": "STRANDS OF FATE",
+    "rules": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "list": [
+          "",
+          ""
+        ]
+      }
+    ]
   },
-  "detachments": [],
+  "detachments": [
+    {
+      "title": "BATTLE HOST",
+      "rules": [
+        {
+          "title": ""
+        },
+        {
+          "text": ""
+        },
+        {
+          "list": [
+            "",
+            ""
+          ]
+        }
+      ],
+      "stratagems": [
+        {
+          "title": "",
+          "cost": "CP",
+          "category": "BATTLE TACTIC STRATAGEM",
+          "phase": ["CHARGE", "FIGHT", "MOVEMENT", "SHOOTING"],
+          "rules": {
+            "when": "phase",
+            "target": "",
+            "effect": "",
+            "restrictions": ""
+          }
+        }
+      ],
+      "enhancements": [
+        {
+          "title": "THE PHOENIX GEM",
+          "points": 25,
+          "rules": [
+            {
+              "text": "Aeldari model only. The first time the bearer is destroyed, roll one D6: on a 2+, keep it to one side. At the end of the phase, set the bearer back up again, as close as possible to its previous position and not within Engagement Range of any enemy models, with its full wounds remaining."
+            }
+          ]
+        },
+        {
+          "title": "THE WEEPING STONES",
+          "points": 15,
+          "rules": [
+            {
+              "text": "Aeldari model only. Each time the bearer’s unit destroys an enemy unit, roll one D6 and add it to your Fate dice pool displaying the result you just rolled."
+            }
+          ]
+        },
+        {
+          "title": "READER OF THE RUNES",
+          "points": 20,
+          "rules": [
+            {
+              "text": "Aeldari Psyker model only. In your Command phase, you can select one dice in your Fate dice pool, re-roll it, then add it back to your Fate dice pool displaying the result you just rolled."
+            }
+          ]
+        },
+        {
+          "title": "FATE’S MESSENGER",
+          "points": 15,
+          "rules": [
+            {
+              "text": "Aeldari model only. Once per turn, just after making a Hit roll, a Wound roll or a saving throw for a model in the bearer’s unit, you can treat the result as an unmodified roll of 6 instead."
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "profiles": [
   {
     "id": "40k-index-aledari-0",

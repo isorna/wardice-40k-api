@@ -2,9 +2,92 @@
   "factionId": "space-wolves",
   "rules": {
     "name": "",
-    "rules": []
+    "rules": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "list": [
+          "",
+          ""
+        ]
+      }
+    ]
   },
-  "detachments": [],
+  "detachments": [
+    {
+      "title": "CHAMPIONS OF RUSS",
+      "rules": [
+        {
+          "title": ""
+        },
+        {
+          "text": ""
+        },
+        {
+          "list": [
+            "",
+            ""
+          ]
+        }
+      ],
+      "stratagems": [
+        {
+          "title": "",
+          "cost": "CP",
+          "category": "BATTLE TACTIC STRATAGEM",
+          "phase": ["CHARGE", "FIGHT", "MOVEMENT", "SHOOTING"],
+          "rules": {
+            "when": "phase",
+            "target": "",
+            "effect": "",
+            "restrictions": ""
+          }
+        }
+      ],
+      "enhancements": [
+        {
+          "title": "THE PELT OF BALEWOLF",
+          "points": 10,
+          "rules": [
+            {
+              "text": "Adeptus Astartes model only. At the start of the Fight phase, each enemy unit within Engagement Range of the bearer must take a Battle-shock test."
+            }
+          ]
+        },
+        {
+          "title": "BLACK DEATH",
+          "points": 25,
+          "rules": [
+            {
+              "text": "Adeptus Astartes model only. The bearer’s melee weapons have the [ANTI-MONSTER 4+] and [ANTI-VEHICLE 4+] abilities."
+            }
+          ]
+        },
+        {
+          "title": "WOLF TAIL TALISMAN",
+          "points": 20,
+          "rules": [
+            {
+              "text": "Adeptus Astartes model only. Each time an attack is allocated to the bearer, subtract 1 from the Damage characteristic of that attack."
+            }
+          ]
+        },
+        {
+          "title": "FROST WEAPON",
+          "points": 15,
+          "rules": [
+            {
+              "text": "Adeptus Astartes model only. The bearer’s melee weapons have the [PRECISION] ability, and the Strength and Armour Penetration characteristics of those weapons are improved by 1."
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "profiles": [
   {
     "id": "40k-index-space-wolves-0",

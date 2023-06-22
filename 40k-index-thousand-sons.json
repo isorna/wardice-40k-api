@@ -1,10 +1,93 @@
 {
   "factionId": "thousand-sons",
   "rules": {
-    "name": "",
-    "rules": []
+    "name": "CABAL OF SORCERERS",
+    "rules": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "list": [
+          "",
+          ""
+        ]
+      }
+    ]
   },
-  "detachments": [],
+  "detachments": [
+    {
+      "title": "CULT OF MAGIC",
+      "rules": [
+        {
+          "title": ""
+        },
+        {
+          "text": ""
+        },
+        {
+          "list": [
+            "",
+            ""
+          ]
+        }
+      ],
+      "stratagems": [
+        {
+          "title": "",
+          "cost": "CP",
+          "category": "BATTLE TACTIC STRATAGEM",
+          "phase": ["CHARGE", "FIGHT", "MOVEMENT", "SHOOTING"],
+          "rules": {
+            "when": "phase",
+            "target": "",
+            "effect": "",
+            "restrictions": ""
+          }
+        }
+      ],
+      "enhancements": [
+        {
+          "title": "LORD OF FORBIDDEN LORE",
+          "points": 25,
+          "rules": [
+            {
+              "text": "Thousand Sons Psyker model only. The bearer can be selected to use a Ritual even if another Psyker from your army has already been selected to use that Ritual this phase."
+            }
+          ]
+        },
+        {
+          "title": "ATHENAEAN SCROLLS",
+          "points": 20,
+          "rules": [
+            {
+              "text": "Thousand Sons Psyker model only. In your Command phase, if the bearer is on the battlefield and is not Battle-shocked, it generates you 1 additional Cabal point this phase."
+            }
+          ]
+        },
+        {
+          "title": "UMBRALEFIC CRYSTAL",
+          "points": 20,
+          "rules": [
+            {
+              "text": "Thousand Sons model only. Once per battle, in your Command phase, you can remove the bearer’s unit from the battlefield. If you do, in the Reinforcements step of your next Movement phase, set that unit back up anywhere on the battlefield that is more than 9\" horizontally away from all enemy models."
+            }
+          ]
+        },
+        {
+          "title": "ARCANE VORTEX",
+          "points": 15,
+          "rules": [
+            {
+              "text": "Thousand Sons model only. Add 1 to the Strength and Damage characteristics of Psychic weapons equipped by the bearer."
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "profiles": [
   {
     "id": "40k-index-thousand-sons-0",

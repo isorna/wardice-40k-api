@@ -1,10 +1,96 @@
 {
   "factionId": "necrons",
   "rules": {
-    "name": "",
-    "rules": []
+    "name": "REANIMATION PROTOCOLS",
+    "rules": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "list": [
+          "",
+          ""
+        ]
+      }
+    ]
   },
-  "detachments": [],
+  "detachments": [
+    {
+      "title": "AWAKENED DYNASTY",
+      "rules": [
+        {
+          "title": ""
+        },
+        {
+          "text": ""
+        },
+        {
+          "list": [
+            "",
+            ""
+          ]
+        }
+      ],
+      "stratagems": [
+        {
+          "title": "",
+          "cost": "CP",
+          "category": "BATTLE TACTIC STRATAGEM",
+          "phase": ["CHARGE", "FIGHT", "MOVEMENT", "SHOOTING"],
+          "rules": {
+            "when": "phase",
+            "target": "",
+            "effect": "",
+            "restrictions": ""
+          }
+        }
+      ],
+      "enhancements": [
+        {
+          "title": "VEIL OF DARKNESS",
+          "points": 20,
+          "rules": [
+            {
+              "text": "Necrons model only. Once per battle, at the end of your opponent’s turn, if the bearer’s unit is not within Engagement Range of any enemy units, the bearer can use this Enhancement. If it does, remove that unit from the battlefield. Then, in the Reinforcements step of your next Movement phase, set up that unit anywhere on the battlefield that is more than 9\" horizontally away from all enemy models."
+            }
+          ]
+        },
+        {
+          "title": "HYPERMATERIAL ABLATOR",
+          "points": 25,
+          "rules": [
+            {
+              "text": "Necrons model only. While the bearer is leading a unit, models in that unit have the Stealth ability. In addition, each time a ranged attack targets the bearer’s unit, if the attacker is not within 12\", models in that unit have the Benefit of Cover."
+            }
+          ]
+        },
+        {
+          "title": "THE SOVEREIGN CORONAL (AURA)",
+          "points": 30,
+          "rules": [
+            {
+              "text": "Necrons model only. While a friendly Necrons unit is within 6\" of the bearer, that unit counts as being led by a Necrons Character model."
+            },
+            {
+              "text": "Designer’s Note: This means that units within range of this Aura ability will benefit from the Command Protocols ability and will count as containing a Character for the purposes of any Awakened Dynasty Stratagems."
+            }
+          ]
+        },
+        {
+          "title": "SEMPITERNAL WEAVE",
+          "points": 10,
+          "rules": [
+            {
+              "text": "Necrons model only. The bearer has the Feel No Pain 4+ ability."
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "profiles": [
   {
     "id": "40k-index-necrons-0",

@@ -1,10 +1,93 @@
 {
   "factionId": "chaos-space-marines",
   "rules": {
-    "name": "",
-    "rules": []
+    "name": "HARBINGERS OF DREAD",
+    "rules": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "list": [
+          "",
+          ""
+        ]
+      }
+    ]
   },
-  "detachments": [],
+  "detachments": [
+    {
+      "title": "TRAITORIS LANCE",
+      "rules": [
+        {
+          "title": ""
+        },
+        {
+          "text": ""
+        },
+        {
+          "list": [
+            "",
+            ""
+          ]
+        }
+      ],
+      "stratagems": [
+        {
+          "title": "",
+          "cost": "CP",
+          "category": "BATTLE TACTIC STRATAGEM",
+          "phase": ["CHARGE", "FIGHT", "MOVEMENT", "SHOOTING"],
+          "rules": {
+            "when": "phase",
+            "target": "",
+            "effect": "",
+            "restrictions": ""
+          }
+        }
+      ],
+      "enhancements": [
+        {
+          "title": "LORD OF DREAD",
+          "points": 35,
+          "rules": [
+            {
+              "text": "Chaos Knights model only. At the start of the Fight phase, you can select one enemy unit within Engagement Range of the bearer; that enemy unit must take a Battle-shock test."
+            }
+          ]
+        },
+        {
+          "title": "AURA OF TERROR",
+          "points": 25,
+          "rules": [
+            {
+              "text": "Chaos Knights model only. If you control an objective marker at the end of your Command phase, and the bearer is within range of that objective marker, that objective marker is said to be Tainted and remains under your control even if you have no models within range of it, until your opponent controls it at the start or end of any turn. In addition, while an objective marker is Tainted and under your control and the Despair Dread ability is active for your army, that objective marker has the Despair Dread ability as if it was a Chaos Knights model from your army (so subtract 1 from Battle-shock and Leadership tests taken for enemy units within 12\" of it)."
+            }
+          ]
+        },
+        {
+          "title": "THE TRAITOR’S MARK",
+          "points": 30,
+          "rules": [
+            {
+              "text": "Chaos Knights model only. The Doom and Darkness ability is active for the bearer from the first battle round onwards, instead of from the third."
+            }
+          ]
+        },
+        {
+          "title": "PANOPLY OF THE CURSED KNIGHTS",
+          "points": 40,
+          "rules": [
+            {
+              "text": "Chaos Knights model only. Each time an attack is made against the bearer, subtract 1 from the Armour Penetration characteristic of that attack."
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "profiles": [
   {
     "id": "40k-index-chaos-space-marines-0",

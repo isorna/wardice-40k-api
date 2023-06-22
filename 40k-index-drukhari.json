@@ -1,10 +1,93 @@
 {
   "factionId": "drukhari",
   "rules": {
-    "name": "",
-    "rules": []
+    "name": "POWER FROM PAIN",
+    "rules": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      },
+      {
+        "list": [
+          "",
+          ""
+        ]
+      }
+    ]
   },
-  "detachments": [],
+  "detachments": [
+    {
+      "title": "REALSPACE RAIDERS",
+      "rules": [
+        {
+          "title": ""
+        },
+        {
+          "text": ""
+        },
+        {
+          "list": [
+            "",
+            ""
+          ]
+        }
+      ],
+      "stratagems": [
+        {
+          "title": "",
+          "cost": "CP",
+          "category": "BATTLE TACTIC STRATAGEM",
+          "phase": ["CHARGE", "FIGHT", "MOVEMENT", "SHOOTING"],
+          "rules": {
+            "when": "phase",
+            "target": "",
+            "effect": "",
+            "restrictions": ""
+          }
+        }
+      ],
+      "enhancements": [
+        {
+          "title": "CRUCIBLE OF MALEDICTION",
+          "points": 10,
+          "rules": [
+            {
+              "text": "Haemonculus model only. Once per battle, at the start of any Shooting phase, the bearer can use this Enhancement. When it does, every enemy unit within 12\" must take a Battle-shock test, subtracting 1 from that test if the bearer’s unit is currently Empowered. Each time a Psyker unit fails this test, it suffers D3 mortal wounds."
+            }
+          ]
+        },
+        {
+          "title": "LABYRINTHINE CUNNING",
+          "points": 30,
+          "rules": [
+            {
+              "text": "Archon model only. Each time you select the bearer’s unit as the target of a Stratagem, roll one D6, adding 3 to the result if the Stratagem being used is Alliance of Agony: on a 4+, you gain 1CP."
+            }
+          ]
+        },
+        {
+          "title": "BLOOD DANCER",
+          "points": 20,
+          "rules": [
+            {
+              "text": "Succubus model only. Improve the Attacks and Armour Penetration characteristics of the bearer’s melee weapons by 1. While the bearer is Empowered, Improve the Attacks and Armour Penetration characteristics of the bearer’s melee weapons by 2 instead."
+            }
+          ]
+        },
+        {
+          "title": "THE ART OF PAIN",
+          "points": 25,
+          "rules": [
+            {
+              "text": "Drukhari model only. In your Command phase, if the bearer is on the battlefield, you gain 1 Pain token."
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "profiles": [
   {
     "id": "40k-index-drukhari-0",

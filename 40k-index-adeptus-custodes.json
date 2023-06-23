@@ -170,7 +170,6 @@
       { "per": "10 model", "points": 450}
     ],
     "name": "CUSTODIAN GUARD",
-    "subtype": "",
     "keywords": [
       "Infantry",
       "Battleline",
@@ -231,33 +230,33 @@
     "factionKeywords": [
       "Adeptus Custodes"
     ],
-    "abilities": {
-      "core": [
-        "Deep Strike"
-      ],
-      "faction": [
-        "Martial Ka'tah"
-      ],
-      "special": [
+      "abilities": [
         {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deep Strike"
+            },
+      {
+              "title": "FACTION",
+              "text": "Martial Ka'tah"
+            },
+      {
           "title": "Stand Vigil",
-          "text": "Each time a model in this unit makes an attack, re-roll a Wound roll of 1."
-        },
-        {
-          "title": "While this unit is within range of an objective marker you control, you can re-roll the Wound roll instead",
-          "text": "."
+          "text": "Each time a model in this unit makes an attack, re-roll a Wound roll of 1. While this unit is within range of an objective marker you control, you can re-roll the Wound roll instead."
         },
         {
           "title": "Sentinel Storm",
           "text": "Once per battle, in your Shooting phase, after this unit has shot, it can shoot again."
         }
       ]
-    },
-    "wargearAbilities": {
-      "core": null,
-      "faction": null,
-      "special": [
-        {
+    }],
+    "wargearAbilities": [
+      {
+        "title": "WARGEAR ABILITIES",
+        "values": [
+      {
           "title": "Praesidium Shield",
           "text": "Add 1 to the bearer's Wounds characteristic."
         },
@@ -266,9 +265,17 @@
           "text": "Add 1 to the Objective Control characteristic of models in the bearer's unit."
         }
       ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "6\"",
       "t": "6",
@@ -281,30 +288,28 @@
       {
         "title": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "Any number of models can each have their guardian spear replaced with 1 sentinel blade and 1",
-          "praesidium shield.",
-          "■",
-          "1 model’s guardian spear can be replaced with one of the following",
-          "◦",
-          "1 vexilla and 1 misericordia",
-          "◦",
-          "1 vexilla, 1 misericordia and 1 praesidium shield"
+          {
+            "list": [
+              "Any number of models can each have their guardian spear replaced with 1 sentinel blade and 1 praesidium shield.",
+              "1 model’s guardian spear can be replaced with one of the following:",
+              ["1 vexilla and 1 misericordia",
+              "1 vexilla, 1 misericordia and 1 praesidium shield"]
+            ]
+          }
         ]
       },
-      {
-        "title": "UNIT COMPOSITION",
-        "values": [
-          "■",
-          "4-10 Custodian Guard",
-          "Every model is equipped with",
-          "guardian spear.",
-          "CUSTODIAN GUARD",
-          "These warriors form the backbone of the shield companies, and every",
-          "one is a terrifying force of destruction equal to the strongest of the",
-          "foe. Whether armed with guardian spear or sentinel blade, their shots",
-          "are perfectly placed, and every cut, thrust and parry is a masterclass",
-          "in bladesmanship."
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                "4-10 Custodian Guard"
+              ]
+            },
+            {
+              "title": "Every model is equipped with",
+              "text": "guardian spear."
+            }
         ]
       }
     ]
@@ -316,7 +321,6 @@
       { "per": "6 models", "points": 300}
     ],
     "name": "CUSTODIAN WARDENS",
-    "subtype": "",
     "keywords": [
       "Infantry",
       "Imperium",
@@ -367,15 +371,19 @@
     "factionKeywords": [
       "Adeptus Custodes"
     ],
-    "abilities": {
-      "core": [
-        "Deep Strike"
-      ],
-      "faction": [
-        "Martial Ka'tah"
-      ],
-      "special": [
+      "abilities": [
         {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deep Strike"
+            },
+      {
+              "title": "FACTION",
+              "text": "Martial Ka'tah"
+            },
+      {
           "title": "Resolute Will",
           "text": "While a Character is leading this unit, each time an attack targets this unit, if the Strength characteristic of that attack is greater than the Toughness characteristic of this unit, subtract 1 from the Wound roll."
         },
@@ -384,19 +392,27 @@
           "text": "Once per battle, at the start of any phase, this unit can use this ability. If it does, until the end of the phase, models in this unit have the Feel No Pain 4+ ability."
         }
       ]
-    },
-    "wargearAbilities": {
-      "core": null,
-      "faction": null,
-      "special": [
-        {
+    }],
+    "wargearAbilities": [
+      {
+        "title": "WARGEAR ABILITIES",
+        "values": [
+      {
           "title": "Vexilla",
           "text": "Add 1 to the Objective Control characteristic of models in the bearer's unit."
         }
       ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "6\"",
       "t": "6",
@@ -409,25 +425,26 @@
       {
         "title": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "Any number of models can each have their guardian spear replaced with 1 castellan axe.",
-          "■",
-          "1 model can be equipped with 1 vexilla."
+          {
+            "list": [
+              "Any number of models can each have their guardian spear replaced with 1 castellan axe.",
+              "1 model can be equipped with 1 vexilla."
+            ]
+          }
         ]
       },
-      {
-        "title": "UNIT COMPOSITION",
-        "values": [
-          "■",
-          "3-6 Custodian Wardens",
-          "Every model is equipped with",
-          "guardian spear.",
-          "CUSTODIAN WARDENS",
-          "Veterans with centuries of service, Custodian Wardens are",
-          "level-headed warriors who have sworn to fight as living fortresses",
-          "no foe shall breach. With frightening intensity and wills of iron, these",
-          "warriors cleave their foes in two with immense sweeps that are driven",
-          "by their prodigious physical strength."
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                "3-6 Custodian Wardens"
+              ]
+            },
+            {
+              "title": "Every model is equipped with",
+              "text": "guardian spear."
+            }
         ]
       }
     ]
@@ -441,7 +458,6 @@
       { "per": "6 models", "points": 390}
     ],
     "name": "ALLARUS CUSTODIANS",
-    "subtype": "",
     "keywords": [
       "Infantry",
       "Terminator",
@@ -511,40 +527,48 @@
     "factionKeywords": [
       "Adeptus Custodes"
     ],
-    "abilities": {
-      "core": [
-        "Deep Strike"
-      ],
-      "faction": [
-        "Martial Ka'tah"
-      ],
-      "special": [
+      "abilities": [
         {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deep Strike"
+            },
+      {
+              "title": "FACTION",
+              "text": "Martial Ka'tah"
+            },
+      {
           "title": "Slayers of Tyrants",
           "text": "Each time a model in this unit makes an attack that targets a Character, Monster or Vehicle unit, you can re-roll the Wound roll."
         },
         {
           "title": "From Golden Light",
-          "text": "Once per battle, at the end of your opponenet's turn, if this unit is not within Engagement Range of one or more enemy units, you can remove it from the battlefield."
-        },
-        {
-          "title": "In the Reinforcements step of your next Movement phase, set it up anywhere on the battlefield that is more than 9\" horizontally away from all enemy models",
-          "text": "."
+          "text": "Once per battle, at the end of your opponenet's turn, if this unit is not within Engagement Range of one or more enemy units, you can remove it from the battlefield. In the Reinforcements step of your next Movement phase, set it up anywhere on the battlefield that is more than 9\" horizontally away from all enemy models."
         }
-      ]
-    },
-    "wargearAbilities": {
-      "core": null,
-      "faction": null,
-      "special": [
-        {
+          ]
+    }],
+    "wargearAbilities": [
+      {
+        "title": "WARGEAR ABILITIES",
+        "values": [
+      {
           "title": "Vexilla",
           "text": "Add 1 to the Objective Control characteristic of models in the bearer's unit."
         }
       ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "5\"",
       "t": "7",
@@ -557,26 +581,26 @@
       {
         "title": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "Any number of models can each have their guardian spear replaced with 1 castellan axe.",
-          "■",
-          "1 model’s guardian spear can be replaced with 1 vexilla and 1 misericordia."
+          {
+            "list": [
+              "Any number of models can each have their guardian spear replaced with 1 castellan axe.",
+              "1 model’s guardian spear can be replaced with 1 vexilla and 1 misericordia."
+            ]
+          }
         ]
       },
-      {
-        "title": "UNIT COMPOSITION",
-        "values": [
-          "■",
-          "2-6 Allarus Custodians",
-          "Every model is equipped with",
-          "balistus grenade launcher;",
-          "guardian spear.",
-          "ALLARUS CUSTODIANS",
-          "Even amongst the Adeptus Custodes, Allarus Custodians are renowned for",
-          "their deeds. Teleporting into the most dangerous enemy strongholds, they",
-          "rely upon the indomitable resilience of their Terminator plate to protect",
-          "them as they hunt down demagogues and generals. Fighting as individual",
-          "heroes, they swiftly tear the heart from their foe’s defence."
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                "2-6 Allarus Custodians"
+              ]
+            },
+            {
+              "title": "Every model is equipped with",
+              "text": "balistus grenade launcher; guardian spear."
+            }
         ]
       }
     ]
@@ -590,7 +614,6 @@
       { "per": "6 models", "points": 540}
     ],
     "name": "VERTUS PRAETORS",
-    "subtype": "",
     "keywords": [
       "Mounted",
       "Fly",
@@ -633,27 +656,34 @@
     "factionKeywords": [
       "Adeptus Custodes"
     ],
-    "abilities": {
-      "core": null,
-      "faction": null,
-      "special": [
+      "abilities": [
         {
+          "title": "ABILITIES",
+          "values": [
+      {
           "title": "FACTION",
-          "text": "Martial Ka'tah Turbo-boost: Each time this unit Advances, do not make an Advance roll."
+          "text": "Martial Ka'tah"
         },
         {
-          "title": "Instead, until the end of the phase, add 6\" to the Move characteristic of models in this unit",
-          "text": "."
+          "title": "Turbo-boost",
+          "text": "Each time this unit Advances, do not make an Advance roll. Instead, until the end of the phase, add 6\" to the Move characteristic of models in this unit."
         },
         {
           "title": "Quicksilver Execution",
           "text": "Once per battle, after this unit ends an Advance move, you can select one enemy unit (excluding Monster and Vehicle units) that it moved over during that move, then roll one D6 for each model in this unit: for each 2+, that enemy unit suffers 2 mortal wounds."
         }
       ]
-    },
-    "wargearAbilities": [],
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "12\"",
       "t": "6",
@@ -666,24 +696,25 @@
       {
         "title": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "Any number of models can each have their salvo launcher replaced with 1 Vertus hurricane bolter."
+          {
+            "list": [
+              "Any number of models can each have their salvo launcher replaced with 1 Vertus hurricane bolter."
+            ]
+          }
         ]
       },
-      {
-        "title": "UNIT COMPOSITION",
-        "values": [
-          "■",
-          "2-6 Vertus Praetors",
-          "Every model is equipped with",
-          "salvo launcher;",
-          "interceptor lance.",
-          "VERTUS PRAETORS",
-          "Veteran warriors who have seen battle on a hundred worlds, these",
-          "Custodians know that the value of speed is in directing their might",
-          "precisely where and when it is needed most. Master combatants and",
-          "marksmen both, they can place piercing strikes and deadly salvoes",
-          "with precision even when travelling at immense speeds."
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                "2-6 Vertus Praetors"
+              ]
+            },
+            {
+              "title": "Every model is equipped with",
+              "text": "salvo launcher; interceptor lance."
+            }
         ]
       }
     ]
@@ -697,7 +728,6 @@
       { "per": "10 models", "points": 100}
     ],
     "name": "PROSECUTORS",
-    "subtype": "",
     "keywords": [
       "Infantry",
       "Battleline",
@@ -732,10 +762,10 @@
     "factionKeywords": [
       "Adeptus Custodes"
     ],
-    "abilities": {
-      "core": null,
-      "faction": null,
-      "special": [
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
         {
           "title": "Daughters of the Abyss",
           "text": "Models in this unit have the Feel No Pain 3+ ability against Psychic Attacks."
@@ -745,10 +775,7 @@
           "text": "Each time a model in this unit makes a ranged attack that targets a Psyker unit, that attack has the [PRECISION] and [DEVASTATING WOUNDS] abilities."
         }
       ]
-    },
-    "wargearAbilities": [],
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "6\"",
       "t": "3",
@@ -758,28 +785,29 @@
       "oc": "2"
     },
     "wargear": [
-      {
-        "title": "WARGEAR OPTIONS",
-        "values": [
-          "■",
-          "None"
-        ]
-      },
-      {
-        "title": "UNIT COMPOSITION",
-        "values": [
-          "■",
-          "1 Prosecutor Sister Superior",
-          "■",
-          "3-9 Prosecutors",
-          "Every model is equipped with",
-          "boltgun; close combat weapon.",
-          "PROSECUTORS",
-          "Protected from the malevolence of witches by their rare anti-psychic",
-          "mutation, and shielded from the bullets and blades of the foe by their",
-          "finely crafted power armour, Prosecutors advance unflinching into the",
-          "heart of battle. Their bolters thunder ceaselessly, each explosive shell",
-          "ending another heretic life."
+        {
+          "title": "WARGEAR OPTIONS",
+          "values": [
+            {
+              "list": [
+                "None"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                "1 Prosecutor Sister Superior",
+                "3-9 Prosecutors"
+              ]
+            },
+            {
+              "title": "Every model is equipped with",
+              "text": "boltgun; close combat weapon."
+            }
         ]
       }
     ]
@@ -793,7 +821,6 @@
       { "per": "10 models", "points": 150}
     ],
     "name": "VIGILATORS",
-    "subtype": "",
     "keywords": [
       "Infantry",
       "Imperium",
@@ -801,7 +828,6 @@
       "Vigilators"
     ],
     "weapons": {
-      "ranged": [],
       "melee": [
         {
           "name": "Executioner greatblade [ANTI-PSYKER 4+, DEVASTATING WOUNDS]",
@@ -817,11 +843,11 @@
     "factionKeywords": [
       "Adeptus Custodes"
     ],
-    "abilities": {
-      "core": null,
-      "faction": null,
-      "special": [
+      "abilities": [
         {
+          "title": "ABILITIES",
+          "values": [
+      {
           "title": "Daughters of the Abyss",
           "text": "Models in this unit have the Feel No Pain 3+ ability against Psychic Attacks."
         },
@@ -830,10 +856,7 @@
           "text": "Each time a melee attack targets this unit, subtract 1 from the Hit roll."
         }
       ]
-    },
-    "wargearAbilities": [],
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "6\"",
       "t": "3",
@@ -843,27 +866,29 @@
       "oc": "1"
     },
     "wargear": [
-      {
-        "title": "WARGEAR OPTIONS",
-        "values": [
-          "■",
-          "None"
-        ]
-      },
-      {
-        "title": "UNIT COMPOSITION",
-        "values": [
-          "■",
-          "1 Vigilator Sister Superior",
-          "■",
-          "3-9 Vigilators",
-          "Every model is equipped with",
-          "executioner greatblade.",
-          "VIGILATORS",
-          "The surest way to bring an end to a witch’s malefic rampage is to",
-          "strike their head from their body. Such is the doctrine of the Vigilators,",
-          "who ghost across the battlefield before charging headlong into battle,",
-          "their double-handed power blades singing a keening song of death."
+        {
+          "title": "WARGEAR OPTIONS",
+          "values": [
+            {
+              "list": [
+                "None"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                "1 Vigilator Sister Superior",
+                "3-9 Vigilators"
+              ]
+            },
+            {
+              "title": "Every model is equipped with",
+              "text": "executioner greatblade."
+            }
         ]
       }
     ]
@@ -877,7 +902,6 @@
       { "per": "10 models", "points": 150}
     ],
     "name": "WITCHSEEKERS",
-    "subtype": "",
     "keywords": [
       "Infantry",
       "Imperium",
@@ -911,34 +935,24 @@
     "factionKeywords": [
       "Adeptus Custodes"
     ],
-    "abilities": {
-      "core": [
-        "Scouts 6\"",
-        "Daughters of the Abyss",
-        "Models in this unit have the",
-        "Feel No Pain 3+",
-        "ability against Psychic Attacks.",
-        "Sanctified Flames",
-        "Each time this unit shoots, after it has",
-        "shot, select one enemy unit that was hit by one or more of"
-      ],
-      "faction": [
-        "ABILITIES"
-      ],
-      "special": [
+      "abilities": [
         {
-          "title": "CORE",
-          "text": "Scouts 6\" Daughters of the Abyss: Models in this unit have the Feel No Pain 3+ ability against Psychic Attacks."
-        },
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Scouts 6\""
+            },
+        {
+            "title": "Daughters of the Abyss",
+            "text": "Models in this unit have the Feel No Pain 3+ ability against Psychic Attacks."
+          },
         {
           "title": "Sanctified Flames",
           "text": "Each time this unit shoots, after it has shot, select one enemy unit that was hit by one or more of those attacks. That unit must take a Battle-shock test."
         }
       ]
-    },
-    "wargearAbilities": [],
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "6\"",
       "t": "3",
@@ -948,28 +962,29 @@
       "oc": "1"
     },
     "wargear": [
-      {
-        "title": "WARGEAR OPTIONS",
-        "values": [
-          "■",
-          "None"
-        ]
-      },
-      {
-        "title": "UNIT COMPOSITION",
-        "values": [
-          "■",
-          "1 Witchseeker Sister Superior",
-          "■",
-          "3-9 Witchseekers",
-          "Every model is equipped with",
-          "Witchseeker flamer; close",
-          "combat weapon.",
-          "WITCHSEEKERS",
-          "Witchseekers wield sanctified flamers as they hunt witches through",
-          "tangled corridors and muddy trenchworks alike. Closing with their",
-          "heretical quarry, they unleash a roaring conflagration to immolate the",
-          "foe, as well as any pyre."
+        {
+          "title": "WARGEAR OPTIONS",
+          "values": [
+            {
+              "list": [
+                "None"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                "1 Witchseeker Sister Superior",
+                "3-9 Witchseekers"
+              ]
+            },
+            {
+              "title": "Every model is equipped with",
+              "text": "Witchseeker flamer; close combat weapon."
+            }
         ]
       }
     ]
@@ -980,7 +995,6 @@
       { "per": "1 model", "points": 120}
     ],
     "name": "SHIELD-CAPTAIN",
-    "subtype": "",
     "keywords": [
       "Infantry",
       "Character",
@@ -1050,40 +1064,48 @@
     "factionKeywords": [
       "Adeptus Custodes"
     ],
-    "abilities": {
-      "core": [
-        "Deep Strike, Leader"
-      ],
-      "faction": [
-        "Martial Ka'tah"
-      ],
-      "special": [
+      "abilities": [
         {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deep Strike, Leader"
+            },
+      {
+              "title": "FACTION",
+              "text": "Martial Ka'tah"
+            },
+      {
           "title": "Master of the Stances",
-          "text": "At the start of the Fight phase, select one Ka'tah Stance. Until the end of the phase, that stance is active for this model's unit in addition to the one that is active."
-        },
-        {
-          "title": "Once per battle, at the start of the Fight phase, all stances are active for this model's unit until the end of the phase",
-          "text": "."
+          "text": "At the start of the Fight phase, select one Ka'tah Stance. Until the end of the phase, that stance is active for this model's unit in addition to the one that is active. Once per battle, at the start of the Fight phase, all stances are active for this model's unit until the end of the phase."
         },
         {
           "title": "Strategic Mastery",
           "text": "Once per battle round, you can select one model from your army with this ability. That model's unit can be targeted with a Stratagem for 0CP, even if that Stratagem has already targeted another unit from your army this phase."
         }
-      ]
-    },
-    "wargearAbilities": {
-      "core": null,
-      "faction": null,
-      "special": [
-        {
+          ]
+    }],
+    "wargearAbilities": [
+      {
+        "title": "WARGEAR ABILITIES",
+        "values": [
+      {
           "title": "Praesidium shield",
           "text": "Add 1 to the bearer's Wounds characteristic."
         }
       ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "6\"",
       "t": "6",
@@ -1096,39 +1118,42 @@
       {
         "title": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s guardian spear can be replaced with one of the following",
-          "◦",
-          "1 castellan axe",
-          "◦",
-          "1 sentinel blade",
-          "◦",
-          "1 sentinel blade and 1 praesidium shield"
+          {
+            "list": [
+              "This model’s guardian spear can be replaced with one of the following",
+              ["1 castellan axe",
+              "1 sentinel blade",
+              "1 sentinel blade and 1 praesidium shield"]
+            ]
+          }
         ]
       },
-      {
-        "title": "UNIT COMPOSITION",
-        "values": [
-          "■",
-          "1 Shield-Captain",
-          "This model is equipped with",
-          "guardian spear."
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                "1 Shield-Captain"
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": "guardian spear."
+            }
         ]
       },
-      {
-        "title": "LEADER",
-        "values": [
-          "This model can be attached to the following units",
-          "■",
-          "Custodian Guard",
-          "■",
-          "Custodian Wardens",
-          "SHIELD-CAPTAIN",
-          "Shield-Captains are among the greatest warriors in the Imperium.",
-          "No matter which weapons they wield, they display absolute mastery",
-          "of them. Their tactical and strategic abilities know few peers, and",
-          "they read the ebb and flow of a war at a glance before directing their",
-          "forces accordingly."
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                "Custodian Guard",
+                "Custodian Wardens"
+              ]
+            }
         ]
       }
     ]
@@ -1139,7 +1164,6 @@
       { "per": "1 model", "points": 100}
     ],
     "name": "BLADE CHAMPION",
-    "subtype": "",
     "keywords": [
       "Infantry",
       "Character",
@@ -1147,10 +1171,9 @@
       "Blade Champion"
     ],
     "weapons": {
-      "ranged": [],
       "melee": [
         {
-          "name": "Vaultswords - Behemor [PRECISION]",
+          "name": "&#10145; Vaultswords - Behemor [PRECISION]",
           "range": "Melee",
           "a": "6",
           "bws": "2+",
@@ -1159,7 +1182,7 @@
           "d": "2"
         },
         {
-          "name": "Vaultswords - Hurricanus [SUSTAINED HITS 1]",
+          "name": "&#10145; Vaultswords - Hurricanus [SUSTAINED HITS 1]",
           "range": "Melee",
           "a": "9",
           "bws": "2+",
@@ -1168,7 +1191,7 @@
           "d": "1"
         },
         {
-          "name": "Vaultswords - Victus [DEVASTATING WOUNDS]",
+          "name": "&#10145; Vaultswords - Victus [DEVASTATING WOUNDS]",
           "range": "Melee",
           "a": "5",
           "bws": "2+",
@@ -1181,31 +1204,38 @@
     "factionKeywords": [
       "Adeptus Custodes"
     ],
-    "abilities": {
-      "core": [
-        "Deep Strike, Leader"
-      ],
-      "faction": [
-        "Martial Ka'tah"
-      ],
-      "special": [
+      "abilities": [
         {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deep Strike, Leader"
+            },
+      {
+              "title": "FACTION",
+              "text": "Martial Ka'tah"
+            },
+      {
           "title": "Martial Inspiration",
-          "text": "While this model is leading a unit, you can re-roll Advance and Charge rolls made for that unit."
-        },
-        {
-          "title": "In addition, once per battle, this model's unit is eligible to declare a charge in a turn in which it Advanced",
-          "text": "."
+          "text": "While this model is leading a unit, you can re-roll Advance and Charge rolls made for that unit. In addition, once per battle, this model's unit is eligible to declare a charge in a turn in which it Advanced."
         },
         {
           "title": "Legacy of Combat",
           "text": "You can target this model's unit with the Heroic Intervention Stratagem for 0CP, and can do so even if you have already targeted a different unit with that Stratagem this phase."
         }
       ]
-    },
-    "wargearAbilities": [],
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "6\"",
       "t": "6",
@@ -1218,36 +1248,42 @@
       "footnotes": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
     },
     "wargear": [
-      {
-        "title": "WARGEAR OPTIONS",
-        "values": [
-          "■",
-          "None"
+        {
+          "title": "WARGEAR OPTIONS",
+          "values": [
+            {
+              "list": [
+                "None"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                "1 Blade Champion"
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": "vaultswords."
+            }
         ]
       },
-      {
-        "title": "UNIT COMPOSITION",
-        "values": [
-          "■",
-          "1 Blade Champion",
-          "This model is equipped with",
-          "vaultswords."
-        ]
-      },
-      {
-        "title": "LEADER",
-        "values": [
-          "This model can be attached to the following units",
-          "■",
-          "Custodian Guard",
-          "■",
-          "Custodian Wardens",
-          "BLADE CHAMPION",
-          "A Blade Champion is a living weapon in the Emperor’s hand. His role is",
-          "to identify the greatest battlefield threat - be that a mighty leader, a",
-          "host of killers or a deadly war engine - then to employ his archeotech",
-          "blades and specialised fighting styles to ensure their swift and",
-          "absolute destruction."
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                "Custodian Guard",
+                "Custodian Wardens"
+              ]
+            }
         ]
       }
     ]
@@ -1258,7 +1294,6 @@
       { "per": "1 model", "points": 90}
     ],
     "name": "ALEYA",
-    "subtype": "",
     "keywords": [
       "Infantry",
       "Character",
@@ -1267,7 +1302,6 @@
       "Aleya"
     ],
     "weapons": {
-      "ranged": [],
       "melee": [
         {
           "name": "Somnus",
@@ -1286,27 +1320,17 @@
     "factionKeywords": [
       "Adeptus Custodes"
     ],
-    "abilities": {
-      "core": [
-        "Feel No Pain 5+, Leader, Scouts 6\"",
-        "Tactical Perception",
-        "While this model is leading a unit, models",
-        "in that unit have the Fights First ability.",
-        "Tenacious Spirit",
-        "While this model is leading a unit, each",
-        "time a model in that unit makes an attack, add 1 to the Hit",
-        "roll if that unit is below its Starting Strength, and add 1 to the",
-        "Wound roll as well if that unit is Below Half-strength.",
-        "Daughter of the Abyss",
-        "This model has the Feel No Pain 3+"
-      ],
-      "faction": [
-        "ABILITIES"
-      ],
-      "special": [
+      "abilities": [
         {
+          "title": "ABILITIES",
+          "values": [
+      {
           "title": "CORE",
-          "text": "Feel No Pain 5+, Leader, Scouts 6\" Tactical Perception: While this model is leading a unit, models in that unit have the Fights First ability."
+          "text": "Feel No Pain 5+, Leader, Scouts 6\""
+        },
+      {
+          "title": "Tactical Perception",
+          "text": "While this model is leading a unit, models in that unit have the Fights First ability."
         },
         {
           "title": "Tenacious Spirit",
@@ -1317,10 +1341,17 @@
           "text": "This model has the Feel No Pain 3+ ability against Psychic Attacks."
         }
       ]
-    },
-    "wargearAbilities": [],
-    "invulnerable": "5+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "5+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "6\"",
       "t": "3",
@@ -1330,39 +1361,43 @@
       "oc": "1"
     },
     "wargear": [
-      {
-        "title": "WARGEAR OPTIONS",
-        "values": [
-          "■",
-          "None"
+        {
+          "title": "WARGEAR OPTIONS",
+          "values": [
+            {
+              "list": [
+                "None"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                "1 Aleya - Epic Hero"
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": "Somnus."
+            }
         ]
       },
-      {
-        "title": "UNIT COMPOSITION",
-        "values": [
-          "■",
-          "1 Aleya",
-          "- Epic Hero",
-          "This model is equipped with",
-          "Somnus."
-        ]
-      },
-      {
-        "title": "LEADER",
-        "values": [
-          "This model can be attached to the following units",
-          "■",
-          "Prosecutors",
-          "■",
-          "Vigilators",
-          "■",
-          "Witchseekers",
-          "ALEYA",
-          "Aleya is a veteran of her order and is a ferocious and dedicated",
-          "hunter of witches and sorcerers. Over many years she has developed",
-          "incredible tactical perception, as well as a deep knowledge of her",
-          "quarry. She employs these skills to seek out rogue psykers, cutting",
-          "them down with sweeps of her blade, Somnus."
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                "Prosecutors",
+                "Vigilators",
+                "Witchseekers"
+              ]
+            }
         ]
       }
     ]
@@ -1373,13 +1408,14 @@
       { "per": "1 model", "points": 75}
     ],
     "name": "ANATHEMA PSYKANA RHINO",
-    "subtype": "",
     "keywords": [
       "Vehicle",
       "Transport",
       "Dedicated Transport",
       "Smoke",
-      "Imperium"
+      "Imperium",
+      "Anathema Psykana",
+      "Rhino"
     ],
     "weapons": {
       "ranged": [
@@ -1394,16 +1430,16 @@
         },
         {
           "name": "One Shot",
-          "range": "The bearer can only shoot with this weapon once per battle.",
-          "a": "Storm bolter [RAPID FIRE 2]",
-          "bws": "24\"",
-          "s": "2",
-          "ap": "3+",
-          "d": "4"
+          "range": "The bearer can only shoot with this weapon once per battle."
         },
         {
-          "name": "0",
-          "range": "1"
+          "name": "Storm bolter [RAPID FIRE 2]",
+          "range": "24\"",
+          "a": "2",
+          "bws": "3+",
+          "s": "4",
+          "ap": "0",
+          "d": "1"
         }
       ],
       "melee": [
@@ -1421,32 +1457,24 @@
     "factionKeywords": [
       "Adeptus Custodes"
     ],
-    "abilities": {
-      "core": [
-        "Deadly Demise D3",
-        "Daughters of the Abyss",
-        "This model has the Feel No Pain 3+",
-        "ability against Psychic Attacks.",
-        "Self Repair",
-        "At the start of your Command phase, this model"
-      ],
-      "faction": [
-        "ABILITIES"
-      ],
-      "special": [
+      "abilities": [
         {
+          "title": "ABILITIES",
+          "values": [
+      {
           "title": "CORE",
-          "text": "Deadly Demise D3 Daughters of the Abyss: This model has the Feel No Pain 3+ ability against Psychic Attacks."
+          "text": "Deadly Demise D3"
+        },
+        {
+          "title": "Daughter of the Abyss",
+          "text": "This model has the Feel No Pain 3+ ability against Psychic Attacks."
         },
         {
           "title": "Self Repair",
           "text": "At the start of your Command phase, this model regains 1 lost wound."
         }
       ]
-    },
-    "wargearAbilities": [],
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "12\"",
       "t": "9",
@@ -1459,32 +1487,33 @@
       {
         "title": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model can be equipped with 1 hunter-killer missile."
+          {
+            "list": [
+              "This model can be equipped with 1 hunter-killer missile."
+            ]
+          }
         ]
       },
-      {
-        "title": "UNIT COMPOSITION",
-        "values": [
-          "■",
-          "1 Anathema Psykana Rhino",
-          "This model is equipped with",
-          "storm bolter; armoured tracks."
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                "1 Anathema Psykana Rhino"
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": "storm bolter; armoured tracks."
+            }
         ]
       },
       {
         "title": "TRANSPORT",
         "values": [
-          "This model has a transport capacity of 12",
-          "Anathema Psykana",
-          "Infantry",
-          "models.",
-          "ANATHEMA PSYKANA RHINO",
-          "The Rhinos of the Silent Sisterhood are more than just armoured",
-          "personnel carriers. Many have served the Imperium for hundreds,",
-          "if not thousands of years. Highly rugged vehicles, their spacious",
-          "capacity and powerful engines help them to safely carry their deadly",
-          "cargo of Sisters into the fiercest of battles."
+          {
+            "text": "This model has a transport capacity of 12 Anathema Psykana Infantry models."
+          }
         ]
       }
     ]
@@ -1495,12 +1524,12 @@
       { "per": "1 model", "points": 75}
     ],
     "name": "KNIGHT-CENTURA",
-    "subtype": "",
     "keywords": [
       "Infantry",
       "Character",
       "Imperium",
-      "Anathema Psykana"
+      "Anathema Psykana",
+      "Knight-Centura"
     ],
     "weapons": {
       "ranged": [
@@ -1538,33 +1567,17 @@
     "factionKeywords": [
       "Adeptus Custodes"
     ],
-    "abilities": {
-      "core": [
-        "Leader, Scouts 6\"",
-        "Seeker's Instincts",
-        "While this model is leading a unit, add 2\"",
-        "to the Move characteristic of models in that unit and add 2 to",
-        "Advance and Charge rolls made for that unit.",
-        "Daughter of the Abyss",
-        "This model has the Feel No Pain 3+",
-        "ability against Psychic Attacks.",
-        "Corner the Quarry",
-        "Each time an enemy unit (excluding",
-        "Monsters",
-        "and",
-        "Vehicles",
-        ") that is within Engagement Range",
-        "of this model's unit Falls Back, all models in that enemy",
-        "unit must take a Desperate Escape test. When doing so, if",
-        "that enemy unit is Battle-shocked, subtract 1 from each of"
-      ],
-      "faction": [
-        "ABILITIES"
-      ],
-      "special": [
+      "abilities": [
         {
+          "title": "ABILITIES",
+          "values": [
+      {
           "title": "CORE",
-          "text": "Leader, Scouts 6\" Seeker's Instincts: While this model is leading a unit, add 2\" to the Move characteristic of models in that unit and add 2 to Advance and Charge rolls made for that unit."
+          "text": "Leader, Scouts 6\""
+        },
+        {
+          "title": "Seeker's Instincts",
+          "text": "While this model is leading a unit, add 2\" to the Move characteristic of models in that unit and add 2 to Advance and Charge rolls made for that unit."
         },
         {
           "title": "Daughter of the Abyss",
@@ -1572,17 +1585,20 @@
         },
         {
           "title": "Corner the Quarry",
-          "text": "Each time an enemy unit (excluding Monsters and Vehicles ) that is within Engagement Range of this model's unit Falls Back, all models in that enemy unit must take a Desperate Escape test."
-        },
-        {
-          "title": "When doing so, if that enemy unit is Battle-shocked, subtract 1 from each of those tests",
-          "text": "."
+          "text": "Each time an enemy unit (excluding Monsters and Vehicles ) that is within Engagement Range of this model's unit Falls Back, all models in that enemy unit must take a Desperate Escape test. When doing so, if that enemy unit is Battle-shocked, subtract 1 from each of those tests."
         }
       ]
-    },
-    "wargearAbilities": [],
-    "invulnerable": "5+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "5+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "6\"",
       "t": "3",
@@ -1595,39 +1611,42 @@
       {
         "title": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s executioner greatblade can be replaced with one of the following",
-          "◦",
-          "1 master-crafted boltgun",
-          "◦",
-          "1 Witchseeker flamer"
+          {
+            "list": [
+              "This model’s executioner greatblade can be replaced with one of the following",
+              ["1 master-crafted boltgun",
+              "1 Witchseeker flamer"]
+            ]
+          }
         ]
       },
-      {
-        "title": "UNIT COMPOSITION",
-        "values": [
-          "■",
-          "1 Knight-Centura",
-          "This model is equipped with",
-          "executioner greatblade."
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                "1 Knight-Centura"
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": "executioner greatblade."
+            }
         ]
       },
-      {
-        "title": "LEADER",
-        "values": [
-          "This model can be attached to the following units",
-          "■",
-          "Prosecutors",
-          "■",
-          "Vigilators",
-          "■",
-          "Witchseekers",
-          "KNIGHT-CENTURA",
-          "Knight-Centuras are the leaders of Sisters of Silence cadres and the",
-          "guardians of their traditions. They have earned the respect of their",
-          "Sisters through years of service, impeccable fighting skills, immense",
-          "power as Nulls and encyclopaedic knowledge of the witch and",
-          "the sorcerer."
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                "Prosecutors",
+                "Vigilators",
+                "Witchseekers"
+              ]
+            }
         ]
       }
     ]
@@ -1700,31 +1719,38 @@
     "factionKeywords": [
       "Adeptus Custodes"
     ],
-    "abilities": {
-      "core": [
-        "Deep Strike, Leader"
-      ],
-      "faction": [
-        "Martial Ka'tah"
-      ],
-      "special": [
+      "abilities": [
         {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deep Strike, Leader"
+            },
+      {
+              "title": "FACTION",
+              "text": "Martial Ka'tah"
+            },
+      {
           "title": "Defiant to the Last",
-          "text": "If this model is destroyed by a melee attack, if it has not fought this phase, roll one D6: on a 2+, do not remove it from play."
-        },
-        {
-          "title": "The destroyed model can fight after the attacking model's unit has finished making its attacks, and is then removed from play",
-          "text": "."
+          "text": "If this model is destroyed by a melee attack, if it has not fought this phase, roll one D6: on a 2+, do not remove it from play. The destroyed model can fight after the attacking model's unit has finished making its attacks, and is then removed from play."
         },
         {
           "title": "Strategic Mastery",
           "text": "Once per battle round, you can select one model from your army with this ability and target that model's unit with a Stratagem for 0CP, even if that Stratagem has already been used on another unit from your army this phase."
         }
       ]
-    },
-    "wargearAbilities": [],
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "5\"",
       "t": "7",
@@ -1737,33 +1763,38 @@
       {
         "title": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s guardian spear can be replaced with 1 castellan axe."
+          {
+            "list": [
+              "This model’s guardian spear can be replaced with 1 castellan axe."
+            ]
+          }
         ]
       },
-      {
-        "title": "UNIT COMPOSITION",
-        "values": [
-          "■",
-          "1 Shield-Captain in Allarus Terminator Armour",
-          "This model is equipped with",
-          "balistus grenade launcher;",
-          "guardian spear."
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                "1 Shield-Captain in Allarus Terminator Armour"
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": "balistus grenade launcher; guardian spear."
+            }
         ]
       },
-      {
-        "title": "LEADER",
-        "values": [
-          "This model can be attached to the following unit",
-          "■",
-          "Allarus Custodians",
-          "SHIELD-CAPTAIN",
-          "IN ALLARUS TERMINATOR ARMOUR",
-          "A Shield-Captain is already one of the most formidable combatants",
-          "and superlative strategists in the Imperium. When clad in a nigh-on",
-          "impenetrable suit of auramite Terminator armour, they become more",
-          "powerful still - a walking fortress of Imperial might able to teleport",
-          "directly into battle in a blaze of golden light."
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following unit"
+            },
+            {
+              "list": [
+                "Allarus Custodians"
+              ]
+            }
         ]
       }
     ]
@@ -1780,7 +1811,8 @@
       "Character",
       "Fly",
       "Imperium",
-      "Dawneagle Jetbike"
+      "Dawneagle Jetbike",
+      "Shield-Captain"
     ],
     "weapons": {
       "ranged": [
@@ -1818,31 +1850,38 @@
     "factionKeywords": [
       "Adeptus Custodes"
     ],
-    "abilities": {
-      "core": [
-        "Leader"
-      ],
-      "faction": [
-        "Martial Ka'tah"
-      ],
-      "special": [
+      "abilities": [
         {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Leader"
+            },
+      {
+              "title": "FACTION",
+              "text": "Martial Ka'tah"
+            },
+      {
           "title": "Sweeping Advance",
-          "text": "While this model is leading a unit, each time that unit Consolidates, each model in that unit can move up to 6\" instead of up to 3\"."
-        },
-        {
-          "title": "In addition, once per battle, at the end of the Fight phase, if this model's unit is within Engagement Range of one or more enemy units, it can Fall Back as if it were your Movement phase or, if it is not within Engagement Range of one or more enemy units, it can make a Normal move as if it were your Movement phase",
-          "text": "."
+          "text": "While this model is leading a unit, each time that unit Consolidates, each model in that unit can move up to 6\" instead of up to 3\". In addition, once per battle, at the end of the Fight phase, if this model's unit is within Engagement Range of one or more enemy units, it can Fall Back as if it were your Movement phase or, if it is not within Engagement Range of one or more enemy units, it can make a Normal move as if it were your Movement phase"
         },
         {
           "title": "Strategic Mastery",
           "text": "Once per battle round, you can select one model from your army with this ability and target that model's unit with a Stratagem for 0CP, even if that Stratagem has already been used on another unit from your army this phase."
         }
       ]
-    },
-    "wargearAbilities": [],
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "12\"",
       "t": "6",
@@ -1855,33 +1894,38 @@
       {
         "title": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s salvo launcher can be replaced with 1 Vertus hurricane bolter."
+          {
+            "list": [
+              "This model’s salvo launcher can be replaced with 1 Vertus hurricane bolter."
+            ]
+          }
         ]
       },
-      {
-        "title": "UNIT COMPOSITION",
-        "values": [
-          "■",
-          "1 Shield-Captain on Dawneagle Jetbike",
-          "This model is equipped with",
-          "salvo launcher;",
-          "interceptor lance."
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                "1 Shield-Captain on Dawneagle Jetbike"
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": "salvo launcher; interceptor lance."
+            }
         ]
       },
-      {
-        "title": "LEADER",
-        "values": [
-          "This model can be attached to the following unit",
-          "■",
-          "Vertus Praetors",
-          "SHIELD-CAPTAIN",
-          "ON DAWNEAGLE JETBIKE",
-          "All Shield-Captains are decisive warriors who suffer no impediment to",
-          "their mission. Those Shield-Captains swiftest in thought and action",
-          "soar into battle on Dawneagle jetbikes, plunging into the heart of the",
-          "foe. Though these warriors appear arrogant, this is far from true - their",
-          "self-assuredness is matched entirely by their skill."
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following unit"
+            },
+            {
+              "list": [
+                "Vertus Praetors"
+              ]
+            }
         ]
       }
     ]
@@ -1892,7 +1936,6 @@
       { "per": "1 model", "points": 145}
     ],
     "name": "TRAJANN VALORIS",
-    "subtype": "",
     "keywords": [
       "Infantry",
       "Character",
@@ -1927,35 +1970,51 @@
     "factionKeywords": [
       "Adeptus Custodes"
     ],
-    "abilities": {
-      "core": [
-        "Deep Strike, Feel No Pain 5+, Leader"
-      ],
-      "faction": [
-        "Martial Ka'tah"
-      ],
-      "special": [
+      "abilities": [
         {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deep Strike, Feel No Pain 5+, Leader"
+            },
+      {
+              "title": "FACTION",
+              "text": "Martial Ka'tah"
+            },
+      {
           "title": "Captain-General",
           "text": "While this model is leading a unit, you can ignore any or all modifiers to the characteristics of models in that unit and/or to any roll or test made for models in that unit (excluding modifiers to saving throws)."
         },
         {
           "title": "Moment Shackle",
-          "text": "Once per battle, at the start of the Fight phase, you can select one of the following to take effect until the end of the phase: ■ This model's Watcher's Axe melee weapon has an Attacks characteristic of 12."
+          "text": "Once per battle, at the start of the Fight phase, you can select one of the following to take effect until the end of the phase:"
         },
         {
-          "title": "■ This model has a 2+ invulnerable save",
-          "text": "."
-        },
-        {
-          "title": "■ Models in this model's unit have the Fights First ability",
-          "text": "."
+          "list": [
+            {
+              "text": "This model's Watcher's Axe melee weapon has an Attacks characteristic of 12."
+            },
+            {
+              "text": "This model has a 2+ invulnerable save"
+            },
+            {
+              "text": "Models in this model's unit have the Fights First ability"
+            }
+          ]
         }
       ]
-    },
-    "wargearAbilities": [],
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "6\"",
       "t": "6",
@@ -1965,36 +2024,51 @@
       "oc": "2"
     },
     "wargear": [
-      {
-        "title": "WARGEAR OPTIONS",
-        "values": [
-          "■",
-          "None"
+        {
+          "title": "WARGEAR OPTIONS",
+          "values": [
+            {
+              "list": [
+                "None"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                "1 Trajann Valoris - Epic Hero"
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": "Watcher’s Axe."
+            }
         ]
       },
-      {
-        "title": "UNIT COMPOSITION",
-        "values": [
-          "■",
-          "1 Trajann Valoris",
-          "- Epic Hero",
-          "This model is equipped with",
-          "Watcher’s Axe."
-        ]
-      },
-      {
-        "title": "LEADER",
-        "values": [
-          "This model can be attached to the following units",
-          "■",
-          "Custodian Guard",
-          "■",
-          "Custodian Wardens"
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                "Custodian Guard",
+                "Custodian Wardens"
+              ]
+            }
         ]
       },
       {
         "title": "SUPREME COMMANDER",
-        "values": []
+        "values": [
+          {
+            "text": "If this model is in your army, it must be your Warlord."
+          }
+        ]
       }
     ]
   },
@@ -2004,13 +2078,13 @@
       { "per": "1 model", "points": 115}
     ],
     "name": "VALERIAN",
-    "subtype": "",
     "keywords": [
       "Infantry",
       "Character",
       "Epic Hero",
       "Imperium",
-      "Shield-Captain"
+      "Shield-Captain",
+      "Valerian"
     ],
     "weapons": {
       "ranged": [
@@ -2039,31 +2113,38 @@
     "factionKeywords": [
       "Adeptus Custodes"
     ],
-    "abilities": {
-      "core": [
-        "Feel No Pain 6+, Leader"
-      ],
-      "faction": [
-        "Martial Ka'tah"
-      ],
-      "special": [
+      "abilities": [
         {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Feel No Pain 6+, Leader"
+            },
+      {
+              "title": "FACTION",
+              "text": "Martial Ka'tah"
+            },
+      {
           "title": "Golden Laurels",
           "text": "While this model is leading a unit, each time a melee attack targets that unit, worsen the Armour Penetration characteristic of that attack by 1."
         },
         {
           "title": "Hero of Lion's Gate",
-          "text": "Once per battle round, you can re-roll one Hit roll, one Wound roll or one saving throw made for this model."
-        },
-        {
-          "title": "In addition, once per battle, after making a Hit roll, Wound roll or saving throw for this model, you can change the result of that roll to an unmodified 6",
-          "text": "."
+          "text": "Once per battle round, you can re-roll one Hit roll, one Wound roll or one saving throw made for this model. In addition, once per battle, after making a Hit roll, Wound roll or saving throw for this model, you can change the result of that roll to an unmodified 6"
         }
       ]
-    },
-    "wargearAbilities": [],
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "6\"",
       "t": "6",
@@ -2073,36 +2154,42 @@
       "oc": "2"
     },
     "wargear": [
-      {
-        "title": "WARGEAR OPTIONS",
-        "values": [
-          "■",
-          "None"
+        {
+          "title": "WARGEAR OPTIONS",
+          "values": [
+            {
+              "list": [
+                "None"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                "1 Valerian - Epic Hero"
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": "Gnosis."
+            }
         ]
       },
-      {
-        "title": "UNIT COMPOSITION",
-        "values": [
-          "■",
-          "1 Valerian",
-          "- Epic Hero",
-          "This model is equipped with",
-          "Gnosis."
-        ]
-      },
-      {
-        "title": "LEADER",
-        "values": [
-          "This model can be attached to the following units",
-          "■",
-          "Custodian Guard",
-          "■",
-          "Custodian Wardens",
-          "VALERIAN",
-          "A headstrong warrior, Valerian is relatively new to the Custodes, but",
-          "is already marked for greatness. His urge to bring death to the foes",
-          "of the Emperor beyond Terra is much valued in these dark times, and",
-          "countless enemies have fallen to his guardian spear, Gnosis."
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                "Custodian Guard",
+                "Custodian Wardens"
+              ]
+            }
         ]
       }
     ]
@@ -2113,7 +2200,6 @@
       { "per": "1 model", "points": 185}
     ],
     "name": "VENERABLE CONTEMPTOR DREADNOUGHT",
-    "subtype": "",
     "keywords": [
       "Vehicle",
       "Walker",
@@ -2165,27 +2251,34 @@
     "factionKeywords": [
       "Adeptus Custodes"
     ],
-    "abilities": {
-      "core": [
-        "Deadly Demise 1"
-      ],
-      "faction": [
-        "Martial Ka'tah"
-      ],
-      "special": [
+      "abilities": [
         {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise 1"
+            },
+      {
+              "title": "FACTION",
+              "text": "Martial Ka'tah"
+            },
+      {
           "title": "Unyielding Ancient",
-          "text": "The first time this model is destroyed, remove it from play without resolving its Deadly Demise ability."
-        },
-        {
-          "title": "Then, at the end of the phase, roll one D6",
-          "text": "on a 2+, set this model back up on the battlefield as close as possible to where it was destroyed and not within Engagement Range of any enemy units, with D6 wounds remaining."
+          "text": "The first time this model is destroyed, remove it from play without resolving its Deadly Demise ability. Then, at the end of the phase, roll one D6 on a 2+, set this model back up on the battlefield as close as possible to where it was destroyed and not within Engagement Range of any enemy units, with D6 wounds remaining."
         }
       ]
-    },
-    "wargearAbilities": [],
-    "invulnerable": "5+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "5+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "6\"",
       "t": "9",
@@ -2198,24 +2291,25 @@
       {
         "title": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s multi-melta can be replaced with 1 Kheres-pattern assault cannon."
+          {
+            "list": [
+              "This model’s multi-melta can be replaced with 1 Kheres-pattern assault cannon."
+            ]
+          }
         ]
       },
-      {
-        "title": "UNIT COMPOSITION",
-        "values": [
-          "■",
-          "1 Venerable Contemptor Dreadnought",
-          "This model is equipped with",
-          "combi-bolter; multi-melta;",
-          "Contemptor combat weapon.",
-          "VENERABLE CONTEMPTOR DREADNOUGHT",
-          "These towering combat walkers are piloted by centuries-old fallen",
-          "heroes kept alive by irreplaceable technologies. Equipped with",
-          "weapons that can melt armour and tear apart infantry, Venerable",
-          "Contemptor Dreadnoughts inflict terrible damage, all while protected",
-          "by atomantic shields and auto-repair protocols."
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                "1 Venerable Contemptor Dreadnought"
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": "combi-bolter; multi-melta; Contemptor combat weapon."
+            }
         ]
       }
     ]
@@ -2226,7 +2320,6 @@
       { "per": "1 model", "points": 260}
     ],
     "name": "VENERABLE LAND RAIDER",
-    "subtype": "",
     "keywords": [
       "Vehicle",
       "Imperium",
@@ -2256,25 +2349,25 @@
         },
         {
           "name": "One Shot",
-          "range": "The bearer can only shoot with this weapon once per battle.",
-          "a": "Storm bolter [RAPID FIRE 2]",
-          "bws": "24\"",
-          "s": "2",
-          "ap": "2+",
-          "d": "4"
+          "range": "The bearer can only shoot with this weapon once per battle."
         },
         {
-          "name": "0",
-          "range": "1",
-          "a": "Twin heavy bolter [SUSTAINED HITS 1, TWIN-LINKED]",
-          "bws": "36\"",
-          "s": "3",
-          "ap": "2+",
-          "d": "5"
+          "name": "Storm bolter [RAPID FIRE 2]",
+          "range": "24\"",
+          "a": "2",
+          "bws": "2+",
+          "s": "4",
+          "ap": "0",
+          "d": "1"
         },
         {
-          "name": "-1",
-          "range": "2"
+          "name": "Twin heavy bolter [SUSTAINED HITS 1, TWIN-LINKED]",
+          "range": "36\"",
+          "a": "3",
+          "bws": "2+",
+          "s": "5",
+          "ap": "-1",
+          "d": "2"
         }
       ],
       "melee": [
@@ -2292,27 +2385,34 @@
     "factionKeywords": [
       "Adeptus Custodes"
     ],
-    "abilities": {
-      "core": [
-        "Deadly Demise D6"
-      ],
-      "faction": [
-        "Martial Ka'tah"
-      ],
-      "special": [
+      "abilities": [
         {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D6"
+            },
+      {
+              "title": "FACTION",
+              "text": "Martial Ka'tah"
+            },
+      {
           "title": "Assault Ramp",
           "text": "Each time a unit disembarks from this model after it has made a Normal move, that unit is still eligible to declare a charge this turn."
-        },
-        {
-          "title": "DAMAGED",
-          "text": "1-5 WOUNDS REMAINING While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
         }
       ]
-    },
-    "wargearAbilities": [],
-    "invulnerable": "",
-    "damaged": null,
+    }],
+      "damaged": [
+        {
+          "title": "DAMAGED 1-5 WOUNDS REMAINING",
+          "values": [
+            {
+              "text": "While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "10\"",
       "t": "12",
@@ -2325,35 +2425,34 @@
       {
         "title": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model can be equipped with 1 hunter-killer missile.",
-          "■",
-          "This model can be equipped with 1 storm bolter."
+          {
+            "list": [
+              "This model can be equipped with 1 hunter-killer missile.",
+              "This model can be equipped with 1 storm bolter."
+            ]
+          }
         ]
       },
-      {
-        "title": "UNIT COMPOSITION",
-        "values": [
-          "■",
-          "1 Venerable Land Raider",
-          "This model is equipped with",
-          "2 godhammer lascannons; twin",
-          "heavy bolter; armoured tracks."
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                "1 Venerable Land Raider"
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": "2 godhammer lascannons; twin heavy bolter; armoured tracks."
+            }
         ]
       },
       {
         "title": "TRANSPORT",
         "values": [
-          "This model has a transport capacity of 6",
-          "Adeptus Custodes",
-          "Infantry",
-          "models.",
-          "VENERABLE LAND RAIDER",
-          "Land Raiders are heavily armed, mobile fortresses. Possessed of",
-          "hyper-durable adamantine armour and a fearsome array of weapons,",
-          "they and their cargo of Custodian warriors can turn the tide of war in a",
-          "single salvo, and their machine spirits are so potent they can fight on",
-          "even if the crew are slain."
+          {
+            "text": "This model has a transport capacity of 6 Adeptus Custodes Infantry models."
+          }
         ]
       }
     ]

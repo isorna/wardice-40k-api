@@ -8,7 +8,7 @@
           "text": "If your Army Faction is Leagues of Votann, each time an enemy unit destroys a Leagues of Votann unit from your army, that enemy unit gains 1 Judgement token. An enemy unit can never have more than 2 Judgement tokens (any further Judgement tokens a unit would gain beyond this are ignored)."
         },
         {
-          "text": "Each time a model from your army with this ability makes an attack that targets a unit that has one or more Judgement tokens, until that model’s attacks have been resolved, apply the relevant bonus from the table below to that attack."
+          "text": "Each time a model from your army with this ability makes an attack that targets a unit that has one or more Judgement tokens, until that model's attacks have been resolved, apply the relevant bonus from the table below to that attack."
         }
       ]
     }
@@ -21,7 +21,7 @@
           "title": "RUTHLESS EFFICIENCY"
         },
         {
-          "text": "At the start of the battle, select one unit from your opponent’s army. That unit starts the battle with 2 Judgement tokens (see Eye of the Ancestors)."
+          "text": "At the start of the battle, select one unit from your opponent's army. That unit starts the battle with 2 Judgement tokens (see Eye of the Ancestors)."
         },
         {
           "text": "If, at the start of any of your Command phases, that enemy unit is destroyed, you gain a number of CP depending on how early in the battle you destroyed it, as shown below (you can only gain CP in this way once per battle, and CP gained in this way are an exemption to the Core Rules that limit the maximum number of CP you can gain per battle round to 1)."
@@ -74,8 +74,8 @@
           "category": "OATHBAND - BATTLE TACTIC STRATAGEM",
           "phase": ["SHOOTING"],
           "rules": {
-            "when": "Your opponent’s Shooting phase, just after an enemy unit that has one or more Judgement tokens has resolved its attacks.",
-            "target": "One Leagues of Votann unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+            "when": "Your opponent's Shooting phase, just after an enemy unit that has one or more Judgement tokens has resolved its attacks.",
+            "target": "One Leagues of Votann unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
             "effect": "Your Leagues of Votann unit can shoot as if it were your Shooting phase, but it must target the enemy unit that just attacked it, and can only do so if that enemy unit is an eligible target."
           }
         },
@@ -85,8 +85,8 @@
           "category": "OATHBAND - STRATEGIC PLOY STRATAGEM",
           "phase": ["FIGHT", "SHOOTING"],
           "rules": {
-            "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit 1CP has resolved its attacks.",
-            "target": "One Leagues of Votann Infantry or Leagues of Votann Mounted unit from your army that was reduced to Below Half-strength as a result of the attacking unit’s attacks.",
+            "when": "Your opponent's Shooting phase or the Fight phase, just after an enemy unit 1CP has resolved its attacks.",
+            "target": "One Leagues of Votann Infantry or Leagues of Votann Mounted unit from your army that was reduced to Below Half-strength as a result of the attacking unit's attacks.",
             "effect": "The attacking unit gains 1 Judgement token, or up to 2 Judgement tokens instead if that Leagues of Votann unit contained your Warlord when it was targeted by those attacks."
           }
         },
@@ -96,8 +96,8 @@
           "category": "OATHBAND - WARGEAR STRATAGEM",
           "phase": ["FIGHT", "SHOOTING"],
           "rules": {
-            "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
-            "target": "One Leagues of Votann unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+            "when": "Your opponent's Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
+            "target": "One Leagues of Votann unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
             "effect": "Until the end of the phase, each time an attack targets your Leagues of Votann unit, worsen the Armour Penteration characteristic of that attack by 1."
           }
         }
@@ -117,7 +117,7 @@
           "points": 20,
           "rules": [
             {
-              "text": "Leagues of Votann model only. You can re-roll Battle-shock tests taken for the bearer’s unit, and models in that unit can ignore any or all modifiers to their characteristics and/or to any rolls or tests made for them (excluding modifiers to saving throws)."
+              "text": "Leagues of Votann model only. You can re-roll Battle-shock tests taken for the bearer's unit, and models in that unit can ignore any or all modifiers to their characteristics and/or to any rolls or tests made for them (excluding modifiers to saving throws)."
             }
           ]
         },
@@ -126,12 +126,12 @@
           "points": 15,
           "rules": [
             {
-              "text": "Leagues of Votann model only. Each time the bearer’s unit destroys an enemy unit, if that enemy unit has one or more Judgement tokens, you can select one other enemy unit that is visible to the bearer. That other unit gains one Judgement token."
+              "text": "Leagues of Votann model only. Each time the bearer's unit destroys an enemy unit, if that enemy unit has one or more Judgement tokens, you can select one other enemy unit that is visible to the bearer. That other unit gains one Judgement token."
             }
           ]
         },
         {
-          "title": "WAYFARER’S GRACE",
+          "title": "WAYFARER'S GRACE",
           "points": 25,
           "rules": [
             {

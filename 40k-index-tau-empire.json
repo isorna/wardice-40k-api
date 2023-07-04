@@ -205,11 +205,11 @@
       "text": "Subtract 2 from Charge rolls made for any enemy unit that declares a charge against the bearer's unit (this is not cumulative with any other reductions to that Charge roll)."
     },
     {
-      "title": "PULSE ACCELERATOR DRONE",
+      "name": "PULSE ACCELERATOR DRONE",
       "text": "Add 6\" to the Range characteristic of pulse carbines equipped by models in the bearer's unit."
     },
     {
-      "title": "RECON DRONE",
+      "name": "RECON DRONE",
       "text": "The bearer is equipped with 1 drone burst cannon and the bearer's unit has the Infiltrators ability.",
       "weapons": {
         "ranged": [

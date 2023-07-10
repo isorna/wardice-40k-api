@@ -1362,7 +1362,7 @@
   {
     "id": "40k-index-tau-empire-12",
     "points": [
-      { "per": "1 model", "points": 50}
+      { "per": "10 models", "points": 50}
     ],
     "name": "KROOT SHAPER",
     "keywords": [
@@ -4627,7 +4627,7 @@
               "text": "For the Greater Good"
             },
             {
-              "name": "Ground Strike Fighter",
+              "title": "Ground Strike Fighter",
               "text": "Each time this model makes a ranged attack that targets an enemy unit that cannot Fly , add 1 to the Hit roll."
             }
         ]
@@ -4764,7 +4764,7 @@
               "text": "For the Greater Good"
           },
           {
-            "name": "Pulse Bombs",
+            "title": "Pulse Bombs",
             "text": "Each time this model ends a Normal move, you can select one enemy unit it moved over during that move and roll six D6: for each 3+, that unit suffers 1 mortal wound."
           }
         ]
@@ -5114,7 +5114,7 @@
   {
     "id": "40k-index-tau-empire-68",
     "points": [
-      { "per": "1 model", "points": 405}
+      { "per": "1 model", "points": 465}
     ],
     "name": "STORMSURGE",
     "keywords": [

@@ -2,10 +2,10 @@
   "factionId": "adeptus-custodes",
   "rules": [
     {
-      "title": "MARTIAL KA’TAH",
+      "title": "MARTIAL KA'TAH",
       "rules": [
         {
-          "text": "At the start of the Fight phase, select one Ka’tah Stance from the list below to be active for your army until the end of the phase. While a Ka’tah Stance is active for your army, each unit from your army with this ability gains the relevant ability."
+          "text": "At the start of the Fight phase, select one Ka'tah Stance from the list below to be active for your army until the end of the phase. While a Ka'tah Stance is active for your army, each unit from your army with this ability gains the relevant ability."
         },
         {
           "title": "KAPTARIS STANCE"
@@ -79,8 +79,8 @@
           "category": "SHIELD HOST - BATTLE TACTIC STRATAGEM",
           "phase": ["FIGHT", "SHOOTING"],
           "rules": {
-            "when": "Your opponent’s Shooting phase or 2CP the Fight phase, just after an enemy unit has selected its targets.",
-            "target": "One Adeptus Custodes Infantry unit from your army (excluding Anathema Psykana units) that was selected as the target of one or more of that enemy unit’s attacks.",
+            "when": "Your opponent's Shooting phase or 2CP the Fight phase, just after an enemy unit has selected its targets.",
+            "target": "One Adeptus Custodes Infantry unit from your army (excluding Anathema Psykana units) that was selected as the target of one or more of that enemy unit's attacks.",
             "effect": "Until the end of the phase, each time an attack is allocated to a model in your unit, subtract 1 from the Damage characteristic of that attack."
           }
         },
@@ -116,7 +116,7 @@
             {
               "list": [
                 "Adeptus Custodes model only (excluding Anathema Psykana models). Each time the bearer ends a Charge move, select one enemy unit within Engagement Range of the bearer and roll one D6: on a 2-5, that enemy unit suffers D3 mortal wounds; on a 6, that enemy unit suffers 3 mortal wounds.",
-                "Once per battle, after the bearer’s unit ends a Charge move, all enemy units within 6\" of the bearer must take a Battle-shock test."
+                "Once per battle, after the bearer's unit ends a Charge move, all enemy units within 6\" of the bearer must take a Battle-shock test."
               ]
             }
           ]
@@ -139,8 +139,8 @@
           "rules": [
             {
               "list": [
-                "Adeptus Custodes model only (excluding Anathema Psykana models). Add 2 to the Attacks characteristic of the bearer’s melee weapons.",
-                "Once per battle, at the start of any Command phase, triple the bearer’s Objective Control characteristic until the end of the turn."
+                "Adeptus Custodes model only (excluding Anathema Psykana models). Add 2 to the Attacks characteristic of the bearer's melee weapons.",
+                "Once per battle, at the start of any Command phase, triple the bearer's Objective Control characteristic until the end of the turn."
               ]
             }
           ]
@@ -151,8 +151,8 @@
           "rules": [
             {
               "list": [
-                "Adeptus Custodes model only (excluding Anathema Psykana models). The bearer’s unit is eligible to shoot and declare a charge in a turn in which it Fell Back.",
-                "Once per battle, when an enemy unit ends a Normal, Advance or Fall Back move within 9\" of the bearer, if the bearer’s unit is not within Engagement Range of one or more enemy units, it can make a Normal move of up to 6\"."
+                "Adeptus Custodes model only (excluding Anathema Psykana models). The bearer's unit is eligible to shoot and declare a charge in a turn in which it Fell Back.",
+                "Once per battle, when an enemy unit ends a Normal, Advance or Fall Back move within 9\" of the bearer, if the bearer's unit is not within Engagement Range of one or more enemy units, it can make a Normal move of up to 6\"."
               ]
             }
           ]
@@ -291,7 +291,7 @@
           {
             "list": [
               "Any number of models can each have their guardian spear replaced with 1 sentinel blade and 1 praesidium shield.",
-              "1 model’s guardian spear can be replaced with one of the following:",
+              "1 model's guardian spear can be replaced with one of the following:",
               ["1 vexilla and 1 misericordia",
               "1 vexilla, 1 misericordia and 1 praesidium shield"]
             ]
@@ -584,7 +584,7 @@
           {
             "list": [
               "Any number of models can each have their guardian spear replaced with 1 castellan axe.",
-              "1 model’s guardian spear can be replaced with 1 vexilla and 1 misericordia."
+              "1 model's guardian spear can be replaced with 1 vexilla and 1 misericordia."
             ]
           }
         ]
@@ -1120,7 +1120,7 @@
         "values": [
           {
             "list": [
-              "This model’s guardian spear can be replaced with one of the following",
+              "This model's guardian spear can be replaced with one of the following",
               ["1 castellan axe",
               "1 sentinel blade",
               "1 sentinel blade and 1 praesidium shield"]
@@ -1613,7 +1613,7 @@
         "values": [
           {
             "list": [
-              "This model’s executioner greatblade can be replaced with one of the following",
+              "This model's executioner greatblade can be replaced with one of the following",
               ["1 master-crafted boltgun",
               "1 Witchseeker flamer"]
             ]
@@ -1765,7 +1765,7 @@
         "values": [
           {
             "list": [
-              "This model’s guardian spear can be replaced with 1 castellan axe."
+              "This model's guardian spear can be replaced with 1 castellan axe."
             ]
           }
         ]
@@ -1896,7 +1896,7 @@
         "values": [
           {
             "list": [
-              "This model’s salvo launcher can be replaced with 1 Vertus hurricane bolter."
+              "This model's salvo launcher can be replaced with 1 Vertus hurricane bolter."
             ]
           }
         ]
@@ -1946,7 +1946,7 @@
     "weapons": {
       "ranged": [
         {
-          "name": "Watcher’s Axe [ASSAULT]",
+          "name": "Watcher's Axe [ASSAULT]",
           "range": "24\"",
           "a": "2",
           "bws": "2+",
@@ -1957,7 +1957,7 @@
       ],
       "melee": [
         {
-          "name": "Watcher’s Axe",
+          "name": "Watcher's Axe",
           "range": "Melee",
           "a": "6",
           "bws": "2+",
@@ -2044,7 +2044,7 @@
             },
             {
               "title": "This model is equipped with",
-              "text": "Watcher’s Axe."
+              "text": "Watcher's Axe."
             }
         ]
       },
@@ -2293,7 +2293,7 @@
         "values": [
           {
             "list": [
-              "This model’s multi-melta can be replaced with 1 Kheres-pattern assault cannon."
+              "This model's multi-melta can be replaced with 1 Kheres-pattern assault cannon."
             ]
           }
         ]

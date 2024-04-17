@@ -119,7 +119,7 @@
           ]
         },
         {
-          "title": "HEADWOPPA’S KILLCHOPPA",
+          "title": "HEADWOPPA'S KILLCHOPPA",
           "points": 20,
           "rules": [
             {
@@ -128,7 +128,7 @@
           ]
         },
         {
-          "title": "KUNNIN’ BUT BRUTAL",
+          "title": "KUNNIN' BUT BRUTAL",
           "points": 15,
           "rules": [
             {
@@ -229,7 +229,7 @@
           "d": "2"
         },
         {
-          "name": "Grabbin’ klaw [EXTRA ATTACKS]",
+          "name": "Grabbin' klaw [EXTRA ATTACKS]",
           "range": "Melee",
           "a": "2",
           "bws": "3+",
@@ -247,7 +247,7 @@
           "d": "1"
         },
         {
-          "name": "Wreckin’ ball [EXTRA ATTACKS]",
+          "name": "Wreckin' ball [EXTRA ATTACKS]",
           "range": "Melee",
           "a": "1",
           "bws": "4+",
@@ -260,17 +260,31 @@
     "factionKeywords": [
       "Orks"
     ],
-    "abilities": {
-      "core": "Deadly Demise D6, Firing Deck 22",
-      "faction": "Waaagh!",
-      "special": [
-        "FACTION: Waaagh! Ramshackle but Rugged: Each time an attack is allocated to this model, worsen the Armour Penetration characteristic of that attack by 1}.",
-        "WARGEAR ABILITIES ’Ard Case: Add 2 to the bearer’s Toughness characteristic, but it no longer has the Firing Deck ability}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D6, Firing Deck 22"
+            },{
+              "title": "FACTION",
+              "text": "Waaagh!"
+            },
+      "FACTION: Waaagh! Ramshackle but Rugged: Each time an attack is allocated to this model, worsen the Armour Penetration characteristic of that attack by 1}.",
+        "WARGEAR ABILITIES 'Ard Case: Add 2 to the bearer's Toughness characteristic, but it no longer has the Firing Deck ability}.",
         "DAMAGED: 1-5 WOUNDS REMAINING While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll}."
-      ]
-    },
-    "invulnerable": "6+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "6+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "10\"",
       "t": "10",
@@ -286,36 +300,32 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "This model can be equipped with one of the following",
-          "◦",
           "1 kannon",
-          "◦",
           "1 killkannon",
-          "◦",
           "1 zzap gun",
-          "■",
           "This model can be equipped with",
-          "◦",
           "1 lobba",
-          "■",
           "This model can be equipped with up to 4 big shootas.",
-          "■",
-          "This model’s tracks and wheels can be replaced with 1 deff rolla.",
-          "■",
+          "This model's tracks and wheels can be replaced with 1 deff rolla.",
           "This model can be equipped with any of the following",
-          "◦",
-          "1 ’ard case",
-          "◦",
-          "1 grabbin’ klaw",
-          "◦",
-          "1 wreckin’ ball"
+          "1 'ard case",
+          "1 grabbin' klaw",
+          "1 wreckin' ball"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Battlewagon",
           "This model is equipped with",
           "tracks and wheels."
@@ -335,7 +345,7 @@
           "or",
           "Jump Pack",
           "model takes up the space of 2 models.",
-          "If this model is not equipped with an ’ard case, kannon,",
+          "If this model is not equipped with an 'ard case, kannon,",
           "killkannon or zzap gun, it can transport 1",
           "Ghazghkull",
           "Thraka",
@@ -422,15 +432,19 @@
     "factionKeywords": [
       "Orks"
     ],
-    "abilities": {
-      "core": "Feel No Pain 6+",
-      "faction": "Waaagh!",
-      "special": [
-        "FACTION: Waaagh! Monster Hunters: Each time a model in this unit makes an attack that targets a Monster or Vehicle unit, you can re-roll the Hit roll}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Feel No Pain 6+"
+            },{
+              "title": "FACTION",
+              "text": "Waaagh!"
+            },
+      "FACTION: Waaagh! Monster Hunters: Each time a model in this unit makes an attack that targets a Monster or Vehicle unit, you can re-roll the Hit roll}."
+    }],
     "stats": {
       "m": "6\"",
       "t": "5",
@@ -443,17 +457,23 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "For every 10 models in this unit, 1 Beast Snagga Boy’s slugga and choppa can be replaced with 1",
+          "For every 10 models in this unit, 1 Beast Snagga Boy's slugga and choppa can be replaced with 1",
           "thump gun and 1 close combat weapon."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Beast Snagga Nob",
-          "■",
           "9-19 Beast Snagga Boyz",
           "The Beast Snagga Nob is equipped with",
           "slugga;",
@@ -520,16 +540,32 @@
     "factionKeywords": [
       "Orks"
     ],
-    "abilities": {
-      "core": "Feel No Pain 6+, Leader",
-      "faction": "Waaagh!",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Feel No Pain 6+, Leader"
+            },{
+              "title": "FACTION",
+              "text": "Waaagh!"
+            },
       "special": [
         "FACTION: Waaagh! Beastboss: While this model is leading a unit, each time a model in that unit makes a melee attack, add 1 to the Hit roll}.",
         "Beastly Rage: Each time this model makes a Charge move, until the end of the turn, melee weapons it is equipped with have the [DEVASTATING WOUNDS] ability}."
       ]
-    },
-    "invulnerable": "5+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "5+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "6\"",
       "t": "5",
@@ -542,30 +578,44 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Beastboss",
           "This model is equipped with",
           "shoota; beastchoppa;",
           "Beast Snagga klaw."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following unit",
-          "■",
           "Beast Snagga Boyz",
           "BEASTBOSS",
           "It takes a ferocious and foul-tempered Ork to lead a stampede of",
           "Beast Snaggas. Beastbosses possess these qualities in abundance.",
-          "Boasting cybork enhancements, wired-in targetin’ squigs and an array",
+          "Boasting cybork enhancements, wired-in targetin' squigs and an array",
           "of brutal combat weaponry, these roaring monsters can bring down",
           "even the largest prey one-on-one."
         ]
@@ -617,7 +667,7 @@
           "d": "2"
         },
         {
-          "name": "Squigosaur’s jaws [DEVASTATING WOUNDS, EXTRA ATTACKS]",
+          "name": "Squigosaur's jaws [DEVASTATING WOUNDS, EXTRA ATTACKS]",
           "range": "Melee",
           "a": "3",
           "bws": "4+",
@@ -630,16 +680,30 @@
     "factionKeywords": [
       "Orks"
     ],
-    "abilities": {
-      "core": "Deadly Demise 1, Feel No Pain 4+",
-      "faction": "Waaagh!",
-      "special": [
-        "FACTION: Waaagh! ’Ere We Go (Aura): While a friendly Beast Snagga unit is within 6\" of this model, you can re-roll Charge rolls made for that unit}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise 1, Feel No Pain 4+"
+            },{
+              "title": "FACTION",
+              "text": "Waaagh!"
+            },
+      "FACTION: Waaagh! 'Ere We Go (Aura): While a friendly Beast Snagga unit is within 6\" of this model, you can re-roll Charge rolls made for that unit}.",
         "Single-minded Predator: You can target this model with the Heroic Intervention Stratagem for 1CP, and can do so even if you have already targeted a different unit with that Stratagem this phase}."
-      ]
-    },
-    "invulnerable": "5+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "5+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "10\"",
       "t": "10",
@@ -652,18 +716,25 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "This model can be equipped with 1 thump gun."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Beastboss on Squigosaur",
           "This model is equipped with",
           "slugga; beastchoppa;",
-          "Squigosaur’s jaws.",
+          "Squigosaur's jaws.",
           "BEASTBOSS",
           "ON SQUIGOSAUR",
           "Squigosaurs are single-minded predators that can bite through",
@@ -750,19 +821,23 @@
     "factionKeywords": [
       "Orks"
     ],
-    "abilities": {
-      "core": "Leader",
-      "faction": "Waaagh!",
-      "special": [
-        "FACTION: Waaagh! More Dakka: While this model is leading a unit, each time a model in that unit makes a ranged attack, re-roll a Hit roll of 1}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Leader"
+            },{
+              "title": "FACTION",
+              "text": "Waaagh!"
+            },
+      "FACTION: Waaagh! More Dakka: While this model is leading a unit, each time a model in that unit makes a ranged attack, re-roll a Hit roll of 1}.",
         "Fix Dat Armour Up: While this model is leading a unit, in your Command phase, you can return 1 destroyed Bodyguard model to that unit}.",
         "WARGEAR ABILITIES Kustom Force Field: While the bearer is leading a unit, models in that unit have a 4+ invulnerable save against ranged attacks}.",
-        "Grot Oiler: Once per battle, at the end of your Movement phase, one model in the bearer’s unit regains D3 lost wounds}.",
-        "Designer’s Note: Place a Grot Oiler token next to the unit, removing it once this ability has been used}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+        "Grot Oiler: Once per battle, at the end of your Movement phase, one model in the bearer's unit regains D3 lost wounds}.",
+        "Designer's Note: Place a Grot Oiler token next to the unit, removing it once this ability has been used}."
+    }],
     "stats": {
       "m": "5\"",
       "t": "6",
@@ -775,39 +850,46 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s kustom-mega blasta can be replaced with one of the following",
-          "◦",
+          "This model's kustom-mega blasta can be replaced with one of the following",
           "1 killsaw",
-          "◦",
           "1 kombi-weapon",
-          "◦",
           "1 kustom shoota",
-          "■",
           "This model can be equipped with one of the following",
-          "◦",
           "1 tellyport blasta",
-          "◦",
           "1 kustom force field",
-          "■",
           "This model can be equipped with 1 grot oiler."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Big Mek in Mega Armour",
           "This model is equipped with",
           "kustom-mega blaster;",
           "power klaw."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following unit",
-          "■",
           "Meganobz",
           "BIG MEK",
           "IN MEGA ARMOUR",
@@ -815,7 +897,7 @@
           "incredibly resilient. Big Meks often build and wear it, adding unstable",
           "kustom weaponry, force field projectors, crushing klaws or even",
           "tellyport blastas that kill victims by beaming their component parts",
-          "across a wide area, much to the Orks’ amusement."
+          "across a wide area, much to the Orks' amusement."
         ]
       }
     ]
@@ -860,20 +942,24 @@
     "factionKeywords": [
       "Orks"
     ],
-    "abilities": {
-      "core": "Leader",
-      "faction": "Waaagh!",
-      "special": [
-        "FACTION: Waaagh! More Dakka: While this model is leading a unit, each time a model in that unit makes a ranged attack, re-roll a Hit roll of 1}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Leader"
+            },{
+              "title": "FACTION",
+              "text": "Waaagh!"
+            },
+      "FACTION: Waaagh! More Dakka: While this model is leading a unit, each time a model in that unit makes a ranged attack, re-roll a Hit roll of 1}.",
         "Kustom Force Field: While this model is leading a unit, models in that unit have a 5+ invulnerable save against ranged attacks}.",
         "Once per battle, at the start of any phase, this model can overcharge its kustom force field}.",
         "If it does, until the end of the phase, this invulnerable save is improved to 4+}.",
         "WARGEAR ABILITIES Grot Helper: Once per battle, the bearer can overcharge its kustom force field one additional time}.",
-        "Designer’s Note: Place a Grot Helper token next to the bearer, removing it once this ability has been used}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+        "Designer's Note: Place a Grot Helper token next to the bearer, removing it once this ability has been used}."
+    }],
     "stats": {
       "m": "6\"",
       "t": "5",
@@ -886,32 +972,42 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "This model can be equipped with 1 grot helper."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Big Mek with Kustom Force Field",
           "This model is equipped with",
           "slugga; choppa."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following units",
-          "■",
           "Boyz",
-          "■",
           "Burna Boyz",
-          "■",
           "Tankbustas",
-          "■",
           "Lootas",
-          "■",
           "Nobz",
           "BIG MEK",
           "WITH KUSTOM FORCE FIELD",
@@ -964,18 +1060,22 @@
     "factionKeywords": [
       "Orks"
     ],
-    "abilities": {
-      "core": "Leader",
-      "faction": "Waaagh!",
-      "special": [
-        "FACTION: Waaagh! More Dakka: While this model is leading a unit, each time a model in that unit makes a ranged attack, re-roll a Hit roll of 1}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Leader"
+            },{
+              "title": "FACTION",
+              "text": "Waaagh!"
+            },
+      "FACTION: Waaagh! More Dakka: While this model is leading a unit, each time a model in that unit makes a ranged attack, re-roll a Hit roll of 1}.",
         "Deranged Snotling Assault: In your Shooting phase, after this model has shot, select one enemy unit hit by one or more of those attacks; that unit must take a Battle-shock test}.",
-        "WARGEAR ABILITIES Grot Assistant: Once per battle, after rolling to determine how many attacks the bearer’s shokk attack gun makes, you can re-roll that dice}.",
-        "Designer’s Note: Place a Grot Assistant token next to the bearer, removing it once this ability has been used}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+        "WARGEAR ABILITIES Grot Assistant: Once per battle, after rolling to determine how many attacks the bearer's shokk attack gun makes, you can re-roll that dice}.",
+        "Designer's Note: Place a Grot Assistant token next to the bearer, removing it once this ability has been used}."
+    }],
     "stats": {
       "m": "6\"",
       "t": "5",
@@ -988,29 +1088,41 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "This model can be equipped with 1 grot assistant."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Big Mek with Shokk Attack Gun",
           "This model is equipped with",
           "close combat weapon, shokk",
           "attack gun."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following units",
-          "■",
           "Boyz",
-          "■",
           "Lootaz",
-          "■",
           "Mek Gunz",
           "BIG MEK",
           "WITH SHOKK ATTACK GUN",
@@ -1028,13 +1140,13 @@
     "points": [
       { "per": "1 model", "points": 135}
     ],
-    "name": "BIG’ED BOSSBUNKA",
+    "name": "BIG'ED BOSSBUNKA",
     "subtype": "",
     "keywords": [
       "Fortification",
       "Vehicle",
       "Transport",
-      "Big’ed Bossbunka"
+      "Big'ed Bossbunka"
     ],
     "weapons": {
       "ranged": [
@@ -1071,18 +1183,22 @@
     "factionKeywords": [
       "Orks"
     ],
-    "abilities": {
-      "core": "Deadly Demise D3, Firing Deck 11",
-      "faction": "Waaagh!",
-      "special": [
-        "FACTION: Waaagh! Ramshackle Cover: Each time a ranged attack is allocated to a model, if that model is not fully visible to every model in the attacking unit because of this Fortification , that model has the Benefit of Cover against that attack}.",
-        "Shoutin’ Pole (Aura): While a friendly Orks unit is within 6\" of this Fortification , improve the Leadership characteristic of models in that unit by 1}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D3, Firing Deck 11"
+            },{
+              "title": "FACTION",
+              "text": "Waaagh!"
+            },
+      "FACTION: Waaagh! Ramshackle Cover: Each time a ranged attack is allocated to a model, if that model is not fully visible to every model in the attacking unit because of this Fortification , that model has the Benefit of Cover against that attack}.",
+        "Shoutin' Pole (Aura): While a friendly Orks unit is within 6\" of this Fortification , improve the Leadership characteristic of models in that unit by 1}.",
         "Fortification: While an enemy unit is only within Engagement Range of one or more Fortifications from your army: ■ That unit can still be selected as the target of ranged attacks, but each time such an attack is made, unless it is made with a Pistol, subtract 1 from the Hit roll}.",
         "■ Models in that unit do not need to take Desperate Escape tests due to Falling Back while Battle-shocked, except for those that will move over enemy models when doing so}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "-",
       "t": "10",
@@ -1098,15 +1214,22 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "This model can be equipped with up to 3 additional big shootas."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
-          "1 Big’ed Bossbunka",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
+          "1 Big'ed Bossbunka",
           "This model is equipped with",
           "big shoota; Gaze of Gork."
         ]
@@ -1122,11 +1245,11 @@
           "Jump Pack",
           "model takes up",
           "the space of 2 models.",
-          "BIG’ED BOSSBUNKA",
-          "Having a Gargant’s severed head serve as a boss’ hut is not only a",
+          "BIG'ED BOSSBUNKA",
+          "Having a Gargant's severed head serve as a boss' hut is not only a",
           "status symbol, but also provides a base of operations equipped with a",
           "remarkable array of Orky features - from the potent Gaze of Gork built",
-          "into one eye to the kommanda’s shoutin’ pole that carries the boss’",
+          "into one eye to the kommanda's shoutin' pole that carries the boss'",
           "bellowed commands far and wide."
         ]
       }
@@ -1181,16 +1304,30 @@
     "factionKeywords": [
       "Orks"
     ],
-    "abilities": {
-      "core": "Deadly Demise D3",
-      "faction": "Waaagh!",
-      "special": [
-        "FACTION: Waaagh! Boom Bomb: Each time this model ends a Normal move, you can select one enemy unit it moved over during that move and roll one D6: on a 4+, that unit suffers D6 mortal wounds}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D3"
+            },{
+              "title": "FACTION",
+              "text": "Waaagh!"
+            },
+      "FACTION: Waaagh! Boom Bomb: Each time this model ends a Normal move, you can select one enemy unit it moved over during that move and roll one D6: on a 4+, that unit suffers D6 mortal wounds}.",
         "DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll}."
-      ]
-    },
-    "invulnerable": "6+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "6+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "20+\"",
       "t": "9",
@@ -1203,14 +1340,21 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Blitza-bommer",
           "This model is equipped with",
           "big shoota; twin supa-shoota;",
@@ -1282,15 +1426,29 @@
     "factionKeywords": [
       "Orks"
     ],
-    "abilities": {
-      "core": "Deadly Demise 1",
-      "faction": "Waaagh!",
-      "special": [
-        "FACTION: Waaagh! Dust Trails (Aura): While an enemy unit is within 6\" of this model, each time a model in that unit makes an attack, subtract 1 from the Hit roll}."
-      ]
-    },
-    "invulnerable": "6+",
-    "damaged": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise 1"
+            },{
+              "title": "FACTION",
+              "text": "Waaagh!"
+            },
+      "FACTION: Waaagh! Dust Trails (Aura): While an enemy unit is within 6\" of this model, each time a model in that unit makes an attack, subtract 1 from the Hit roll}."
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "6+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "12\"",
       "t": "7",
@@ -1303,14 +1461,21 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Boomdakka Snazzwagon",
           "This model is equipped with",
           "big shoota; grot blasta;",
@@ -1353,7 +1518,7 @@
       ],
       "melee": [
         {
-          "name": "Mork’s Teeth [PRECISION, TWIN-LINKED]",
+          "name": "Mork's Teeth [PRECISION, TWIN-LINKED]",
           "range": "Melee",
           "a": "6",
           "bws": "2+",
@@ -1366,16 +1531,30 @@
     "factionKeywords": [
       "Orks"
     ],
-    "abilities": {
-      "core": "Infiltrators, Leader, Stealth",
-      "faction": "Waaagh!",
-      "special": [
-        "FACTION: Waaagh! Red Skull Kommandos: While this model is leading a unit, models in that unit have the Benefit of Cover}.",
-        "Kunnin’ Infiltrator: Once per battle, in your Movement phase, instead of making a Normal move with this model’s unit, you can remove it from the battlefield and set it up again anywhere on the battlefield that is more than 9\" horizontally away from all enemy models}."
-      ]
-    },
-    "invulnerable": "5+",
-    "damaged": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Infiltrators, Leader, Stealth"
+            },{
+              "title": "FACTION",
+              "text": "Waaagh!"
+            },
+      "FACTION: Waaagh! Red Skull Kommandos: While this model is leading a unit, models in that unit have the Benefit of Cover}.",
+        "Kunnin' Infiltrator: Once per battle, in your Movement phase, instead of making a Normal move with this model's unit, you can remove it from the battlefield and set it up again anywhere on the battlefield that is more than 9\" horizontally away from all enemy models}."
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "5+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "6\"",
       "t": "5",
@@ -1388,25 +1567,39 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Boss Snikrot -",
           "Epic Hero",
           "This model is equipped with",
-          "slugga; Mork’s Teeth."
+          "slugga; Mork's Teeth."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following unit",
-          "■",
           "Kommandos",
           "BOSS SNIKROT",
           "Boss Snikrot is a murderous ghost whose obsession with kommando",
@@ -1447,7 +1640,7 @@
       ],
       "melee": [
         {
-          "name": "Da Vulcha’s Klaws and choppa",
+          "name": "Da Vulcha's Klaws and choppa",
           "range": "Melee",
           "a": "6",
           "bws": "2+",
@@ -1460,16 +1653,30 @@
     "factionKeywords": [
       "Orks"
     ],
-    "abilities": {
-      "core": "Deep Strike, Feel No Pain 6+, Leader",
-      "faction": "Waaagh!",
-      "special": [
-        "FACTION: Waaagh! Drill Boss: While this model is leading a unit, each time a model in that unit makes a melee attack, add 1 to the Hit roll}.",
-        "Plummeting Descent: You can re-roll Charge rolls made for this model’s unit in a turn in which it was set up on the battlefield from Reserves}."
-      ]
-    },
-    "invulnerable": "5+",
-    "damaged": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deep Strike, Feel No Pain 6+, Leader"
+            },{
+              "title": "FACTION",
+              "text": "Waaagh!"
+            },
+      "FACTION: Waaagh! Drill Boss: While this model is leading a unit, each time a model in that unit makes a melee attack, add 1 to the Hit roll}.",
+        "Plummeting Descent: You can re-roll Charge rolls made for this model's unit in a turn in which it was set up on the battlefield from Reserves}."
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "5+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "12\"",
       "t": "5",
@@ -1482,26 +1689,40 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Boss Zagstruk -",
           "Epic Hero",
           "This model is equipped with",
-          "Da Vulcha’s Klaws and",
+          "Da Vulcha's Klaws and",
           "choppa; slugga."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following unit",
-          "■",
           "Stormboyz",
           "BOSS ZAGSTRUK",
           "Plummeting from his kustom fighta-bommer at the head of his",
@@ -1618,16 +1839,18 @@
     "factionKeywords": [
       "Orks"
     ],
-    "abilities": {
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
       "core": null,
-      "faction": "Waaagh!",
-      "special": [
-        "Breakin’ Heads: While a Warboss model is leading this unit, in your Command phase, the first time a Battle-shock test is failed for this unit that phase, if it is within range of an objective marker, you can choose to break some heads}.",
+      {
+              "title": "FACTION",
+              "text": "Waaagh!"
+            },
+      "Breakin' Heads: While a Warboss model is leading this unit, in your Command phase, the first time a Battle-shock test is failed for this unit that phase, if it is within range of an objective marker, you can choose to break some heads}.",
         "If you do, 1 Bodyguard model in this unit is destroyed and you can re-roll that test}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "6\"",
       "t": "5",
@@ -1640,33 +1863,34 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "The Boss Nob’s big choppa can be replaced with",
+          "The Boss Nob's big choppa can be replaced with",
           "1 power klaw.",
-          "■",
-          "The Boss Nob’s big choppa and slugga can be",
+          "The Boss Nob's big choppa and slugga can be",
           "replaced with 1 kombi-weapon and 1 close",
           "combat weapon.",
-          "■",
           "Any number of Boyz can each have their slugga",
           "and choppa replaced with 1 shoota and 1 close",
           "combat weapon.",
-          "■",
-          "For every 10 models in this unit, 1 Boy’s",
+          "For every 10 models in this unit, 1 Boy's",
           "choppa and slugga can be replaced with one of",
           "the following",
-          "◦",
           "1 big shoota and 1 close combat weapon",
-          "◦",
           "1 rokkit launcha and 1 close combat weapon"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Boss Nob",
-          "■",
           "9-19 Boyz",
           "The Boss Nob is equipped with",
           "slugga; big choppa.",
@@ -1753,7 +1977,7 @@
           "d": "1"
         },
         {
-          "name": "Cuttin’ flames",
+          "name": "Cuttin' flames",
           "range": "Melee",
           "a": "2",
           "bws": "4+",
@@ -1766,16 +1990,18 @@
     "factionKeywords": [
       "Orks"
     ],
-    "abilities": {
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
       "core": null,
-      "faction": "Waaagh!",
-      "special": [
-        "Pyromaniaks: Each time a model in this unit makes a ranged attack with a burna that targets an enemy unit within 6\", re-roll a Wound roll of 1}.",
+      {
+              "title": "FACTION",
+              "text": "Waaagh!"
+            },
+      "Pyromaniaks: Each time a model in this unit makes a ranged attack with a burna that targets an enemy unit within 6\", re-roll a Wound roll of 1}.",
         "If the target of that attack is also within range of an objective marker, you can re-roll the Wound roll instead}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "6\"",
       "t": "5",
@@ -1788,20 +2014,24 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "Any number of Spanners can each have their big shoota replaced with one of the following",
-          "◦",
           "1 kustom mega-blasta",
-          "◦",
           "1 rokkit launcha"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1-3 Spanners*",
-          "■",
           "4-12 Burna Boyz",
           "*",
           "This unit must contain 1 Spanner for every 4 Burna Boyz it contains.",
@@ -1809,11 +2039,11 @@
           "close combat weapon;",
           "big shoota.",
           "Every Burna Boy is equipped with",
-          "burna; cuttin’ flames.",
+          "burna; cuttin' flames.",
           "BURNA BOYZ",
           "The burna is a cutting torch intended for slicing up battlefield",
           "wreckage. Serendipitously, it also works well when searing through",
-          "an enemy’s armour at close quarters, or, with a twist of its nozzle, can",
+          "an enemy's armour at close quarters, or, with a twist of its nozzle, can",
           "instead belch a tongue of roaring flame over the foe. Needless to say,",
           "the most pyromaniacally inclined Orks delight in doing both."
         ]
@@ -1875,17 +2105,31 @@
     "factionKeywords": [
       "Orks"
     ],
-    "abilities": {
-      "core": "Deadly Demise D3",
-      "faction": "Waaagh!",
-      "special": [
-        "FACTION: Waaagh! Burna Bomb: Each time this model ends a Normal move, you can select one enemy unit it moved over during that move. Until the end of the turn, models in that unit cannot have the Benefit of Cover}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D3"
+            },{
+              "title": "FACTION",
+              "text": "Waaagh!"
+            },
+      "FACTION: Waaagh! Burna Bomb: Each time this model ends a Normal move, you can select one enemy unit it moved over during that move. Until the end of the turn, models in that unit cannot have the Benefit of Cover}.",
         "In addition, roll one D6 for each model in that unit: for each 6, that unit suffers 1 mortal wound}.",
         "DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll}."
-      ]
-    },
-    "invulnerable": "6+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "6+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "20+\"",
       "t": "9",
@@ -1898,14 +2142,21 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "This model can be equipped with 1 skorcha missile rack."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Burna-bommer",
           "This model is equipped with",
           "twin big shoota;",
@@ -1915,7 +2166,7 @@
           "cover, Burna-bommers fly so low that they frequently scorch their",
           "undercarriage with their own ordnance. The Burna Boy pilots consider",
           "this a small price to pay in order to watch their victims do ‘da burny",
-          "dance’ as their skorcha missile racks and burna bombs rain down."
+          "dance' as their skorcha missile racks and burna bombs rain down."
         ]
       }
     ]
@@ -1960,16 +2211,30 @@
     "factionKeywords": [
       "Orks"
     ],
-    "abilities": {
-      "core": "Deadly Demise D3",
-      "faction": "Waaagh!",
-      "special": [
-        "FACTION: Waaagh! Dakkastorm: Each time this model makes a ranged attack, every successful Hit roll scores a Critical Hit}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D3"
+            },{
+              "title": "FACTION",
+              "text": "Waaagh!"
+            },
+      "FACTION: Waaagh! Dakkastorm: Each time this model makes a ranged attack, every successful Hit roll scores a Critical Hit}.",
         "DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll}."
-      ]
-    },
-    "invulnerable": "6+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "6+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "20+\"",
       "t": "9",
@@ -1982,14 +2247,21 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "This model can be equipped with 1 additional twin supa-shoota."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Dakkajet",
           "This model is equipped with",
           "2 twin supa-shootas;",
@@ -2084,15 +2356,29 @@
     "factionKeywords": [
       "Orks"
     ],
-    "abilities": {
-      "core": "Deadly Demise 1",
-      "faction": "Waaagh!",
-      "special": [
-        "FACTION: Waaagh! Piston-driven Brutality: At the start of the Fight phase, each enemy unit within Engagement Range of one or more units with this ability must take a Battle-shock test}."
-      ]
-    },
-    "invulnerable": "6+",
-    "damaged": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise 1"
+            },{
+              "title": "FACTION",
+              "text": "Waaagh!"
+            },
+      "FACTION: Waaagh! Piston-driven Brutality: At the start of the Fight phase, each enemy unit within Engagement Range of one or more units with this ability must take a Battle-shock test}."
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "6+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "8\"",
       "t": "9",
@@ -2105,32 +2391,30 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s big shootas can each be replaced with one of the following",
-          "◦",
+          "This model's big shootas can each be replaced with one of the following",
           "1 dread klaw",
-          "◦",
           "1 kustom-mega blasta",
-          "◦",
           "1 rokkit launcha",
-          "◦",
           "1 skorcha",
-          "■",
-          "This model’s dread klaws can each be replaced with one of the following",
-          "◦",
+          "This model's dread klaws can each be replaced with one of the following",
           "1 big shoota",
-          "◦",
           "1 kustom-mega blasta",
-          "◦",
           "1 rokkit launcha",
-          "◦",
           "1 skorcha"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Deff Dread",
           "This model is equipped with",
           "2 big shootas; 2 dread klaws;",
@@ -2139,7 +2423,7 @@
           "Being wired into a Deff Dread affords strength, resilience and a",
           "terrifying array of vicious weaponry. Of course, the reality of being",
           "stuck in a metal box for life and drinking your meals through a straw",
-          "soon gets old, but the pilots’ resulting unhinged ferocity only serves to",
+          "soon gets old, but the pilots' resulting unhinged ferocity only serves to",
           "make Deff Dreads all the more dangerous in battle."
         ]
       }
@@ -2202,17 +2486,31 @@
     "factionKeywords": [
       "Orks"
     ],
-    "abilities": {
-      "core": "Deadly Demise 1, Leader",
-      "faction": "Waaagh!",
-      "special": [
-        "FACTION: Waaagh! Speedboss: While this model is leading a unit, each time a model in that unit makes a melee attack, add 1 to the Hit roll}.",
-        "High-octane Fuel: Each time this model’s unit Advances, do not make an Advance roll for it}.",
-        "Instead, until the end of the phase, add 6\" to the Move characteristic of models in this model’s unit}."
-      ]
-    },
-    "invulnerable": "5+",
-    "damaged": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise 1, Leader"
+            },{
+              "title": "FACTION",
+              "text": "Waaagh!"
+            },
+      "FACTION: Waaagh! Speedboss: While this model is leading a unit, each time a model in that unit makes a melee attack, add 1 to the Hit roll}.",
+        "High-octane Fuel: Each time this model's unit Advances, do not make an Advance roll for it}.",
+        "Instead, until the end of the phase, add 6\" to the Move characteristic of models in this model's unit}."
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "5+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "12\"",
       "t": "6",
@@ -2228,25 +2526,39 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Defkilla Wartrike",
           "This model is equipped with",
           "defkilla boomsticks; killajet;",
           "snagga klaw."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following unit",
-          "■",
           "Warbikers",
           "DEFFKILLA WARTRIKE",
           "Ork Speedbosses thunder into battle on the backs of Deffkilla",
@@ -2304,7 +2616,7 @@
       ],
       "melee": [
         {
-          "name": "Spinnin’ blades",
+          "name": "Spinnin' blades",
           "range": "Melee",
           "a": "6",
           "bws": "3+",
@@ -2317,15 +2629,29 @@
     "factionKeywords": [
       "Orks"
     ],
-    "abilities": {
-      "core": "Deep Strike",
-      "faction": "Waaagh!",
-      "special": [
-        "FACTION: Waaagh! Deff from Above: Each time this unit ends a Normal move, you can select one enemy unit it moved over during that move and roll one D6 for each model in this unit: for each 4+, that enemy unit suffers 1 mortal wound}."
-      ]
-    },
-    "invulnerable": "6+",
-    "damaged": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deep Strike"
+            },{
+              "title": "FACTION",
+              "text": "Waaagh!"
+            },
+      "FACTION: Waaagh! Deff from Above: Each time this unit ends a Normal move, you can select one enemy unit it moved over during that move and roll one D6 for each model in this unit: for each 4+, that enemy unit suffers 1 mortal wound}."
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "6+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "12\"",
       "t": "6",
@@ -2338,21 +2664,28 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "For every 3 models in this unit, 1 Deffkopta can have its kopta rokkits replaced with 1",
           "kustom mega-blasta."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "3-6 Deffkoptas",
           "Every model is equipped with",
           "kopta rokkits; slugga;",
-          "spinnin’ blades.",
+          "spinnin' blades.",
           "DEFFKOPTAS",
-          "Most Orks take a dim view of muckin’ about in the sky, and would",
+          "Most Orks take a dim view of muckin' about in the sky, and would",
           "much rather go to war with their feet firmly on the ground. Deffkopta",
           "pilots are the lunatic exception, hurtling ahead to spy out enemy",
           "forces for their warband to bring to battle, and to give those same",
@@ -2401,18 +2734,22 @@
     "factionKeywords": [
       "Orks"
     ],
-    "abilities": {
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
       "core": null,
-      "faction": "Waaagh!",
+      {
+              "title": "FACTION",
+              "text": "Waaagh!"
+            },
       "special": [
         "Gun-crazy Show-offs: Each time a model in this unit targets the closest eligible target with its snazzgun, until the end of the phase, that weapon has an Attacks characteristic of 4}.",
         "WARGEAR ABILITIES Ammo Runt: Once per battle, when this unit is selected to shoot, it can use this ability}.",
         "If it does, until the end of the phase, ranged weapons equipped by models in this unit have the [LETHAL HITS] ability}.",
-        "Designer’s Note: Place an Ammo Runt token next to the unit, removing it after this ability has been used}."
+        "Designer's Note: Place an Ammo Runt token next to the unit, removing it after this ability has been used}."
       ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "6\"",
       "t": "5",
@@ -2425,23 +2762,29 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "This unit can be equipped with 1 ammo runt."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Kaptin",
-          "■",
           "4-9 Flash Gitz",
           "Every model is equipped with",
           "snazzgun; choppa.",
           "FLASH GITZ",
           "Flash Gitz are despised by other greenskins for being self-important",
           "show-offs with too much snazz and dakka for their own good. The Gitz",
-          "couldn’t care less, of course, delighting in ostentatiously brandishing",
+          "couldn't care less, of course, delighting in ostentatiously brandishing",
           "their over-the-top snazzguns before using them to utterly demolish the",
           "enemy in a hail of shells, blasts and rokkits."
         ]
@@ -2464,7 +2807,7 @@
     "weapons": {
       "ranged": [
         {
-          "name": "Mork’s Roar [RAPID FIRE 4]",
+          "name": "Mork's Roar [RAPID FIRE 4]",
           "range": "36\"",
           "a": "12",
           "bws": "5+",
@@ -2479,7 +2822,7 @@
       ],
       "melee": [
         {
-          "name": "Gork’s Klaw",
+          "name": "Gork's Klaw",
           "range": "Melee",
           "a": "6",
           "bws": "2+",
@@ -2488,7 +2831,7 @@
           "d": "4"
         },
         {
-          "name": "Makari’s stabba [DEVASTATING WOUNDS]",
+          "name": "Makari's stabba [DEVASTATING WOUNDS]",
           "range": "Melee",
           "a": "1",
           "bws": "4+",
@@ -2505,18 +2848,24 @@
     "factionKeywords": [
       "Orks"
     ],
-    "abilities": {
-      "core": "Leader",
-      "faction": "Waaagh!",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Leader"
+            },{
+              "title": "FACTION",
+              "text": "Waaagh!"
+            },
       "special": [
         "FACTION: Waaagh! Prophet of Da Great Waaagh!: While this unit is leading a unit, each time a model in that unit makes a melee attack, add 1 to the Hit roll and add 1 to the Wound roll}.",
-        "Ghazghkull’s Waaagh! Banner (Aura): While a friendly Orks unit is within 12\" of Makari, if you have called a Waaagh! this battle round, melee weapons equipped by models in that unit have the [LETHAL HITS] ability}.",
+        "Ghazghkull's Waaagh! Banner (Aura): While a friendly Orks unit is within 12\" of Makari, if you have called a Waaagh! this battle round, melee weapons equipped by models in that unit have the [LETHAL HITS] ability}.",
         "INVULNERABLE SAVE: GHAZGHKULL INVULNERABLE SAVE: MAKARI * * You cannot re-roll invulnerable saving throws made for this model}.",
         "4+ 2+}."
       ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "5\"",
       "t": "6",
@@ -2529,31 +2878,44 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Ghazghkull Thraka -",
           "Epic Hero",
-          "■",
           "1 Makari",
           "Ghazghkull Thraka is equipped with",
-          "Mork’s Roar; Gork’s Klaw.",
+          "Mork's Roar; Gork's Klaw.",
           "Makari is equipped with",
-          "Makari’s stabba."
+          "Makari's stabba."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This unit can be attached to the following unit",
-          "■",
           "Meganobz",
-          "If this unit’s Bodyguard unit is destroyed, Ghazkghull Thraka and Makari",
+          "If this unit's Bodyguard unit is destroyed, Ghazkghull Thraka and Makari",
           "become a single unit with their original Starting Strength."
         ]
       },
@@ -2641,17 +3003,31 @@
     "factionKeywords": [
       "Orks"
     ],
-    "abilities": {
-      "core": "Deadly Demise D6",
-      "faction": "Waaagh!",
-      "special": [
-        "FACTION: Waaagh! Clankin’ Forward: Each time this model makes a Normal, Advance or Fall Back move, it can move over enemy models (excluding Monster and Vehicle models) and terrain features that are 4\" or less in height as if they were not there}.",
-        "Big an’ Stompy: Each time this model makes a melee attack, if you have called a Waaagh! this battle round, add 1 to the Hit roll}.",
-        "DAMAGED: 1-7 WOUNDS REMAINING While this model has 1-7 wounds remaining, subtract 4 from this model’s Objective Control characteristic, and each time this model makes an attack, subtract 1 from the Hit roll}."
-      ]
-    },
-    "invulnerable": "6+",
-    "damaged": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D6"
+            },{
+              "title": "FACTION",
+              "text": "Waaagh!"
+            },
+      "FACTION: Waaagh! Clankin' Forward: Each time this model makes a Normal, Advance or Fall Back move, it can move over enemy models (excluding Monster and Vehicle models) and terrain features that are 4\" or less in height as if they were not there}.",
+        "Big an' Stompy: Each time this model makes a melee attack, if you have called a Waaagh! this battle round, add 1 to the Hit roll}.",
+        "DAMAGED: 1-7 WOUNDS REMAINING While this model has 1-7 wounds remaining, subtract 4 from this model's Objective Control characteristic, and each time this model makes an attack, subtract 1 from the Hit roll}."
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "6+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "8\"",
       "t": "12",
@@ -2667,14 +3043,21 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Gorkanaut",
           "This model is equipped with",
           "deffstorm mega-shoota; 2 rokkit",
@@ -2761,17 +3144,19 @@
     "factionKeywords": [
       "Orks"
     ],
-    "abilities": {
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
       "core": null,
-      "faction": "Waaagh!",
-      "special": [
-        "Runtherd: While this unit contains one or more Gretchin models, each time a ranged attack targets this unit, Runtherd models in this unit have a Toughness characteristic of 2}.",
-        "Thievin’ Scavengers: At the start of your Command phase, roll one D6 for each objective marker you control that has one or more units from your army with this ability within range of it}.",
+      {
+              "title": "FACTION",
+              "text": "Waaagh!"
+            },
+      "Runtherd: While this unit contains one or more Gretchin models, each time a ranged attack targets this unit, Runtherd models in this unit have a Toughness characteristic of 2}.",
+        "Thievin' Scavengers: At the start of your Command phase, roll one D6 for each objective marker you control that has one or more units from your army with this ability within range of it}.",
         "If one or more of those rolls is a 4+, you gain 1CP}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "6\"",
       "t": "2",
@@ -2784,16 +3169,22 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1-2 Runtherds",
-          "■",
           "10-20 Gretchin",
           "Every Runtherd is equipped with",
           "slugga; grot-smacka.",
@@ -2826,7 +3217,7 @@
     "weapons": {
       "ranged": [
         {
-          "name": "’Eavy lobba [BLAST, INDIRECT FIRE]",
+          "name": "'Eavy lobba [BLAST, INDIRECT FIRE]",
           "range": "48\"",
           "a": "D6",
           "bws": "5+",
@@ -2886,16 +3277,20 @@
     "factionKeywords": [
       "Orks"
     ],
-    "abilities": {
-      "core": "Deadly Demise D6, Feel No Pain 6+, Firing Deck 21",
-      "faction": "Waaagh!",
-      "special": [
-        "FACTION: Waaagh! Bail Out, Boyz!: If this Transport is destroyed, you can re-roll the dice when determining if a disembarking model’s unit suffers mortal wounds}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D6, Feel No Pain 6+, Firing Deck 21"
+            },{
+              "title": "FACTION",
+              "text": "Waaagh!"
+            },
+      "FACTION: Waaagh! Bail Out, Boyz!: If this Transport is destroyed, you can re-roll the dice when determining if a disembarking model's unit suffers mortal wounds}.",
         "DAMAGED: 1-5 WOUNDS REMAINING While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "10\"",
       "t": "10",
@@ -2908,17 +3303,24 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Hunta Rig",
           "This model is equipped with",
-          "’eavy lobba; stikka kannon;",
+          "'eavy lobba; stikka kannon;",
           "butcha boyz; savage horns and hooves; saw blades."
         ]
       },
@@ -2932,7 +3334,7 @@
           "HUNTA RIG",
           "Welded, lashed and nailed together from enemy wrecks and",
           "scavenged scrap, the Hunta Rig forgoes a Wurrboy wurrtower (much",
-          "to its crew’s relief). Instead it boasts an open metal deck and copious",
+          "to its crew's relief). Instead it boasts an open metal deck and copious",
           "grab-handles, the better for chanting and bellowing mobs of Beast",
           "Snagga Boyz to ride along on the hunt."
         ]
@@ -2997,16 +3399,30 @@
     "factionKeywords": [
       "Orks"
     ],
-    "abilities": {
-      "core": "Leader",
-      "faction": "Waaagh!",
-      "special": [
-        "FACTION: Waaagh! Flashiest Gitz: While this model is leading a unit, each time a model in that unit makes a ranged attack, you can re-roll the Hit roll}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Leader"
+            },{
+              "title": "FACTION",
+              "text": "Waaagh!"
+            },
+      "FACTION: Waaagh! Flashiest Gitz: While this model is leading a unit, each time a model in that unit makes a ranged attack, you can re-roll the Hit roll}.",
         "Ded Glowy Ammo (Aura): While an enemy Infantry unit is within 6\" of this model, subtract 1 from the Toughness characteristic of models in that unit}."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "6\"",
       "t": "5",
@@ -3022,31 +3438,45 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Kaptin Badrukk -",
           "Epic Hero",
           "This model is equipped with",
           "slugga; choppa; Da Rippa."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following unit",
-          "■",
           "Flash Gitz",
           "KAPTIN BADRUKK",
-          "Kaptin Badrukk’s Goldtoof Armour is proof against anything the galaxy",
+          "Kaptin Badrukk's Goldtoof Armour is proof against anything the galaxy",
           "can throw at him. This is fortunate considering the levels of radiation",
           "that emanate from his pride and joy, Da Rippa. This kustom shoota",
-          "fires unstable plasma shells that reduce Badrukk’s foes to glowing",
+          "fires unstable plasma shells that reduce Badrukk's foes to glowing",
           "ash, at least until it malfunctions explosively."
         ]
       }
@@ -3069,7 +3499,7 @@
     "weapons": {
       "ranged": [
         {
-          "name": "’Eavy lobba [BLAST, INDIRECT FIRE]",
+          "name": "'Eavy lobba [BLAST, INDIRECT FIRE]",
           "range": "48\"",
           "a": "D6",
           "bws": "5+",
@@ -3138,16 +3568,22 @@
     "factionKeywords": [
       "Orks"
     ],
-    "abilities": {
-      "core": "Deadly Demise D6, Feel No Pain 6+, Firing Deck 11",
-      "faction": "Waaagh!",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D6, Feel No Pain 6+, Firing Deck 11"
+            },{
+              "title": "FACTION",
+              "text": "Waaagh!"
+            },
       "special": [
         "FACTION: Waaagh! Spirit of Gork (Psychic): At the start of the Fight phase, you can select one friendly Orks unit within 12\" of this model and roll one D6: on a 1, this model suffers D3 mortal wounds; on a 2-5, until the end of the phase, add 1 to the Strength characteristic of melee weapons equipped by models in that unit; on a 6, until the end of the phase, add 1 to the Strength characteristic of melee weapons equipped by models in that unit and those weapons have the [LETHAL HITS] ability}.",
         "DAMAGED: 1-5 WOUNDS REMAINING While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll}."
       ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "10\"",
       "t": "10",
@@ -3160,17 +3596,24 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Kill Rig",
           "This model is equipped with",
-          "’eavy lobba; stikka kannon;",
+          "'eavy lobba; stikka kannon;",
           "wurrtower; butcha boyz; savage horns and hooves;",
           "saw blades."
         ]
@@ -3183,8 +3626,8 @@
           "Infantry",
           "models.",
           "KILL RIG",
-          "The Kill Rig’s stikka kannon fires rokkit-harpoons big enough to",
-          "wrangle battle tanks. Its ’eavy lobba hits with ground-quaking force,",
+          "The Kill Rig's stikka kannon fires rokkit-harpoons big enough to",
+          "wrangle battle tanks. Its 'eavy lobba hits with ground-quaking force,",
           "and the tramplasquig that tows this land barge can flatten a fortress",
           "gate. Yet it is the Wurrboy atop his wurrtower that both the enemy and",
           "the Beast Snaggas themselves fear the most."
@@ -3259,15 +3702,31 @@
     "factionKeywords": [
       "Orks"
     ],
-    "abilities": {
-      "core": "Deadly Demise 1",
-      "faction": "Waaagh!",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise 1"
+            },{
+              "title": "FACTION",
+              "text": "Waaagh!"
+            },
       "special": [
         "FACTION: Waaagh! Shooty Power Trip: Each time this unit is selected to shoot, you can roll one D6: on a 1, the nearest other friendly Orks unit within 12\" of and visible to this unit suffers D3 mortal wounds; on a 2+, until the end of the phase, ranged weapons equipped by models in this unit have the [IGNORES COVER] ability}."
       ]
-    },
-    "invulnerable": "6+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "6+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "6\"",
       "t": "6",
@@ -3280,20 +3739,24 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "Each Killa Kan’s Kan shoota can be replaced with one of the following",
-          "◦",
+          "Each Killa Kan's Kan shoota can be replaced with one of the following",
           "1 grotzooka",
-          "◦",
           "1 rokkit launcha",
-          "◦",
           "1 skorcha"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "3-6 Killa Kans",
           "Every model is equipped with",
           "Kan shoota; Kan klaw.",
@@ -3409,20 +3872,24 @@
     "factionKeywords": [
       "Orks"
     ],
-    "abilities": {
-      "core": "Infiltrators, Stealth",
-      "faction": "Waaagh!",
-      "special": [
-        "FACTION: Waaagh! Sneaky Surprise: Enemy units cannot use the Fire Overwatch Stratagem to shoot at this unit}.",
-        "WARGEAR ABILITIES Distraction Grot: Once per battle, in your opponent’s Shooting phase, before making a saving throw for a model in this unit, it can deploy the distraction grot}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Infiltrators, Stealth"
+            },{
+              "title": "FACTION",
+              "text": "Waaagh!"
+            },
+      "FACTION: Waaagh! Sneaky Surprise: Enemy units cannot use the Fire Overwatch Stratagem to shoot at this unit}.",
+        "WARGEAR ABILITIES Distraction Grot: Once per battle, in your opponent's Shooting phase, before making a saving throw for a model in this unit, it can deploy the distraction grot}.",
         "If it does, until the end of the phase, models in this unit have a 5+ invulnerable save}.",
-        "Designer’s Note: Place a Distraction Grot token next to the unit, removing it when this unit uses this ability}.",
+        "Designer's Note: Place a Distraction Grot token next to the unit, removing it when this unit uses this ability}.",
         "Bomb Squig: Once per battle, after this unit ends a Normal move, select one enemy unit within 12\" of this unit and roll one D6: on a 2+, that enemy unit suffers D3 mortal wounds}.",
-        "Designer’s Note: Place a Bomb Squig token next to the unit, removing it when this unit uses this ability}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+        "Designer's Note: Place a Bomb Squig token next to the unit, removing it when this unit uses this ability}."
+    }],
     "stats": {
       "m": "6\"",
       "t": "5",
@@ -3435,40 +3902,38 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "The Boss Nob’s choppa can be replaced with one of the following",
-          "◦",
+          "The Boss Nob's choppa can be replaced with one of the following",
           "1 big choppa",
-          "◦",
           "1 power klaw",
-          "■",
           "Up to 2 Kommandos can each have their slugga and choppa replaced with 1 speshul Kommando",
           "shoota and 1 close combat weapon.",
-          "■",
-          "1 Kommando’s slugga and choppa can be replaced with 1 breacha ram.",
-          "■",
-          "1 Kommando’s slugga and choppa can be replaced with 1 burna and 1 close combat weapon.",
-          "■",
-          "1 Kommando’s slugga and choppa can be replaced with 1 rokkit launcha and 1 close combat weapon.",
-          "■",
+          "1 Kommando's slugga and choppa can be replaced with 1 breacha ram.",
+          "1 Kommando's slugga and choppa can be replaced with 1 burna and 1 close combat weapon.",
+          "1 Kommando's slugga and choppa can be replaced with 1 rokkit launcha and 1 close combat weapon.",
           "This unit can be equipped with 1 bomb squig.",
-          "■",
           "This unit can be equipped with 1 distraction grot."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Boss Nob",
-          "■",
           "9 Kommandos",
           "Every model is equipped with",
           "slugga; choppa.",
           "KOMMANDOS",
           "No right-thinking Ork trusts Kommandos. They sneak up on the enemy",
           "rather than charging in headlong, and have an unhealthy fascination",
-          "with very big knives and their application to people’s backs, throats",
+          "with very big knives and their application to people's backs, throats",
           "and guts. That said, having a band of Kommandos ambush the enemy",
           "mid-battle definitely has its uses."
         ]
@@ -3531,16 +3996,30 @@
     "factionKeywords": [
       "Orks"
     ],
-    "abilities": {
-      "core": "Deadly Demise 1",
-      "faction": "Waaagh!",
-      "special": [
-        "FACTION: Waaagh! Rivetin’ Dakka: In your Shooting phase, after this model has shot, select one enemy unit hit by one or more of those attacks made with a rivet kannon. Until the start of your next turn, that enemy unit is suppressed}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise 1"
+            },{
+              "title": "FACTION",
+              "text": "Waaagh!"
+            },
+      "FACTION: Waaagh! Rivetin' Dakka: In your Shooting phase, after this model has shot, select one enemy unit hit by one or more of those attacks made with a rivet kannon. Until the start of your next turn, that enemy unit is suppressed}.",
         "While a unit is suppressed, each time a model in that unit makes an attack, subtract 1 from the Hit roll}."
-      ]
-    },
-    "invulnerable": "6+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "6+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "12\"",
       "t": "7",
@@ -3553,24 +4032,31 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Kustom Boosta-blasta",
           "This model is equipped with",
           "burna exhausts; grot blasta;",
           "rivet kannon; spiked wheels.",
           "KUSTOM BOOSTA-BLASTA",
           "Meks who build Kustom Boosta-blastas have the alarming habit of",
-          "wiring themselves into the vehicles’ rivet kannons as though into very",
+          "wiring themselves into the vehicles' rivet kannons as though into very",
           "fast and shooty Deff Dreads. They then speed to war, aiming hails of",
           "arm-length metal rivets at the enemy while scorching them with the",
-          "Boosta-blasta’s flame-jetting exhausts."
+          "Boosta-blasta's flame-jetting exhausts."
         ]
       }
     ]
@@ -3642,16 +4128,18 @@
     "factionKeywords": [
       "Orks"
     ],
-    "abilities": {
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
       "core": null,
-      "faction": "Waaagh!",
-      "special": [
-        "Dat’s Our Loot! Each time a model in this unit makes a ranged attack, re-roll a Hit roll of 1}.",
+      {
+              "title": "FACTION",
+              "text": "Waaagh!"
+            },
+      "Dat's Our Loot! Each time a model in this unit makes a ranged attack, re-roll a Hit roll of 1}.",
         "If that attack targets a unit that is within range of an objective marker, you can re-roll the Hit roll instead}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "6\"",
       "t": "5",
@@ -3664,20 +4152,24 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "Any number of Spanners can each have their big shoota replaced with one of the following",
-          "◦",
           "1 kustom mega-blasta",
-          "◦",
           "1 rokkit launcha"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1-3 Spanners*",
-          "■",
           "4-12 Lootas",
           "* This unit must contain 1 Spanner for every 4 Lootas it contains.",
           "Every Spanner is equipped with",
@@ -3732,7 +4224,7 @@
           "d": "2"
         },
         {
-          "name": "’Urty syringe [ANTI-INFANTRY 4+, EXTRA ATTACKS, PRECISION]",
+          "name": "'Urty syringe [ANTI-INFANTRY 4+, EXTRA ATTACKS, PRECISION]",
           "range": "Melee",
           "a": "1",
           "bws": "3+",
@@ -3745,16 +4237,30 @@
     "factionKeywords": [
       "Orks"
     ],
-    "abilities": {
-      "core": "Feel No Pain 5+, Leader",
-      "faction": "Waaagh!",
-      "special": [
-        "FACTION: Waaagh! Mad Dok: While this model is leading a unit, models in that unit have the Feel No Pain 5+ ability}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Feel No Pain 5+, Leader"
+            },{
+              "title": "FACTION",
+              "text": "Waaagh!"
+            },
+      "FACTION: Waaagh! Mad Dok: While this model is leading a unit, models in that unit have the Feel No Pain 5+ ability}.",
         "One Scalpel Short of a Medpack: While this model is leading a unit, that unit is eligible to declare a charge in a turn in which it Fell Back}."
-      ]
-    },
-    "invulnerable": "5+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "5+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "6\"",
       "t": "5",
@@ -3767,37 +4273,47 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Mad Dok Grotsnik -",
           "Epic Hero",
           "This model is equipped with",
           "slugga; power klaw;",
-          "’urty syringe."
+          "'urty syringe."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following units",
-          "■",
           "Boyz",
-          "■",
           "Burna Boyz",
-          "■",
           "Tankbustas",
-          "■",
           "Lootas",
-          "■",
           "Nobz",
           "MAD DOK GROTSNIK",
-          "More so even than whatever passes for a ‘normal’ Painboy, Dok",
+          "More so even than whatever passes for a ‘normal' Painboy, Dok",
           "Grotsnik relishes the butchery of the battlefield. He is quite, quite mad",
           "and remarkably dangerous, treating each new war as an opportunity",
           "for experimentation, a chance to harvest new samples to add to his",
@@ -3875,15 +4391,19 @@
     "factionKeywords": [
       "Orks"
     ],
-    "abilities": {
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
       "core": null,
-      "faction": "Waaagh!",
+      {
+              "title": "FACTION",
+              "text": "Waaagh!"
+            },
       "special": [
-        "Krumpin’ Time: During the battle round in which you call a Waaagh!, melee weapons equipped by models in this unit have the [DEVASTATING WOUNDS] ability}."
+        "Krumpin' Time: During the battle round in which you call a Waaagh!, melee weapons equipped by models in this unit have the [DEVASTATING WOUNDS] ability}."
       ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "5\"",
       "t": "6",
@@ -3896,25 +4416,27 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "Any number of models can each have their kustom shoota and power klaw replaced with one of",
           "the following",
-          "◦",
           "1 kombi-weapon and 1 power klaw",
-          "◦",
           "1 kombi-weapon and 1 killsaw",
-          "◦",
           "1 kustom shoota and 1 killsaw",
-          "◦",
           "1 killsaw and 1 power klaw",
-          "◦",
           "1 twin killsaw"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "2-6 Meganobz",
           "Every model is equipped with",
           "kustom shoota; power klaw.",
@@ -3984,15 +4506,29 @@
     "factionKeywords": [
       "Orks"
     ],
-    "abilities": {
-      "core": "Deadly Demise 1",
-      "faction": "Waaagh!",
-      "special": [
-        "FACTION: Waaagh! Drill Through: Each time this model ends a Charge move, select one enemy unit within Engagement Range of it and roll one D6: on a 2-5, that enemy unit suffers D3 mortal wounds; on a 6, that enemy unit suffers 3 mortal wounds}."
-      ]
-    },
-    "invulnerable": "6+",
-    "damaged": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise 1"
+            },{
+              "title": "FACTION",
+              "text": "Waaagh!"
+            },
+      "FACTION: Waaagh! Drill Through: Each time this model ends a Charge move, select one enemy unit within Engagement Range of it and roll one D6: on a 2-5, that enemy unit suffers D3 mortal wounds; on a 6, that enemy unit suffers 3 mortal wounds}."
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "6+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "12\"",
       "t": "7",
@@ -4005,21 +4541,28 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Megatrakk Scrapjet",
           "This model is equipped with",
           "rokkit kannon; twin big shoota;",
           "wing missiles; nose drill.",
           "MEGATRAKK SCRAPJET",
-          "Just because an Ork aircraft has lost a wing or two, doesn’t mean",
-          "some enterprising Speed Freek can’t find a tremendously violent use",
+          "Just because an Ork aircraft has lost a wing or two, doesn't mean",
+          "some enterprising Speed Freek can't find a tremendously violent use",
           "for it. Megatrakk Scrapjets tear across the battlefield shooting hails",
           "of rokkits before ploughing nose-drill-first through the enemy lines,",
           "drivers bellowing with glee the whole time."
@@ -4075,18 +4618,22 @@
     "factionKeywords": [
       "Orks"
     ],
-    "abilities": {
-      "core": "Leader",
-      "faction": "Waaagh!",
-      "special": [
-        "FACTION: Waaagh! Mekboy: While this model is within 3\" of one or more friendly Orks Vehicle units, this model has the Lone Operative ability}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Leader"
+            },{
+              "title": "FACTION",
+              "text": "Waaagh!"
+            },
+      "FACTION: Waaagh! Mekboy: While this model is within 3\" of one or more friendly Orks Vehicle units, this model has the Lone Operative ability}.",
         "Mekaniak: At the end of your Movement phase, you can select one friendly Orks Vehicle model within 3\" of this model}.",
         "That Vehicle model regains up to D3 lost wounds, and, until the start of your next Movement phase, each time that Vehicle model makes an attack, add 1 to the Hit roll}.",
         "Each model can only be selected for this ability once per turn}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "6\"",
       "t": "5",
@@ -4099,32 +4646,42 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s wrench can be replaced with 1 killsaw."
+          "This model's wrench can be replaced with 1 killsaw."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Mek",
           "This model is equipped with",
           "kustom mega-slugga; wrench."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following units",
-          "■",
           "Boyz",
-          "■",
           "Lootas",
-          "■",
           "Mek Gunz",
-          "■",
           "Nobz",
-          "■",
           "Tankbustas",
           "MEK",
           "Any Mekboy worth his spanners knows how to patch and repair",
@@ -4229,15 +4786,27 @@
     "factionKeywords": [
       "Orks"
     ],
-    "abilities": {
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
       "core": null,
-      "faction": "Waaagh!",
-      "special": [
-        "Splat!: Each time a model in this unit makes a ranged attack that targets a unit containing 10 or more models, re-roll a Hit roll of 1}."
-      ]
-    },
-    "invulnerable": "6+",
-    "damaged": null,
+      {
+              "title": "FACTION",
+              "text": "Waaagh!"
+            },
+      "Splat!: Each time a model in this unit makes a ranged attack that targets a unit containing 10 or more models, re-roll a Hit roll of 1}."
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "6+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "3\"",
       "t": "5",
@@ -4250,24 +4819,28 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "Each model’s smasha gun can be replaced with one of the following",
-          "◦",
+          "Each model's smasha gun can be replaced with one of the following",
           "1 bubblechukka",
-          "◦",
           "1 kustom mega-kannon",
-          "◦",
           "1 traktor kannon"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1-3 Mek Gunz",
           "Every model is equipped with",
           "smasha gun; grot crew.",
-          "Designer’s Note",
+          "Designer's Note",
           "Place five Grot Crew tokens next to each Mek",
           "Gun model when this unit is first set up, removing one each",
           "time its Mek Gun model loses a wound (a Mek Gun model",
@@ -4275,7 +4848,7 @@
           "MEK GUNZ",
           "From guns that spew unstable force-bubbles to overcharged energy",
           "cannons, gravity beamers that crumple their targets like a squig-oil",
-          "canister in a Nob’s fist to tractor-beams that toss foes about and drag",
+          "canister in a Nob's fist to tractor-beams that toss foes about and drag",
           "planes from the air, the only unifying factor about the madcap Mek",
           "Gunz is what a mess they make of the foe."
         ]
@@ -4360,17 +4933,31 @@
     "factionKeywords": [
       "Orks"
     ],
-    "abilities": {
-      "core": "Deadly Demise D6",
-      "faction": "Waaagh!",
-      "special": [
-        "FACTION: Waaagh! Clankin’ Forward: Each time this model makes a Normal, Advance or Fall Back move, it can move over enemy models (excluding Monster and Vehicle models) and terrain features that are 4\" or less in height as if they were not there}.",
-        "Big an’ Shooty: Each time this model makes a ranged attack during the battle round in which you called a Waaagh!, add 1 to the Hit roll}.",
-        "DAMAGED: 1-7 WOUNDS REMAINING While this model has 1-7 wounds remaining, subtract 4 from this model’s Objective Control characteristic, and each time this model makes an attack, subtract 1 from the Hit roll}."
-      ]
-    },
-    "invulnerable": "5+",
-    "damaged": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D6"
+            },{
+              "title": "FACTION",
+              "text": "Waaagh!"
+            },
+      "FACTION: Waaagh! Clankin' Forward: Each time this model makes a Normal, Advance or Fall Back move, it can move over enemy models (excluding Monster and Vehicle models) and terrain features that are 4\" or less in height as if they were not there}.",
+        "Big an' Shooty: Each time this model makes a ranged attack during the battle round in which you called a Waaagh!, add 1 to the Hit roll}.",
+        "DAMAGED: 1-7 WOUNDS REMAINING While this model has 1-7 wounds remaining, subtract 4 from this model's Objective Control characteristic, and each time this model makes an attack, subtract 1 from the Hit roll}."
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "5+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "8\"",
       "t": "12",
@@ -4386,14 +4973,21 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Morkanaut",
           "This model is equipped with",
           "kustom mega-blasta;",
@@ -4419,7 +5013,7 @@
           "hulking combat walker with a dash of Mork-esque know-wotz applied.",
           "Packed with all manner of glowy gubbinz, Morkanauts unleash their",
           "arsenals of bizarre and deadly weapons in what their pilots think of as",
-          "displays of pure kunnin’ worthy of Mork."
+          "displays of pure kunnin' worthy of Mork."
         ]
       }
     ]
@@ -4452,7 +5046,7 @@
       ],
       "melee": [
         {
-          "name": "Big Chompa’s jaws [DEVASTATING WOUNDS, EXTRA ATTACKS]",
+          "name": "Big Chompa's jaws [DEVASTATING WOUNDS, EXTRA ATTACKS]",
           "range": "Melee",
           "a": "3",
           "bws": "3+",
@@ -4474,17 +5068,31 @@
     "factionKeywords": [
       "Orks"
     ],
-    "abilities": {
-      "core": "Deadly Demise 1, Feel No Pain 4+",
-      "faction": "Waaagh!",
-      "special": [
-        "FACTION: Waaagh! Da Bigger Dey iz…: Each time this model makes an attack that targets a Monster or Vehicle unit, add 1 to the Damage characteristic of that attack}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise 1, Feel No Pain 4+"
+            },{
+              "title": "FACTION",
+              "text": "Waaagh!"
+            },
+      "FACTION: Waaagh! Da Bigger Dey iz…: Each time this model makes an attack that targets a Monster or Vehicle unit, add 1 to the Damage characteristic of that attack}.",
         "Each time this model makes an attack that targets a Titanic unit, add 2 to the Damage characteristic of that attack instead}.",
         "Hungry Chompa: Each time this model declares a charge, until the end of the turn, each time this model makes an attack, an unmodified successful Wound roll of 5+ scores a Critical Wound}."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "10\"",
       "t": "10",
@@ -4497,25 +5105,32 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Mozrog Skragbad -",
           "Epic Hero",
           "This model is equipped with",
-          "thump gun; Big Chompa’s",
+          "thump gun; Big Chompa's",
           "jaws; gutrippa.",
           "MOZROG SKRAGBAD",
           "Mozrog and his squigosaur steed Big Chompa are so tough that they",
           "can weather the worst any foe throws at them. In return, few enemies",
           "survive for long once Mozrog tears into them with his kustom cybork",
           "arm, Gutrippa. Those that do are doomed to be swallowed whole by Big",
-          "Chompa’s yawning, fang-stuffed jaws."
+          "Chompa's yawning, fang-stuffed jaws."
         ]
       }
     ]
@@ -4569,16 +5184,22 @@
     "factionKeywords": [
       "Orks"
     ],
-    "abilities": {
-      "core": "Feel No Pain 5+, Leader",
-      "faction": "Waaagh!",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Feel No Pain 5+, Leader"
+            },{
+              "title": "FACTION",
+              "text": "Waaagh!"
+            },
       "special": [
         "FACTION: Waaagh! Hogboss: While this model is leading a unit, each time a model in that unit makes a melee attack, add 1 to the Hit roll}.",
-        "Hunt Them Down: During the battle round in which you call a Waaagh!, this model’s big choppa has the [ANTI-MONSTER 3+] and [ANTI-VEHICLE 3+] abilities}."
+        "Hunt Them Down: During the battle round in which you call a Waaagh!, this model's big choppa has the [ANTI-MONSTER 3+] and [ANTI-VEHICLE 3+] abilities}."
       ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "10\"",
       "t": "7",
@@ -4591,25 +5212,39 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Nob on Smasha Squig",
           "This model is equipped with",
           "slugga; big choppa;",
           "smasha squig jaws."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following unit",
-          "■",
           "Squighog Boyz",
           "NOB",
           "ON SMASHA SQUIG",
@@ -4661,17 +5296,21 @@
     "factionKeywords": [
       "Orks"
     ],
-    "abilities": {
-      "core": "Leader",
-      "faction": "Waaagh!",
-      "special": [
-        "FACTION: Waaagh! Plant the Waaagh! Banner: Once per battle, at the start of the battle round, this model can use this ability}.",
-        "If it does, until the start of the next battle round, this model’s unit gains the benefits of the Waaagh! ability as if you had called a Waaagh! this battle round}.",
-        "Da Boss Iz Watchin’: While this model is gaining the benefits of the Waaagh! ability, it has a 4+ invulnerable save and an Objective Control characteristic of 5}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Leader"
+            },{
+              "title": "FACTION",
+              "text": "Waaagh!"
+            },
+      "FACTION: Waaagh! Plant the Waaagh! Banner: Once per battle, at the start of the battle round, this model can use this ability}.",
+        "If it does, until the start of the next battle round, this model's unit gains the benefits of the Waaagh! ability as if you had called a Waaagh! this battle round}.",
+        "Da Boss Iz Watchin': While this model is gaining the benefits of the Waaagh! ability, it has a 4+ invulnerable save and an Objective Control characteristic of 5}."
+    }],
     "stats": {
       "m": "6\"",
       "t": "5",
@@ -4684,30 +5323,43 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Nob with Waaagh! Banner",
           "This model is equipped with",
           "kustom shoota; Waaagh! banner."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following units",
-          "■",
           "Boyz",
-          "■",
           "Nobz",
           "NOB",
           "WITH WAAAGH! BANNER",
-          "Entrusted to the warband’s most stubborn Nob, a Waaagh! banner",
+          "Entrusted to the warband's most stubborn Nob, a Waaagh! banner",
           "serves as a rallying point and a place for the Warboss to display his",
           "favourite trophies, glyph plates and such. Should the ladz need some",
           "encouragement to get stuck into a scrap, the banner also doubles as a",
@@ -4783,18 +5435,22 @@
     "factionKeywords": [
       "Orks"
     ],
-    "abilities": {
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
       "core": null,
-      "faction": "Waaagh!",
+      {
+              "title": "FACTION",
+              "text": "Waaagh!"
+            },
       "special": [
-        "Da Boss’ Ladz: While a Warboss model is leading this unit, each time an attack targets this unit, subtract 1 from the Wound roll}.",
+        "Da Boss' Ladz: While a Warboss model is leading this unit, each time an attack targets this unit, subtract 1 from the Wound roll}.",
         "WARGEAR ABILITIES Ammo Runt: Once per battle for each ammo runt this unit has, when this unit is selected to shoot, it can use this ability}.",
         "If it does, until the end of the phase, ranged weapons equipped by models in this unit have the [LETHAL HITS] ability}.",
-        "Designer’s Note: Place the relevant number of Ammo Runt tokens next to the unit, removing one each time the unit uses this ability}."
+        "Designer's Note: Place the relevant number of Ammo Runt tokens next to the unit, removing one each time the unit uses this ability}."
       ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "6\"",
       "t": "5",
@@ -4807,21 +5463,25 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "Any number of models can each have their big choppa replaced with 1 power klaw.",
-          "■",
           "Any number of models can each have their slugga and big choppa replaced with 1 kombi-weapon and",
           "1 close combat weapon.",
-          "■",
           "For every 5 models in this unit, this unit can be equipped with 1 ammo runt."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Boss Nob",
-          "■",
           "4-9 Nobz",
           "Every model is equipped with",
           "slugga; big choppa.",
@@ -4849,7 +5509,6 @@
       "Painboss"
     ],
     "weapons": {
-      "ranged": [],
       "melee": [
         {
           "name": "Beast Snagga klaw [ANTI-MONSTER 4+, ANTI-VEHICLE 4+]",
@@ -4865,20 +5524,24 @@
     "factionKeywords": [
       "Orks"
     ],
-    "abilities": {
-      "core": "Feel No Pain 5+, Leader",
-      "faction": "Waaagh!",
-      "special": [
-        "FACTION: Waaagh! Dok’s Toolz: While this model is leading a unit, models in that unit have the Feel No Pain 5+ ability}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Feel No Pain 5+, Leader"
+            },{
+              "title": "FACTION",
+              "text": "Waaagh!"
+            },
+      "FACTION: Waaagh! Dok's Toolz: While this model is leading a unit, models in that unit have the Feel No Pain 5+ ability}.",
         "Sawbonez: At the end of your Movement phase, select one friendly Beast Snagga Character model within 3\" of this model}.",
         "That model is healed and regains up to 3 lost wounds}.",
         "Each model can only be healed once per turn}.",
         "WARGEAR ABILITIES Grot Orderly: Once per battle, in your Command phase, if the bearer is leading a unit that is below its Starting Strength, you can return up to D3 destroyed Bodyguard models to that unit}.",
-        "Designer’s Note: Place a Grot Orderly token next to the unit, removing it once this ability has been used}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+        "Designer's Note: Place a Grot Orderly token next to the unit, removing it once this ability has been used}."
+    }],
     "stats": {
       "m": "6\"",
       "t": "5",
@@ -4891,31 +5554,45 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "This model can be equipped with 1 grot orderly."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Painboss",
           "This model is equipped with",
           "Beast Snagga klaw."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following unit",
-          "■",
           "Beast Snagga Boyz",
           "PAINBOSS",
           "The Painboss specialises in both the surgical care and",
           "cyber-augmentation of squigs, and of those suffering squig-related",
-          "injuries. So as to provide their services ‘on the hoof’, Painbosses",
+          "injuries. So as to provide their services ‘on the hoof', Painbosses",
           "augment themselves with piston-driven soopa-legz, monowheels and",
-          "the like - the better to deliver high-speed doktorin’."
+          "the like - the better to deliver high-speed doktorin'."
         ]
       }
     ]
@@ -4933,7 +5610,6 @@
       "Painboy"
     ],
     "weapons": {
-      "ranged": [],
       "melee": [
         {
           "name": "Power klaw",
@@ -4945,7 +5621,7 @@
           "d": "2"
         },
         {
-          "name": "’Urty syringe [ANTI-INFANTRY 4+, EXTRA ATTACKS, PRECISION]",
+          "name": "'Urty syringe [ANTI-INFANTRY 4+, EXTRA ATTACKS, PRECISION]",
           "range": "Melee",
           "a": "1",
           "bws": "3+",
@@ -4958,18 +5634,22 @@
     "factionKeywords": [
       "Orks"
     ],
-    "abilities": {
-      "core": "Leader",
-      "faction": "Waaagh!",
-      "special": [
-        "FACTION: Waaagh! Dok’s Toolz: While this model is leading a unit, models in that unit have the Feel No Pain 5+ ability}.",
-        "Hold Still and Say ‘Aargh!’: Each time an attack made by this model with its ’urty syringe scores a Critical Wound against a unit (excluding Vehicle units), that unit suffers D6 mortal wounds}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Leader"
+            },{
+              "title": "FACTION",
+              "text": "Waaagh!"
+            },
+      "FACTION: Waaagh! Dok's Toolz: While this model is leading a unit, models in that unit have the Feel No Pain 5+ ability}.",
+        "Hold Still and Say ‘Aargh!': Each time an attack made by this model with its 'urty syringe scores a Critical Wound against a unit (excluding Vehicle units), that unit suffers D6 mortal wounds}.",
         "WARGEAR ABILITIES Grot Orderly: Once per battle, in your Command phase, if the bearer is leading a unit that is below its Starting Strength, you can return up to D3 destroyed Bodyguard models to that unit}.",
-        "Designer’s Note: Place a Grot Orderly token next to the unit, removing it once this ability has been used}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+        "Designer's Note: Place a Grot Orderly token next to the unit, removing it once this ability has been used}."
+    }],
     "stats": {
       "m": "6\"",
       "t": "5",
@@ -4982,32 +5662,42 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "This model can be equipped with 1 grot orderly."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Painboy",
           "This model is equipped with",
-          "power klaw; ’urty syringe."
+          "power klaw; 'urty syringe."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following units",
-          "■",
           "Boyz",
-          "■",
           "Nobz",
-          "■",
           "Lootas",
-          "■",
           "Burna Boyz",
-          "■",
           "Tankbustas",
           "PAINBOY",
           "The traditional tools of the Painboy help them to patch up even the",
@@ -5066,17 +5756,31 @@
     "factionKeywords": [
       "Orks"
     ],
-    "abilities": {
-      "core": "Deadly Demise 1",
-      "faction": "Waaagh!",
-      "special": [
-        "FACTION: Waaagh! Buzzer Squigs: Each time this model makes an attack with its squig launchas that targets an Infantry unit, add 1 to the Hit roll}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise 1"
+            },{
+              "title": "FACTION",
+              "text": "Waaagh!"
+            },
+      "FACTION: Waaagh! Buzzer Squigs: Each time this model makes an attack with its squig launchas that targets an Infantry unit, add 1 to the Hit roll}.",
         "Squig Mine: Once per battle, at the start of any phase, select one enemy unit within 3\" of this model and roll one D6: on a 4+, that enemy unit suffers D6 mortal wounds}.",
-        "Designer’s Note: Place a Squig Mine token next to the model, removing it once this ability has been used}."
-      ]
-    },
-    "invulnerable": "6+",
-    "damaged": null,
+        "Designer's Note: Place a Squig Mine token next to the model, removing it once this ability has been used}."
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "6+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "12\"",
       "t": "7",
@@ -5089,14 +5793,21 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Rukkatrukk Squigbuggy",
           "This model is equipped with",
           "sawn-off shotgun;",
@@ -5158,15 +5869,29 @@
     "factionKeywords": [
       "Orks"
     ],
-    "abilities": {
-      "core": "Deadly Demise 1",
-      "faction": "Waaagh!",
-      "special": [
-        "FACTION: Waaagh! Shokk Tunnel: Each time this model is selected to Advance, you can remove it from the battlefield and set it up again anywhere on the battlefield that is more than 9\" horizontally away from all enemy models}."
-      ]
-    },
-    "invulnerable": "6+",
-    "damaged": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise 1"
+            },{
+              "title": "FACTION",
+              "text": "Waaagh!"
+            },
+      "FACTION: Waaagh! Shokk Tunnel: Each time this model is selected to Advance, you can remove it from the battlefield and set it up again anywhere on the battlefield that is more than 9\" horizontally away from all enemy models}."
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "6+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "12\"",
       "t": "7",
@@ -5179,14 +5904,21 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Shokkjump Dragsta",
           "This model is equipped with",
           "kustom shokk rifle; rokkits;",
@@ -5260,17 +5992,21 @@
     "factionKeywords": [
       "Orks"
     ],
-    "abilities": {
-      "core": "Feel No Pain 5+",
-      "faction": "Waaagh!",
-      "special": [
-        "FACTION: Waaagh! Wild Ride: You can ignore any or all modifiers to this unit’s Move characteristic and to Advance and Charge rolls made for this unit}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Feel No Pain 5+"
+            },{
+              "title": "FACTION",
+              "text": "Waaagh!"
+            },
+      "FACTION: Waaagh! Wild Ride: You can ignore any or all modifiers to this unit's Move characteristic and to Advance and Charge rolls made for this unit}.",
         "WARGEAR ABILITIES Bomb Squig: Once per battle for each bomb squig this unit has, after this unit ends a Normal move, you can select one enemy unit within 12\" of it and roll one D6: on a 2+, that enemy unit suffers D3 mortal wounds}.",
-        "Designer’s Note: Place the relevant number of Bomb Squig tokens next to the unit, removing one each time this unit uses this ability}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+        "Designer's Note: Place the relevant number of Bomb Squig tokens next to the unit, removing one each time this unit uses this ability}."
+    }],
     "stats": {
       "m": "10\"",
       "t": "7",
@@ -5283,14 +6019,21 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "For every 3 models in this unit, this unit can be equipped with 1 bomb squig."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "3-6 Squighog Boyz",
           "Every model is equipped with",
           "saddlegit weapons; stikka;",
@@ -5401,17 +6144,31 @@
     "factionKeywords": [
       "Orks"
     ],
-    "abilities": {
-      "core": "Deadly Demise 2D6",
-      "faction": "Waaagh!",
-      "special": [
-        "FACTION: Waaagh! Waaagh! Effigy (Aura): While a friendly Orks unit is within 12\" of this model, each time you take a Battle-shock test for that unit, add 1 to that test}.",
-        "Stompin’ Forward: Each time this model makes a Normal, Advance or Fall Back move, it can move over models (excluding Titanic models) and terrain features that are 4\" or less in height as if they were not there}.",
-        "DAMAGED: 1-10 WOUNDS REMAINING While this model has 1-10 wounds remaining, subtract 6 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll}."
-      ]
-    },
-    "invulnerable": "6+",
-    "damaged": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise 2D6"
+            },{
+              "title": "FACTION",
+              "text": "Waaagh!"
+            },
+      "FACTION: Waaagh! Waaagh! Effigy (Aura): While a friendly Orks unit is within 12\" of this model, each time you take a Battle-shock test for that unit, add 1 to that test}.",
+        "Stompin' Forward: Each time this model makes a Normal, Advance or Fall Back move, it can move over models (excluding Titanic models) and terrain features that are 4\" or less in height as if they were not there}.",
+        "DAMAGED: 1-10 WOUNDS REMAINING While this model has 1-10 wounds remaining, subtract 6 from this model's Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll}."
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "6+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "10\"",
       "t": "14",
@@ -5427,14 +6184,21 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Stompa",
           "This model is equipped with",
           "3 big shootas;",
@@ -5517,17 +6281,21 @@
     "factionKeywords": [
       "Orks"
     ],
-    "abilities": {
-      "core": "Deep Strike",
-      "faction": "Waaagh!",
-      "special": [
-        "FACTION: Waaagh! Full Throttle: This unit is eligible to declare a charge in a turn in which it Advanced}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deep Strike"
+            },{
+              "title": "FACTION",
+              "text": "Waaagh!"
+            },
+      "FACTION: Waaagh! Full Throttle: This unit is eligible to declare a charge in a turn in which it Advanced}.",
         "If it does, before making that Charge move, roll one D6 for each model in this unit: for each 1, this unit suffers 1 mortal wound}.",
         "You cannot use this ability during the battle round in which you call a Waaagh!}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "12\"",
       "t": "5",
@@ -5540,25 +6308,31 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "The Boss Nob’s choppa can be replaced with 1 power klaw."
+          "The Boss Nob's choppa can be replaced with 1 power klaw."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Boss Nob",
-          "■",
           "4-9 Stormboyz",
           "Every model is equipped with",
           "slugga; choppa.",
           "STORMBOYZ",
           "Most Orks mock Stormboyz for their acts of juvenile rebellion, from",
           "taking orders and shining their boots to marching about, talking",
-          "about ‘taktics’ and even following a battle plan. Yet when that plan is",
+          "about ‘taktics' and even following a battle plan. Yet when that plan is",
           "‘strap on a high powered rokkit and hurtle into the enemy bellowing",
-          "“Waaagh!”’, it does prove to have its merits."
+          "“Waaagh!”', it does prove to have its merits."
         ]
       }
     ]
@@ -5619,17 +6393,19 @@
     "factionKeywords": [
       "Orks"
     ],
-    "abilities": {
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
       "core": null,
-      "faction": "Waaagh!",
-      "special": [
-        "Tank Hunters: Each time a model in this unit makes an attack that targets a Monster or Vehicle unit, add 1 to the Hit roll and add 1 to the Wound roll}.",
+      {
+              "title": "FACTION",
+              "text": "Waaagh!"
+            },
+      "Tank Hunters: Each time a model in this unit makes an attack that targets a Monster or Vehicle unit, add 1 to the Hit roll and add 1 to the Wound roll}.",
         "Bomb Squigs: Twice per battle, after this unit ends a Normal move, you can select one enemy unit within 12\" of it and roll one D6: on a 2+, that enemy unit suffers D3 mortal wounds}.",
-        "Designer’s Note: Place two Bomb Squig tokens next to the unit, removing one each time this unit uses this ability}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+        "Designer's Note: Place two Bomb Squig tokens next to the unit, removing one each time this unit uses this ability}."
+    }],
     "stats": {
       "m": "6\"",
       "t": "5",
@@ -5642,16 +6418,22 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Boss Nob",
-          "■",
           "4 Tankbustas",
           "The Boss Nob is equipped with",
           "rokkit launcha;",
@@ -5710,7 +6492,7 @@
           "d": "1"
         },
         {
-          "name": "Wreckin’ ball [EXTRA ATTACKS]",
+          "name": "Wreckin' ball [EXTRA ATTACKS]",
           "range": "Melee",
           "a": "1",
           "bws": "4+",
@@ -5723,15 +6505,29 @@
     "factionKeywords": [
       "Orks"
     ],
-    "abilities": {
-      "core": "Deadly Demise D3, Firing Deck 12",
-      "faction": "Waaagh!",
-      "special": [
-        "FACTION: Waaagh! Grot Riggers: At the start of your Command phase, this model regains 1 lost wound}."
-      ]
-    },
-    "invulnerable": "6+",
-    "damaged": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D3, Firing Deck 12"
+            },{
+              "title": "FACTION",
+              "text": "Waaagh!"
+            },
+      "FACTION: Waaagh! Grot Riggers: At the start of your Command phase, this model regains 1 lost wound}."
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "6+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "12\"",
       "t": "8",
@@ -5744,14 +6540,21 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model can be equipped with 1 wreckin’ ball."
+          "This model can be equipped with 1 wreckin' ball."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Trukk",
           "This model is equipped with",
           "big shoota; spiked wheels."
@@ -5854,15 +6657,27 @@
     "factionKeywords": [
       "Orks"
     ],
-    "abilities": {
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
       "core": null,
-      "faction": "Waaagh!",
-      "special": [
-        "Drive-by Dakka: Each time a model in this unit makes a ranged attack that targets a unit within 9\", improve the Armour Penetration characteristic of that attack by 1}."
-      ]
-    },
-    "invulnerable": "6+",
-    "damaged": null,
+      {
+              "title": "FACTION",
+              "text": "Waaagh!"
+            },
+      "Drive-by Dakka: Each time a model in this unit makes a ranged attack that targets a unit within 9\", improve the Armour Penetration characteristic of that attack by 1}."
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "6+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "12\"",
       "t": "6",
@@ -5875,28 +6690,28 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "Each Warbiker can be equipped with one of the following",
-          "◦",
           "1 slugga",
-          "◦",
           "1 choppa",
-          "■",
           "The Boss Nob on Warbike can be equipped with one of the following",
-          "◦",
           "1 slugga",
-          "◦",
           "1 big choppa",
-          "◦",
           "1 power klaw"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Boss Nob on Warbike",
-          "■",
           "2-5 Warbikers",
           "Every model is equipped with",
           "twin dakkagun;",
@@ -5906,7 +6721,7 @@
           "trails of dust and smoke boiling up behind them like an ill omen. They",
           "race one another at breakneck pace to reach the enemy first, execute",
           "death-defying stunts at suicidal speeds, then crash headlong into the",
-          "foe’s battle line like battering rams."
+          "foe's battle line like battering rams."
         ]
       }
     ]
@@ -5978,16 +6793,30 @@
     "factionKeywords": [
       "Orks"
     ],
-    "abilities": {
-      "core": "Leader",
-      "faction": "Waaagh!",
-      "special": [
-        "FACTION: Waaagh! Might is Right: While this model is leading a unit, each time a model in that unit makes a melee attack, add 1 to the Hit roll}.",
-        "Da Biggest and da Best: When you call a Waaagh!, until the start of the next battle round, add 4 to the Attacks characteristic of this model’s melee weapons}."
-      ]
-    },
-    "invulnerable": "5+",
-    "damaged": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Leader"
+            },{
+              "title": "FACTION",
+              "text": "Waaagh!"
+            },
+      "FACTION: Waaagh! Might is Right: While this model is leading a unit, each time a model in that unit makes a melee attack, add 1 to the Hit roll}.",
+        "Da Biggest and da Best: When you call a Waaagh!, until the start of the next battle round, add 4 to the Attacks characteristic of this model's melee weapons}."
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "5+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "6\"",
       "t": "5",
@@ -6000,29 +6829,41 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s big choppa can be replaced with 1 power klaw.",
-          "■",
+          "This model's big choppa can be replaced with 1 power klaw.",
           "This model can be equipped with 1 attack squig."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Warboss",
           "This model is equipped with",
           "kombi-weapon; twin slugga;",
           "big choppa."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following units",
-          "■",
           "Boyz",
-          "■",
           "Nobz",
           "WARBOSS",
           "A towering slab of muscle, fangs and bad attitude, the Warboss leads",
@@ -6060,7 +6901,7 @@
       ],
       "melee": [
         {
-          "name": "’Uge choppa",
+          "name": "'Uge choppa",
           "range": "Melee",
           "a": "4",
           "bws": "2+",
@@ -6073,16 +6914,30 @@
     "factionKeywords": [
       "Orks"
     ],
-    "abilities": {
-      "core": "Leader",
-      "faction": "Waaagh!",
-      "special": [
-        "FACTION: Waaagh! Might is Right: While this model is leading a unit, each time a model in that unit makes a melee attack, add 1 to the Hit roll}.",
-        "Dead ’ard: When you call a Waaagh!, until the start of the next battle round, this model has the Feel No Pain 4+ ability}."
-      ]
-    },
-    "invulnerable": "5+",
-    "damaged": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Leader"
+            },{
+              "title": "FACTION",
+              "text": "Waaagh!"
+            },
+      "FACTION: Waaagh! Might is Right: While this model is leading a unit, each time a model in that unit makes a melee attack, add 1 to the Hit roll}.",
+        "Dead 'ard: When you call a Waaagh!, until the start of the next battle round, this model has the Feel No Pain 4+ ability}."
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "5+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "5\"",
       "t": "6",
@@ -6095,24 +6950,38 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Warboss in Mega Armour",
           "This model is equipped with",
-          "big shoota; ’uge choppa."
+          "big shoota; 'uge choppa."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following unit",
-          "■",
           "Meganobz",
           "WARBOSS IN MEGA ARMOUR",
           "Any good Ork hunter knows the safest way to deal with a rampaging",
@@ -6192,17 +7061,31 @@
     "factionKeywords": [
       "Orks"
     ],
-    "abilities": {
-      "core": "Deadly Demise D3",
-      "faction": "Waaagh!",
-      "special": [
-        "FACTION: Waaagh! Blastajet Attack Run: Each time this model makes a ranged attack that targets a unit that cannot Fly , re-roll a Hit roll of 1}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D3"
+            },{
+              "title": "FACTION",
+              "text": "Waaagh!"
+            },
+      "FACTION: Waaagh! Blastajet Attack Run: Each time this model makes a ranged attack that targets a unit that cannot Fly , re-roll a Hit roll of 1}.",
         "WARGEAR ABILITIES Blastajet Force Field: The bearer has a 4+ invulnerable save, but it loses the Grenades keyword}.",
         "DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll}."
-      ]
-    },
-    "invulnerable": "6+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "6+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "20+\"",
       "t": "9",
@@ -6215,18 +7098,23 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s twin wazbom mega-kannon can be replaced with 1 twin tellyport mega-blasta.",
-          "■",
+          "This model's twin wazbom mega-kannon can be replaced with 1 twin tellyport mega-blasta.",
           "This model can be equipped with 1 blastajet force field.",
-          "■",
           "This model can be equipped with 1 twin supa-shoota."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Wazbom Blastajet",
           "This model is equipped with",
           "smasha gun;",
@@ -6257,7 +7145,7 @@
     "weapons": {
       "ranged": [
         {
-          "name": "’Eadbanger [PRECISION, PSYCHIC]",
+          "name": "'Eadbanger [PRECISION, PSYCHIC]",
           "range": "24\"",
           "a": "1",
           "bws": "4+",
@@ -6281,17 +7169,23 @@
     "factionKeywords": [
       "Orks"
     ],
-    "abilities": {
-      "core": "Deadly Demise D3, Leader",
-      "faction": "Waaagh!",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D3, Leader"
+            },{
+              "title": "FACTION",
+              "text": "Waaagh!"
+            },
       "special": [
-        "FACTION: Waaagh! Waaagh! Energy: While this model is leading a unit, add 1 to the Strength and Damage characteristics of this model’s ’Eadbanger weapon for every 5 models in that unit (rounding down), but while that unit contains 10 or more models, that weapon has the [HAZARDOUS] ability}.",
+        "FACTION: Waaagh! Waaagh! Energy: While this model is leading a unit, add 1 to the Strength and Damage characteristics of this model's 'Eadbanger weapon for every 5 models in that unit (rounding down), but while that unit contains 10 or more models, that weapon has the [HAZARDOUS] ability}.",
         "Da Jump (Psychic): Once per turn, at the end of your Movement phase, one Weirdboy from your army can use this ability}.",
-        "If it does, roll one D6: on a 1, that Weirdboy ’s unit suffers D6 mortal wounds; on a 2+, remove this Weirdboy ’s unit from the battlefield and set it up again anywhere on the battlefield that is more than 9\" horizontally away from all enemy models}."
+        "If it does, roll one D6: on a 1, that Weirdboy 's unit suffers D6 mortal wounds; on a 2+, remove this Weirdboy 's unit from the battlefield and set it up again anywhere on the battlefield that is more than 9\" horizontally away from all enemy models}."
       ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "6\"",
       "t": "5",
@@ -6304,24 +7198,38 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Weirdboy",
           "This model is equipped with",
-          "’Eadbanger; weirdboy staff."
+          "'Eadbanger; weirdboy staff."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following unit",
-          "■",
           "Boyz",
           "WEIRDBOY",
           "Weirdboyz channel the Waaagh! energy that builds up around battling",
@@ -6373,16 +7281,22 @@
     "factionKeywords": [
       "Orks"
     ],
-    "abilities": {
-      "core": "Deadly Demise D3, Feel No Pain 6+, Leader",
-      "faction": "Waaagh!",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D3, Feel No Pain 6+, Leader"
+            },{
+              "title": "FACTION",
+              "text": "Waaagh!"
+            },
       "special": [
-        "FACTION: Waaagh! Waaagh! Energy: While this model is leading a unit, add 2 to the Attacks characteristic of this model’s Eyez of Mork weapon for every 5 models in that unit (rounding down), but while that unit contains 10 or more models, that weapon has the [HAZARDOUS] ability}.",
-        "Roar of Mork (Psychic): In your opponent’s Command phase, you can select one enemy unit within 18\" of and visible to this Psyker and roll one D6: on a 1, this Psyker ’s unit suffers D3 mortal wounds; on a 2+, until the start of your opponent’s next Command phase, each time a Battle-shock or Leadership test is taken for that enemy unit, subtract 2 from that test}."
+        "FACTION: Waaagh! Waaagh! Energy: While this model is leading a unit, add 2 to the Attacks characteristic of this model's Eyez of Mork weapon for every 5 models in that unit (rounding down), but while that unit contains 10 or more models, that weapon has the [HAZARDOUS] ability}.",
+        "Roar of Mork (Psychic): In your opponent's Command phase, you can select one enemy unit within 18\" of and visible to this Psyker and roll one D6: on a 1, this Psyker 's unit suffers D3 mortal wounds; on a 2+, until the start of your opponent's next Command phase, each time a Battle-shock or Leadership test is taken for that enemy unit, subtract 2 from that test}."
       ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "6\"",
       "t": "5",
@@ -6395,29 +7309,43 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Wurrboy",
           "This model is equipped with",
           "Eyez of Mork; close",
           "combat weapon."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following unit",
-          "■",
           "Beast Snagga Boyz",
           "WURRBOY",
           "Rarely lucid, Wurrboyz rant about visions of prey and lose themselves",
-          "in the senses of their warband’s squigs. This doesn’t stop them",
+          "in the senses of their warband's squigs. This doesn't stop them",
           "unleashing their devastating powers, however, channelling the",
           "Waaagh! into overwhelming primal manifestations and beams of",
           "killing energy shot from their Eyez of Mork."
@@ -6465,18 +7393,22 @@
     "factionKeywords": [
       "Orks"
     ],
-    "abilities": {
-      "core": "Feel No Pain 6+, Leader",
-      "faction": "Waaagh!",
-      "special": [
-        "FACTION: Waaagh! Super Runts: While this model is leading a unit: ■ Models in that unit have the Scouts 9\" ability}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Feel No Pain 6+, Leader"
+            },{
+              "title": "FACTION",
+              "text": "Waaagh!"
+            },
+      "FACTION: Waaagh! Super Runts: While this model is leading a unit: ■ Models in that unit have the Scouts 9\" ability}.",
         "■ Each time a model in that unit makes an attack, add 1 to the Hit roll and add 1 to the Wound roll}.",
         "■ Each time an attack targets that unit, subtract 1 from the Wound roll}.",
-        "Special Dose: When you call a Waaagh!, until the start of the next battle round, add 6\" to the Move characteristic of models in this model’s unit}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+        "Special Dose: When you call a Waaagh!, until the start of the next battle round, add 6\" to the Move characteristic of models in this model's unit}."
+    }],
     "stats": {
       "m": "6\"",
       "t": "5",
@@ -6489,25 +7421,39 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Zodgrod Wortsnagga -",
           "Epic Hero",
           "This model is equipped with",
           "Da Grabzappa; slugga."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following unit",
-          "■",
           "Gretchin",
           "ZODGROD WORTSNAGGA",
           "With his Grabzappa crackling, Zodgrod herds his notorious super runts",
@@ -6532,26 +7478,29 @@
       "Mekboy Workshop"
     ],
     "weapons": {
-      "ranged": [],
       "melee": []
     },
     "factionKeywords": [
       "Orks"
     ],
-    "abilities": {
-      "core": "Deadly Demise 1",
-      "faction": "Waaagh!",
-      "special": [
-        "FACTION: Waaagh! Ramshackle Cover: Each time a ranged attack is allocated to a model, if that model is not fully visible to every model in the attacking unit because of this Fortification , that model has the Benefit of Cover against that attack}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise 1"
+            },{
+              "title": "FACTION",
+              "text": "Waaagh!"
+            },
+      "FACTION: Waaagh! Ramshackle Cover: Each time a ranged attack is allocated to a model, if that model is not fully visible to every model in the attacking unit because of this Fortification , that model has the Benefit of Cover against that attack}.",
         "Workshop: When this Fortification is set up, all parts of it must be set up within 1” of another part}.",
         "At the end of your Movement phase, each friendly Orks Vehicle model within 12” of this Fortification can regain up to D3 lost wounds (roll separately for each model)}.",
         "Each model can only be affected by this ability once per turn}.",
         "Fortification: While an enemy unit is only within Engagement Range of one or more Fortifications from your army: ■ That unit can still be selected as the target of ranged attacks, but each time such an attack is made, unless it is made with a Pistol, subtract 1 from the Hit roll}.",
         "■ Models in that unit do not need to take Desperate Escape tests due to Falling Back while Battle-shocked, except for those that will move over enemy models when doing so}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "-",
       "t": "9",
@@ -6565,13 +7514,20 @@
         "name": "WARGEAR OPTIONS",
         "values": []
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Mekboy Workshop",
           "WARGEAR OPTIONS",
-          "■",
           "None",
           "MEKBOY WORKSHOP",
           "Mekboyz are more than happy to raise new workshops",

@@ -110,7 +110,7 @@
       ],
       "enhancements": [
         {
-          "title": "PERDITION’S EDGE",
+          "title": "PERDITION'S EDGE",
           "points": 15,
           "rules": [
             {
@@ -118,8 +118,8 @@
             },
             {
               "list": [
-                "Improve the Strength and Armour Penetration characteristics of the bearer’s melee weapons by 1.",
-                "If the Suffer Not the Unclean to Live vow is active for your army, add 1 to the Attacks characteristic of the bearer’s melee weapons as well."
+                "Improve the Strength and Armour Penetration characteristics of the bearer's melee weapons by 1.",
+                "If the Suffer Not the Unclean to Live vow is active for your army, add 1 to the Attacks characteristic of the bearer's melee weapons as well."
               ]
             }
           ]
@@ -133,14 +133,14 @@
             },
             {
               "list": [
-                "The bearer’s ranged weapons have the [PRECISION], [ANTI-PSYKER 4+] and [DEVASTATING WOUNDS] abilities.",
+                "The bearer's ranged weapons have the [PRECISION], [ANTI-PSYKER 4+] and [DEVASTATING WOUNDS] abilities.",
                 "If the Abhor the Witch, Destroy the Witch vow is active for your army, each time the bearer makes a ranged attack that targets a Psyker unit, you can re-roll the Hit roll and you can re-roll the Wound roll."
               ]
             }
           ]
         },
         {
-          "title": "SIGISMUND’S SEAL",
+          "title": "SIGISMUND'S SEAL",
           "points": 20,
           "rules": [
             {
@@ -148,14 +148,14 @@
             },
             {
               "list": [
-                "Improve the Attacks characteristic of the bearer’s melee weapons by 1.",
+                "Improve the Attacks characteristic of the bearer's melee weapons by 1.",
                 "While the bearer is leading a unit, if the Accept Any Challenge, No Matter the Odds vow is active for your army, each time a model in that unit makes a melee attack, a successful unmodified Hit roll of 5+ scores a Critical Hit."
               ]
             }
           ]
         },
         {
-          "title": "TÄNNHAUSER’S BONES",
+          "title": "TÄNNHAUSER'S BONES",
           "points": 35,
           "rules": [
             {
@@ -245,16 +245,30 @@
       "Adeptus Astartes",
       "Black Templars"
     ],
-    "abilities": {
-      "core": "Feel No Pain 5+, Leader",
-      "faction": "Oath of Moment",
-      "special": [
-        "Litanies of the Devout: While Chaplain Grimaldus is leading a unit, each time a model in that unit makes a melee attack, you can re-roll the Hit roll}.",
-        "Temple Relics: In your Command phase, if this unit contains one or more Cenobyte Servitor models, select one Relics of the Emperor Ascendant ability (see left). Until the start of your next Command phase, this unit’s Chaplain Grimaldus model has that ability}."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Feel No Pain 5+, Leader"
+            },{
+              "title": "FACTION",
+              "text": "Oath of Moment"
+            },
+      "Litanies of the Devout: While Chaplain Grimaldus is leading a unit, each time a model in that unit makes a melee attack, you can re-roll the Hit roll}.",
+        "Temple Relics: In your Command phase, if this unit contains one or more Cenobyte Servitor models, select one Relics of the Emperor Ascendant ability (see left). Until the start of your next Command phase, this unit's Chaplain Grimaldus model has that ability}."
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": [
       {
         "name": "CHAPLAIN GRIMALDUS",
@@ -290,17 +304,23 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Chaplain Grimaldus -",
           "Epic Hero",
-          "■",
           "3 Cenobyte Servitors",
           "Chaplain Grimaldus is equipped with",
           "plasma pistol;",
@@ -310,19 +330,22 @@
           "combat weapon."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This unit can be attached to the following units",
-          "■",
           "Assault Intercessor Squad",
-          "■",
           "Infernus Squad",
-          "■",
           "Intercessor Squad",
-          "■",
           "Primaris Crusader Squad",
-          "■",
           "Primaris Sword Brethren",
           "CHAPLAIN GRIMALDUS",
           "High Chaplain Grimaldus is a beacon of Imperial faith. His fortitude",
@@ -501,16 +524,20 @@
       "Adeptus Astartes",
       "Black Templars"
     ],
-    "abilities": {
-      "core": "Oath of Moment",
-      "faction": "You can re-roll Advance and Charge rolls",
-      "special": [
-        "made for this unit}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Oath of Moment"
+            },{
+              "title": "FACTION",
+              "text": "You can re-roll Advance and Charge rolls"
+            },
+      "made for this unit}.",
         "Before selecting targets for this weapon, select one of its profiles to make attacks with}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "6\"",
       "t": "4",
@@ -523,85 +550,60 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "The Sword Brother’s bolt pistol and boltgun can be",
+          "The Sword Brother's bolt pistol and boltgun can be",
           "replaced with 1 twin lightning claws or two different",
           "weapons from the following list:**",
-          "◦",
           "1 Astartes chainsword",
-          "◦",
           "1 bolt pistol",
-          "◦",
           "1 boltgun",
-          "◦",
           "1 combi-weapon*",
-          "◦",
           "1 grav-pistol*",
-          "◦",
           "1 hand flamer*",
-          "◦",
           "1 inferno pistol*",
-          "◦",
           "1 plasma pistol*",
-          "◦",
           "1 power fist",
-          "◦",
           "1 power weapon",
-          "◦",
           "1 storm bolter*",
-          "◦",
           "1 thunder hammer",
-          "■",
           "Any number of Neophytes can each have their",
           "boltgun replaced with one of the following",
-          "◦",
           "1 Astartes shotgun",
-          "◦",
           "1 combat knife",
-          "■",
           "Any number of Initiates can each have their boltgun",
           "replaced with 1 Astartes chainsword.",
-          "■",
-          "1 Initiate’s boltgun can be replaced with one of",
+          "1 Initiate's boltgun can be replaced with one of",
           "the following",
-          "◦",
           "1 flamer",
-          "◦",
           "1 plasma gun",
-          "◦",
           "1 meltagun",
-          "◦",
           "1 grav-gun",
-          "■",
-          "1 Initiate’s boltgun can be replaced with one of",
+          "1 Initiate's boltgun can be replaced with one of",
           "the following",
-          "◦",
           "1 power weapon",
-          "◦",
           "1 power fist",
-          "◦",
           "1 heavy bolter*",
-          "◦",
           "1 heavy flamer*",
-          "◦",
           "1 grav-cannon*",
-          "◦",
           "1 lascannon*",
-          "◦",
           "1 missile launcher*",
-          "◦",
           "1 multi-melta*",
-          "◦",
           "1 plasma cannon*"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Sword Brother",
-          "■",
           "4-9 Initiates",
-          "■",
           "0-10 Neophytes",
           "Every model is equipped with",
           "boltgun; bolt pistol; close",
@@ -680,16 +682,30 @@
       "Adeptus Astartes",
       "Black Templars"
     ],
-    "abilities": {
-      "core": "Leader",
-      "faction": "Oath of Moment",
-      "special": [
-        "Crusade of Wrath: While this model is leading a unit, add 1 to the Strength characteristic of melee weapons equipped by models in that unit and each time an attack is made with such a weapon, a successful unmodified Hit roll of 5+ scores a Critical Hit}.",
-        "High Marshal: At the start of the Fight phase, select one enemy unit within Engagement Range of this model’s unit and roll one D6: on a 2-3, that enemy unit suffers D3 mortal wounds; on a 4-5, that enemy unit suffers 3 mortal wounds; on a 6, that enemy unit suffers D3+3 mortal wounds}."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Leader"
+            },{
+              "title": "FACTION",
+              "text": "Oath of Moment"
+            },
+      "Crusade of Wrath: While this model is leading a unit, add 1 to the Strength characteristic of melee weapons equipped by models in that unit and each time an attack is made with such a weapon, a successful unmodified Hit roll of 5+ scores a Critical Hit}.",
+        "High Marshal: At the start of the Fight phase, select one enemy unit within Engagement Range of this model's unit and roll one D6: on a 2-3, that enemy unit suffers D3 mortal wounds; on a 4-5, that enemy unit suffers 3 mortal wounds; on a 6, that enemy unit suffers D3+3 mortal wounds}."
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "6\"",
       "t": "4",
@@ -705,14 +721,21 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 High Marshal Helbrecht -",
           "Epic Hero",
           "This model is equipped with",
@@ -720,20 +743,24 @@
           "High Marshals."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following units",
-          "■",
           "Assault Intercessor Squad",
-          "■",
           "Intercessor Squad",
-          "■",
           "Primaris Crusader Squad",
-          "■",
           "Primaris Sword Brethren",
           "HIGH MARSHAL HELBRECHT",
-          "Helbrecht is the living embodiment of his Chapter’s warrior spirit.",
+          "Helbrecht is the living embodiment of his Chapter's warrior spirit.",
           "Wielding the Sword of the High Marshals, he storms into the fray,",
           "bellowing oaths of vengeance as he leads the unstoppable charge.",
           "His battle-brothers follow him without question, for they believe where",
@@ -857,15 +884,19 @@
       "Adeptus Astartes",
       "Black Templars"
     ],
-    "abilities": {
-      "core": "Scouts 6\"",
-      "faction": "Oath of Moment",
-      "special": [
-        "Righteous Zeal: You can re-roll Advance and Charge rolls made for this unit}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Scouts 6\""
+            },{
+              "title": "FACTION",
+              "text": "Oath of Moment"
+            },
+      "Righteous Zeal: You can re-roll Advance and Charge rolls made for this unit}."
+    }],
     "stats": {
       "m": "6\"",
       "t": "4",
@@ -878,31 +909,31 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "The Primaris Sword Brother’s heavy bolt pistol can be replaced with 1 pyre pistol.",
-          "■",
+          "The Primaris Sword Brother's heavy bolt pistol can be replaced with 1 pyre pistol.",
           "All of the Primaris Neophytes can each have their bolt pistol and Astartes chainsword replaced with 1",
           "Neophyte firearm and 1 close combat weapon.",
-          "■",
           "Any number of Primaris Initiates can each have their bolt rifle replaced with 1 heavy bolt pistol and 1",
           "Astartes chainsword.",
-          "■",
           "For every 10 models in this unit, up to 2 Primaris Initiates can each have their bolt rifle replaced with",
           "one of the following",
-          "◦",
           "1 heavy bolt pistol and 1 power fist",
-          "◦",
           "1 pyreblaster"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Primaris Sword Brother",
-          "■",
           "5-11 Primaris Initiates",
-          "■",
           "4-8 Primaris Neophytes",
           "The Primaris Sword Brother is equipped with",
           "heavy bolt",
@@ -1037,16 +1068,20 @@
       "Adeptus Astartes",
       "Black Templars"
     ],
-    "abilities": {
-      "core": "Oath of Moment",
-      "faction": "At the start of the Fight phase, you",
-      "special": [
-        "can select one of the following effects to apply to melee weapons equipped by models in this unit until the end of the phase: ■ Add 1 to the Attacks characteristic of those weapons}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Oath of Moment"
+            },{
+              "title": "FACTION",
+              "text": "At the start of the Fight phase, you"
+            },
+      "can select one of the following effects to apply to melee weapons equipped by models in this unit until the end of the phase: ■ Add 1 to the Attacks characteristic of those weapons}.",
         "■ Add 1 to the Damage characteristic of those weapons}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "6\"",
       "t": "4",
@@ -1062,35 +1097,34 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "Any number of Primaris Sword Brothers can each have their Astartes chainsword replaced with 1",
           "power weapon.",
-          "■",
-          "For every 5 models in this unit, 1 Primaris Sword Brother’s Astartes chainsword can be replaced with",
+          "For every 5 models in this unit, 1 Primaris Sword Brother's Astartes chainsword can be replaced with",
           "1 thunder hammer.",
-          "■",
-          "For every 5 models in this unit, 1 Primaris Sword Brother’s heavy bolt pistol can be replaced with 1",
+          "For every 5 models in this unit, 1 Primaris Sword Brother's heavy bolt pistol can be replaced with 1",
           "plasma pistol.",
-          "■",
           "For every 5 models in this unit, up to 2 Primaris Sword Brothers can each have their heavy bolt pistol",
           "replaced with 1 pyre pistol.",
-          "■",
-          "The Sword Brother Castellan’s heavy bolt pistol and Astartes chainsword can be replaced with one of",
+          "The Sword Brother Castellan's heavy bolt pistol and Astartes chainsword can be replaced with one of",
           "the following",
-          "◦",
           "1 combi-weapon and 1 Astartes chainsword.",
-          "◦",
           "1 combi-weapon and 1 master-crafted power weapon.",
-          "◦",
           "1 heavy bolt pistol and 1 master-crafted power weapon."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Sword Brother Castellan",
-          "■",
           "4-10 Primaris Sword Brothers",
           "Every model is equipped with",
           "heavy bolt pistol;",
@@ -1104,11 +1138,11 @@
           ", it can be attached to this",
           "unit instead.",
           "PRIMARIS SWORD BRETHREN",
-          "Every Sword Brother has earned their place amongst the Marshal’s",
+          "Every Sword Brother has earned their place amongst the Marshal's",
           "household through acts of unswerving faith and spectacular violence.",
           "On the battlefield they are a reaping whirlwind, unstoppable,",
           "uncompromising and armed with a lethal assortment of weapons that",
-          "they turn upon the enemy in the Emperor’s name."
+          "they turn upon the enemy in the Emperor's name."
         ]
       }
     ]
@@ -1118,7 +1152,7 @@
     "points": [
       { "per": "1 model", "points": 85}
     ],
-    "name": "THE EMPEROR’S CHAMPION",
+    "name": "THE EMPEROR'S CHAMPION",
     "subtype": "",
     "keywords": [
       "Infantry",
@@ -1165,16 +1199,30 @@
       "Adeptus Astartes",
       "Black Templars"
     ],
-    "abilities": {
-      "core": "Leader",
-      "faction": "Oath of Moment",
-      "special": [
-        "Skilful Parry: Once per phase, when a melee attack is allocated to this model and the saving throw is failed, you can change the Damage characteristic of that attack to 0}.",
-        "Sigismund’s Heir: Each time this model makes a melee attack that targets a Character unit, add 1 to the Wound roll}."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Leader"
+            },{
+              "title": "FACTION",
+              "text": "Oath of Moment"
+            },
+      "Skilful Parry: Once per phase, when a melee attack is allocated to this model and the saving throw is failed, you can change the Damage characteristic of that attack to 0}.",
+        "Sigismund's Heir: Each time this model makes a melee attack that targets a Character unit, add 1 to the Wound roll}."
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "6\"",
       "t": "4",
@@ -1190,39 +1238,49 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
-          "1 Emperor’s Champion -",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
+          "1 Emperor's Champion -",
           "Epic Hero",
           "This model is equipped with",
           "bolt pistol; Black Sword."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following units",
-          "■",
           "Assault Intercessor Squad",
-          "■",
           "Intercessor Squad",
-          "■",
           "Primaris Crusader Squad",
-          "■",
           "Primaris Sword Brethren",
-          "■",
           "Sternguard Veteran Squad",
-          "THE EMPEROR’S CHAMPION",
-          "A humble warrior touched by greatness, the Emperor’s Champion",
+          "THE EMPEROR'S CHAMPION",
+          "A humble warrior touched by greatness, the Emperor's Champion",
           "strides to battle wreathed in divine light. The furious blows of the",
           "enemy ring from his nigh-impenetrable Armour of Faith. In return,",
-          "the Emperor’s Champion seeks out the leaders of the foe and, with",
+          "the Emperor's Champion seeks out the leaders of the foe and, with",
           "sweeping blows from his Black Sword, strikes them down."
         ]
       }
@@ -1289,16 +1347,22 @@
       "Adeptus Astartes",
       "Black Templars"
     ],
-    "abilities": {
-      "core": "Leader",
-      "faction": "Oath of Moment",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Leader"
+            },{
+              "title": "FACTION",
+              "text": "Oath of Moment"
+            },
       "special": [
         "Tactical Precision: While this model is leading a unit, weapons equipped by models in that unit have the [LETHAL HITS] ability}.",
-        "Target Priority: This model’s unit is eligible to shoot and declare a charge in a turn in which it Fell Back}."
+        "Target Priority: This model's unit is eligible to shoot and declare a charge in a turn in which it Fell Back}."
       ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "6\"",
       "t": "4",
@@ -1311,37 +1375,45 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s combi-weapon can be replaced with 1 heavy bolt pistol.",
-          "■",
-          "This model’s master-crafted power weapon can be replaced with 1 Astartes chainsword."
+          "This model's combi-weapon can be replaced with 1 heavy bolt pistol.",
+          "This model's master-crafted power weapon can be replaced with 1 Astartes chainsword."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Castellan",
           "This model is equipped with",
           "combi-weapon; master-crafted",
           "power weapon."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following units",
-          "■",
           "Assault Intercessor Squad",
-          "■",
           "Infernus Squad",
-          "■",
           "Intercessor Squad",
-          "■",
           "Primaris Crusader Squad",
-          "■",
           "Primaris Sword Brethren",
-          "■",
           "Sternguard Veteran Squad",
           "You can attach this model to one of the above units even if",
           "one",
@@ -1353,8 +1425,8 @@
           "the Leader units attached to it become separate units, with",
           "their original Starting Strengths.",
           "CASTELLAN",
-          "A Castellan leads each of a crusade’s Fighting Companies and acts",
-          "as a conduit for their Marshal’s will. Charged with the physical and",
+          "A Castellan leads each of a crusade's Fighting Companies and acts",
+          "as a conduit for their Marshal's will. Charged with the physical and",
           "spiritual purity of active Chapter Keeps, they have honed a patient",
           "wisdom that they draw upon in battle, alongside their tactical",
           "precision and close-quarters ferocity."
@@ -1423,17 +1495,33 @@
       "Adeptus Astartes",
       "Black Templars"
     ],
-    "abilities": {
-      "core": "Leader",
-      "faction": "Oath of Moment",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Leader"
+            },{
+              "title": "FACTION",
+              "text": "Oath of Moment"
+            },
       "special": [
         "Rites of Battle: Once per battle round, you can target one unit from your army with this ability with a Stratagem for 0CP, and can do so even if another unit from your army has already been targeted by that Stratagem this phase}.",
         "Finest Hour: Once per battle, at the start of the Fight phase, this model can use this ability}.",
         "If it does, until the end of the phase, add 3 to the Attacks characteristic of melee weapons equipped by this model and those weapons have the [DEVASTATING WOUNDS] ability}."
       ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "6\"",
       "t": "4",
@@ -1449,40 +1537,49 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s plasma pistol can be replaced with one combi-weapon."
+          "This model's plasma pistol can be replaced with one combi-weapon."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Marshal",
           "This model is equipped with",
           "plasma pistol; master-crafted",
           "power weapon."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following units",
-          "■",
           "Assault Intercessor Squad",
-          "■",
           "Infernus Squad",
-          "■",
           "Intercessor Squad",
-          "■",
           "Primaris Crusader Squad",
-          "■",
           "Primaris Sword Brethren",
-          "■",
           "Sternguard Veteran Squad",
           "MARSHAL",
           "Each Black Templars crusade is led by a Marshal. Similar in rank to",
           "the Captains of other Chapters, Marshals are fearsome combatants",
-          "and paragons of strategic acumen. Ensuring a crusade’s purity and",
+          "and paragons of strategic acumen. Ensuring a crusade's purity and",
           "success is a sacred duty, and Marshals fight with sanctified relic",
           "weapons while acting as beacons of pious fervour for their warriors."
         ]
@@ -1575,16 +1672,20 @@
       "Adeptus Astartes",
       "Black Templars"
     ],
-    "abilities": {
-      "core": "Deadly Demise D3",
-      "faction": "Oath of Moment",
-      "special": [
-        "Aquilon Optics: Each time this model is selected to shoot, you can re-roll one Hit roll, you can re-roll one Wound roll and you can re-roll one Damage roll when resolving its attacks}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D3"
+            },{
+              "title": "FACTION",
+              "text": "Oath of Moment"
+            },
+      "Aquilon Optics: Each time this model is selected to shoot, you can re-roll one Hit roll, you can re-roll one Wound roll and you can re-roll one Damage roll when resolving its attacks}.",
         "DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "10\"",
       "t": "10",
@@ -1597,22 +1698,25 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s 2 storm bolters can be replaced with 2 fragstorm grenade launchers.",
-          "■",
+          "This model's 2 storm bolters can be replaced with 2 fragstorm grenade launchers.",
           "This model can be equipped with one of the following",
-          "◦",
           "1 ironhail heavy stubber",
-          "◦",
           "1 multi-melta",
-          "■",
           "This model can be equipped with 1 Icarus rocket pod."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Gladiator Lancer",
           "This model is equipped with",
           "Lancer laser destroyer; 2 storm",
@@ -1704,16 +1808,22 @@
       "Adeptus Astartes",
       "Black Templars"
     ],
-    "abilities": {
-      "core": "Deadly Demise D3",
-      "faction": "Oath of Moment",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D3"
+            },{
+              "title": "FACTION",
+              "text": "Oath of Moment"
+            },
       "special": [
-        "Rotating Death: This model’s twin heavy onslaught gatling cannon has the [SUSTAINED HITS 2] ability when targeting Infantry units}.",
+        "Rotating Death: This model's twin heavy onslaught gatling cannon has the [SUSTAINED HITS 2] ability when targeting Infantry units}.",
         "DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll}."
       ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "10\"",
       "t": "10",
@@ -1726,20 +1836,24 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "This model can be equipped with one of the following",
-          "◦",
           "1 ironhail heavy stubber",
-          "◦",
           "1 multi-melta",
-          "■",
           "This model can be equipped with 1 Icarus rocket pod."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Gladiator Reaper",
           "This model is equipped with",
           "2 tempest bolters; twin heavy",
@@ -1748,7 +1862,7 @@
           "When the cannons of the Gladiator Reaper spin to full pitch, the",
           "droning makes the teeth of all nearby itch with the intensity of",
           "the vibrations. Within seconds, thousands of spent casings pour",
-          "over the battle tank’s armoured hide as enemies are erased from",
+          "over the battle tank's armoured hide as enemies are erased from",
           "existence by the storm of fire."
         ]
       }
@@ -1822,16 +1936,20 @@
       "Adeptus Astartes",
       "Black Templars"
     ],
-    "abilities": {
-      "core": "Deadly Demise D3",
-      "faction": "Oath of Moment",
-      "special": [
-        "Ferocious Assault: Each time this model makes an attack with its twin las-talon that targets the closest eligible Monster or Vehicle unit, add 1 to the Hit roll}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D3"
+            },{
+              "title": "FACTION",
+              "text": "Oath of Moment"
+            },
+      "Ferocious Assault: Each time this model makes an attack with its twin las-talon that targets the closest eligible Monster or Vehicle unit, add 1 to the Hit roll}.",
         "DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "10\"",
       "t": "10",
@@ -1844,20 +1962,24 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "This model can be equipped with one of the following",
-          "◦",
           "1 ironhail heavy stubber",
-          "◦",
           "1 multi-melta",
-          "■",
           "This model can be equipped with 1 Icarus rocket pod."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Gladiator Valiant",
           "This model is equipped with",
           "2 multi-meltas; twin las-talon;",
@@ -1977,18 +2099,22 @@
       "Adeptus Astartes",
       "Black Templars"
     ],
-    "abilities": {
-      "core": "Deadly Demise D3, Firing Deck 6",
-      "faction": "Oath of Moment",
-      "special": [
-        "Assault Vehicle: Units can disembark from this Transport after it has Advanced}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D3, Firing Deck 6"
+            },{
+              "title": "FACTION",
+              "text": "Oath of Moment"
+            },
+      "Assault Vehicle: Units can disembark from this Transport after it has Advanced}.",
         "Units that do so count as having made a Normal move, and cannot declare a charge that turn}.",
         "WARGEAR ABILITIES Orbital Comms Array (Aura): While a friendly Adeptus Astartes unit is within 6\" of the bearer, each time you target that unit with a Stratagem, roll one D6: on a 5+, you gain 1CP}.",
         "Shield Dome: The bearer has a 5+ invulnerable save}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "12\"",
       "t": "9",
@@ -2004,30 +2130,29 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "This model can be equipped with one of the following",
-          "◦",
           "1 ironhail heavy stubber",
-          "◦",
           "1 multi-melta",
-          "■",
-          "This model’s 2 storm bolters can be replaced with 2 fragstorm grenade launchers.",
-          "■",
+          "This model's 2 storm bolters can be replaced with 2 fragstorm grenade launchers.",
           "This model can be equipped with one of the following",
-          "◦",
           "1 bellicatus missile array",
-          "◦",
           "1 ironhail skytalon array",
-          "◦",
           "1 orbital comms array",
-          "◦",
           "1 shield dome"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Impulsor",
           "This model is equipped with",
           "2 storm bolters; armoured hull."
@@ -2046,7 +2171,7 @@
           "models.",
           "BLACK TEMPLARS IMPULSOR",
           "Equipped with vectored thrusters that make it faster than any other",
-          "gravitic tank in the Space Marines’ armouries, the Impulsor is a highly",
+          "gravitic tank in the Space Marines' armouries, the Impulsor is a highly",
           "adaptable transport used by all Primaris Space Marines for rapid",
           "insertion and flanking manoeuvres. It is particularly favoured by",
           "Vanguard forces."
@@ -2154,18 +2279,22 @@
       "Adeptus Astartes",
       "Black Templars"
     ],
-    "abilities": {
-      "core": "Deadly Demise D6",
-      "faction": "Oath of Moment",
-      "special": [
-        "Emergency Combat Embarkation: Once per turn, in your opponent’s Charge phase, after an enemy unit has selected targets for its charge but before it makes a Charge move, you can select one Adeptus Astartes unit from your army that was selected as a target of that charge}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D6"
+            },{
+              "title": "FACTION",
+              "text": "Oath of Moment"
+            },
+      "Emergency Combat Embarkation: Once per turn, in your opponent's Charge phase, after an enemy unit has selected targets for its charge but before it makes a Charge move, you can select one Adeptus Astartes unit from your army that was selected as a target of that charge}.",
         "Provided that unit is not within Engagement Range of any enemy units and every model in that unit is within 3\" of this Transport , it can embark within this Transport}.",
         "The charging unit can then select new targets for its charge}.",
         "DAMAGED: 1-5 WOUNDS REMAINING While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "10\"",
       "t": "12",
@@ -2178,18 +2307,23 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s twin heavy bolter can be replaced with 1 twin lascannon.",
-          "■",
-          "This model’s heavy onslaught gatling cannon can be replaced with 1 las-talon.",
-          "■",
+          "This model's twin heavy bolter can be replaced with 1 twin lascannon.",
+          "This model's heavy onslaught gatling cannon can be replaced with 1 las-talon.",
           "This model can be equipped with 1 multi-melta."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Repulsor",
           "This model is equipped with",
           "heavy onslaught gatling cannon;",
@@ -2217,7 +2351,7 @@
           "situation, the Repulsor not only transports its passengers safely,",
           "it also provides superb fire support. Dangerous terrain is little",
           "impediment to it, its ventral plates channelling gravitic energies that",
-          "crush obstacles beneath the vehicle’s mass."
+          "crush obstacles beneath the vehicle's mass."
         ]
       }
     ]
@@ -2345,16 +2479,20 @@
       "Adeptus Astartes",
       "Black Templars"
     ],
-    "abilities": {
-      "core": "Deadly Demise D6",
-      "faction": "Oath of Moment",
-      "special": [
-        "Executioner: Each time this model makes an attack that targets a unit that is Below Half-strength, add 1 to the Hit roll}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D6"
+            },{
+              "title": "FACTION",
+              "text": "Oath of Moment"
+            },
+      "Executioner: Each time this model makes an attack that targets a unit that is Below Half-strength, add 1 to the Hit roll}.",
         "DAMAGED: 1-5 WOUNDS REMAINING While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "10\"",
       "t": "12",
@@ -2370,22 +2508,25 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s macro plasma incinerator can be replaced with 1 heavy laser destroyer.",
-          "■",
+          "This model's macro plasma incinerator can be replaced with 1 heavy laser destroyer.",
           "This model can be equipped with one of the following",
-          "◦",
           "1 ironhail heavy stubber",
-          "◦",
           "1 multi-melta",
-          "■",
           "This model can be equipped with 1 Icarus rocket pod."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Repulsor Executioner",
           "This model is equipped with",
           "heavy onslaught gatling cannon;",

@@ -123,7 +123,7 @@
           "points": 15,
           "rules": [
             {
-              "text": "Adeptus Astartes model only. While the bearer is leading a unit, each time a model in that unit makes an attack, add 1 to the Hit roll if the bearer’s unit is below its Starting Strength, and add 1 to the Wound roll as well if the bearer’s unit is Battle-shocked."
+              "text": "Adeptus Astartes model only. While the bearer is leading a unit, each time a model in that unit makes an attack, add 1 to the Hit roll if the bearer's unit is below its Starting Strength, and add 1 to the Wound roll as well if the bearer's unit is Battle-shocked."
             }
           ]
         },
@@ -132,7 +132,7 @@
           "points": 20,
           "rules": [
             {
-              "text": "Adeptus Astartes model only. Add 1 to the Attacks, Strength and Damage characteristics of the bearer’s melee weapons. While the bearer is Battle-shocked, add 2 to the Attacks, Strength and Damage characteristics of the bearer’s melee weapons instead."
+              "text": "Adeptus Astartes model only. Add 1 to the Attacks, Strength and Damage characteristics of the bearer's melee weapons. While the bearer is Battle-shocked, add 2 to the Attacks, Strength and Damage characteristics of the bearer's melee weapons instead."
             }
           ]
         },
@@ -167,7 +167,7 @@
     "weapons": {
       "ranged": [
         {
-          "name": "Lion’s Wrath [ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]",
+          "name": "Lion's Wrath [ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]",
           "range": "24\"",
           "a": "2",
           "bws": "2+",
@@ -192,19 +192,35 @@
       "Adeptus Astartes",
       "Dark Angels"
     ],
-    "abilities": {
-      "core": "Leader",
-      "faction": "Oath of Moment",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Leader"
+            },{
+              "title": "FACTION",
+              "text": "Oath of Moment"
+            },
       "special": [
         "Supreme Grand Master: While this model is leading a unit, weapons equipped by models in that unit have the [SUSTAINED HITS 1] ability.",
         "Masterful Tactician: At the start of your Command phase, if this model is on the battlefield, you gain 1CP.",
-        "WARGEAR ABILITIES The Lion Helm: Models in the bearer’s unit have a 4+ invulnerable save.",
+        "WARGEAR ABILITIES The Lion Helm: Models in the bearer's unit have a 4+ invulnerable save.",
         "In addition, once per battle, at any time, the bearer can summon a Watcher in the Dark.",
-        "When it does, until the end of the phase, models in the bearer’s unit have the Feel No Pain 4+ ability against mortal wounds."
+        "When it does, until the end of the phase, models in the bearer's unit have the Feel No Pain 4+ ability against mortal wounds."
       ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "6\"",
       "t": "4",
@@ -217,36 +233,45 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Azrael -",
           "Epic Hero",
           "This model is equipped with",
-          "Lion’s Wrath; the Sword of",
+          "Lion's Wrath; the Sword of",
           "Secrets; the Lion Helm."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following units",
-          "■",
           "Assault Intercessor Squad",
-          "■",
           "Bladeguard Veteran Squad",
-          "■",
           "Hellblaster Squad",
-          "■",
           "Infernus Squad",
-          "■",
           "Intercessor Squad",
-          "■",
           "Sternguard Veteran Squad",
           "AZRAEL",
           "Azrael is a beacon of inspiration to those who follow him, and is",
@@ -301,16 +326,32 @@
       "Adeptus Astartes",
       "Dark Angels"
     ],
-    "abilities": {
-      "core": "Deep Strike, Leader",
-      "faction": "Oath of Moment",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deep Strike, Leader"
+            },{
+              "title": "FACTION",
+              "text": "Oath of Moment"
+            },
       "special": [
         "Grand Master of the Deathwing: While this model is leading a unit, each time a model in that unit makes an attack, if a Critical Hit is scored, that attack has the [ PRECISION] ability.",
-        "Strikes of Retribution: Each time a melee attack is allocated to this model, after the attacking model’s unit has finished making its attacks, roll one D6 (to a maximum of six D6 per attacking unit): for each 2+, the attacking unit suffers 1 mortal wound."
+        "Strikes of Retribution: Each time a melee attack is allocated to this model, after the attacking model's unit has finished making its attacks, roll one D6 (to a maximum of six D6 per attacking unit): for each 2+, the attacking unit suffers 1 mortal wound."
       ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "5\"",
       "t": "5",
@@ -323,14 +364,21 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Belial -",
           "Epic Hero",
           "This model is equipped with",
@@ -338,21 +386,23 @@
           "the Sword of Silence."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following units",
-          "■",
           "Deathwing Command Squad",
-          "■",
           "Deathwing Knights",
-          "■",
           "Deathwing Squad",
-          "■",
           "Relic Terminator Squad",
-          "■",
           "Terminator Assault Squad",
-          "■",
           "Terminator Squad",
           "BELIAL",
           "Belial is a warrior born - a killer whose skill in battle has always",
@@ -426,17 +476,31 @@
       "Adeptus Astartes",
       "Dark Angels"
     ],
-    "abilities": {
-      "core": "Leader",
-      "faction": "Oath of Moment",
-      "special": [
-        "Grand Master of the Ravenwing: While this model is leading a unit, that unit is eligible to shoot and declare a charge in a turn in which it Advanced.",
-        "Cut Off Their Escape: Each time an enemy unit (excluding Monsters and Vehicles ) within Engagement Range of this model’s unit is selected to Fall Back, models in that enemy unit must take Desperate Escape tests as if their unit was Battle-shocked.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Leader"
+            },{
+              "title": "FACTION",
+              "text": "Oath of Moment"
+            },
+      "Grand Master of the Ravenwing: While this model is leading a unit, that unit is eligible to shoot and declare a charge in a turn in which it Advanced.",
+        "Cut Off Their Escape: Each time an enemy unit (excluding Monsters and Vehicles ) within Engagement Range of this model's unit is selected to Fall Back, models in that enemy unit must take Desperate Escape tests as if their unit was Battle-shocked.",
         "When doing so, if that enemy unit is also Battle-shocked by other means, subtract 1 from each of those Desperate Escape tests."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "12\"",
       "t": "5",
@@ -449,14 +513,21 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Sammael -",
           "Epic Hero",
           "This model is equipped with",
@@ -464,21 +535,25 @@
           "plasma cannon; twin storm bolter; the Raven Sword."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following units",
-          "■",
           "Bike Squad",
-          "■",
           "Outrider Squad",
-          "■",
           "Ravenwing Black Knights",
-          "■",
           "Ravenwing Command Squad",
           "SAMMAEL",
           "Sammael rides to war on the jetbike Corvex, a relic from the Dark Age",
-          "of Technology. Upon this ancient mount, the Ravenwing’s commander",
+          "of Technology. Upon this ancient mount, the Ravenwing's commander",
           "charges into the fray, storm bolters and plasma cannon causing",
           "hideous damage before he moves in for the kill with the Raven Sword,",
           "an heirloom with a razor edge that can never dull."
@@ -536,7 +611,7 @@
       ],
       "melee": [
         {
-          "name": "Traitor’s Bane [ANTI-CHAOS 2+, PSYCHIC]",
+          "name": "Traitor's Bane [ANTI-CHAOS 2+, PSYCHIC]",
           "range": "Melee",
           "a": "4",
           "bws": "2+",
@@ -550,19 +625,33 @@
       "Adeptus Astartes",
       "Dark Angels"
     ],
-    "abilities": {
-      "core": "Leader",
-      "faction": "Oath of Moment",
-      "special": [
-        "Psychic Hood: While this model is leading a unit, models in that unit have the Feel No Pain 4+ ability against Psychic Attacks.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Leader"
+            },{
+              "title": "FACTION",
+              "text": "Oath of Moment"
+            },
+      "Psychic Hood: While this model is leading a unit, models in that unit have the Feel No Pain 4+ ability against Psychic Attacks.",
         "Engulfing Fear (Psychic): In your Shooting phase, you can select one enemy unit within 18\" of this model.",
         "That enemy unit must take a Battle-shock test.",
         "WARGEAR ABILITIES Book of Salvation: While this model is leading a unit, add 1 to the Attacks characteristic of melee weapons equipped by models in that unit.",
         "When this model is destroyed, each friendly Adeptus Astartes unit within 6\" of this model must take a Battle-shock test."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "6\"",
       "t": "4",
@@ -578,37 +667,48 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Ezekiel -",
           "Epic Hero",
           "This model is equipped with",
           "the Deliverer; Mind Wipe;",
-          "Traitor’s Bane; Book of Salvation."
+          "Traitor's Bane; Book of Salvation."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following units",
-          "■",
           "Assault Squad",
-          "■",
           "Command Squad",
-          "■",
           "Tactical Squad",
-          "■",
           "Vanguard Veteran Squad",
           "EZEKIEL",
           "Ezekiel is often at the forefront of battle. As a master of Interromancy,",
           "his warp-whispers claw away the sanity of his enemies. His blade,",
-          "known as Traitor’s Bane, was forged to slay those who dared turn",
+          "known as Traitor's Bane, was forged to slay those who dared turn",
           "against the Emperor. It is a formidable force weapon that carries within",
           "it the rage of the betrayed."
         ]
@@ -667,17 +767,31 @@
       "Adeptus Astartes",
       "Dark Angels"
     ],
-    "abilities": {
-      "core": "Leader",
-      "faction": "Oath of Moment",
-      "special": [
-        "Exemplar of Hate: While this model is leading a unit, each time a model in that unit makes a melee attack, you can re-roll the Hit roll.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Leader"
+            },{
+              "title": "FACTION",
+              "text": "Oath of Moment"
+            },
+      "Exemplar of Hate: While this model is leading a unit, each time a model in that unit makes a melee attack, you can re-roll the Hit roll.",
         "Feared Interrogator: At the start of the Fight phase, each enemy Character unit within 6\" of this model must take a Battle-shock test, subtracting 1 from that test when they do.",
         "In addition, each time this model destroys an enemy Character model with a melee attack, you gain 1CP."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "6\"",
       "t": "4",
@@ -690,14 +804,21 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Asmodai -",
           "Epic Hero",
           "This model is equipped with",
@@ -705,21 +826,25 @@
           "crozius arcanum."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following units",
-          "■",
           "Assault Squad",
-          "■",
           "Command Squad",
-          "■",
           "Tactical Squad",
-          "■",
           "Vanguard Veteran Squad",
           "ASMODAI",
-          "Asmodai is the Dark Angels’ most successful Interrogator-Chaplain.",
-          "Relentless and humourless, in battle he incites his battle-brothers’",
+          "Asmodai is the Dark Angels' most successful Interrogator-Chaplain.",
+          "Relentless and humourless, in battle he incites his battle-brothers'",
           "fighting spirit to reach new heights, rendering them unstoppable killing",
           "machines by chanting his litanies of hate with unshakeable belief."
         ]
@@ -777,17 +902,33 @@
       "Adeptus Astartes",
       "Dark Angels"
     ],
-    "abilities": {
-      "core": "Deadly Demise 1, Leader",
-      "faction": "Oath of Moment",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise 1, Leader"
+            },{
+              "title": "FACTION",
+              "text": "Oath of Moment"
+            },
       "special": [
         "Talonmaster: While this model is within 3\" of one or more other friendly Adeptus Astartes Mounted or Adeptus Astartes Fly Vehicle units, this model has the Lone Operative ability.",
         "Nowhere to Hide: While a friendly Adeptus Astartes Mounted or Adeptus Astartes Fly Vehicle unit is within 6\" of this model, ranged weapons equipped by models in that unit have the [IGNORES COVER] ability.",
         "Master of Manoeuvre: Once per turn, when an enemy unit ends a Normal, Advance or Fall Back move within 9\" of this model, if this model is not within Engagement Range of one or more enemy units, this model can make a Normal move of up to 6\"."
       ]
-    },
-    "invulnerable": "5+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "5+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "16\"",
       "t": "7",
@@ -800,21 +941,28 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Ravenwing Talonmaster",
           "This model is equipped with",
           "twin assault cannon; twin heavy",
           "bolter; power weapon.",
           "RAVENWING TALONMASTER",
           "Mounted in a Land Speeder outfitted with additional auspex scanners",
-          "and vox-casters, it is a Talonmaster’s role to direct the Ravenwing’s",
+          "and vox-casters, it is a Talonmaster's role to direct the Ravenwing's",
           "fire, using his equipment to ensure no quarry can hide from them.",
           "They even identify foes seeking temporary refuge in dense terrain,",
           "revealing their location to all Ravenwing warriors."
@@ -851,7 +999,7 @@
       ],
       "melee": [
         {
-          "name": "Enmity’s Edge [ANTI-PSYKER 2+]",
+          "name": "Enmity's Edge [ANTI-PSYKER 2+]",
           "range": "Melee",
           "a": "6",
           "bws": "2+",
@@ -865,17 +1013,31 @@
       "Adeptus Astartes",
       "Dark Angels"
     ],
-    "abilities": {
-      "core": "Leader",
-      "faction": "Oath of Moment",
-      "special": [
-        "Intractable Will: While this model is leading a unit, each time a model in that unit is destroyed by a melee attack, if that model has not fought this phase, roll one D6.",
-        "On a 4+, do not remove it from play; that destroyed model can fight after the attacking model’s unit has finished making its attacks, and is then removed from play.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Leader"
+            },{
+              "title": "FACTION",
+              "text": "Oath of Moment"
+            },
+      "Intractable Will: While this model is leading a unit, each time a model in that unit is destroyed by a melee attack, if that model has not fought this phase, roll one D6.",
+        "On a 4+, do not remove it from play; that destroyed model can fight after the attacking model's unit has finished making its attacks, and is then removed from play.",
         "The Spiritshield Helm: This model has the Feel No Pain 3+ ability against Psychic Attacks and mortal wounds."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "6\"",
       "t": "4",
@@ -888,36 +1050,46 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Lazarus -",
           "Epic Hero",
           "This model is equipped with",
-          "bolt pistol; Enmity’s Edge."
+          "bolt pistol; Enmity's Edge."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following units",
-          "■",
           "Assault Intercessor Squad",
-          "■",
           "Bladeguard Veteran Squad",
-          "■",
           "Infernus Squad",
-          "■",
           "Intercessor Squad",
-          "■",
           "Sternguard Veteran Squad",
           "LAZARUS",
-          "Master Lazarus wields his sword, Enmity’s Edge, with all the martial",
+          "Master Lazarus wields his sword, Enmity's Edge, with all the martial",
           "skill expected of a Dark Angels Company Master. In even the most",
           "ferocious fighting he exhibits a calm demeanour, maintaining",
           "composure while giving masterful orders that have yielded",
@@ -1013,17 +1185,33 @@
       "Adeptus Astartes",
       "Dark Angels"
     ],
-    "abilities": {
-      "core": "Deep Strike, Leader",
-      "faction": "Oath of Moment",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deep Strike, Leader"
+            },{
+              "title": "FACTION",
+              "text": "Oath of Moment"
+            },
       "special": [
         "Tactical Precision: While this model is leading a unit, weapons equipped by models in that unit have the [LETHAL HITS] ability.",
         "Vanquish the Foe: Each time this model makes an attack that targets an enemy unit that is Below Half-strength, add 1 to the Hit roll and add 1 to the Wound roll.",
         "WARGEAR ABILITIES Storm Shield: The bearer has a Wounds characteristic of 6."
       ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "5\"",
       "t": "5",
@@ -1036,46 +1224,50 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s storm bolter and master-crafted power weapon can be replaced with either 1 twin",
+          "This model's storm bolter and master-crafted power weapon can be replaced with either 1 twin",
           "lightning claws, or two different weapons from the following list",
-          "◦",
           "1 storm bolter",
-          "◦",
           "1 chainfist",
-          "◦",
           "1 mace of absolution",
-          "◦",
           "1 power fist",
-          "◦",
           "1 thunder hammer",
-          "◦",
           "1 storm shield"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Deathwing Strikemaster",
           "This model is equipped with",
           "storm bolter; master-crafted",
           "power weapon."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following units",
-          "■",
           "Deathwing Command Squad",
-          "■",
           "Deathwing Squad",
-          "■",
           "Relic Terminator Squad",
-          "■",
           "Terminator Assault Squad",
-          "■",
           "Terminator Squad",
           "You can attach this model to one of the above units even if",
           "one",
@@ -1085,7 +1277,7 @@
           "attached to it become separate units, with their original",
           "Starting Strengths.",
           "DEATHWING STRIKEMASTER",
-          "Deathwing Strikemasters serve as the Deathwing’s Lieutenants. To",
+          "Deathwing Strikemasters serve as the Deathwing's Lieutenants. To",
           "earn such an esteemed rank they have carried out deeds of enormous",
           "bravery on countless battlefields, honing their skills as warriors and",
           "leaders. In battle they guide their Deathwing brethren with skill and",
@@ -1235,18 +1427,32 @@
       "Adeptus Astartes",
       "Dark Angels"
     ],
-    "abilities": {
-      "core": "Deep Strike",
-      "faction": "Oath of Moment",
-      "special": [
-        "Narthecium: While this unit contains an Apothecary, in your Command phase, you can return 1 destroyed model (excluding Character models) to this unit.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deep Strike"
+            },{
+              "title": "FACTION",
+              "text": "Oath of Moment"
+            },
+      "Narthecium: While this unit contains an Apothecary, in your Command phase, you can return 1 destroyed model (excluding Character models) to this unit.",
         "Astartes Banner: While this unit contains an Ancient, add 1 to the Objective Control characteristic of its models.",
         "Honour or Death: While this unit contains a Company Champion, add 1 to Advance and Charge rolls made for this unit and you can target this unit with the Heroic Intervention Stratagem for 0CP.",
         "WARGEAR ABILITIES Storm Shield: The bearer has a Wounds characteristic of 4."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "5\"",
       "t": "5",
@@ -1262,44 +1468,39 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "Any number of Deathwing Command Terminators can each have their storm bolter and power fist",
           "replaced with one of the following",
-          "◦",
           "1 twin lightning claws",
-          "◦",
           "1 thunder hammer and 1 storm shield",
-          "■",
           "Any number of Deathwing Command Terminators can each have their power fist replaced with",
           "1 chainfist.",
-          "■",
           "For every 5 models in this unit, 1 Deathwing Command Terminator can replace its storm bolter with",
           "one of the following",
-          "◦",
           "1 assault cannon",
-          "◦",
           "1 heavy flamer",
-          "◦",
           "1 plasma cannon",
-          "◦",
-          "1 storm bolter and 1 cyclone missile launcher (this model’s storm bolter cannot be replaced)",
-          "■",
+          "1 storm bolter and 1 cyclone missile launcher (this model's storm bolter cannot be replaced)",
           "This unit can be equipped with 1 Watcher in the Dark.*",
           "* The rules for a Watcher in the Dark can be found on the",
           "Deathwing Knights",
           "datasheet."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Deathwing Ancient",
-          "■",
           "1 Deathwing Apothecary",
-          "■",
           "1 Deathwing Champion",
-          "■",
           "2-7 Deathwing Command Terminators",
           "The Deathwing Ancient is equipped with",
           "storm bolter;",
@@ -1462,17 +1663,31 @@
       "Adeptus Astartes",
       "Dark Angels"
     ],
-    "abilities": {
-      "core": "Deep Strike",
-      "faction": "Oath of Moment",
-      "special": [
-        "Deathwing: Each time a model in this unit makes an attack, you can ignore any or all modifiers to that attack’s Ballistic Skill or Weapon Skill characteristics and/or to the Hit roll.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deep Strike"
+            },{
+              "title": "FACTION",
+              "text": "Oath of Moment"
+            },
+      "Deathwing: Each time a model in this unit makes an attack, you can ignore any or all modifiers to that attack's Ballistic Skill or Weapon Skill characteristics and/or to the Hit roll.",
         "In addition, each time a model in this unit makes an attack that targets the enemy unit you selected at the start of your Command phase for the Oath of Moment ability, add 1 to the Hit roll.",
         "WARGEAR ABILITIES Storm Shield: The bearer has a Wounds characteristic of 4."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "5\"",
       "t": "5",
@@ -1488,39 +1703,36 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "Any number of Deathwing Terminators can each have their storm bolter and power fist replaced with",
           "one of the following",
-          "◦",
           "1 twin lightning claws",
-          "◦",
           "1 thunder hammer and 1 storm shield",
-          "■",
           "Any number of Deathwing Terminators can each have their power fist replaced with 1 chainfist.",
-          "■",
           "For every 5 models in this unit, 1 Deathwing Terminator can replace its storm bolter with one of",
           "the following",
-          "◦",
           "1 assault cannon",
-          "◦",
           "1 heavy flamer",
-          "◦",
           "1 plasma cannon",
-          "◦",
-          "1 storm bolter and 1 cyclone missile launcher (this model’s storm bolter cannot be replaced)",
-          "■",
+          "1 storm bolter and 1 cyclone missile launcher (this model's storm bolter cannot be replaced)",
           "This unit can be equipped with 1 Watcher in the Dark.*",
           "* The rules for a Watcher in the Dark can be found on the",
           "Deathwing Knights",
           "datasheet."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Deathwing Sergeant",
-          "■",
           "4-9 Deathwing Terminators",
           "The Deathwing Sergeant is equipped with",
           "storm bolter;",
@@ -1561,7 +1773,6 @@
       "Deathwing Knights"
     ],
     "weapons": {
-      "ranged": [],
       "melee": [
         {
           "name": "Flail of the Unforgiven [DEVASTATING WOUNDS, SUSTAINED HITS 1]",
@@ -1587,18 +1798,32 @@
       "Adeptus Astartes",
       "Dark Angels"
     ],
-    "abilities": {
-      "core": "Deep Strike",
-      "faction": "Oath of Moment",
-      "special": [
-        "Inner Circle: Each time an attack is allocated to a model in this unit, subtract 1 from the Damage characteristic of that attack.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deep Strike"
+            },{
+              "title": "FACTION",
+              "text": "Oath of Moment"
+            },
+      "Inner Circle: Each time an attack is allocated to a model in this unit, subtract 1 from the Damage characteristic of that attack.",
         "WARGEAR ABILITIES Watcher in the Dark: Once per battle, at any time, this unit can summon a Watcher in the Dark.",
         "When it does, until the end of the phase, models in this unit have the Feel No Pain 4+ ability against mortal wounds.",
-        "Designer’s Note: Place a Watcher in the Dark token next to the unit, removing it when this ability has been used."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+        "Designer's Note: Place a Watcher in the Dark token next to the unit, removing it when this ability has been used."
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "5\"",
       "t": "5",
@@ -1611,16 +1836,22 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "This unit can be equipped with 1 Watcher in the Dark."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Knight Master",
-          "■",
           "4-9 Deathwing Knights",
           "The Knight Master is equipped with",
           "flail of the Unforgiven.",
@@ -1636,8 +1867,8 @@
           ", it can be attached to",
           "this unit instead.",
           "DEATHWING KNIGHTS",
-          "Deathwing Knights are the Chapter’s ultimate death-dealers, their",
-          "strikes breaking the enemy’s back in one fell swoop. Equipped with",
+          "Deathwing Knights are the Chapter's ultimate death-dealers, their",
+          "strikes breaking the enemy's back in one fell swoop. Equipped with",
           "heirloom wargear, they teleport into the heart of the thickest fighting,",
           "led by Knight Masters who are whirlwinds of deathly destruction."
         ]
@@ -1731,17 +1962,31 @@
       "Adeptus Astartes",
       "Dark Angels"
     ],
-    "abilities": {
-      "core": "Oath of Moment",
-      "faction": "While this unit contains an Apothecary, in",
-      "special": [
-        "your Command phase, you can return 1 destroyed model (excluding Character models) to this unit.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Oath of Moment"
+            },{
+              "title": "FACTION",
+              "text": "While this unit contains an Apothecary, in"
+            },
+      "your Command phase, you can return 1 destroyed model (excluding Character models) to this unit.",
         "Astartes Banner: While this unit contains an Ancient, add 1 to the Objective Control characteristic of its models.",
         "Honour or Death: While this unit contains a Company Champion, add 1 to Advance and Charge rolls made for this unit and you can target this unit with the Heroic Intervention Stratagem for 0CP."
-      ]
-    },
-    "invulnerable": "5+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "5+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "12\"",
       "t": "5",
@@ -1757,21 +2002,25 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "For every 3 models in this unit, 1 model’s plasma talon can be replaced with 1 Astartes",
+          "For every 3 models in this unit, 1 model's plasma talon can be replaced with 1 Astartes",
           "grenade launcher."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Ravenwing Champion",
-          "■",
           "1 Ravenwing Apothecary",
-          "■",
           "1 Ravenwing Ancient",
-          "■",
           "0-3 Ravenwing Knights",
           "The Ravenwing Champion is equipped with",
           "bolt pistol;",
@@ -1795,10 +2044,10 @@
           "this unit instead.",
           "RAVENWING COMMAND SQUAD",
           "Bike-mounted Command Squads of elite Ravenwing accompany",
-          "the Chapter’s swiftest commanders. From the battle-surgery of",
+          "the Chapter's swiftest commanders. From the battle-surgery of",
           "Apothecaries and the inspirational pennants carried by Ancients to the",
           "martial excellence of Champions, these specialists provide support for",
-          "the Company’s blisteringly fast missions."
+          "the Company's blisteringly fast missions."
         ]
       }
     ]
@@ -1881,15 +2130,31 @@
       "Adeptus Astartes",
       "Dark Angels"
     ],
-    "abilities": {
-      "core": "Oath of Moment",
-      "faction": "Each time this unit is selected to fight, if",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Oath of Moment"
+            },{
+              "title": "FACTION",
+              "text": "Each time this unit is selected to fight, if"
+            },
       "special": [
         "it made a Charge move this turn, until the end of the phase, melee weapons equipped by models in this unit have the [ANTI-MONSTER 4+] and [ANTI-VEHICLE 4+] abilities."
       ]
-    },
-    "invulnerable": "5+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "5+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "12\"",
       "t": "5",
@@ -1905,17 +2170,23 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "For every 3 models in this unit, 1 model can replace its plasma talon with 1 Astartes",
           "grenade launcher."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Ravenwing Huntmaster",
-          "■",
           "2-5 Ravenwing Black Knights",
           "Every model is equipped with",
           "bolt pistol; plasma talon; Black",
@@ -1929,7 +2200,7 @@
           ", it can be attached to",
           "this unit instead.",
           "RAVENWING BLACK KNIGHTS",
-          "The Ravenwing Black Knights are the 2nd Company’s greatest",
+          "The Ravenwing Black Knights are the 2nd Company's greatest",
           "warriors, elite fighters who style themselves after the monster-hunting",
           "knights of old Caliban. They speed towards the foe, swinging their",
           "corvus hammers with such force that the spiked end punctures even",
@@ -1988,15 +2259,29 @@
       "Adeptus Astartes",
       "Dark Angels"
     ],
-    "abilities": {
-      "core": "Deadly Demise D3",
-      "faction": "Oath of Moment",
-      "special": [
-        "Icon of Old Caliban (Aura): While a friendly Adeptus Astartes unit is within 6\" of this model, models in that unit have the Stealth ability and each time a ranged attack targets that unit, that unit has the Benefit of Cover against that attack."
-      ]
-    },
-    "invulnerable": "5+",
-    "damaged": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D3"
+            },{
+              "title": "FACTION",
+              "text": "Oath of Moment"
+            },
+      "Icon of Old Caliban (Aura): While a friendly Adeptus Astartes unit is within 6\" of this model, models in that unit have the Stealth ability and each time a ranged attack targets that unit, that unit has the Benefit of Cover against that attack."
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "5+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "14\"",
       "t": "8",
@@ -2009,21 +2294,28 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s heavy bolter can be replaced with 1 assault cannon."
+          "This model's heavy bolter can be replaced with 1 assault cannon."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Ravenwing Darkshroud",
           "This model is equipped with",
           "heavy bolter; close",
           "combat weapon.",
           "RAVENWING DARKSHROUD",
           "Borne upon each Darkshroud is a mysterious statue that survived",
-          "Caliban’s destruction and became imbued with the energies released",
+          "Caliban's destruction and became imbued with the energies released",
           "by that fateful event. Through the artifice of the Dark Angels, these",
           "energies are amplified and used to obscure battle-brothers close to",
           "the Darkshroud from enemy sight."
@@ -2099,16 +2391,30 @@
       "Adeptus Astartes",
       "Dark Angels"
     ],
-    "abilities": {
-      "core": "Deadly Demise D3",
-      "faction": "Oath of Moment",
-      "special": [
-        "Storm of Vengeance: Once per turn, in your opponent’s Shooting phase, when a friendly Adeptus Astartes unit within 6\" of this model is destroyed, this model can use this ability (it cannot use this ability when it is itself destroyed).",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D3"
+            },{
+              "title": "FACTION",
+              "text": "Oath of Moment"
+            },
+      "Storm of Vengeance: Once per turn, in your opponent's Shooting phase, when a friendly Adeptus Astartes unit within 6\" of this model is destroyed, this model can use this ability (it cannot use this ability when it is itself destroyed).",
         "If it does, after the attacking unit has finished making its attacks, this model can shoot as if it were your Shooting phase, but when resolving those attacks it can only target that enemy unit (and only if it is an eligible target)."
-      ]
-    },
-    "invulnerable": "5+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "5+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "14\"",
       "t": "8",
@@ -2124,14 +2430,21 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s heavy bolter can be replaced with 1 assault cannon."
+          "This model's heavy bolter can be replaced with 1 assault cannon."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Ravenwing Land Speeder Vengeance",
           "This model is equipped with",
           "heavy bolter; plasma storm",
@@ -2197,17 +2510,31 @@
       "Adeptus Astartes",
       "Dark Angels"
     ],
-    "abilities": {
-      "core": "Deadly Demise D3, Hover",
-      "faction": "Oath of Moment",
-      "special": [
-        "Stasis Bomb: Once per battle, after this model ends a Normal move, you can select one enemy unit (excluding Aircraft ) it moved over this phase.",
-        "That unit suffers D3 mortal wounds and you must roll one D6: on a 1-3, that unit cannot Advance or Fall Back in your opponent’s next Movement phase; on a 4-6, that unit must Remain Stationary in your opponent’s next Movement phase.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D3, Hover"
+            },{
+              "title": "FACTION",
+              "text": "Oath of Moment"
+            },
+      "Stasis Bomb: Once per battle, after this model ends a Normal move, you can select one enemy unit (excluding Aircraft ) it moved over this phase.",
+        "That unit suffers D3 mortal wounds and you must roll one D6: on a 1-3, that unit cannot Advance or Fall Back in your opponent's next Movement phase; on a 4-6, that unit must Remain Stationary in your opponent's next Movement phase.",
         "DAMAGED: 1-3 WOUNDS REMAINING While this model has 1-3 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
-      ]
-    },
-    "invulnerable": "5+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "5+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "20+\"",
       "t": "8",
@@ -2223,23 +2550,30 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Ravenwing Dark Talon",
           "This model is equipped with",
           "rift cannon; 2 hurricane bolters;",
           "armoured hull.",
           "RAVENWING DARK TALON",
           "The Dark Talon possesses strange armaments dating back to the",
-          "Dark Age of Technology, and is designed to snatch up the Ravenwing’s",
+          "Dark Age of Technology, and is designed to snatch up the Ravenwing's",
           "prey. The rift cannon fires a multicoloured beam of oblivion, while",
-          "the gunship’s single stasis bomb is used to slow fleeing enemies so",
+          "the gunship's single stasis bomb is used to slow fleeing enemies so",
           "troops can move in for the kill."
         ]
       }
@@ -2314,17 +2648,31 @@
       "Adeptus Astartes",
       "Dark Angels"
     ],
-    "abilities": {
-      "core": "Deadly Demise D3, Hover",
-      "faction": "Oath of Moment",
-      "special": [
-        "Lightning-fast Manoeuvres: Each time a ranged attack targets this model, subtract 1 from the Hit roll.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D3, Hover"
+            },{
+              "title": "FACTION",
+              "text": "Oath of Moment"
+            },
+      "Lightning-fast Manoeuvres: Each time a ranged attack targets this model, subtract 1 from the Hit roll.",
         "If that attack was made by a model that can Fly , subtract 1 from the Wound roll as well.",
         "DAMAGED: 1-3 WOUNDS REMAINING While this model has 1-3 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
-      ]
-    },
-    "invulnerable": "5+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "5+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "20+\"",
       "t": "8",
@@ -2340,14 +2688,21 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s avenger mega bolter can be replaced with 1 Nephilim lascannons."
+          "This model's avenger mega bolter can be replaced with 1 Nephilim lascannons."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Nephilim Jetfighter",
           "This model is equipped with",
           "avenger mega bolter;",
@@ -2367,7 +2722,7 @@
     "points": [
       { "per": "1 model", "points": 380}
     ],
-    "name": "LION EL’JONSON",
+    "name": "LION EL'JONSON",
     "subtype": "",
     "keywords": [
       "Monster",
@@ -2420,9 +2775,9 @@
           "name": "PRIMARCH OF THE FIRST LEGION",
           "range": "All Secrets Revealed",
           "a": "Once per turn, when your opponent targets a unit from their army with a Stratagem",
-          "bws": "but before that Stratagem’s effects are resolved, if that unit is within 12\" of this model, you gain 1CP",
+          "bws": "but before that Stratagem's effects are resolved, if that unit is within 12\" of this model, you gain 1CP",
           "s": "and that enemy unit must take a Battle-shock test. If that test is failed, in addition to that unit being",
-          "ap": "Battle-shocked, that Stratagem’s effects are not resolved (that Stratagem still counts as having been",
+          "ap": "Battle-shocked, that Stratagem's effects are not resolved (that Stratagem still counts as having been",
           "d": "used this phase)."
         },
         {
@@ -2445,19 +2800,33 @@
       "Adeptus Astartes",
       "Dark Angels"
     ],
-    "abilities": {
-      "core": "Deep Strike, Fights First",
-      "faction": "Oath of Moment",
-      "special": [
-        "Primarch of the First Legion: In your Command phase, select one Primarch of the First Legion abilities (see left).",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deep Strike, Fights First"
+            },{
+              "title": "FACTION",
+              "text": "Oath of Moment"
+            },
+      "Primarch of the First Legion: In your Command phase, select one Primarch of the First Legion abilities (see left).",
         "Until the start of your next Command phase, this model has that ability.",
-        "The Emperor’s Shield: Each time an attack targets this model, subtract 1 from the Wound roll.",
+        "The Emperor's Shield: Each time an attack targets this model, subtract 1 from the Wound roll.",
         "In addition, each time a melee attack is allocated to this model, on an unmodified saving throw of 6, the attacking unit suffers 1 mortal wound after it has finished making its attacks.",
         "Dark Angels Bodyguard: While this model is within 3\" of one or more friendly Adeptus Astartes Infantry units, this model has the Lone Operative ability."
-      ]
-    },
-    "invulnerable": "3+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "3+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "8\"",
       "t": "9",
@@ -2473,15 +2842,22 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
-          "1 Lion El’Jonson -",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
+          "1 Lion El'Jonson -",
           "Epic Hero",
           "This model is equipped with",
           "Arma Luminis; Fealty."

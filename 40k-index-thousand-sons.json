@@ -132,7 +132,7 @@
           "points": 20,
           "rules": [
             {
-              "text": "Thousand Sons model only. Once per battle, in your Command phase, you can remove the bearer’s unit from the battlefield. If you do, in the Reinforcements step of your next Movement phase, set that unit back up anywhere on the battlefield that is more than 9\" horizontally away from all enemy models."
+              "text": "Thousand Sons model only. Once per battle, in your Command phase, you can remove the bearer's unit from the battlefield. If you do, in the Reinforcements step of your next Movement phase, set that unit back up anywhere on the battlefield that is more than 9\" horizontally away from all enemy models."
             }
           ]
         },
@@ -201,17 +201,31 @@
     "factionKeywords": [
       "Thousand Sons"
     ],
-    "abilities": {
-      "core": "Leader",
-      "faction": "Cabal of Sorcerers 3",
-      "special": [
-        "Rubric Lord: While this model is leading a unit, each time a model in that unit makes an attack, add 1 to the Wound roll.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Leader"
+            },{
+              "title": "FACTION",
+              "text": "Cabal of Sorcerers 3"
+            },
+      "Rubric Lord: While this model is leading a unit, each time a model in that unit makes an attack, add 1 to the Wound roll.",
         "Arch-Sorcerer of Tzeentch (Psychic): Once per battle, you can select this model to use a Ritual for 0 Cabal points (see Cabal of Sorcerers).",
         "If you do, all the other rules for using Rituals still apply."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "6\"",
       "t": "4",
@@ -224,14 +238,21 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Ahriman -",
           "Epic Hero",
           "This model is equipped with",
@@ -239,11 +260,18 @@
           "Black Staff of Ahriman."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following unit",
-          "■",
           "Rubric Marines",
           "AHRIMAN",
           "Your army cannot contain both",
@@ -314,17 +342,31 @@
     "factionKeywords": [
       "Thousand Sons"
     ],
-    "abilities": {
-      "core": "Leader",
-      "faction": "Cabal of Sorcerers 3",
-      "special": [
-        "Rubric Lord: While this model is leading a unit, each time a model in that unit makes an attack, add 1 to the Wound roll.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Leader"
+            },{
+              "title": "FACTION",
+              "text": "Cabal of Sorcerers 3"
+            },
+      "Rubric Lord: While this model is leading a unit, each time a model in that unit makes an attack, add 1 to the Wound roll.",
         "Arch-Sorcerer of Tzeentch (Psychic): Once per battle, you can select this model to use a Ritual for 0 Cabal points (see Cabal of Sorcerers).",
         "If you do, all the other rules for using Rituals still apply."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "10\"",
       "t": "4",
@@ -337,14 +379,21 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Ahriman -",
           "Epic Hero",
           "This model is equipped with",
@@ -352,11 +401,18 @@
           "Black Staff of Ahriman."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following unit",
-          "■",
           "Rubric Marines",
           "AHRIMAN",
           "Your army cannot contain both",
@@ -454,16 +510,20 @@
     "factionKeywords": [
       "Thousand Sons"
     ],
-    "abilities": {
-      "core": "Deadly Demise D6",
-      "faction": "Each time a unit disembarks from this",
-      "special": [
-        "Transport after it has made a Normal move, that unit is still eligible to declare a charge this turn.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D6"
+            },{
+              "title": "FACTION",
+              "text": "Each time a unit disembarks from this"
+            },
+      "Transport after it has made a Normal move, that unit is still eligible to declare a charge this turn.",
         "DAMAGED: 1-5 WOUNDS REMAINING While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "10\"",
       "t": "12",
@@ -476,20 +536,24 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "This model can be equipped with one of the following",
-          "◦",
           "1 inferno combi-bolter",
-          "◦",
           "1 inferno combi-weapon",
-          "■",
           "This model can be equipped with 1 havoc launcher."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Thousand Sons Land Raider",
           "This model is equipped with",
           "2 soulshatter lascannons;",
@@ -606,16 +670,20 @@
     "factionKeywords": [
       "Thousand Sons"
     ],
-    "abilities": {
-      "core": "Deadly Demise D3",
-      "faction": "Each time this model makes a ranged attack that",
-      "special": [
-        "targets a Monster or Vehicle unit, re-roll a Damage roll of 1.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D3"
+            },{
+              "title": "FACTION",
+              "text": "Each time this model makes a ranged attack that"
+            },
+      "targets a Monster or Vehicle unit, re-roll a Damage roll of 1.",
         "DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "10\"",
       "t": "10",
@@ -628,26 +696,27 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "This model can be equipped with one of the following",
-          "◦",
           "2 lascannons",
-          "◦",
           "2 inferno heavy bolters",
-          "■",
           "This model can be equipped with one of the following",
-          "◦",
           "1 inferno combi-bolter",
-          "◦",
           "1 inferno combi-weapon",
-          "■",
           "This model can be equipped with 1 havoc launcher."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Thousand Sons Predator Annihilator",
           "This model is equipped with",
           "Predator twin lascannon;",
@@ -746,16 +815,20 @@
     "factionKeywords": [
       "Thousand Sons"
     ],
-    "abilities": {
-      "core": "Deadly Demise D3",
-      "faction": "Each time this model makes a ranged attack that",
-      "special": [
-        "targets an Infantry unit, improve the Armour Penetration characteristic of that attack by 1.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D3"
+            },{
+              "title": "FACTION",
+              "text": "Each time this model makes a ranged attack that"
+            },
+      "targets an Infantry unit, improve the Armour Penetration characteristic of that attack by 1.",
         "DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "10\"",
       "t": "10",
@@ -768,26 +841,27 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "This model can be equipped with one of the following",
-          "◦",
           "2 lascannons",
-          "◦",
           "2 inferno heavy bolters",
-          "■",
           "This model can be equipped with one of the following",
-          "◦",
           "1 inferno combi-bolter",
-          "◦",
           "1 inferno combi-weapon",
-          "■",
           "This model can be equipped with 1 havoc launcher."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Thousand Sons Predator Destructor",
           "This model is equipped with",
           "Predator autocannon;",
@@ -861,15 +935,19 @@
     "factionKeywords": [
       "Thousand Sons"
     ],
-    "abilities": {
-      "core": "Deadly Demise D3",
-      "faction": "At the start of your Command phase, this model",
-      "special": [
-        "regains 1 lost wound."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D3"
+            },{
+              "title": "FACTION",
+              "text": "At the start of your Command phase, this model"
+            },
+      "regains 1 lost wound."
+    }],
     "stats": {
       "m": "12\"",
       "t": "9",
@@ -882,20 +960,24 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "This model can be equipped with one of the following",
-          "◦",
           "1 additional inferno combi-bolter",
-          "◦",
           "1 inferno combi-weapon",
-          "■",
           "This model can be equipped with 1 havoc launcher."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Thousand Sons Rhino",
           "This model is equipped with",
           "inferno combi-bolter;",
@@ -939,7 +1021,6 @@
       "Spawn"
     ],
     "weapons": {
-      "ranged": [],
       "melee": [
         {
           "name": "Hideous mutations",
@@ -955,15 +1036,29 @@
     "factionKeywords": [
       "Thousand Sons"
     ],
-    "abilities": {
-      "core": "Feel No Pain 5+",
-      "faction": "At the start of each player’s",
-      "special": [
-        "Command phase, one model in this unit regains up to D3 lost wounds."
-      ]
-    },
-    "invulnerable": "5+",
-    "damaged": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Feel No Pain 5+"
+            },{
+              "title": "FACTION",
+              "text": "At the start of each player's"
+            },
+      "Command phase, one model in this unit regains up to D3 lost wounds."
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "5+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "8\"",
       "t": "5",
@@ -976,14 +1071,21 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "2 Chaos Spawn",
           "Every model is equipped with",
           "hideous mutations.",
@@ -1065,17 +1167,21 @@
     "factionKeywords": [
       "Thousand Sons"
     ],
-    "abilities": {
-      "core": "Deadly Demise D3",
-      "faction": "When making ranged attacks with its",
-      "special": [
-        "demolisher cannon, this model can target enemy units within Engagement Range of it (provided no other friendly units are also within Engagement Range of that enemy unit).",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D3"
+            },{
+              "title": "FACTION",
+              "text": "When making ranged attacks with its"
+            },
+      "demolisher cannon, this model can target enemy units within Engagement Range of it (provided no other friendly units are also within Engagement Range of that enemy unit).",
         "In addition, when making ranged attacks, this model does not suffer the penalty to its Hit rolls for being within Engagement Range of one or more enemy units.",
         "DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "10\"",
       "t": "11",
@@ -1088,20 +1194,24 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "This model can be equipped with one of the following",
-          "◦",
           "1 inferno combi-bolter",
-          "◦",
           "1 inferno combi-weapon",
-          "■",
           "This model can be equipped with 1 havoc launcher."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Thousand Sons Vindicator",
           "This model is equipped with",
           "demolisher cannon;",
@@ -1231,16 +1341,30 @@
     "factionKeywords": [
       "Thousand Sons"
     ],
-    "abilities": {
-      "core": "Deadly Demise D3",
-      "faction": "Each time this model makes a Normal,",
-      "special": [
-        "Advance or Fall Back move, it can move over friendly Monster and Vehicle models and terrain features that are 4\" or less in height as if they were not there.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D3"
+            },{
+              "title": "FACTION",
+              "text": "Each time this model makes a Normal,"
+            },
+      "Advance or Fall Back move, it can move over friendly Monster and Vehicle models and terrain features that are 4\" or less in height as if they were not there.",
         "DAMAGED: 1-5 WOUNDS REMAINING While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
-      ]
-    },
-    "invulnerable": "5+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "5+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "8\"",
       "t": "10",
@@ -1253,26 +1377,27 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s twin heavy flamer can be replaced with one of the following",
-          "◦",
+          "This model's twin heavy flamer can be replaced with one of the following",
           "1 Defiler scourge",
-          "◦",
           "1 havoc launcher",
-          "■",
-          "This model’s reaper autocannon can be replaced with one of the following",
-          "◦",
+          "This model's reaper autocannon can be replaced with one of the following",
           "1 twin lascannon",
-          "◦",
           "1 twin inferno heavy bolter",
-          "■",
           "This model can be equipped with 1 inferno combi-weapon."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Thousand Sons Defiler",
           "This model is equipped with",
           "Defiler cannon; reaper",
@@ -1374,16 +1499,30 @@
     "factionKeywords": [
       "Thousand Sons"
     ],
-    "abilities": {
-      "core": "Leader",
-      "faction": "Cabal of Sorcerers 2",
-      "special": [
-        "Arcane Shield (Psychic): While this model is leading a unit, models in that unit have a 4+ invulnerable save.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Leader"
+            },{
+              "title": "FACTION",
+              "text": "Cabal of Sorcerers 2"
+            },
+      "Arcane Shield (Psychic): While this model is leading a unit, models in that unit have a 4+ invulnerable save.",
         "Rebind Rubricae (Psychic): In your Command phase, if this model is leading a unit, you can roll one D6: on a 1, that unit suffers D3 mortal wounds; on a 2-5, you can return 1 destroyed Bodyguard model to that unit; on a 6, you can return up to 2 destroyed Bodyguard models to that unit."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "6\"",
       "t": "4",
@@ -1399,34 +1538,45 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s inferno bolt pistol can be replaced with one of the following",
-          "◦",
+          "This model's inferno bolt pistol can be replaced with one of the following",
           "1 plasma pistol",
-          "◦",
           "1 warpflame pistol",
-          "■",
           "This model can be equipped with 1 Prosperine khopesh."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Exalted Sorcerer",
           "This model is equipped with",
           "Astral Blast; inferno bolt pistol;",
           "force weapon."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following unit",
-          "■",
           "Rubric Marines",
           "EXALTED SORCERER",
-          "Greatest amongst Magnus’ lieutenants, each Exalted Sorcerer is an",
+          "Greatest amongst Magnus' lieutenants, each Exalted Sorcerer is an",
           "embodiment of forbidden power and monstrous ambition. From the",
           "soul-burning gouts of their warpflame pistols to the unfettered might",
           "of their sorcery and the shimmering shields cast by their corrupt sigils",
@@ -1522,16 +1672,30 @@
     "factionKeywords": [
       "Thousand Sons"
     ],
-    "abilities": {
-      "core": "Leader",
-      "faction": "Cabal of Sorcerers 2",
-      "special": [
-        "Arcane Shield (Psychic): While this model is leading a unit, models in that unit a 4+ invulnerable save.",
-        "Binding Tendrils (Psychic): At the end of your Movement phase, you can select one enemy unit within 18\" of and visible to this Psyker and roll one D6: on a 1, this Psyker ’s unit suffers D3 mortal wounds; on a 2+, until the start of your next Movement phase, halve the Move characteristic of models in that unit and halve Advance and Charge rolls made for that unit."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Leader"
+            },{
+              "title": "FACTION",
+              "text": "Cabal of Sorcerers 2"
+            },
+      "Arcane Shield (Psychic): While this model is leading a unit, models in that unit a 4+ invulnerable save.",
+        "Binding Tendrils (Psychic): At the end of your Movement phase, you can select one enemy unit within 18\" of and visible to this Psyker and roll one D6: on a 1, this Psyker 's unit suffers D3 mortal wounds; on a 2+, until the start of your next Movement phase, halve the Move characteristic of models in that unit and halve Advance and Charge rolls made for that unit."
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "12\"",
       "t": "4",
@@ -1547,36 +1711,47 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s inferno bolt pistol can be replaced with one of the following",
-          "◦",
+          "This model's inferno bolt pistol can be replaced with one of the following",
           "1 plasma pistol",
-          "◦",
           "1 warpflame pistol",
-          "■",
           "This model can be equipped with 1 Prosperine khopesh."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Exalted Sorcerer",
           "This model is equipped with",
           "Arcane Fire; inferno bolt pistol;",
           "force weapon."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following unit",
-          "■",
           "Rubric Marines",
           "EXALTED SORCERER",
           "ON DISC OF TZEENTCH",
           "Only the greatest wielders of esoteric power are said to be granted one",
-          "of Tzeentch’s daemonic steeds. Exalted Sorcerers ride these soaring",
+          "of Tzeentch's daemonic steeds. Exalted Sorcerers ride these soaring",
           "Discs on plumes of arcane flame while they manipulate coruscating",
           "energy in twisting firestorms."
         ]
@@ -1643,18 +1818,32 @@
     "factionKeywords": [
       "Thousand Sons"
     ],
-    "abilities": {
-      "core": "Deadly Demise D3",
-      "faction": "In your Shooting phase, after this model",
-      "special": [
-        "has shot, select one enemy unit that was hit by one or more of those attacks.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D3"
+            },{
+              "title": "FACTION",
+              "text": "In your Shooting phase, after this model"
+            },
+      "has shot, select one enemy unit that was hit by one or more of those attacks.",
         "Until the start of your next turn, that enemy unit is suppressed.",
         "While a unit is suppressed, each time a model in that unit makes an attack, subtract 1 from the Hit roll.",
         "DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
-      ]
-    },
-    "invulnerable": "5+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "5+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "8\"",
       "t": "10",
@@ -1667,16 +1856,22 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s 2 Hades autocannons can be replaced with 2 ectoplasma cannons.",
-          "■",
-          "This model’s Forgefiend jaws can be replaced with 1 ectoplasma cannon and 1 Forgefiend claws."
+          "This model's 2 Hades autocannons can be replaced with 2 ectoplasma cannons.",
+          "This model's Forgefiend jaws can be replaced with 1 ectoplasma cannon and 1 Forgefiend claws."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Thousand Sons Forgefiend",
           "This model is equipped with",
           "2 Hades autocannons;",
@@ -1686,7 +1881,7 @@
           "draw their furious energies direct from the blazing daemon forges",
           "at the heart of each murderous artillery engine. So do they unleash",
           "salvoes of blazing weaponised hatred that eradicate the Thousand",
-          "Sons’ enemies in droves."
+          "Sons' enemies in droves."
         ]
       }
     ]
@@ -1831,16 +2026,32 @@
     "factionKeywords": [
       "Thousand Sons"
     ],
-    "abilities": {
-      "core": "Deadly Demise 1",
-      "faction": "Each",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise 1"
+            },{
+              "title": "FACTION",
+              "text": "Each"
+            },
       "special": [
         "time a friendly Thousand Sons Psyker model within 9\" of this model is selected to use a Ritual, you gain 1 Cabal point.",
         "Helbrute Fists: If this model is equipped with two Helbrute fists, those weapons have the [TWIN-LINKED] ability."
       ]
-    },
-    "invulnerable": "5+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "5+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "6\"",
       "t": "9",
@@ -1856,45 +2067,40 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s multi-melta can be replaced with one of the following",
-          "◦",
+          "This model's multi-melta can be replaced with one of the following",
           "1 Helbrute plasma cannon",
-          "◦",
           "1 twin autocannon",
-          "◦",
           "1 twin inferno heavy bolter",
-          "◦",
           "1 twin lascannon",
-          "◦",
           "1 Helbrute fist",
-          "■",
-          "This model’s missile launcher can be replaced with one of the following",
-          "◦",
+          "This model's missile launcher can be replaced with one of the following",
           "1 Helbrute fist",
-          "◦",
           "1 Helbrute hammer",
-          "◦",
           "1 power scourge",
-          "■",
           "For each Helbrute fist this model is equipped with, it can be equipped with one of the following",
-          "◦",
           "1 inferno combi-bolter",
-          "◦",
           "1 heavy flamer"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Thousand Sons Helbrute",
           "This model is equipped with",
           "missile launcher; multi-melta;",
           "close combat weapon.",
           "THOUSAND SONS HELBRUTE",
           "Each Thousand Sons Helbrute is a walking torture chamber, piloted",
-          "by a mutilated Chaos Space Marine lured and bound by the Legion’s",
+          "by a mutilated Chaos Space Marine lured and bound by the Legion's",
           "Sorcerers into volunteering for this hideous pact. Blending martial",
           "might and armoured resilience with murderous insanity, these vile",
           "machines are deadly indeed."
@@ -1954,17 +2160,31 @@
     "factionKeywords": [
       "Thousand Sons"
     ],
-    "abilities": {
-      "core": "Deadly Demise D3, Hover",
-      "faction": "Each time this model ends a Normal move,",
-      "special": [
-        "you can select one enemy unit it moved over during that move.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D3, Hover"
+            },{
+              "title": "FACTION",
+              "text": "Each time this model ends a Normal move,"
+            },
+      "you can select one enemy unit it moved over during that move.",
         "Until the end of the turn, models in that unit cannot have the Benefit of Cover.",
         "DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
-      ]
-    },
-    "invulnerable": "5+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "5+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "20+\"",
       "t": "9",
@@ -1977,14 +2197,21 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s Hades autocannon can be replaced with 1 baleflamer."
+          "This model's Hades autocannon can be replaced with 1 baleflamer."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Thousand Sons Heldrake",
           "This model is equipped with",
           "Hades autocannon;",
@@ -2059,16 +2286,32 @@
     "factionKeywords": [
       "Thousand Sons"
     ],
-    "abilities": {
-      "core": "Leader",
-      "faction": "Cabal of Sorcerers 2",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Leader"
+            },{
+              "title": "FACTION",
+              "text": "Cabal of Sorcerers 2"
+            },
       "special": [
         "Malefic Maelstrom (Psychic): While this model is leading a unit, weapons equipped by models in that unit have the [SUSTAINED HITS 1] ability.",
         "Glimpse of Eternity (Psychic): Once per turn, you can change the result of one Hit roll, one Wound roll, one Damage roll or one saving throw made for this model to an unmodified 6."
       ]
-    },
-    "invulnerable": "5+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "5+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "6\"",
       "t": "4",
@@ -2084,25 +2327,39 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Infernal Master",
           "This model is equipped with",
           "inferno bolt pistol; Screamer",
           "Invocation; force weapon."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following unit",
-          "■",
           "Rubric Marines",
           "INFERNAL MASTER",
           "Infernal Masters forge pacts with daemonic entities, euphemistically",
@@ -2142,7 +2399,7 @@
           "d": "3"
         },
         {
-          "name": "Tzeentch’s Firestorm [BLAST, PSYCHIC]",
+          "name": "Tzeentch's Firestorm [BLAST, PSYCHIC]",
           "range": "24\"",
           "a": "D6+3",
           "bws": "2+",
@@ -2176,11 +2433,11 @@
           "a": "Each time an attack is made against this",
           "bws": "Psyker",
           "s": "(excluding Psychic",
-          "ap": "Attacks), subtract 1 from that attack’s Damage characteristic.",
+          "ap": "Attacks), subtract 1 from that attack's Damage characteristic.",
           "d": "Treason of Tzeentch (Psychic)"
         },
         {
-          "name": "At the start of your opponent’s Shooting phase, you can select one",
+          "name": "At the start of your opponent's Shooting phase, you can select one",
           "range": "enemy unit within 24\" of and visible to this",
           "a": "Psyker",
           "bws": ". Until the end of the phase, ranged weapons",
@@ -2201,18 +2458,32 @@
     "factionKeywords": [
       "Thousand Sons"
     ],
-    "abilities": {
-      "core": "Deadly Demise D6, Deep Strike",
-      "faction": "Cabal of Sorcerers 4",
-      "special": [
-        "Unearthly Power: At the start of the battle round, select one of the abilities in the Crimson King section (see left).",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D6, Deep Strike"
+            },{
+              "title": "FACTION",
+              "text": "Cabal of Sorcerers 4"
+            },
+      "Unearthly Power: At the start of the battle round, select one of the abilities in the Crimson King section (see left).",
         "Until the start of the next battle round, this model has that ability.",
         "Lord of the Planet of the Sorcerers (Aura): While a friendly Thousand Sons Psyker unit is within 6\" of this model, each time a model in that unit makes a Psychic Attack, add 1 to the Hit roll and add 1 to the Wound roll.",
         "DAMAGED: 1-6 WOUNDS REMAINING While this model has 1-6 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "14\"",
       "t": "11",
@@ -2228,18 +2499,25 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Magnus the Red -",
           "Epic Hero",
           "This model is equipped with",
-          "Gaze of Magnus; Tzeentch’s",
+          "Gaze of Magnus; Tzeentch's",
           "Firestorm; Blade of Magnus."
         ]
       },
@@ -2300,16 +2578,30 @@
     "factionKeywords": [
       "Thousand Sons"
     ],
-    "abilities": {
-      "core": "Deadly Demise D3",
-      "faction": "You can target this unit with the Heroic",
-      "special": [
-        "Intervention Stratagem for 0CP, and can do so even if you have already used that Stratagem on a different unit this phase.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D3"
+            },{
+              "title": "FACTION",
+              "text": "You can target this unit with the Heroic"
+            },
+      "Intervention Stratagem for 0CP, and can do so even if you have already used that Stratagem on a different unit this phase.",
         "DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
-      ]
-    },
-    "invulnerable": "5+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "5+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "10\"",
       "t": "10",
@@ -2322,14 +2614,21 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s lasher tendrils can be replaced with 2 magma cutters."
+          "This model's lasher tendrils can be replaced with 2 magma cutters."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Thousand Sons Maulerfiend",
           "This model is equipped with",
           "lasher tendrils;",
@@ -2338,7 +2637,7 @@
           "Maulerfiends are ferocious Daemon Engines capable of scaling even",
           "sheer fortress walls with their wicked metal talons. Those employed",
           "by the Thousand Sons are inescapable, for the daemons within them",
-          "hunt as much by tracking their prey’s future choices as by the lights of",
+          "hunt as much by tracking their prey's future choices as by the lights of",
           "their soulspoor."
         ]
       }
@@ -2412,18 +2711,32 @@
     "factionKeywords": [
       "Thousand Sons"
     ],
-    "abilities": {
-      "core": "Deadly Demise D6, Feel No Pain 5+",
-      "faction": "At the end of your Movement phase,",
-      "special": [
-        "roll one D6 for each enemy unit within 6\" of this model: on a 2-3, that unit suffers 1 mortal wound; on a 4-5, that unit suffers D3 mortal wounds; on a 6, that unit suffers D6 mortal wounds.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D6, Feel No Pain 5+"
+            },{
+              "title": "FACTION",
+              "text": "At the end of your Movement phase,"
+            },
+      "roll one D6 for each enemy unit within 6\" of this model: on a 2-3, that unit suffers 1 mortal wound; on a 4-5, that unit suffers D3 mortal wounds; on a 6, that unit suffers D6 mortal wounds.",
         "Each enemy unit within range of this ability must then take a Battle-shock test.",
         "Immaterial Flare (Aura): While a friendly Thousand Sons Psyker unit is within 6\" of this model, each time that unit uses a Ritual that specifies a range, you can double that range while resolving that Ritual.",
         "DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
-      ]
-    },
-    "invulnerable": "5+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "5+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "10\"",
       "t": "10",
@@ -2439,14 +2752,21 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Mutalith Vortex Beast",
           "This model is equipped with",
           "warp vortex; betentacled maw;",
@@ -2455,7 +2775,7 @@
           "This foul beast is an offence against sanity and all natural order. Its",
           "constantly mutating form drags in and expels empyric energy in a wild",
           "tempest that twists all about it ever further out of true. Those foes not",
-          "driven insane by the monster’s mere presence are soon warped into",
+          "driven insane by the monster's mere presence are soon warped into",
           "fresh horrors by its foul energies."
         ]
       }
@@ -2571,17 +2891,31 @@
     "factionKeywords": [
       "Thousand Sons"
     ],
-    "abilities": {
-      "core": "Cabal of Sorcerers 1*",
-      "faction": "Bringers of Change",
-      "special": [
-        "Each time a model in this unit makes a ranged attack, re-roll a Wound roll of 1.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Cabal of Sorcerers 1*"
+            },{
+              "title": "FACTION",
+              "text": "Bringers of Change"
+            },
+      "Each time a model in this unit makes a ranged attack, re-roll a Wound roll of 1.",
         "If the target of that attack is within range of an objective marker you do not control, you can re-roll the Wound roll instead.",
-        "WARGEAR ABILITIES Icon of Flame: Each time a model in the bearer’s unit makes a ranged attack, if a Critical Wound is scored, improve the Armour Penetration characteristic of that attack by 1."
-      ]
-    },
-    "invulnerable": "5+",
-    "damaged": null,
+        "WARGEAR ABILITIES Icon of Flame: Each time a model in the bearer's unit makes a ranged attack, if a Critical Wound is scored, improve the Armour Penetration characteristic of that attack by 1."
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "5+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "5\"",
       "t": "4",
@@ -2597,26 +2931,27 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "The Aspiring Sorcerer’s inferno bolt pistol can be replaced with one of the following",
-          "◦",
+          "The Aspiring Sorcerer's inferno bolt pistol can be replaced with one of the following",
           "1 plasma pistol",
-          "◦",
           "1 warpflame pistol",
-          "■",
           "Any number of Rubric Marines can each have their inferno boltgun replaced with 1 warpflamer.",
-          "■",
-          "1 Rubric Marine’s inferno boltgun can be replaced with 1 soulreaper cannon.",
-          "■",
+          "1 Rubric Marine's inferno boltgun can be replaced with 1 soulreaper cannon.",
           "1 Rubric Marine can be equipped with 1 icon of flame."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Aspiring Sorcerer",
-          "■",
           "4-9 Rubric Marines",
           "The Aspiring Sorcerer is equipped with",
           "inferno bolt pistol;",
@@ -2724,15 +3059,29 @@
     "factionKeywords": [
       "Thousand Sons"
     ],
-    "abilities": {
-      "core": "Deep Strike",
-      "faction": "Cabal of Sorcerers 1*",
-      "special": [
-        "*Scarab Occult Sorcerer model only Implacable Guardians: While this unit contains one or more Psyker models, each time an attack is made against this unit, if the Strength characteristic of that attack is greater than this unit’s Toughness characteristic, subtract 1 from the Wound roll."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deep Strike"
+            },{
+              "title": "FACTION",
+              "text": "Cabal of Sorcerers 1*"
+            },
+      "*Scarab Occult Sorcerer model only Implacable Guardians: While this unit contains one or more Psyker models, each time an attack is made against this unit, if the Strength characteristic of that attack is greater than this unit's Toughness characteristic, subtract 1 from the Wound roll."
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "5\"",
       "t": "5",
@@ -2745,26 +3094,28 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "The Scarab Occult Sorcerer’s inferno combi-bolter can be replaced with 1 Prosperine khopesh.",
-          "■",
-          "For every 5 models in this unit, 1 Scarab Occult Terminator’s inferno combi-bolter can be replaced",
+          "The Scarab Occult Sorcerer's inferno combi-bolter can be replaced with 1 Prosperine khopesh.",
+          "For every 5 models in this unit, 1 Scarab Occult Terminator's inferno combi-bolter can be replaced",
           "with one of the following",
-          "◦",
           "1 heavy warpflamer",
-          "◦",
           "1 soulreaper cannon",
-          "■",
           "For every 5 models in this unit, 1 Scarab Occult Terminator can be equipped with 1 hellfyre",
           "missile rack."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Scarab Occult Sorcerer",
-          "■",
           "4-9 Scarab Occult Terminators",
           "The Scarab Occult Sorcerer is equipped with",
           "inferno",
@@ -2774,7 +3125,7 @@
           "combi-bolter; Prosperine khopesh.",
           "SCARAB OCCULT TERMINATORS",
           "The Scarab Occult fight with all the merciless skill they did when they",
-          "were Magnus’ living bodyguards, often striking into the heart of the",
+          "were Magnus' living bodyguards, often striking into the heart of the",
           "foe via sorcerous teleportation. Wielding vicious ritual blades based on",
           "the ancient Prosperine khopesh, they cleave through those victims not",
           "laid low by their salvoes of lethal firepower.",
@@ -2865,16 +3216,32 @@
     "factionKeywords": [
       "Thousand Sons"
     ],
-    "abilities": {
-      "core": "Leader",
-      "faction": "Cabal of Sorcerers 1",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Leader"
+            },{
+              "title": "FACTION",
+              "text": "Cabal of Sorcerers 1"
+            },
       "special": [
         "Empyric Guidance (Psychic): While this model is leading a unit, weapons equipped by models in that unit have the [LETHAL HITS] ability.",
         "Illusions of Tzeentch (Psychic): While this model is leading a unit, that unit can only be selected as the target of a ranged attack if the attacking model is within 18\"."
       ]
-    },
-    "invulnerable": "5+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "5+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "6\"",
       "t": "4",
@@ -2890,29 +3257,41 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s inferno bolt pistol can be replaced with one of the following",
-          "◦",
+          "This model's inferno bolt pistol can be replaced with one of the following",
           "1 plasma pistol",
-          "◦",
           "1 warpflame pistol"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Thousand Sons Sorcerer",
           "This model is equipped with",
           "Fires of the Abyss; inferno bolt",
           "pistol; force weapon."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following unit",
-          "■",
           "Rubric Marines",
           "THOUSAND SONS SORCERER",
           "The Sorcerers of the Thousand Sons direct the ranks of Rubricae in",
@@ -2993,17 +3372,33 @@
     "factionKeywords": [
       "Thousand Sons"
     ],
-    "abilities": {
-      "core": "Deep Strike, Leader",
-      "faction": "Cabal of Sorcerers 2",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deep Strike, Leader"
+            },{
+              "title": "FACTION",
+              "text": "Cabal of Sorcerers 2"
+            },
       "special": [
         "Empyric Guidance (Psychic): While this model is leading a unit, weapons equipped by models in that unit have the [LETHAL HITS] ability.",
         "Marked by Fate (Psychic): In your Shooting phase, you can select one enemy unit within 18\" of and visible to this model.",
         "Until the end of the turn, each time a friendly Thousand Sons model makes an attack that targets that unit, re-roll a Hit roll of 1."
       ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "5\"",
       "t": "5",
@@ -3016,29 +3411,41 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s inferno combi-bolter can be replaced with one of the following",
-          "◦",
+          "This model's inferno combi-bolter can be replaced with one of the following",
           "1 inferno combi-weapon",
-          "◦",
           "1 Prosperine khopesh"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Thousand Sons Sorcerer in Terminator Armour",
           "This model is equipped with",
           "Coruscating Flames;",
           "inferno combi-bolter; force weapon."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following unit",
-          "■",
           "Scarab Occult Terminators",
           "THOUSAND SONS SORCERER",
           "IN TERMINATOR ARMOUR",
@@ -3127,16 +3534,30 @@
     "factionKeywords": [
       "Thousand Sons"
     ],
-    "abilities": {
-      "core": "Scouts 6\"",
-      "faction": "Each time this unit destroys an enemy unit,",
-      "special": [
-        "roll one D6: on a 2+, you gain 1CP.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Scouts 6\""
+            },{
+              "title": "FACTION",
+              "text": "Each time this unit destroys an enemy unit,"
+            },
+      "roll one D6: on a 2+, you gain 1CP.",
         "When this unit is destroyed, roll one D6: on a 2+, you gain 1CP."
-      ]
-    },
-    "invulnerable": "6+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "6+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "6\"",
       "t": "3",
@@ -3152,23 +3573,27 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "For every 10 models in this unit, 1 Thousand Sons Cultist’s Cultist firearm can be replaced with",
+          "For every 10 models in this unit, 1 Thousand Sons Cultist's Cultist firearm can be replaced with",
           "1 flamer.",
-          "■",
-          "For every 10 models in this unit, 1 Thousand Sons Cultist’s Cultist firearm can be replaced with",
+          "For every 10 models in this unit, 1 Thousand Sons Cultist's Cultist firearm can be replaced with",
           "1 heavy stubber.",
-          "■",
-          "For every 10 models in this unit, 1 Thousand Sons Cultist’s Cultist Firearm can be replaced with",
+          "For every 10 models in this unit, 1 Thousand Sons Cultist's Cultist Firearm can be replaced with",
           "1 grenade launcher."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Thousand Sons Cultist Champion",
-          "■",
           "9-19 Thousand Sons Cultists",
           "Every model is equipped with",
           "Cultist firearm; brutal",
@@ -3176,7 +3601,7 @@
           "THOUSAND SONS CULTISTS",
           "Countless mortals offer up their souls to Tzeentch in the hopes of",
           "reward. For most, this comes in the unenviable form of desperate",
-          "battle against their former oppressors, being hurled into the enemy’s",
+          "battle against their former oppressors, being hurled into the enemy's",
           "ranks as fodder - sacrificed en masse upon the altar of the battlefield",
           "by their uncaring Thousand Sons masters."
         ]
@@ -3234,17 +3659,33 @@
     "factionKeywords": [
       "Thousand Sons"
     ],
-    "abilities": {
-      "core": "Deadly Demise D3",
-      "faction": "Cabal of Sorcerers 2",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D3"
+            },{
+              "title": "FACTION",
+              "text": "Cabal of Sorcerers 2"
+            },
       "special": [
         "The Weave of Fate (Psychic): Once per battle, at the start of any phase, you can select one friendly Rubric Marines or Scarab Occult Terminators unit within 6\" of this model.",
         "Until the end of the phase, weapons equipped by models in that unit have the [PRECISION] ability.",
         "Glamour of Tzeentch (Aura, Psychic): While a friendly Thousand Sons unit is within 6\" of this model, models in that unit have the Stealth ability."
       ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "7\"",
       "t": "10",
@@ -3260,14 +3701,21 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Thousand Sons Daemon Prince",
           "This model is equipped with",
           "infernal cannon;",
@@ -3334,17 +3782,31 @@
     "factionKeywords": [
       "Thousand Sons"
     ],
-    "abilities": {
-      "core": "Deadly Demise D3",
-      "faction": "Cabal of Sorcerers 2",
-      "special": [
-        "Sorcerous Fire (Psychic): Each time this model ends a Normal move, you can select one enemy unit it moved over this phase and roll nine D6: for each 6, that unit suffers 1 mortal wound.",
-        "Aetherstride (Psychic): At the end of your opponent’s turn, if this model is not within Engagement Range of any enemy units, you can remove it from the battlefield and then, in the Reinforcements step of your next Movement phase, set it up anywhere on the battlefield that is more than 9\" horizontally away from all enemy models.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D3"
+            },{
+              "title": "FACTION",
+              "text": "Cabal of Sorcerers 2"
+            },
+      "Sorcerous Fire (Psychic): Each time this model ends a Normal move, you can select one enemy unit it moved over this phase and roll nine D6: for each 6, that unit suffers 1 mortal wound.",
+        "Aetherstride (Psychic): At the end of your opponent's turn, if this model is not within Engagement Range of any enemy units, you can remove it from the battlefield and then, in the Reinforcements step of your next Movement phase, set it up anywhere on the battlefield that is more than 9\" horizontally away from all enemy models.",
         "If the battle ends and this model is not on the battlefield, it is destroyed."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "11\"",
       "t": "9",
@@ -3360,14 +3822,21 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Thousand Sons Daemon Prince with Wings",
           "This model is equipped with",
           "infernal cannon;",
@@ -3450,15 +3919,29 @@
     "factionKeywords": [
       "Thousand Sons"
     ],
-    "abilities": {
-      "core": "Once per turn, when an enemy unit ends a",
-      "faction": "this unit is not within Engagement Range of any enemy units,",
-      "special": [
-        "it can make a Normal move of up to D6\" as if it were your Movement phase."
-      ]
-    },
-    "invulnerable": "6+",
-    "damaged": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Once per turn, when an enemy unit ends a"
+            },{
+              "title": "FACTION",
+              "text": "this unit is not within Engagement Range of any enemy units,"
+            },
+      "it can make a Normal move of up to D6\" as if it were your Movement phase."
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "6+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "10\"",
       "t": "4",
@@ -3471,20 +3954,24 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "Any number of models can each have their divining spear replaced with one of the following",
-          "◦",
           "1 autopistol and 1 chainsword",
-          "◦",
           "1 fatecaster greatbow and 1 close combat weapon"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Aviarch",
-          "■",
           "2-5 Enlightened",
           "Every model is equipped with",
           "divining spear.",
@@ -3527,7 +4014,7 @@
       ],
       "melee": [
         {
-          "name": "Shaman’s stave [PSYCHIC]",
+          "name": "Shaman's stave [PSYCHIC]",
           "range": "Melee",
           "a": "3",
           "bws": "3+",
@@ -3540,16 +4027,30 @@
     "factionKeywords": [
       "Thousand Sons"
     ],
-    "abilities": {
-      "core": "Leader",
-      "faction": "Cabal of Sorcerers 1",
-      "special": [
-        "Dark Blessing (Psychic): While this model is leading a unit, models in that unit have the Feel No Pain 5+ ability.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Leader"
+            },{
+              "title": "FACTION",
+              "text": "Cabal of Sorcerers 1"
+            },
+      "Dark Blessing (Psychic): While this model is leading a unit, models in that unit have the Feel No Pain 5+ ability.",
         "Bestial Prophet: While this model is leading a unit, each time a model in that unit makes an attack, add 1 to the Hit roll."
-      ]
-    },
-    "invulnerable": "6+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "6+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "10\"",
       "t": "4",
@@ -3562,26 +4063,39 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Tzaangor Shaman",
           "This model is equipped with",
-          "mutating orbs; Shaman’s stave."
+          "mutating orbs; Shaman's stave."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following units",
-          "■",
           "Tzaangor Enlightened",
-          "■",
           "Tzaangors",
           "TZAANGOR SHAMAN",
           "Tzaangor Shamans possess prodigious sorcerous abilities that stem",
@@ -3644,17 +4158,31 @@
     "factionKeywords": [
       "Thousand Sons"
     ],
-    "abilities": {
-      "core": "At the end of your Command phase, roll one",
-      "faction": "units from your army with this ability within range of it: for",
-      "special": [
-        "each 4+, you gain 1 Cabal point.",
-        "WARGEAR ABILITIES Herd Banner: You can re-roll Battle-shock tests taken for the bearer’s unit.",
-        "Brayhorn: You can re-roll Advance and Charge rolls made for the bearer’s unit."
-      ]
-    },
-    "invulnerable": "6+",
-    "damaged": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "At the end of your Command phase, roll one"
+            },{
+              "title": "FACTION",
+              "text": "units from your army with this ability within range of it: for"
+            },
+      "each 4+, you gain 1 Cabal point.",
+        "WARGEAR ABILITIES Herd Banner: You can re-roll Battle-shock tests taken for the bearer's unit.",
+        "Brayhorn: You can re-roll Advance and Charge rolls made for the bearer's unit."
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "6+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "6\"",
       "t": "4",
@@ -3667,22 +4195,25 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "Any number of models can each have their Tzaangor blades replaced with",
-          "◦",
           "1 autopistol and 1 chainsword",
-          "■",
           "1 Tzaangor not equipped with a herd banner can be equipped with 1 brayhorn.",
-          "■",
           "1 Tzaangor not equipped with a brayhorn can be equipped with 1 herd banner."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Twistbray",
-          "■",
           "9-19 Tzaangors",
           "Every model is equipped with",
           "Tzaangor blades.",

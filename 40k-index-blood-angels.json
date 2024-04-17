@@ -114,7 +114,7 @@
           "points": 20,
           "rules": [
             {
-              "text": "Adeptus Astartes model only. Improve the Armour Penetration characteristic of the bearer’s weapons by 1, and the bearer has a Save characteristic of 2+."
+              "text": "Adeptus Astartes model only. Improve the Armour Penetration characteristic of the bearer's weapons by 1, and the bearer has a Save characteristic of 2+."
             }
           ]
         },
@@ -123,16 +123,16 @@
           "points": 15,
           "rules": [
             {
-              "text": "Adeptus Astartes model only. While an enemy unit (excluding Monsters and Vehicles) is within Engagement Range of the bearer’s unit, halve the Objective Control characteristic of models in that unit."
+              "text": "Adeptus Astartes model only. While an enemy unit (excluding Monsters and Vehicles) is within Engagement Range of the bearer's unit, halve the Objective Control characteristic of models in that unit."
             }
           ]
         },
         {
-          "title": "ARCHANGEL’S SHARD",
+          "title": "ARCHANGEL'S SHARD",
           "points": 25,
           "rules": [
             {
-              "text": "Adeptus Astartes model only. The bearer’s melee weapons have the [ANTI-CHAOS 5+] and [LANCE] abilities."
+              "text": "Adeptus Astartes model only. The bearer's melee weapons have the [ANTI-CHAOS 5+] and [LANCE] abilities."
             }
           ]
         },
@@ -141,7 +141,7 @@
           "points": 10,
           "rules": [
             {
-              "text": "Adeptus Astartes model only. Each time an enemy unit (excluding Monsters and Vehicles) within Engagement Range of the bearer’s unit is selected to Fall Back, models in that enemy unit must take Desperate Escape tests as if their unit was Battle-shocked. When doing so, if that enemy unit is also Battle-shocked by other means, subtract 1 from each of those Desperate Escape tests."
+              "text": "Adeptus Astartes model only. Each time an enemy unit (excluding Monsters and Vehicles) within Engagement Range of the bearer's unit is selected to Fall Back, models in that enemy unit must take Desperate Escape tests as if their unit was Battle-shocked. When doing so, if that enemy unit is also Battle-shocked by other means, subtract 1 from each of those Desperate Escape tests."
             }
           ]
         }
@@ -178,7 +178,7 @@
       ],
       "melee": [
         {
-          "name": "The Executioner’s Axe [DEVASTATING WOUNDS]",
+          "name": "The Executioner's Axe [DEVASTATING WOUNDS]",
           "range": "Melee",
           "a": "4",
           "bws": "2+",
@@ -192,18 +192,34 @@
       "Adeptus Astartes",
       "Blood Angels"
     ],
-    "abilities": {
-      "core": "Deep Strike, Leader",
-      "faction": "Oath of Moment",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deep Strike, Leader"
+            },{
+              "title": "FACTION",
+              "text": "Oath of Moment"
+            },
       "special": [
         "Redeemer of the Lost: While this model is leading a unit, each time a model in that unit is destroyed by a melee attack, if that model has not fought this phase, roll one D6.",
-        "On a 4+, do not remove it from play; that destroyed model can fight after the attacking model’s unit has finished making its attacks, and is then removed from play.",
-        "Mass of Doom: Once per battle, when this model’s unit makes a Charge move, this model can use this ability.",
+        "On a 4+, do not remove it from play; that destroyed model can fight after the attacking model's unit has finished making its attacks, and is then removed from play.",
+        "Mass of Doom: Once per battle, when this model's unit makes a Charge move, this model can use this ability.",
         "When it does, until the end of the turn, melee weapons equipped by models in that unit have the [DEVASTATING WOUNDS] ability."
       ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "12\"",
       "t": "4",
@@ -216,26 +232,40 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Astorath -",
           "Epic Hero",
           "This model is equipped with",
           "bolt pistol; the",
-          "Executioner’s Axe."
+          "Executioner's Axe."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following unit",
-          "■",
           "Death Company Marines with Jump Packs",
           "ASTORATH",
           "Wherever sons of Sanguinius are on the cusp of the Black Rage, that",
@@ -337,17 +367,23 @@
       "Adeptus Astartes",
       "Blood Angels"
     ],
-    "abilities": {
-      "core": "Oath of Moment",
-      "faction": "You can re-roll Advance rolls made for",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Oath of Moment"
+            },{
+              "title": "FACTION",
+              "text": "You can re-roll Advance rolls made for"
+            },
       "special": [
         "this model.",
         "Each time this model Advances, until the end of the turn, ranged weapons equipped by this model have the [ASSAULT] ability but they can only target Infantry units.",
         "DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
       ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "12\"",
       "t": "10",
@@ -360,24 +396,26 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s twin assault cannon can be replaced with 1 Baal flamestorm cannon.",
-          "■",
+          "This model's twin assault cannon can be replaced with 1 Baal flamestorm cannon.",
           "This model can be equipped with 1 hunter-killer missile.",
-          "■",
           "This model can be equipped with 1 storm bolter.",
-          "■",
           "This model can be equipped with one of the following",
-          "◦",
           "2 heavy bolters",
-          "◦",
           "2 heavy flamers"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Baal Predator",
           "This model is equipped with",
           "twin assault cannon;",
@@ -419,7 +457,7 @@
       ],
       "melee": [
         {
-          "name": "Heaven’s Teeth [SUSTAINED HITS 1]",
+          "name": "Heaven's Teeth [SUSTAINED HITS 1]",
           "range": "Melee",
           "a": "6",
           "bws": "2+",
@@ -433,16 +471,20 @@
       "Adeptus Astartes",
       "Blood Angels"
     ],
-    "abilities": {
-      "core": "Leader",
-      "faction": "Oath of Moment",
-      "special": [
-        "Sanguinary Priest: While this model is leading a unit, models in that unit have the Feel No Pain 5+ ability.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Leader"
+            },{
+              "title": "FACTION",
+              "text": "Oath of Moment"
+            },
+      "Sanguinary Priest: While this model is leading a unit, models in that unit have the Feel No Pain 5+ ability.",
         "The Red Grail: While this model is leading a unit, add 1 to the Attacks characteristic of melee weapons equipped by models in that unit."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "6\"",
       "t": "4",
@@ -455,38 +497,49 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Brother Corbulo -",
           "Epic Hero",
           "This model is equipped with",
-          "bolt pistol; Heaven’s Teeth."
+          "bolt pistol; Heaven's Teeth."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following units",
-          "■",
           "Assault Squad",
-          "■",
           "Devastator Squad",
-          "■",
           "Tactical Squad",
-          "■",
           "Vanguard Veteran Squad",
           "BROTHER CORBULO",
           "The Sanguinary High Priest, Brother Corbulo, is held in high regard for",
           "his commitment to the Chapter, his nobility and his gift of foresight -",
           "an ability many believe Sanguinius shared. On the battlefield he races",
           "to wounded brothers, hacking down any foes in his path with powerful",
-          "sweeps of Heaven’s Teeth."
+          "sweeps of Heaven's Teeth."
         ]
       }
     ]
@@ -529,7 +582,7 @@
       ],
       "melee": [
         {
-          "name": "Dead Man’s Hand",
+          "name": "Dead Man's Hand",
           "range": "Melee",
           "a": "6",
           "bws": "2+",
@@ -543,15 +596,31 @@
       "Adeptus Astartes",
       "Blood Angels"
     ],
-    "abilities": {
-      "core": "Leader",
-      "faction": "Oath of Moment",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Leader"
+            },{
+              "title": "FACTION",
+              "text": "Oath of Moment"
+            },
       "special": [
-        "Gifted Commander: While this model is leading a unit, each time that unit is selected to shoot, select one of the following abilities to apply to ranged weapons equipped by models in that unit until the end of the phase: ■ [ASSAULT] ■ [HEAVY] ■ [RAPID FIRE 1] Embittered: The first time an attack is allocated to this model, after the attacking unit has finished making its attacks, until the end of the battle, change the Attacks characteristic of this model’s Dead Man’s Hand to 12."
+        "Gifted Commander: While this model is leading a unit, each time that unit is selected to shoot, select one of the following abilities to apply to ranged weapons equipped by models in that unit until the end of the phase: ■ [ASSAULT] ■ [HEAVY] ■ [RAPID FIRE 1] Embittered: The first time an attack is allocated to this model, after the attacking unit has finished making its attacks, until the end of the battle, change the Attacks characteristic of this model's Dead Man's Hand to 12."
       ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "6\"",
       "t": "4",
@@ -564,32 +633,43 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Captain Tycho -",
           "Epic Hero",
           "This model is equipped with",
           "Blood Song; bolt pistol;",
-          "Dead Man’s Hand."
+          "Dead Man's Hand."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following units",
-          "■",
           "Assault Squad",
-          "■",
           "Command Squad",
-          "■",
           "Tactical Squad",
-          "■",
           "Vanguard Veteran Squad",
           "TYCHO",
           "Your army cannot contain both",
@@ -599,7 +679,7 @@
           "the Lost",
           ".",
           "CAPTAIN TYCHO",
-          "Captain Tycho was once one of the Blood Angels’ most gifted",
+          "Captain Tycho was once one of the Blood Angels' most gifted",
           "commanders, a paragon of every ideal his Chapter held to. It was while",
           "fighting countless battles against the Orks on Armageddon that he",
           "earned fame and renown, and there that he suffered the wound that",
@@ -678,17 +758,31 @@
       "Adeptus Astartes",
       "Blood Angels"
     ],
-    "abilities": {
-      "core": "Feel No Pain 5+, Leader",
-      "faction": "Oath of Moment",
-      "special": [
-        "The Quickening (Psychic): While this model is leading a unit, models in that unit have the Fights First ability.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Feel No Pain 5+, Leader"
+            },{
+              "title": "FACTION",
+              "text": "Oath of Moment"
+            },
+      "The Quickening (Psychic): While this model is leading a unit, models in that unit have the Fights First ability.",
         "Psychic Hood: While this model is leading a unit, models in that unit have the Feel No Pain 4+ ability against Psychic Attacks.",
-        "Transfixing Gaze (Psychic): At the start of the Fight phase, you can select one enemy unit within Engagement Range of this Psyker ’s unit and roll one D6: on a 1, this Psyker model suffers D3 mortal wounds; on a 2-5, until the end of the phase, worsen the Weapon Skill characteristic of melee weapons equipped by models in that enemy unit by 1; on a 6, until the end of the phase, worsen the Weapon Skill and Attacks characteristics of those weapons by 1."
-      ]
-    },
-    "invulnerable": "5+",
-    "damaged": null,
+        "Transfixing Gaze (Psychic): At the start of the Fight phase, you can select one enemy unit within Engagement Range of this Psyker 's unit and roll one D6: on a 1, this Psyker model suffers D3 mortal wounds; on a 2-5, until the end of the phase, worsen the Weapon Skill characteristic of melee weapons equipped by models in that enemy unit by 1; on a 6, until the end of the phase, worsen the Weapon Skill and Attacks characteristics of those weapons by 1."
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "5+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "7\"",
       "t": "5",
@@ -704,14 +798,21 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Chief Librarian Mephiston -",
           "Epic Hero",
           "This model is equipped with",
@@ -719,15 +820,20 @@
           "Ancients; Vitarus."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following units",
-          "■",
           "Assault Intercessor Squad",
-          "■",
           "Intercessor Squad",
-          "■",
           "Sternguard Veteran Squad",
           "CHIEF LIBRARIAN MEPHISTON",
           "Mephiston is an enormously powerful warrior and psyker. He is",
@@ -782,16 +888,30 @@
       "Adeptus Astartes",
       "Blood Angels"
     ],
-    "abilities": {
-      "core": "Deep Strike, Leader",
-      "faction": "Oath of Moment",
-      "special": [
-        "Lord Regent of the Imperium Nihilus: While this model is leading a unit, add 1 to Charge rolls made for that unit and each time a model in that unit makes an attack, add 1 to the Hit roll.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deep Strike, Leader"
+            },{
+              "title": "FACTION",
+              "text": "Oath of Moment"
+            },
+      "Lord Regent of the Imperium Nihilus: While this model is leading a unit, add 1 to Charge rolls made for that unit and each time a model in that unit makes an attack, add 1 to the Hit roll.",
         "Death Mask of Sanguinius: At the start of the Fight phase, each enemy unit within 6\" of this model must take a Battle-shock test, subtracting 1 from that test when they do."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "12\"",
       "t": "4",
@@ -804,29 +924,41 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Commander Dante -",
           "Epic Hero",
           "This model is equipped with",
           "Perdition; the Axe Mortalis."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following units",
-          "■",
           "Assault Squad with Jump Packs",
-          "■",
           "Sanguinary Guard",
-          "■",
           "Vanguard Veteran Squad with Jump Packs",
           "COMMANDER DANTE",
           "Dante soars over the battlefield, gleaming in his golden armour, before",
@@ -906,18 +1038,22 @@
       "Adeptus Astartes",
       "Blood Angels"
     ],
-    "abilities": {
-      "core": "Deadly Demise 1, Feel No Pain 6+",
-      "faction": "Oath of Moment",
-      "special": [
-        "Black Rage: Each time this model makes an attack, you can re-roll the Hit roll.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise 1, Feel No Pain 6+"
+            },{
+              "title": "FACTION",
+              "text": "Oath of Moment"
+            },
+      "Black Rage: Each time this model makes an attack, you can re-roll the Hit roll.",
         "While this model is not within 12\" of one or more friendly Chaplain models, it cannot be selected to Fall Back and its Objective Control characteristic is 0.",
         "Frenzied Reprisal: Each time an enemy unit targets this model, after that unit has finished making its attacks, this model can either shoot as if it were your Shooting phase or fight as if it were the Fight phase.",
         "WARGEAR ABILITIES Magna-grapple: The bearer loses the Smoke keyword, but add 2 to Charge rolls made for the bearer if one or more of the targets of that charge is a Monster or Vehicle unit."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "8\"",
       "t": "9",
@@ -930,26 +1066,30 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s storm bolter can be replaced with 1 heavy flamer.",
-          "■",
-          "This model’s meltagun can be replaced with 1 heavy flamer.",
-          "■",
-          "This model’s Furioso fists can be replaced with 1 blood talons.",
-          "■",
+          "This model's storm bolter can be replaced with 1 heavy flamer.",
+          "This model's meltagun can be replaced with 1 heavy flamer.",
+          "This model's Furioso fists can be replaced with 1 blood talons.",
           "This model can be equipped with 1 magna-grapple."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Death Company Dreadnought",
           "This model is equipped with",
           "meltagun; storm bolter; twin",
           "Furioso fists.",
           "DEATH COMPANY DREADNOUGHT",
-          "Even being interred in a Dreadnought’s sarcophagus is insufficient to",
+          "Even being interred in a Dreadnought's sarcophagus is insufficient to",
           "keep the Black Rage at bay. Death Company Dreadnoughts are like",
           "furious battering rams, desperate to smash into the enemy and tear",
           "them apart. They are potent terror weapons, unleashed to inflict as",
@@ -1099,17 +1239,21 @@
       "Adeptus Astartes",
       "Blood Angels"
     ],
-    "abilities": {
-      "core": "Feel No Pain 6+",
-      "faction": "Oath of Moment",
-      "special": [
-        "Black Rage: Each time a model in this unit makes an attack, you can re-roll the Hit roll.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Feel No Pain 6+"
+            },{
+              "title": "FACTION",
+              "text": "Oath of Moment"
+            },
+      "Black Rage: Each time a model in this unit makes an attack, you can re-roll the Hit roll.",
         "While this unit is not within 12\" of one or more friendly Chaplain models, it cannot be selected to Fall Back and the Objective Control characteristic of models in this unit is 0.",
         "Visions of Heresy: Once per turn, you can target this unit with the Fire Overwatch Stratagem or the Heroic Intervention Stratagem for 0CP."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "6\"",
       "t": "4",
@@ -1125,32 +1269,31 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "All models in this unit can each have their bolt pistol and bolt rifle replaced with 1 heavy bolt pistol",
           "and 1 Astartes chainsword.",
-          "■",
-          "1 model’s heavy bolt pistol can be replaced with one of the following",
-          "◦",
+          "1 model's heavy bolt pistol can be replaced with one of the following",
           "1 hand flamer",
-          "◦",
           "1 plasma pistol",
-          "■",
           "For every 5 models in this unit, 1 model equipped with a bolt rifle can be equipped with 1 Astartes",
           "grenade launcher.",
-          "■",
           "1 model can replace its bolt rifle or Astartes chainsword with one of the following",
-          "◦",
           "1 power fist",
-          "◦",
           "1 power weapon",
-          "◦",
           "1 thunder hammer"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "5-10 Death Company Intercessors",
           "Every model is equipped with",
           "bolt pistol; bolt rifle; close",
@@ -1296,17 +1439,23 @@
       "Adeptus Astartes",
       "Blood Angels"
     ],
-    "abilities": {
-      "core": "Feel No Pain 6+",
-      "faction": "Oath of Moment",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Feel No Pain 6+"
+            },{
+              "title": "FACTION",
+              "text": "Oath of Moment"
+            },
       "special": [
         "Black Rage: Each time a model in this unit makes an attack, you can re-roll the Hit roll.",
         "While this unit is not within 12\" of one or more friendly Chaplain models, it cannot be selected to Fall Back and the Objective Control characteristic of models in this unit is 0.",
         "An Honourable Death in Combat: Each time a model in this unit makes an attack, that attack has the [SUSTAINED HITS 1] ability if this unit is below its Starting Strength, or the [SUSTAINED HITS 2] ability if this unit is Below Half-strength."
       ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "6\"",
       "t": "4",
@@ -1322,33 +1471,31 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "Any number of models can each have their boltgun and close combat weapon replaced with one of",
           "the following",
-          "◦",
           "1 Astartes chainsword and 1 bolt pistol",
-          "◦",
           "1 thunder hammer",
-          "■",
           "Any number of models can each have their bolt pistol replaced with one of the following",
-          "◦",
           "1 hand flamer",
-          "◦",
           "1 inferno pistol",
-          "◦",
           "1 plasma pistol",
-          "■",
           "Any number of models can each have their Astartes chainsword replaced with one of the following",
-          "◦",
           "1 power fist",
-          "◦",
           "1 power weapon"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "5-10 Death Company Marines",
           "Every model is equipped with",
           "boltgun; close combat weapon.",
@@ -1494,17 +1641,21 @@
       "Adeptus Astartes",
       "Blood Angels"
     ],
-    "abilities": {
-      "core": "Deep Strike, Feel No Pain 6+",
-      "faction": "Oath of Moment",
-      "special": [
-        "Black Rage: Each time a model in this unit makes an attack, you can re-roll the Hit roll.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deep Strike, Feel No Pain 6+"
+            },{
+              "title": "FACTION",
+              "text": "Oath of Moment"
+            },
+      "Black Rage: Each time a model in this unit makes an attack, you can re-roll the Hit roll.",
         "While this unit is not within 12\" of one or more friendly Chaplain models, it cannot be selected to Fall Back and the Objective Control characteristic of models in this unit is 0.",
         "Berserk Fury: You can re-roll Charge rolls made for this unit."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "12\"",
       "t": "4",
@@ -1520,33 +1671,31 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "Any number of models can each have their boltgun and close combat weapon replaced with one of",
           "the following",
-          "◦",
           "1 Astartes chainsword and 1 bolt pistol",
-          "◦",
           "1 thunder hammer",
-          "■",
           "Any number of models can each have their bolt pistol replaced with one of the following",
-          "◦",
           "1 hand flamer",
-          "◦",
           "1 inferno pistol",
-          "◦",
           "1 plasma pistol",
-          "■",
           "Any number of models can each have their Astartes chainsword replaced with one of the following",
-          "◦",
           "1 power fist",
-          "◦",
           "1 power weapon"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "5-10 Death Company Marines with Jump Packs",
           "Every model is equipped with",
           "boltgun; close combat weapon.",
@@ -1654,16 +1803,20 @@
       "Adeptus Astartes",
       "Blood Angels"
     ],
-    "abilities": {
-      "core": "Deadly Demise 1",
-      "faction": "Oath of Moment",
-      "special": [
-        "Wrathful Rampage: Each time this model is selected to fight, you can select one enemy unit within Engagement Range of it and roll one D6, adding 2 to the result if this model made a Charge move this turn: on a 4-5, that enemy unit suffers D3 mortal wounds; on a 6+, that enemy unit suffers 3 mortal wounds.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise 1"
+            },{
+              "title": "FACTION",
+              "text": "Oath of Moment"
+            },
+      "Wrathful Rampage: Each time this model is selected to fight, you can select one enemy unit within Engagement Range of it and roll one D6, adding 2 to the result if this model made a Charge move this turn: on a 4-5, that enemy unit suffers D3 mortal wounds; on a 6+, that enemy unit suffers 3 mortal wounds.",
         "WARGEAR ABILITIES Magna-grapple: The bearer loses the Smoke keyword, but add 2 to Charge rolls made for the bearer if one or more of the targets of that charge is a Monster or Vehicle unit."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "6\"",
       "t": "9",
@@ -1676,24 +1829,26 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s heavy frag cannon and Furioso fist can be replaced with one of the following",
-          "◦",
+          "This model's heavy frag cannon and Furioso fist can be replaced with one of the following",
           "1 Blood Talons and 1 meltagun",
-          "◦",
           "1 twin Furioso fist and 1 meltagun",
-          "■",
-          "This model’s storm bolter can be replaced with 1 heavy flamer.",
-          "■",
-          "This model’s meltagun can be replaced with 1 heavy flamer.",
-          "■",
+          "This model's storm bolter can be replaced with 1 heavy flamer.",
+          "This model's meltagun can be replaced with 1 heavy flamer.",
           "This model can be equipped with 1 magna-grapple."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Furioso Dreadnought",
           "This model is equipped with",
           "heavy frag cannon; Furioso fist;",
@@ -1701,7 +1856,7 @@
           "FURIOSO DREADNOUGHT",
           "Unique to the Chapter, Furiosos are frequently fitted with armaments",
           "only the Blood Angels have, from the infantry-shredding heavy frag",
-          "cannon to the magna-grapple. The latter weapon’s bolts, attached to",
+          "cannon to the magna-grapple. The latter weapon's bolts, attached to",
           "adamantine chains, pierce armour, enabling Furiosos to drag enemies",
           "into their reach."
         ]
@@ -1750,16 +1905,30 @@
       "Adeptus Astartes",
       "Blood Angels"
     ],
-    "abilities": {
-      "core": "Leader",
-      "faction": "Oath of Moment",
-      "special": [
-        "Lord of Slaughter: While this model is leading a unit, that unit is eligible to declare a charge in a turn in which it Advanced.",
-        "Whirlwind of Gore: Each time this model fights, until that fight is resolved, add 1 to the Attacks characteristic of this model’s Blood Reaver for every 5 enemy models within 6\" of this model."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Leader"
+            },{
+              "title": "FACTION",
+              "text": "Oath of Moment"
+            },
+      "Lord of Slaughter: While this model is leading a unit, that unit is eligible to declare a charge in a turn in which it Advanced.",
+        "Whirlwind of Gore: Each time this model fights, until that fight is resolved, add 1 to the Attacks characteristic of this model's Blood Reaver for every 5 enemy models within 6\" of this model."
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "6\"",
       "t": "4",
@@ -1772,31 +1941,42 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Gabriel Seth -",
           "Epic Hero",
           "This model is equipped with",
           "bolt pistol; Blood Reaver."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following units",
-          "■",
           "Assault Squad",
-          "■",
           "Command Squad",
-          "■",
           "Tactical Squad",
-          "■",
           "Vanguard Veteran Squad",
           "FLESH TEARERS",
           "This model is from the Flesh Tearers Chapter, a successor",
@@ -1858,16 +2038,32 @@
       "Adeptus Astartes",
       "Blood Angels"
     ],
-    "abilities": {
-      "core": "Deep Strike, Feel No Pain 6+, Leader",
-      "faction": "Oath of Moment",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deep Strike, Feel No Pain 6+, Leader"
+            },{
+              "title": "FACTION",
+              "text": "Oath of Moment"
+            },
       "special": [
         "Guardian of the Lost: While this model is leading a unit, each time an attack is allocated to a model in that unit, subtract 1 from the Damage characteristic of that attack.",
         "Fury Unbound: While this model is leading a unit, melee weapons equipped by models in that unit have the [LETHAL HITS] ability."
       ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "12\"",
       "t": "4",
@@ -1880,30 +2076,44 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Lemartes -",
           "Epic Hero",
           "This model is equipped with",
           "bolt pistol; the Blood Crozius."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following unit",
-          "■",
           "Death Company Marines with Jump Packs",
           "LEMARTES",
-          "Lemartes’ life is one of constant battle. A warrior of iron will, somehow",
+          "Lemartes' life is one of constant battle. A warrior of iron will, somehow",
           "he retains lucidity despite having succumbed to the Black Rage.",
-          "He leads the Blood Angels’ Death Company as Guardian of the",
+          "He leads the Blood Angels' Death Company as Guardian of the",
           "Lost, wielding the ancient weapon known as the Blood Crozius. His",
           "inspiration has only made the Death Company even more potent."
         ]
@@ -1997,17 +2207,21 @@
       "Adeptus Astartes",
       "Blood Angels"
     ],
-    "abilities": {
-      "core": "Deadly Demise 1",
-      "faction": "Oath of Moment",
-      "special": [
-        "Shield of Sanguinius (Aura, Psychic): While a friendly Adeptus Astartes unit is within 6\" of this model, models in that unit have the Feel No Pain 5+ ability against mortal wounds and Psychic Attacks.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise 1"
+            },{
+              "title": "FACTION",
+              "text": "Oath of Moment"
+            },
+      "Shield of Sanguinius (Aura, Psychic): While a friendly Adeptus Astartes unit is within 6\" of this model, models in that unit have the Feel No Pain 5+ ability against mortal wounds and Psychic Attacks.",
         "Wings of Sanguinius (Psychic): Once per turn, at the end of your Movement phase, one Psyker from your army with this ability can use it.",
         "If it does, roll one D6: on a 1, that Psyker suffers D3 mortal wounds; on a 2+, select one friendly Adeptus Astartes Infantry unit within 12\" of that Psyker and remove the selected unit from the battlefield, then set it up again anywhere on the battlefield that is more than 9\" horizontally away from all enemy models."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "6\"",
       "t": "9",
@@ -2023,27 +2237,32 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s storm bolter can be replaced with one of the following",
-          "◦",
+          "This model's storm bolter can be replaced with one of the following",
           "1 heavy flamer",
-          "◦",
           "1 meltagun"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Librarian Dreadnought",
           "This model is equipped with",
           "Blood Lance; storm bolter;",
           "Furioso fist, Furioso force halberd.",
           "LIBRARIAN DREADNOUGHT",
-          "Such is the Blood Angels’ connection to the warp that those Librarians",
+          "Such is the Blood Angels' connection to the warp that those Librarians",
           "interred in Dreadnoughts retain their link to it. They are dangerous",
           "enemies to face, with all the adamantine strength of a Dreadnought as",
-          "well as the ability to boil an enemy’s blood in their veins, or blast foes",
+          "well as the ability to boil an enemy's blood in their veins, or blast foes",
           "apart with beams of energy."
         ]
       }
@@ -2129,17 +2348,21 @@
       "Adeptus Astartes",
       "Blood Angels"
     ],
-    "abilities": {
-      "core": "Deep Strike",
-      "faction": "Oath of Moment",
-      "special": [
-        "Angelic Visage: Each time a melee attack targets this unit, subtract 1 from the Hit roll.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deep Strike"
+            },{
+              "title": "FACTION",
+              "text": "Oath of Moment"
+            },
+      "Angelic Visage: Each time a melee attack targets this unit, subtract 1 from the Hit roll.",
         "Heirs of Azkaellon: While a Warlord model is leading this unit, each time a melee attack targets this unit, subtract 1 from the Wound roll.",
-        "WARGEAR ABILITIES Sanguinary Banner: Add 1 to the Objective Control characteristic of models in the bearer’s unit."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+        "WARGEAR ABILITIES Sanguinary Banner: Add 1 to the Objective Control characteristic of models in the bearer's unit."
+    }],
     "stats": {
       "m": "12\"",
       "t": "4",
@@ -2155,22 +2378,25 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "Any number of models can each have their angelus boltgun replaced with one of the following",
-          "◦",
           "1 inferno pistol",
-          "◦",
           "1 plasma pistol",
-          "■",
-          "For every 5 models in this unit, one model’s encarmine blade can be replaced with 1 power fist.",
-          "■",
+          "For every 5 models in this unit, one model's encarmine blade can be replaced with 1 power fist.",
           "1 model can be equipped with 1 sanguinary banner."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "5-10 Sanguinary Guard",
           "Every model is equipped with",
           "angelus boltgun;",
@@ -2235,16 +2461,20 @@
       "Adeptus Astartes",
       "Blood Angels"
     ],
-    "abilities": {
-      "core": "Leader",
-      "faction": "Oath of Moment",
-      "special": [
-        "Sanguinary Priest: While this model is leading a unit, models in that unit have the Feel No Pain 5+ ability.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Leader"
+            },{
+              "title": "FACTION",
+              "text": "Oath of Moment"
+            },
+      "Sanguinary Priest: While this model is leading a unit, models in that unit have the Feel No Pain 5+ ability.",
         "Blood Chalice: While this model is leading a unit, improve the Armour Penetration characteristic of melee weapons equipped by models in that unit by 1."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "6\"",
       "t": "4",
@@ -2257,30 +2487,41 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Sanguinary Priest",
           "This model is equipped with",
           "bolt pistol; Astartes chainsword."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following units",
-          "■",
           "Assault Squad",
-          "■",
           "Devastator Squad",
-          "■",
           "Tactical Squad",
-          "■",
           "Vanguard Veteran Squad",
           "You can attach this model to one of the above units, even if",
           "one",
@@ -2294,8 +2535,8 @@
           "unit is destroyed, the Leader units attached to it become",
           "separate units, with their original Starting Strengths.",
           "SANGUINARY PRIEST",
-          "The Sanguinary Priests are the Blood Angels’ Apothecaries, and hold",
-          "responsibility for the Chapter’s soul as well as its body. Through their",
+          "The Sanguinary Priests are the Blood Angels' Apothecaries, and hold",
+          "responsibility for the Chapter's soul as well as its body. Through their",
           "ministrations and ceremonies do they call upon the Blood Angels",
           "to embrace the Red Thirst, control it and unleash their rage upon",
           "the enemy."
@@ -2319,7 +2560,6 @@
       "Imperium"
     ],
     "weapons": {
-      "ranged": [],
       "melee": [
         {
           "name": "Encarmine broadsword [DEVASTATING WOUNDS]",
@@ -2336,17 +2576,31 @@
       "Adeptus Astartes",
       "Blood Angels"
     ],
-    "abilities": {
-      "core": "Deep Strike, Fights First, Lone Operative",
-      "faction": "Oath of Moment",
-      "special": [
-        "Aura of Fervour (Aura): While a friendly Adeptus Astartes unit is within 6\" of this model, you can re-roll Battle-shock and Leadership tests taken for that unit.",
-        "Miraculous Saviour: Once per battle, at the end of your opponent’s Charge phase, if this model is still in Reserves, you can select one enemy unit that made a Charge move this phase.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deep Strike, Fights First, Lone Operative"
+            },{
+              "title": "FACTION",
+              "text": "Oath of Moment"
+            },
+      "Aura of Fervour (Aura): While a friendly Adeptus Astartes unit is within 6\" of this model, you can re-roll Battle-shock and Leadership tests taken for that unit.",
+        "Miraculous Saviour: Once per battle, at the end of your opponent's Charge phase, if this model is still in Reserves, you can select one enemy unit that made a Charge move this phase.",
         "Set this model up on the battlefield within Engagement Range of that enemy unit."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "12\"",
       "t": "4",
@@ -2359,24 +2613,31 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 The Sanguinor -",
           "Epic Hero",
           "This model is equipped with",
           "encarmine broadsword.",
           "THE SANGUINOR",
           "The Sanguinor is a mysterious figure who fights only on battlefields",
-          "of the most paramount importance, when the Blood Angels’ need is",
+          "of the most paramount importance, when the Blood Angels' need is",
           "greatest. He inspires as much courage in the sons of Sanguinius as",
           "he does fear in the enemy, and surges across the field as if he were",
-          "Sanguinius’ will made manifest."
+          "Sanguinius' will made manifest."
         ]
       }
     ]
@@ -2419,7 +2680,7 @@
       ],
       "melee": [
         {
-          "name": "Dead Man’s Hand",
+          "name": "Dead Man's Hand",
           "range": "Melee",
           "a": "6",
           "bws": "2+",
@@ -2433,18 +2694,32 @@
       "Adeptus Astartes",
       "Blood Angels"
     ],
-    "abilities": {
-      "core": "Leader, Feel No Pain 6+",
-      "faction": "Oath of Moment",
-      "special": [
-        "Forlorn Hero: While this model is leading a unit, that unit is eligible to declare a charge in a turn in which it Advanced.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Leader, Feel No Pain 6+"
+            },{
+              "title": "FACTION",
+              "text": "Oath of Moment"
+            },
+      "Forlorn Hero: While this model is leading a unit, that unit is eligible to declare a charge in a turn in which it Advanced.",
         "Black Rage: Each time this model makes an attack, you can re-roll the Hit roll.",
         "While this model is not within 12\" of one or more friendly Chaplain models, it cannot be selected to Fall Back and its Objective Control characteristic is 0.",
         "Death Vision of Sanguinius: If this model is destroyed by a melee attack, after the attacking unit has finished making its attacks, you can roll one D6, adding 2 to the result if the attacking unit contains the enemy Warlord : on a 2-3, that enemy unit suffers 3 mortal wounds; on a 4-5, that enemy unit suffers D3+3 mortal wounds; on a 6+, that enemy unit suffers D6+3 mortal wounds."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "6\"",
       "t": "4",
@@ -2457,26 +2732,40 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Tycho the Lost -",
           "Epic Hero",
           "This model is equipped with",
           "Blood Song; bolt pistol;",
-          "Dead Man’s Hand."
+          "Dead Man's Hand."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following unit",
-          "■",
           "Death Company Marines",
           "TYCHO",
           "Your army cannot contain both",
@@ -2490,7 +2779,7 @@
           "Captain Tycho, as it will consume all sons of Sanguinius, and he took",
           "his place in the Death Company. He cut down Orks with volleys from",
           "Blood Song and blasts from the digital weapons built into his left",
-          "gauntlet, known as Dead Man’s Hand."
+          "gauntlet, known as Dead Man's Hand."
         ]
       }
     ]
@@ -2538,16 +2827,20 @@
       "Adeptus Astartes",
       "Blood Angels"
     ],
-    "abilities": {
-      "core": "Deep Strike, Leader",
-      "faction": "Oath of Moment",
-      "special": [
-        "Sanguinary Priest: While this model is leading a unit, models in that unit have the Feel No Pain 5+ ability.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deep Strike, Leader"
+            },{
+              "title": "FACTION",
+              "text": "Oath of Moment"
+            },
+      "Sanguinary Priest: While this model is leading a unit, models in that unit have the Feel No Pain 5+ ability.",
         "Blood Chalice: While this model is leading a unit, improve the Armour Penetration characteristic of melee weapons equipped by models in that unit by 1."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "12\"",
       "t": "4",
@@ -2560,26 +2853,39 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Sanguinary Priest",
           "This model is equipped with",
           "bolt pistol; Astartes chainsword."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following units",
-          "■",
           "Assault Squad with Jump Packs",
-          "■",
           "Vanguard Veteran Squad with Jump packs",
           "You can attach this model to one of the above units, even if",
           "one",
@@ -2594,8 +2900,8 @@
           "separate units, with their original Starting Strengths.",
           "SANGUINARY PRIEST",
           "WITH JUMP PACK",
-          "The Sanguinary Priests are the Blood Angels’ Apothecaries, and hold",
-          "responsibility for the Chapter’s soul as well as its body. Through their",
+          "The Sanguinary Priests are the Blood Angels' Apothecaries, and hold",
+          "responsibility for the Chapter's soul as well as its body. Through their",
           "ministrations and ceremonies do they call upon the Blood Angels",
           "to embrace the Red Thirst, control it and unleash their rage upon",
           "the enemy."

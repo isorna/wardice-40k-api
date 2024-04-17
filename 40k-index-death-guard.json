@@ -1,7 +1,7 @@
 {
   "factionId": "death-guard",
   "rules": {
-    "title": "NURGLE’S GIFT (AURA)",
+    "title": "NURGLE'S GIFT (AURA)",
     "rules": [
       {
         "text": ""
@@ -114,7 +114,7 @@
           "points": 20,
           "rules": [
             {
-              "text": "Death Guard model only. Add 3\" to the range of the bearer’s Aura abilities (including Nurgle’s Gift)."
+              "text": "Death Guard model only. Add 3\" to the range of the bearer's Aura abilities (including Nurgle's Gift)."
             }
           ]
         },
@@ -132,7 +132,7 @@
           "points": 15,
           "rules": [
             {
-              "text": "Death Guard model only. Add 1 to the Strength and Attacks characteristics of the bearer’s melee weapons. While the bearer is within range of an Infected objective marker you control, add 2 to the Strength and Attacks characteristics of the bearer’s melee weapons instead."
+              "text": "Death Guard model only. Add 1 to the Strength and Attacks characteristics of the bearer's melee weapons. While the bearer is within range of an Infected objective marker you control, add 2 to the Strength and Attacks characteristics of the bearer's melee weapons instead."
             }
           ]
         },
@@ -141,7 +141,7 @@
           "points": 25,
           "rules": [
             {
-              "text": "Death Guard model only. Each time the bearer’s unit is selected as a target of an enemy unit’s charge, until the end of the phase, subtract 2 from Charge rolls made for that enemy unit."
+              "text": "Death Guard model only. Each time the bearer's unit is selected as a target of an enemy unit's charge, until the end of the phase, subtract 2 from Charge rolls made for that enemy unit."
             }
           ]
         }
@@ -200,15 +200,29 @@
     "factionKeywords": [
       "Death Guard"
     ],
-    "abilities": {
-      "core": "Deadly Demise D3",
-      "faction": "Nurgle’s Gift (Aura)",
-      "special": [
-        "Grandfather’s Blessing (Aura, Psychic): While a friendly Death Guard Infantry unit is within Contagion Range of this model, models in that unit have the Feel No Pain 6+ ability."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D3"
+            },{
+              "title": "FACTION",
+              "text": "Nurgle's Gift (Aura)"
+            },
+      "Grandfather's Blessing (Aura, Psychic): While a friendly Death Guard Infantry unit is within Contagion Range of this model, models in that unit have the Feel No Pain 6+ ability."
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "7\"",
       "t": "11",
@@ -224,14 +238,21 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Death Guard Daemon Prince",
           "This model is equipped with",
           "plague spewer;",
@@ -298,17 +319,33 @@
     "factionKeywords": [
       "Death Guard"
     ],
-    "abilities": {
-      "core": "Deadly Demise D3",
-      "faction": "Nurgle’s Gift (Aura)",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D3"
+            },{
+              "title": "FACTION",
+              "text": "Nurgle's Gift (Aura)"
+            },
       "special": [
         "Warp Horror (Psychic): Each time this model ends a Charge move, select one enemy unit within Engagement Range of it.",
         "That unit must take a Battle-shock test.",
         "Devastating Assault: Each time this model ends a Charge move, until the end of the turn, its hellforged weapons have the [DEVASTATING WOUNDS] ability."
       ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "11\"",
       "t": "10",
@@ -324,14 +361,21 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Death Guard Daemon Prince with Wings",
           "This model is equipped with",
           "plague spewer;",
@@ -363,7 +407,6 @@
       "Psyker"
     ],
     "weapons": {
-      "ranged": [],
       "melee": [
         {
           "name": "Master-crafted manreaper - strike [LETHAL HITS]",
@@ -388,16 +431,30 @@
     "factionKeywords": [
       "Death Guard"
     ],
-    "abilities": {
-      "core": "Deep Strike, Leader",
-      "faction": "Nurgle’s Gift (Aura)",
-      "special": [
-        "The Destroyer Hive: While this model is leading a unit, each time a melee attack targets that unit, subtract 1 from the Hit roll.",
-        "The Eater Plague (Psychic): In your Shooting phase, you can select one enemy unit within 18\" of and visible to this Psyker and roll one D6: on a 1, this Psyker ’s unit suffers D3 mortal wounds; on a 2-5, that enemy unit suffers D6 mortal wounds; on a 6, that enemy unit suffers D3+3 mortal wounds."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deep Strike, Leader"
+            },{
+              "title": "FACTION",
+              "text": "Nurgle's Gift (Aura)"
+            },
+      "The Destroyer Hive: While this model is leading a unit, each time a melee attack targets that unit, subtract 1 from the Hit roll.",
+        "The Eater Plague (Psychic): In your Shooting phase, you can select one enemy unit within 18\" of and visible to this Psyker and roll one D6: on a 1, this Psyker 's unit suffers D3 mortal wounds; on a 2-5, that enemy unit suffers D6 mortal wounds; on a 6, that enemy unit suffers D3+3 mortal wounds."
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "5\"",
       "t": "6",
@@ -413,33 +470,45 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Typhus -",
           "Epic Hero",
           "This model is equipped with",
           "master-crafted manreaper."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following units",
-          "■",
           "Blightlord Terminators",
-          "■",
           "Deathshroud Terminators",
-          "■",
           "Poxwalkers",
           "TYPHUS",
           "Host of the Destroyer Hive, for millennia Typhus has travelled the",
-          "galaxy, spreading Nurgle’s Rot and killing billions. When he takes to",
+          "galaxy, spreading Nurgle's Rot and killing billions. When he takes to",
           "the field, he slices apart countless foes with his filth-encrusted power",
           "scythe and unleashes the swarming horror of his Destroyer Hive to",
           "engulf them in murderous plague-flies."
@@ -552,16 +621,30 @@
     "factionKeywords": [
       "Death Guard"
     ],
-    "abilities": {
-      "core": "Leader",
-      "faction": "Nurgle’s Gift (Aura)",
-      "special": [
-        "Chaos Lord: While this model is leading a unit, each time a model in that unit makes an attack, re-roll a Hit roll of 1.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Leader"
+            },{
+              "title": "FACTION",
+              "text": "Nurgle's Gift (Aura)"
+            },
+      "Chaos Lord: While this model is leading a unit, each time a model in that unit makes an attack, re-roll a Hit roll of 1.",
         "Desiccation Conduit (Aura): While an enemy unit is within Contagion Range of this model, at the end of the turn, roll one D6: on a 4+, that enemy unit suffers D3 mortal wounds."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "5\"",
       "t": "5",
@@ -577,50 +660,55 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s plague bolt pistol can be replaced with one of the following",
-          "◦",
+          "This model's plague bolt pistol can be replaced with one of the following",
           "1 combi-weapon",
-          "◦",
           "1 plague combi-bolter",
-          "◦",
           "1 plague fist",
-          "◦",
           "1 plague-encrusted exalted weapon",
-          "◦",
           "1 plasma pistol",
-          "■",
-          "This model’s Astartes chainsword can be replaced with one of the following",
-          "◦",
+          "This model's Astartes chainsword can be replaced with one of the following",
           "1 plague fist",
-          "◦",
           "1 plague-encrusted exalted weapon",
-          "■",
-          "This model’s plague bolt pistol and Astartes chainsword can be replaced with 1 twin lighting claws."
+          "This model's plague bolt pistol and Astartes chainsword can be replaced with 1 twin lighting claws."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Death Guard Chaos Lord",
           "This model is equipped with",
           "plague bolt pistol;",
           "Astartes chainsword."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following unit",
-          "■",
           "Plague Marines",
           "DEATH GUARD CHAOS LORD",
-          "Death Guard Lords hold positions of command throughout the Legion’s",
+          "Death Guard Lords hold positions of command throughout the Legion's",
           "structure. All are powerful warriors, proving their right to rule through",
           "acts of destruction, corruption and endurance. They combine all the",
           "tactical nous of a Space Marine champion with a deep-seated desire to",
-          "spread Grandfather Nurgle’s blessings."
+          "spread Grandfather Nurgle's blessings."
         ]
       }
     ]
@@ -703,16 +791,30 @@
     "factionKeywords": [
       "Death Guard"
     ],
-    "abilities": {
-      "core": "Deep Strike, Leader",
-      "faction": "Nurgle’s Gift (Aura)",
-      "special": [
-        "Chaos Lord: While this model is leading a unit, each time a model in that unit makes an attack, re-roll a Hit roll of 1.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deep Strike, Leader"
+            },{
+              "title": "FACTION",
+              "text": "Nurgle's Gift (Aura)"
+            },
+      "Chaos Lord: While this model is leading a unit, each time a model in that unit makes an attack, re-roll a Hit roll of 1.",
         "Desiccation Conduit (Aura): While an enemy unit is within Contagion Range of this model, at the end of the turn, roll one D6: on a 4+, that enemy unit suffers D3 mortal wounds."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "4\"",
       "t": "6",
@@ -725,47 +827,54 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s plague combi-bolter can be replaced with one of the following",
-          "◦",
+          "This model's plague combi-bolter can be replaced with one of the following",
           "1 combi-weapon",
-          "◦",
           "1 plague-encrusted exalted weapon",
-          "■",
-          "This model’s plague-encrusted exalted weapon can be replaced with one of the following",
-          "◦",
+          "This model's plague-encrusted exalted weapon can be replaced with one of the following",
           "1 chainfist",
-          "◦",
           "1 plague fist",
-          "■",
-          "This model’s plague combi-bolter and plague-encrusted exalted weapon can be replaced with 1 twin",
+          "This model's plague combi-bolter and plague-encrusted exalted weapon can be replaced with 1 twin",
           "lighting claws."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Death Guard Chaos Lord in Terminator Armour",
           "This model is equipped with",
           "plague combi-bolter;",
           "plague-encrusted exalted weapon."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following units",
-          "■",
           "Blightlord Terminators",
-          "■",
           "Deathshroud Terminators",
           "DEATH GUARD CHAOS LORD",
           "IN TERMINATOR ARMOUR",
           "Every Death Guard lord is a formidable opponent, dripping with infectious",
           "disease and armed to the teeth with toxin-smeared weaponry. Those clad in",
           "diseased Terminator armour are yet more deadly. Their nigh on impregnable",
-          "plate is fused with their flesh, bulging and hardened thanks to Nurgle’s",
+          "plate is fused with their flesh, bulging and hardened thanks to Nurgle's",
           "blessings, making them even more durable."
         ]
       }
@@ -812,16 +921,32 @@
     "factionKeywords": [
       "Death Guard"
     ],
-    "abilities": {
-      "core": "Deep Strike, Leader",
-      "faction": "Nurgle’s Gift (Aura)",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deep Strike, Leader"
+            },{
+              "title": "FACTION",
+              "text": "Nurgle's Gift (Aura)"
+            },
       "special": [
         "Master of Destruction: While this model is leading a unit, each time a model in that unit makes a ranged attack, you can re-roll the Wound roll.",
         "Blight Bombardment: Each time a friendly Death Guard model makes an attack with a Blast weapon that targets a unit that is visible to this model, add 1 to the Hit roll and that attack has the [IGNORES COVER] ability."
       ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "4\"",
       "t": "6",
@@ -834,30 +959,43 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Lord of Virulence",
           "This model is equipped with",
           "twin plague spewer; heavy",
           "plague fist."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following units",
-          "■",
           "Blightlord Terminators",
-          "■",
           "Deathshroud Terminators",
           "LORD OF VIRULENCE",
-          "Tubes and pipes erupt in profusion from the Lord of Virulence’s armour.",
+          "Tubes and pipes erupt in profusion from the Lord of Virulence's armour.",
           "From these gout noxious fumes, putrid eruptions whose hue and",
           "stench guide the fire of artillery engines behind the lines. Behind them",
           "their flensefrond cloaks leave a trail of sickening mucosal slime for",
@@ -882,7 +1020,6 @@
       "Grenades"
     ],
     "weapons": {
-      "ranged": [],
       "melee": [
         {
           "name": "Plagueblade - strike [LETHAL HITS]",
@@ -907,16 +1044,30 @@
     "factionKeywords": [
       "Death Guard"
     ],
-    "abilities": {
-      "core": "Deep Strike, Leader",
-      "faction": "Nurgle’s Gift (Aura)",
-      "special": [
-        "Vector of Disease: While this model is leading a unit, each time a model in that unit makes a melee attack, you can re-roll the Hit roll.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deep Strike, Leader"
+            },{
+              "title": "FACTION",
+              "text": "Nurgle's Gift (Aura)"
+            },
+      "Vector of Disease: While this model is leading a unit, each time a model in that unit makes a melee attack, you can re-roll the Hit roll.",
         "Abundance of Sickness: In the Fight phase, each time this model loses a wound, roll one D6: on a 4+, the closest enemy unit within Engagement Range of this model suffers 1 mortal wound."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "4\"",
       "t": "6",
@@ -932,26 +1083,39 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Lord of Contagion",
           "This model is equipped with",
           "plagueblade."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following units",
-          "■",
           "Blightlord Terminators",
-          "■",
           "Deathshroud Terminators",
           "LORD OF CONTAGION",
           "Lords of Contagion are the most aggressive Death Guard lords.",
@@ -1068,17 +1232,31 @@
     "factionKeywords": [
       "Death Guard"
     ],
-    "abilities": {
-      "core": "Deep Strike, Leader",
-      "faction": "Nurgle’s Gift (Aura)",
-      "special": [
-        "Putrescent Vitality (Psychic): At the start of the Fight phase, you can select one enemy unit within 18\" of and visible to this Psyker and roll one D6: on a 1, this Psyker ’s unit suffers D3 mortal wounds; on a 2+, until the end of the phase, each time an attack is allocated to a model in this Psyker ’s unit, subtract 1 from the Damage characteristic of that attack.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deep Strike, Leader"
+            },{
+              "title": "FACTION",
+              "text": "Nurgle's Gift (Aura)"
+            },
+      "Putrescent Vitality (Psychic): At the start of the Fight phase, you can select one enemy unit within 18\" of and visible to this Psyker and roll one D6: on a 1, this Psyker 's unit suffers D3 mortal wounds; on a 2+, until the end of the phase, each time an attack is allocated to a model in this Psyker 's unit, subtract 1 from the Damage characteristic of that attack.",
         "Pestilent Familiar (Psychic): Once per battle, after selecting targets for a Psychic weapon equipped by this model, until the end of the phase, improve the Strength and Damage characteristics of that weapon by 2.",
-        "Designer’s Note: Place a Pestilent Familiar token next to this model, removing it once this ability has been used."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+        "Designer's Note: Place a Pestilent Familiar token next to this model, removing it once this ability has been used."
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "4\"",
       "t": "6",
@@ -1094,41 +1272,47 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s plague combi-bolter can be replaced with one of the following",
-          "◦",
+          "This model's plague combi-bolter can be replaced with one of the following",
           "1 combi-weapon",
-          "◦",
           "1 plague-encrusted exalted weapon",
-          "■",
-          "This model’s force weapon can be replaced with one of the following",
-          "◦",
+          "This model's force weapon can be replaced with one of the following",
           "1 chainfist",
-          "◦",
           "1 plague fist",
-          "◦",
           "1 plague-encrusted exalted weapon",
-          "■",
-          "This model’s plague combi-bolter and force weapon can be replaced with 1 twin lighting claws."
+          "This model's plague combi-bolter and force weapon can be replaced with 1 twin lighting claws."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Death Guard Sorcerer in Terminator Armour",
           "This model is equipped with",
           "Curse of the Leper;",
           "plague combi-bolter; force weapon."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following units",
-          "■",
           "Blightlord Terminators",
-          "■",
           "Deathshroud Terminators",
           "DEATH GUARD SORCERER",
           "IN TERMINATOR ARMOUR",
@@ -1200,16 +1384,20 @@
     "factionKeywords": [
       "Death Guard"
     ],
-    "abilities": {
-      "core": "Leader",
-      "faction": "Nurgle’s Gift (Aura)",
-      "special": [
-        "Gift of Contagion (Psychic): In your Shooting phase, you can select one enemy unit within 18\" of and visible to this Psyker and roll one D6: on a 1, this Psyker ’s unit suffers D3 mortal wounds; on a 2+, until the start of your next Shooting phase, each time a model in that enemy unit makes a melee attack, subtract 1 from the Wound roll.",
-        "Pestilent Fallout (Psychic): In your Shooting phase, after this model has shot, if one or more of those attacks made with its Plague Wind scored a wound against an enemy Infantry unit, until the start of your next turn, subtract 2 from that unit’s Move characteristic and subtract 2 from Advance and Charge rolls made for that unit."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Leader"
+            },{
+              "title": "FACTION",
+              "text": "Nurgle's Gift (Aura)"
+            },
+      "Gift of Contagion (Psychic): In your Shooting phase, you can select one enemy unit within 18\" of and visible to this Psyker and roll one D6: on a 1, this Psyker 's unit suffers D3 mortal wounds; on a 2+, until the start of your next Shooting phase, each time a model in that enemy unit makes a melee attack, subtract 1 from the Wound roll.",
+        "Pestilent Fallout (Psychic): In your Shooting phase, after this model has shot, if one or more of those attacks made with its Plague Wind scored a wound against an enemy Infantry unit, until the start of your next turn, subtract 2 from that unit's Move characteristic and subtract 2 from Advance and Charge rolls made for that unit."
+    }],
     "stats": {
       "m": "5\"",
       "t": "5",
@@ -1225,29 +1413,43 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Malignant Plaguecaster",
           "This model is equipped with",
           "plague bolt pistol; Plague Wind;",
           "corrupted staff."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following unit",
-          "■",
           "Plague Marines",
           "MALIGNANT PLAGUECASTER",
-          "Every foetid fibre of a Malignant Plaguecaster’s body is rotted and",
-          "decayed. They are living conduits for the Garden of Nurgle’s miasmas",
+          "Every foetid fibre of a Malignant Plaguecaster's body is rotted and",
+          "decayed. They are living conduits for the Garden of Nurgle's miasmas",
           "and maladies. Foul blights reside within their roiling, bloated frames,",
           "and when they are unleashed in an eruption of vomit and gases they",
           "liquefy metal, stone and flesh."
@@ -1397,15 +1599,19 @@
     "factionKeywords": [
       "Death Guard"
     ],
-    "abilities": {
-      "core": "Nurgle’s Gift (Aura)",
-      "faction": "While this unit is within range of an objective",
-      "special": [
-        "marker you control, each time you take a Battle-shock test for this unit, add 1 to that test."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Nurgle's Gift (Aura)"
+            },{
+              "title": "FACTION",
+              "text": "While this unit is within range of an objective"
+            },
+      "marker you control, each time you take a Battle-shock test for this unit, add 1 to that test."
+    }],
     "stats": {
       "m": "5\"",
       "t": "5",
@@ -1421,56 +1627,48 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "The Plague Champion’s plague boltgun can be",
+          "The Plague Champion's plague boltgun can be",
           "replaced with one of the following",
-          "◦",
           "1 plague bolt pistol",
-          "◦",
           "1 plasma gun",
-          "◦",
           "1 plasma pistol",
-          "■",
-          "The Plague Champion’s plague knives can be",
+          "The Plague Champion's plague knives can be",
           "replaced with one of the following",
-          "◦",
           "1 bubotic weapons",
-          "◦",
           "1 heavy plague weapon",
-          "■",
           "For every 5 models in this unit, 1 Plague",
-          "Marine’s plague boltgun can be replaced with 1",
+          "Marine's plague boltgun can be replaced with 1",
           "blight launcher.",
-          "■",
           "For every 5 models in this unit, 1 Plague",
-          "Marine’s plague boltgun can be replaced with 1",
+          "Marine's plague boltgun can be replaced with 1",
           "plague spewer.",
-          "■",
           "For every 5 models in this unit, 1 Plague",
-          "Marine’s plague boltgun can be replaced with",
+          "Marine's plague boltgun can be replaced with",
           "one of the following",
-          "◦",
           "1 meltagun",
-          "◦",
           "1 plague belcher",
-          "◦",
           "1 plasma gun",
-          "■",
           "For every 5 models in this unit, up to 2 Plague",
           "Marines can each have their plague boltgun",
           "replaced with 1 bubotic weapons.",
-          "■",
           "For every 5 models in this unit, up to 2 Plague",
           "Marines can each have their plague boltgun",
           "replaced with 1 heavy plague weapon."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Plague Champion",
-          "■",
           "4-9 Plague Marines",
           "Every model is equipped with",
           "plague boltgun; plague knives.",
@@ -1561,13 +1759,19 @@
     "factionKeywords": [
       "Death Guard"
     ],
-    "abilities": {
-      "core": "Scouts 6\"",
-      "faction": "Nurgle’s Gift (Aura)",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Scouts 6\""
+            },{
+              "title": "FACTION",
+              "text": "Nurgle's Gift (Aura)"
+            },
       "special": []
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "6\"",
       "t": "3",
@@ -1583,22 +1787,26 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "For every 10 models in the unit, 1 Death Guard Cultist’s Cultist firearm can be replaced with 1 flamer.",
-          "■",
-          "For every 10 models in the unit, 1 Death Guard Cultist’s Cultist firearm can be replaced with",
+          "For every 10 models in the unit, 1 Death Guard Cultist's Cultist firearm can be replaced with 1 flamer.",
+          "For every 10 models in the unit, 1 Death Guard Cultist's Cultist firearm can be replaced with",
           "1 heavy stubber.",
-          "■",
-          "For every 10 models in the unit, 1 Death Guard Cultist’s Cultist firearm can be replaced with",
+          "For every 10 models in the unit, 1 Death Guard Cultist's Cultist firearm can be replaced with",
           "1 grenade launcher."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Death Guard Cultist Champion",
-          "■",
           "9-19 Death Guard Cultists",
           "Every model is equipped with",
           "Cultist firearm;",
@@ -1628,7 +1836,6 @@
       "Poxwalkers"
     ],
     "weapons": {
-      "ranged": [],
       "melee": [
         {
           "name": "Improvised weapon [LETHAL HITS]",
@@ -1644,16 +1851,20 @@
     "factionKeywords": [
       "Death Guard"
     ],
-    "abilities": {
-      "core": "Feel No Pain 5+",
-      "faction": "Nurgle’s Gift (Aura)",
-      "special": [
-        "Curse of the Walking Pox: Each time a model in this unit makes an attack that destroys an enemy model (excluding Monster and Vehicle models), you can return one destroyed Poxwalker model to this unit.",
-        "While Typhus is leading this unit, enemy models destroyed as a result of Typhus ’ The Eater Plague ability count as enemy models destroyed by an attack made by a model in this unit for the purposes of this ability."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Feel No Pain 5+"
+            },{
+              "title": "FACTION",
+              "text": "Nurgle's Gift (Aura)"
+            },
+      "Curse of the Walking Pox: Each time a model in this unit makes an attack that destroys an enemy model (excluding Monster and Vehicle models), you can return one destroyed Poxwalker model to this unit.",
+        "While Typhus is leading this unit, enemy models destroyed as a result of Typhus ' The Eater Plague ability count as enemy models destroyed by an attack made by a model in this unit for the purposes of this ability."
+    }],
     "stats": {
       "m": "4\"",
       "t": "4",
@@ -1666,14 +1877,21 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "10-20 Poxwalkers",
           "Every model is equipped with",
           "improvised weapon.",
@@ -1737,16 +1955,20 @@
     "factionKeywords": [
       "Death Guard"
     ],
-    "abilities": {
-      "core": "Leader",
-      "faction": "Nurgle’s Gift (Aura)",
-      "special": [
-        "Sickening Vitality: While this model is leading a unit, you can re-roll Advance and Charge rolls made for that unit.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Leader"
+            },{
+              "title": "FACTION",
+              "text": "Nurgle's Gift (Aura)"
+            },
+      "Sickening Vitality: While this model is leading a unit, you can re-roll Advance and Charge rolls made for that unit.",
         "The Bell Tolls (Aura): While an enemy unit is within Contagion Range of this model, each time a Battle-shock or Leadership test is taken for that enemy unit, subtract 2 from that test."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "5\"",
       "t": "5",
@@ -1762,25 +1984,39 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Noxious Blightbringer",
           "This model is equipped with",
           "plasma pistol; cursed",
           "plague bell."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following unit",
-          "■",
           "Plague Marines",
           "You can attach this model to a",
           "Plague Marines",
@@ -1792,7 +2028,7 @@
           "original Starting Strengths.",
           "NOXIOUS BLIGHTBRINGER",
           "Cursed plague bells tolling, Noxious Blightbringers sow weakness",
-          "among the enemy. Each rippling sound wave erodes the enemy’s will",
+          "among the enemy. Each rippling sound wave erodes the enemy's will",
           "to fight and spawns maggots in the minds of psykers. To the Death",
           "Guard the sound is beautiful, and upon hearing it they surge eagerly",
           "into the fray."
@@ -1842,15 +2078,19 @@
     "factionKeywords": [
       "Death Guard"
     ],
-    "abilities": {
-      "core": "Leader",
-      "faction": "Nurgle’s Gift (Aura)",
-      "special": [
-        "Putrefying Stink: While this model is leading a unit, models in that unit have the Fights First ability."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Leader"
+            },{
+              "title": "FACTION",
+              "text": "Nurgle's Gift (Aura)"
+            },
+      "Putrefying Stink: While this model is leading a unit, models in that unit have the Fights First ability."
+    }],
     "stats": {
       "m": "5\"",
       "t": "5",
@@ -1863,25 +2103,39 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Foul Blightspawn",
           "This model is equipped with",
           "plague sprayer; close",
           "combat weapon."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following unit",
-          "■",
           "Plague Marines",
           "You can attach this model to a",
           "Plague Marines",
@@ -1892,7 +2146,7 @@
           "Leader units attached to it become separate units, with their",
           "original Starting Strengths.",
           "FOUL BLIGHTSPAWN",
-          "Upon a Foul Blightspawn’s back is a malignant churn. As he cranks its",
+          "Upon a Foul Blightspawn's back is a malignant churn. As he cranks its",
           "rusted handle, he mixes a foul concoction of bubbling diseases and",
           "pollutants. Once satisfied his burbling blend of choking stew is ready,",
           "he levels his plague sprayer at the foe. Out his mixture surges like",
@@ -1951,17 +2205,23 @@
     "factionKeywords": [
       "Death Guard"
     ],
-    "abilities": {
-      "core": "Deadly Demise 1, Leader",
-      "faction": "Nurgle’s Gift (Aura)",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise 1, Leader"
+            },{
+              "title": "FACTION",
+              "text": "Nurgle's Gift (Aura)"
+            },
       "special": [
         "Foul Infusion: While this model is leading a unit, weapons equipped by models in that unit have the [LETHAL HITS] ability.",
         "In addition, each time a model in that unit makes an attack, a Critical Hit is scored on an unmodified Hit roll of 5+, instead of only a 6.",
         "Explosive Maladies: Once per battle, in your Shooting phase, you can target this model with the Grenade Stratagem for 0CP, and can do so even if you have already targeted a different unit with that Stratagem this phase."
       ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "5\"",
       "t": "5",
@@ -1974,25 +2234,39 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Biologus Putrifier",
           "This model is equipped with",
           "hyper blight grenades; injector",
           "pistol; plague knives."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following unit",
-          "■",
           "Plague Marines",
           "You can attach this model to a",
           "Plague Marines",
@@ -2062,16 +2336,20 @@
     "factionKeywords": [
       "Death Guard"
     ],
-    "abilities": {
-      "core": "Leader",
-      "faction": "Nurgle’s Gift (Aura)",
-      "special": [
-        "Malicious Calculations: While this model is leading a unit, each time a model in that unit makes an attack, add 1 to the Hit roll.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Leader"
+            },{
+              "title": "FACTION",
+              "text": "Nurgle's Gift (Aura)"
+            },
+      "Malicious Calculations: While this model is leading a unit, each time a model in that unit makes an attack, add 1 to the Hit roll.",
         "The Seven-fold Chant: In your Command phase, if this model is on the battlefield, roll 2D6: on a 7+, you gain 1CP."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "5\"",
       "t": "5",
@@ -2087,25 +2365,39 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Tallyman",
           "This model is equipped with",
           "infected plasma pistol; close",
           "combat weapon."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following unit",
-          "■",
           "Plague Marines",
           "You can attach this model to a",
           "Plague Marines",
@@ -2116,7 +2408,7 @@
           "Leader units attached to it become separate units, with their",
           "original Starting Strengths.",
           "TALLYMAN",
-          "The Tallymen are the preachers of Nurgle’s sevenfold doctrine.",
+          "The Tallymen are the preachers of Nurgle's sevenfold doctrine.",
           "They are bedecked with rotten scrolls covered in frenzied scrawls",
           "and tallies. Nurglings crawl around them, bearing more tomes",
           "and parchments. Through gigantic vox speakers Tallymen bellow",
@@ -2166,18 +2458,22 @@
     "factionKeywords": [
       "Death Guard"
     ],
-    "abilities": {
-      "core": "Leader",
-      "faction": "Nurgle’s Gift (Aura)",
-      "special": [
-        "Tainted Narthecium: While this model is leading a unit, in your Command phase, you can return 1 destroyed Bodyguard model to that unit.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Leader"
+            },{
+              "title": "FACTION",
+              "text": "Nurgle's Gift (Aura)"
+            },
+      "Tainted Narthecium: While this model is leading a unit, in your Command phase, you can return 1 destroyed Bodyguard model to that unit.",
         "Diseased Healing: At the end of your Movement phase, you can select one friendly Death Guard Infantry Character model within 3\" of this model.",
         "That model regains up to 3 lost wounds.",
         "Each model can only be selected for this ability once per turn."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "5\"",
       "t": "5",
@@ -2190,24 +2486,38 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Plague Surgeon",
           "This model is equipped with",
           "plague bolt pistol; balesword."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following unit",
-          "■",
           "Plague Marines",
           "You can attach this model to a",
           "Plague Marines",
@@ -2221,7 +2531,7 @@
           "miasmas, Plague Surgeons carry vials and alembics full of boosters",
           "and macro-stimulants for countless plagues. By such means do they",
           "give the Death Guard renewed strength and resilience while inflaming",
-          "the enemy’s infections to agonising degrees."
+          "the enemy's infections to agonising degrees."
         ]
       }
     ]
@@ -2313,15 +2623,29 @@
     "factionKeywords": [
       "Death Guard"
     ],
-    "abilities": {
-      "core": "Deep Strike",
-      "faction": "Nurgle’s Gift (Aura)",
-      "special": [
-        "Blistering Fusillade: Each time a model in this unit makes a ranged attack, if it targets the closest eligible enemy unit, re-roll a Wound roll of 1."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deep Strike"
+            },{
+              "title": "FACTION",
+              "text": "Nurgle's Gift (Aura)"
+            },
+      "Blistering Fusillade: Each time a model in this unit makes a ranged attack, if it targets the closest eligible enemy unit, re-roll a Wound roll of 1."
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "4\"",
       "t": "6",
@@ -2334,33 +2658,35 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "For every 5 models in this unit",
-          "◦",
-          "Up to 3 models’ plague combi-bolters can each be replaced with 1 combi-weapon.",
-          "◦",
-          "1 Blightlord Terminator’s plague combi-bolter can be replaced with one of the following",
+          "Up to 3 models' plague combi-bolters can each be replaced with 1 combi-weapon.",
+          "1 Blightlord Terminator's plague combi-bolter can be replaced with one of the following",
           "1 blight launcher; 1 reaper autocannon.",
-          "◦",
-          "1 Blightlord Terminator’s plague combi-bolter can be replaced with 1 plague spewer.",
-          "◦",
-          "1 Blightlord Terminator’s plague combi-bolter and bubotic blade can be replaced with 1 flail",
+          "1 Blightlord Terminator's plague combi-bolter can be replaced with 1 plague spewer.",
+          "1 Blightlord Terminator's plague combi-bolter and bubotic blade can be replaced with 1 flail",
           "of corruption."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Blightlord Champion",
-          "■",
           "4-9 Blightlord Terminators",
           "Every model is equipped with",
           "plague combi-bolter;",
           "bubotic blade.",
           "BLIGHTLORD TERMINATORS",
           "Blightlord Terminators are formidably tough thanks to their",
-          "Cataphractii plate and Nurgle’s gifts, and are experts in breach",
+          "Cataphractii plate and Nurgle's gifts, and are experts in breach",
           "assaults, boarding actions and sudden teleport strikes. Due to long",
           "periods spent aboard pox-ridden warships, they are saturated with",
           "foulness, which pours off them to rot flesh and corrode metal."
@@ -2419,15 +2745,29 @@
     "factionKeywords": [
       "Death Guard"
     ],
-    "abilities": {
-      "core": "Deep Strike",
-      "faction": "Nurgle’s Gift (Aura)",
-      "special": [
-        "Silent Bodyguard: While a Character model is leading this unit, each time an attack targets this unit, if the Strength characteristic of that attack is greater than this unit’s Toughness characteristic, subtract 1 from the Wound roll."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deep Strike"
+            },{
+              "title": "FACTION",
+              "text": "Nurgle's Gift (Aura)"
+            },
+      "Silent Bodyguard: While a Character model is leading this unit, each time an attack targets this unit, if the Strength characteristic of that attack is greater than this unit's Toughness characteristic, subtract 1 from the Wound roll."
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "4\"",
       "t": "6",
@@ -2443,16 +2783,22 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "The Deathshroud Champion can be equipped with 1 additional plaguespurt gauntlet."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Deathshroud Champion",
-          "■",
           "2-5 Deathshroud Terminators",
           "Every model is equipped with",
           "plaguespurt gauntlet;",
@@ -2462,7 +2808,7 @@
           "diseased patron. With every swing of their huge scythes they",
           "decapitate and disembowel their foes, their speed belied by their",
           "bloated mass. They fight in ominous silence, embodying the inevitable",
-          "onset of their enemies’ death."
+          "onset of their enemies' death."
         ]
       }
     ]
@@ -2607,18 +2953,24 @@
     "factionKeywords": [
       "Death Guard"
     ],
-    "abilities": {
-      "core": "Deadly Demise 1",
-      "faction": "Nurgle’s Gift (Aura)",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise 1"
+            },{
+              "title": "FACTION",
+              "text": "Nurgle's Gift (Aura)"
+            },
       "special": [
         "Infused with the Blessings of Nurgle: Each time this model is selected to shoot or fight, after it has finished making its attacks, select one enemy unit that was hit by one or more of those attacks.",
         "Until the start of your next turn, that enemy unit is always considered to be within Contagion Range of a unit from your army.",
         "Enraged Impact: Each time this model ends a Charge move, select one enemy unit within Engagement Range of it and roll one D6: on a 2+, that enemy unit suffers D3 mortal wounds.",
         "Helbrute Fists: If this model is equipped with two Helbrute fists, those weapons have the [TWIN-LINKED] ability."
       ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "6\"",
       "t": "9",
@@ -2634,38 +2986,33 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s multi-melta can be replaced with one of the following",
-          "◦",
+          "This model's multi-melta can be replaced with one of the following",
           "1 Helbrute plasma cannon",
-          "◦",
           "1 twin autocannon",
-          "◦",
           "1 twin lascannon",
-          "◦",
           "1 twin plague heavy bolter",
-          "◦",
           "1 Helbrute fist",
-          "■",
-          "This model’s missile launcher can be replaced with one of the following",
-          "◦",
+          "This model's missile launcher can be replaced with one of the following",
           "1 Helbrute fist",
-          "◦",
           "1 Helbrute hammer",
-          "◦",
           "1 power scourge",
-          "■",
           "For each Helbrute fist this model is equipped with, it can be equipped with one of the following",
-          "◦",
           "1 plague combi-bolter",
-          "◦",
           "1 heavy flamer"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Death Guard Helbrute",
           "This model is equipped with",
           "multi-melta; missile launcher;",
@@ -2694,7 +3041,6 @@
       "Spawn"
     ],
     "weapons": {
-      "ranged": [],
       "melee": [
         {
           "name": "Hideous mutations",
@@ -2710,15 +3056,19 @@
     "factionKeywords": [
       "Death Guard"
     ],
-    "abilities": {
-      "core": "Feel No Pain 5+",
-      "faction": "Nurgle’s Gift (Aura)",
-      "special": [
-        "Regenerating Monstrosities: At the start of each player’s Command phase, one model in this unit regains up to D3 lost wounds."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Feel No Pain 5+"
+            },{
+              "title": "FACTION",
+              "text": "Nurgle's Gift (Aura)"
+            },
+      "Regenerating Monstrosities: At the start of each player's Command phase, one model in this unit regains up to D3 lost wounds."
+    }],
     "stats": {
       "m": "8\"",
       "t": "5",
@@ -2731,19 +3081,26 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "2 Chaos Spawn",
           "Every model is equipped with",
           "hideous mutations.",
           "DEATH GUARD CHAOS SPAWN",
-          "Many of Nurgle’s gifts take the form of metaphysical maladies,",
+          "Many of Nurgle's gifts take the form of metaphysical maladies,",
           "parasitic infestations or physical mutations. Some become so",
           "overburdened by them that they suddenly and horrifically change in",
           "a rupture of bulged armour and skin. All that is left of them is a Chaos",
@@ -2823,15 +3180,29 @@
     "factionKeywords": [
       "Death Guard"
     ],
-    "abilities": {
-      "core": "Deadly Demise 1",
-      "faction": "Nurgle’s Gift (Aura)",
-      "special": [
-        "Tank Hunters: Each time a model in this unit makes a ranged attack that targets a Vehicle unit, add 1 to the Wound roll."
-      ]
-    },
-    "invulnerable": "5+",
-    "damaged": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise 1"
+            },{
+              "title": "FACTION",
+              "text": "Nurgle's Gift (Aura)"
+            },
+      "Tank Hunters: Each time a model in this unit makes a ranged attack that targets a Vehicle unit, add 1 to the Wound roll."
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "5+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "10\"",
       "t": "9",
@@ -2847,14 +3218,21 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1-3 Myphitic Blight-hulers",
           "Every model is equipped with",
           "bile spurt; missile launcher;",
@@ -2862,7 +3240,7 @@
           "MYPHITIC BLIGHT-HAULERS",
           "Belching stinking gases that hang thick in the air, Myphitic",
           "Blight-haulers use their all-terrain mobility and heavy armaments to",
-          "hunt down the enemy’s tanks and provide fire support even in the",
+          "hunt down the enemy's tanks and provide fire support even in the",
           "most dangerous environments. Should the enemy get too close, these",
           "Daemon Engines pounce with fanged maws and sprays of bile."
         ]
@@ -2929,15 +3307,29 @@
     "factionKeywords": [
       "Death Guard"
     ],
-    "abilities": {
-      "core": "Deadly Demise 1",
-      "faction": "Nurgle’s Gift (Aura)",
-      "special": [
-        "Hovering Death: This model is eligible to shoot and declare a charge in a turn in which it Fell Back."
-      ]
-    },
-    "invulnerable": "5+",
-    "damaged": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise 1"
+            },{
+              "title": "FACTION",
+              "text": "Nurgle's Gift (Aura)"
+            },
+      "Hovering Death: This model is eligible to shoot and declare a charge in a turn in which it Fell Back."
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "5+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "10\"",
       "t": "9",
@@ -2950,23 +3342,28 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s fleshmower can be replaced with one of the following",
-          "◦",
+          "This model's fleshmower can be replaced with one of the following",
           "1 heavy blight launcher",
-          "◦",
           "2 plaguespitters"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Foetid Bloat-drone",
           "This model is equipped with",
           "fleshmower; plague probe.",
           "FOETID BLOAT-DRONE",
-          "The Foetid Bloat-drones’ trailing tubules suckle filth from the ground",
+          "The Foetid Bloat-drones' trailing tubules suckle filth from the ground",
           "they hover over. They churn this substance before squirting the thick",
           "concoction over the enemy with plaguespitters, inflicting terrible",
           "maladies. Those with heavy blight launchers bombard foes with",
@@ -3052,16 +3449,30 @@
     "factionKeywords": [
       "Death Guard"
     ],
-    "abilities": {
-      "core": "Deadly Demise D3",
-      "faction": "Nurgle’s Gift (Aura)",
-      "special": [
-        "Spore-laced Shock Waves: In your Shooting phase, after this model has shot, if one or more of those attacks made with its Plagueburst mortar scored a hit against an enemy Infantry unit, that Infantry unit must take a Battle-shock test.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D3"
+            },{
+              "title": "FACTION",
+              "text": "Nurgle's Gift (Aura)"
+            },
+      "Spore-laced Shock Waves: In your Shooting phase, after this model has shot, if one or more of those attacks made with its Plagueburst mortar scored a hit against an enemy Infantry unit, that Infantry unit must take a Battle-shock test.",
         "DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
-      ]
-    },
-    "invulnerable": "5+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "5+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "10\"",
       "t": "10",
@@ -3074,16 +3485,22 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s 2 entropy cannons can be replaced with 2 plaguespitters.",
-          "■",
-          "This model’s heavy slugger can be replaced with 1 rothail volley gun."
+          "This model's 2 entropy cannons can be replaced with 2 plaguespitters.",
+          "This model's heavy slugger can be replaced with 1 rothail volley gun."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Plagueburst Crawler",
           "This model is equipped with",
           "2 entropy cannons; heavy",
@@ -3176,16 +3593,20 @@
     "factionKeywords": [
       "Death Guard"
     ],
-    "abilities": {
-      "core": "Deadly Demise D6",
-      "faction": "Nurgle’s Gift (Aura)",
-      "special": [
-        "Assault Ramp: Each time a unit disembarks from this model after it has made a Normal move, that unit is still eligible to declare a charge this turn.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D6"
+            },{
+              "title": "FACTION",
+              "text": "Nurgle's Gift (Aura)"
+            },
+      "Assault Ramp: Each time a unit disembarks from this model after it has made a Normal move, that unit is still eligible to declare a charge this turn.",
         "DAMAGED: 1-5 WOUNDS REMAINING While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "10\"",
       "t": "12",
@@ -3198,20 +3619,24 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "This model can be equipped with one of the following",
-          "◦",
           "1 combi-weapon",
-          "◦",
           "1 plague combi-bolter",
-          "■",
           "This model can be equipped with 1 havoc launcher."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Death Guard Land Raider",
           "This model is equipped with",
           "2 soulshatter lascannons; twin",
@@ -3328,16 +3753,20 @@
     "factionKeywords": [
       "Death Guard"
     ],
-    "abilities": {
-      "core": "Deadly Demise D3",
-      "faction": "Nurgle’s Gift (Aura)",
-      "special": [
-        "Annihilator: Each time this model makes a ranged attack that targets a Monster or Vehicle unit, re-roll a Damage roll of 1.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D3"
+            },{
+              "title": "FACTION",
+              "text": "Nurgle's Gift (Aura)"
+            },
+      "Annihilator: Each time this model makes a ranged attack that targets a Monster or Vehicle unit, re-roll a Damage roll of 1.",
         "DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "10\"",
       "t": "10",
@@ -3350,34 +3779,35 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "This model can be equipped with one of the following",
-          "◦",
           "2 lascannons",
-          "◦",
           "2 plague heavy bolters",
-          "■",
           "This model can be equipped with one of the following",
-          "◦",
           "1 combi-weapon",
-          "◦",
           "1 plague combi-bolter",
-          "■",
           "This model can be equipped with 1 havoc launcher."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Death Guard Predator Annihilator",
           "This model is equipped with",
           "Predator twin lascannon;",
           "armoured tracks.",
           "DEATH GUARD PREDATOR ANNIHILATOR",
           "Capable of firing with pinpoint accuracy, Predator Annihilators are precision tools",
-          "that can eliminate key threats. In so doing they allow the Legion’s infantry to",
-          "advance into the fray and spread Nurgle’s gifts."
+          "that can eliminate key threats. In so doing they allow the Legion's infantry to",
+          "advance into the fray and spread Nurgle's gifts."
         ]
       }
     ]
@@ -3471,16 +3901,20 @@
     "factionKeywords": [
       "Death Guard"
     ],
-    "abilities": {
-      "core": "Deadly Demise D3",
-      "faction": "Nurgle’s Gift (Aura)",
-      "special": [
-        "Destructor: Each time this model makes a ranged attack that targets an Infantry unit, improve the Armour Penetration characteristic of that attack by 1.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D3"
+            },{
+              "title": "FACTION",
+              "text": "Nurgle's Gift (Aura)"
+            },
+      "Destructor: Each time this model makes a ranged attack that targets an Infantry unit, improve the Armour Penetration characteristic of that attack by 1.",
         "DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "10\"",
       "t": "10",
@@ -3493,26 +3927,27 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "This model can be equipped with one of the following",
-          "◦",
           "2 lascannons",
-          "◦",
           "2 plague heavy bolters",
-          "■",
           "This model can be equipped with one of the following",
-          "◦",
           "1 combi-weapon",
-          "◦",
           "1 plague combi-bolter",
-          "■",
           "This model can be equipped with 1 havoc launcher."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Death Guard Predator Destructor",
           "This model is equipped with",
           "predator autocannon;",
@@ -3640,16 +4075,30 @@
     "factionKeywords": [
       "Death Guard"
     ],
-    "abilities": {
-      "core": "Deadly Demise D3",
-      "faction": "Nurgle’s Gift (Aura)",
-      "special": [
-        "Scuttling Walker: Each time this model makes a Normal, Advance or Fall Back move, it can move over friendly Monster and Vehicle models and terrain features that are 4\" or less in height as if they were not there.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D3"
+            },{
+              "title": "FACTION",
+              "text": "Nurgle's Gift (Aura)"
+            },
+      "Scuttling Walker: Each time this model makes a Normal, Advance or Fall Back move, it can move over friendly Monster and Vehicle models and terrain features that are 4\" or less in height as if they were not there.",
         "DAMAGED: 1-5 WOUNDS REMAINING While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
-      ]
-    },
-    "invulnerable": "5+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "5+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "8\"",
       "t": "10",
@@ -3662,30 +4111,29 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s twin heavy flamer can be replaced with one of the following",
-          "◦",
+          "This model's twin heavy flamer can be replaced with one of the following",
           "1 Defiler scourge",
-          "◦",
           "1 havoc launcher",
-          "■",
-          "This model’s reaper autocannon can be replaced with one of the following",
-          "◦",
+          "This model's reaper autocannon can be replaced with one of the following",
           "1 twin lascannon",
-          "◦",
           "1 twin plague heavy bolter",
-          "■",
           "This model can be equipped with one of the following",
-          "◦",
           "1 combi-weapon",
-          "◦",
           "1 plague combi-bolter"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Death Guard Defiler",
           "This model is equipped with",
           "Defiler cannon;",
@@ -3759,15 +4207,19 @@
     "factionKeywords": [
       "Death Guard"
     ],
-    "abilities": {
-      "core": "Deadly Demise D3, Firing Deck 2",
-      "faction": "Nurgle’s Gift (Aura)",
-      "special": [
-        "Self Repair: At the start of your Command phase, this model regains 1 lost wound."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D3, Firing Deck 2"
+            },{
+              "title": "FACTION",
+              "text": "Nurgle's Gift (Aura)"
+            },
+      "Self Repair: At the start of your Command phase, this model regains 1 lost wound."
+    }],
     "stats": {
       "m": "12\"",
       "t": "9",
@@ -3780,20 +4232,24 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "This model can be equipped with one of the following",
-          "◦",
           "1 combi-weapon",
-          "◦",
           "1 additional plague combi-bolter",
-          "■",
           "This model can be equipped with 1 havoc launcher."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Death Guard Rhino",
           "This model is equipped with",
           "plague combi-bolter;",
@@ -3906,18 +4362,32 @@
     "factionKeywords": [
       "Death Guard"
     ],
-    "abilities": {
-      "core": "Deadly Demise D6, Feel No Pain 5+",
-      "faction": "Nurgle’s Gift (Aura)",
-      "special": [
-        "Host of Plagues: At the start of the battle round, select one of the abilities in the Host of Plagues section (see left).",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D6, Feel No Pain 5+"
+            },{
+              "title": "FACTION",
+              "text": "Nurgle's Gift (Aura)"
+            },
+      "Host of Plagues: At the start of the battle round, select one of the abilities in the Host of Plagues section (see left).",
         "Until the start of the next battle round, this model has that ability.",
         "Lord of the Death Guard (Aura): While a friendly Death Guard unit is within 6\" of this model, that unit can ignore any or all modifiers to its characteristics and to any roll or test made for it (excluding modifiers to saving throws).",
         "DAMAGED: 1-6 WOUNDS REMAINING While this model has 1-6 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "10\"",
       "t": "12",
@@ -3933,14 +4403,21 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Mortarion -",
           "Epic Hero",
           "This model is equipped with",
@@ -3994,17 +4471,21 @@
     "factionKeywords": [
       "Death Guard"
     ],
-    "abilities": {
-      "core": "Leader",
-      "faction": "Nurgle’s Gift (Aura)",
-      "special": [
-        "Unclean Icon: While this model is leading a unit, add 1 to the Objective Control characteristic of models in that unit.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Leader"
+            },{
+              "title": "FACTION",
+              "text": "Nurgle's Gift (Aura)"
+            },
+      "Unclean Icon: While this model is leading a unit, add 1 to the Objective Control characteristic of models in that unit.",
         "Seed the Disease: Once per battle, at the end of your Movement phase, this model can use this ability.",
-        "If it does, until the start of your next Command phase, this model’s unit is treated as having a Contagion Range of 12\"."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+        "If it does, until the start of your next Command phase, this model's unit is treated as having a Contagion Range of 12\"."
+    }],
     "stats": {
       "m": "5\"",
       "t": "5",
@@ -4017,24 +4498,38 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Death Guard Icon Bearer",
           "This model is equipped with",
           "plague boltgun; plague knife."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following unit",
-          "■",
           "Plague Marines",
           "You can attach this model to a",
           "Plague Marines",
@@ -4045,7 +4540,7 @@
           "Starting Strengths.",
           "DEATH GUARD ICON BEARER",
           "The icons borne by the Death Guard are rusted and corrupted",
-          "dedications to Nurgle, forged into the shape of the Grandfather’s",
+          "dedications to Nurgle, forged into the shape of the Grandfather's",
           "symbol. So wreathed in disease are these banners that nearby",
           "enemies are rapidly afflicted, dying agonising deaths as their",
           "convulsing bodies are reduced to slop."
@@ -4083,18 +4578,22 @@
     "factionKeywords": [
       "Death Guard"
     ],
-    "abilities": {
-      "core": "Deadly Demise D3, Infiltrators",
-      "faction": "Nurgle’s Gift (Aura)",
-      "special": [
-        "Putrescent Fog (Aura): While a friendly Death Guard unit is wholly within 6\" of this Fortification , each time an attack targets that unit, subtract 1 from the Hit roll.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D3, Infiltrators"
+            },{
+              "title": "FACTION",
+              "text": "Nurgle's Gift (Aura)"
+            },
+      "Putrescent Fog (Aura): While a friendly Death Guard unit is wholly within 6\" of this Fortification , each time an attack targets that unit, subtract 1 from the Hit roll.",
         "Diseased Cover: Each time a ranged attack is allocated to a model, if that model is not fully visible to every model in the attacking unit because of this Fortification , that model has the Benefit of Cover against that attack.",
         "Fortification: While an enemy unit is only within Engagement Range of one or more Fortifications from your army: ■ That unit can still be selected as the target of ranged attacks, but each time such an attack is made, unless it is made with a Pistol, subtract 1 from the Hit roll.",
         "■ Models in that unit do not need to take Desperate Escape tests due to Falling Back while Battle-shocked, except for those that will move over enemy models when doing so."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "-",
       "t": "10",
@@ -4107,14 +4606,21 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Miasmic Malignifier",
           "This model is equipped with",
           "noxious stink.",

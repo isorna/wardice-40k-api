@@ -123,7 +123,7 @@
           "points": 15,
           "rules": [
             {
-              "text": "Adepta Sororitas model only. Add 1 to the Attacks, Strength and Damage characteristics of the bearer’s melee weapons. If the bearer has lost one or more wounds, add 2 to the Attacks, Strength and Damage characteristics of the bearer’s melee weapons instead."
+              "text": "Adepta Sororitas model only. Add 1 to the Attacks, Strength and Damage characteristics of the bearer's melee weapons. If the bearer has lost one or more wounds, add 2 to the Attacks, Strength and Damage characteristics of the bearer's melee weapons instead."
             }
           ]
         },
@@ -218,17 +218,31 @@
     "factionKeywords": [
       "Adepta Sororitas"
     ],
-    "abilities": {
-      "core": "Deadly Demise 1, Leader",
-      "faction": "Acts of Faith",
-      "special": [
-        "FACTION: Acts of Faith Abbess Sanctorum: While this model is leading a unit, each time a model in that unit makes an attack, you can re-roll the Hit roll and you can re-roll the Wound roll}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise 1, Leader"
+            },{
+              "title": "FACTION",
+              "text": "Acts of Faith"
+            },
+      "FACTION: Acts of Faith Abbess Sanctorum: While this model is leading a unit, each time a model in that unit makes an attack, you can re-roll the Hit roll and you can re-roll the Wound roll}.",
         "Righteous Repugnance: Once per battle, in your Command phase, this model can use this ability}.",
         "If it does, until the start of your next Command phase, add 3 to the Attacks characteristic of Fidelis and the Lance of Illumination}."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "8\"",
       "t": "6",
@@ -244,14 +258,21 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Morvenn Vahl -",
           "Epic Hero",
           "This model is equipped with",
@@ -259,11 +280,18 @@
           "launcher; Lance of Illumination."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following unit",
-          "■",
           "Paragon Warsuits"
         ]
       },
@@ -382,19 +410,33 @@
     "factionKeywords": [
       "Adepta Sororitas"
     ],
-    "abilities": {
-      "core": "Leader",
-      "faction": "Acts of Faith",
-      "special": [
-        "FACTION: Acts of Faith Lead the Righteous: While this model is leading a unit, each time a model in that unit makes an attack, you can re-roll the Hit roll}.",
-        "The Emperor’s Grace: Once per battle, at the start of any phase, this model can use this ability}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Leader"
+            },{
+              "title": "FACTION",
+              "text": "Acts of Faith"
+            },
+      "FACTION: Acts of Faith Lead the Righteous: While this model is leading a unit, each time a model in that unit makes an attack, you can re-roll the Hit roll}.",
+        "The Emperor's Grace: Once per battle, at the start of any phase, this model can use this ability}.",
         "If it does, until the end of the phase, this model has a 2+ invulnerable save}.",
-        "WARGEAR ABILITIES Null Rod: Models in the bearer’s unit have the Feel No Pain 4+ ability against Psychic Attacks}.",
-        "Rod of Office: Each time you select the bearer’s unit as the target of a Stratagem, roll one D6: on a 4+, you gain 1CP}."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+        "WARGEAR ABILITIES Null Rod: Models in the bearer's unit have the Feel No Pain 4+ ability against Psychic Attacks}.",
+        "Rod of Office: Each time you select the bearer's unit as the target of a Stratagem, roll one D6: on a 4+, you gain 1CP}."
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "6\"",
       "t": "3",
@@ -410,48 +452,50 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s bolt pistol can be replaced with one of the following",
-          "◦",
+          "This model's bolt pistol can be replaced with one of the following",
           "1 condemnor boltgun",
-          "◦",
           "1 inferno pistol",
-          "◦",
           "1 plasma pistol",
-          "■",
-          "This model’s chainsword can be replaced with one of the following",
-          "◦",
+          "This model's chainsword can be replaced with one of the following",
           "1 blessed blade",
-          "◦",
           "1 power weapon",
-          "■",
           "If this model is equipped with a chainsword, it can be equipped with one of the following",
-          "◦",
           "1 brazier of holy fire",
-          "◦",
           "1 null rod",
-          "■",
           "If this model is equipped with a plasma pistol and a power weapon, it can be equipped with",
-          "◦",
           "1 rod of office"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Canoness",
           "This model is equipped with",
           "bolt pistol; chainsword."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following units",
-          "■",
           "Battle Sisters Squad",
-          "■",
           "Celestian Sacresants",
           "CANONESS",
           "Martial and spiritual commanders of the Orders Militant, Canonesses",
@@ -522,17 +566,33 @@
     "factionKeywords": [
       "Adepta Sororitas"
     ],
-    "abilities": {
-      "core": "Leader, Scouts 6\"",
-      "faction": "Acts of Faith",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Leader, Scouts 6\""
+            },{
+              "title": "FACTION",
+              "text": "Acts of Faith"
+            },
       "special": [
         "FACTION: Acts of Faith Fury of the Righteous: While this model is leading a unit, weapons equipped by models in that unit have the [LETHAL HITS] ability}.",
-        "Rapturous Blows: Each time this model’s unit is selected to fight, you can discard one Miracle dice}.",
+        "Rapturous Blows: Each time this model's unit is selected to fight, you can discard one Miracle dice}.",
         "If you do, then until the end of the phase, each time a melee attack made by this model scores a wound, the target of that attack suffers 1 mortal wound in addition to any normal damage}."
       ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "6\"",
       "t": "3",
@@ -548,30 +608,41 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s bolt pistol can be replaced with 1 plasma pistol."
+          "This model's bolt pistol can be replaced with 1 plasma pistol."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Palatine",
           "This model is equipped with",
           "bolt pistol; Palatine blade."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following units",
-          "■",
           "Battle Sisters Squad",
-          "■",
           "Celestian Sacresants",
-          "■",
           "Dominion Squad",
-          "■",
           "Sisters Novitiate Squad",
           "PALATINE",
           "Palatines are highly capable and experienced commanders of Adepta",
@@ -625,16 +696,30 @@
     "factionKeywords": [
       "Adepta Sororitas"
     ],
-    "abilities": {
-      "core": "Deadly Demise 1, Leader",
-      "faction": "Acts of Faith",
-      "special": [
-        "FACTION: Acts of Faith The Pulpit of Saint Holline’s Basilica: While this model is leading a unit, each time an attack targets that unit, subtract 1 from the Hit roll}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise 1, Leader"
+            },{
+              "title": "FACTION",
+              "text": "Acts of Faith"
+            },
+      "FACTION: Acts of Faith The Pulpit of Saint Holline's Basilica: While this model is leading a unit, each time an attack targets that unit, subtract 1 from the Hit roll}.",
         "Fiery Conviction: If this model is on the battlefield at the start of your Command phase, you gain 1CP}."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "6\"",
       "t": "4",
@@ -647,14 +732,21 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Junith Eruita -",
           "Epic Hero",
           "This model is equipped with",
@@ -662,18 +754,24 @@
           "Mace of Castigation."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following units",
-          "■",
           "Battle Sisters Squad",
-          "■",
           "Celestian Sacresants",
           "JUNITH ERUITA",
           "Junith Eruita sweeps to battle wreathed in holy fire. She hovers above",
           "the battlefield upon thrumming waves of energy within the pulpit",
-          "of Saint Holline’s Basilica. Her presence and voice inspire all around",
+          "of Saint Holline's Basilica. Her presence and voice inspire all around",
           "her, filling them with faith, while her heavy flamers douse her foes in",
           "purging fire."
         ]
@@ -748,16 +846,32 @@
     "factionKeywords": [
       "Adepta Sororitas"
     ],
-    "abilities": {
-      "core": "Leader",
-      "faction": "Acts of Faith",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Leader"
+            },{
+              "title": "FACTION",
+              "text": "Acts of Faith"
+            },
       "special": [
         "FACTION: Acts of Faith War Hymn: While this model is leading a unit, melee weapons equipped by models in that unit have the [SUSTAINED HITS 1] ability}.",
-        "Holy Piety: Each time this model makes a melee attack, unless this model’s unit is Battle-shocked, you can re-roll the Hit roll}."
+        "Holy Piety: Each time this model makes a melee attack, unless this model's unit is Battle-shocked, you can re-roll the Hit roll}."
       ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "6\"",
       "t": "3",
@@ -770,39 +884,48 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s power weapon can be replaced with one of the following",
-          "◦",
+          "This model's power weapon can be replaced with one of the following",
           "1 autogun and 1 chainsword",
-          "◦",
           "1 Ministorum shotgun and 1 chainsword"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Missionary",
           "This model is equipped with",
           "holy pistol; power weapon."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following units",
-          "■",
           "Arco-flagellants",
-          "■",
           "Battle Sisters Squad",
-          "■",
           "Crusaders",
-          "■",
           "Sisters Novitiate Squad",
           "MISSIONARY",
           "Missionaries live existences of constant conflict, bringing the light of",
           "the God-Emperor to the most dangerous regions of the galaxy. They",
-          "often fight at the forefront of the Adepta Sororitas’ holy wars, striding",
+          "often fight at the forefront of the Adepta Sororitas' holy wars, striding",
           "into battle without fear as they intone sacred prayers. This stirs the",
           "hearts of Imperial warriors, driving them into a killing frenzy."
         ]
@@ -868,18 +991,32 @@
     "factionKeywords": [
       "Adepta Sororitas"
     ],
-    "abilities": {
-      "core": "Deep Strike, Leader",
-      "faction": "Acts of Faith",
-      "special": [
-        "FACTION: Acts of Faith Healing Tears: While this unit contains a Celestine model, in your Command phase, if this unit is below its Starting Strength, 1 destroyed model is returned to this unit}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deep Strike, Leader"
+            },{
+              "title": "FACTION",
+              "text": "Acts of Faith"
+            },
+      "FACTION: Acts of Faith Healing Tears: While this unit contains a Celestine model, in your Command phase, if this unit is below its Starting Strength, 1 destroyed model is returned to this unit}.",
         "Lifewards: While this unit contains one or more Geminae Superia models, Celestine has the Feel No Pain 4+ ability}.",
-        "Miraculous Intervention: The first time this unit’s Celestine model is destroyed, roll one D6 at the end of the phase}.",
+        "Miraculous Intervention: The first time this unit's Celestine model is destroyed, roll one D6 at the end of the phase}.",
         "On a 2+, set that Celestine model back up on the battlefield, as close as possible to where it was destroyed and not within Engagement Range of any enemy units, with its full wounds remaining}."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "12\"",
       "t": "3",
@@ -892,17 +1029,23 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Celestine -",
           "Epic Hero",
-          "■",
           "2 Geminae Superia",
           "Saint Celestine is equipped with",
           "the Ardent Blade.",
@@ -911,20 +1054,26 @@
           "power weapon."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This unit can be attached to the following units",
-          "■",
           "Seraphim Squad",
-          "■",
           "Zephyrim Squad",
           "SAINT CELESTINE",
-          "Saint Celestine is a living embodiment of the Emperor’s might, and",
+          "Saint Celestine is a living embodiment of the Emperor's might, and",
           "she radiates holy light. Beneath her the faithful are filled with courage,",
           "while heretics experience overwhelming terror. Flanked by her chosen",
           "Geminae champions, her gestures can heal the sick, or strike like the",
-          "Emperor’s judgement itself to smite the foe with divine strength.",
+          "Emperor's judgement itself to smite the foe with divine strength.",
           "KEYWORDS",
           "- ALL MODELS",
           "Infantry, Jump Pack, Fly, Grenades, Imperium",
@@ -994,7 +1143,7 @@
           "a": "While a friendly",
           "bws": "Adepta Sororitas",
           "s": "unit is within 6\" of this model,",
-          "ap": "improve that unit’s Leadership characteristic by 1.",
+          "ap": "improve that unit's Leadership characteristic by 1.",
           "d": "Icon of the Valorous Heart (Aura)"
         },
         {
@@ -1026,16 +1175,30 @@
     "factionKeywords": [
       "Adepta Sororitas"
     ],
-    "abilities": {
-      "core": "Leader",
-      "faction": "Acts of Faith",
-      "special": [
-        "FACTION: Acts of Faith Relics of the Matriarchs: At the start of the battle round, select up to two of the abilities in the Relics of the Matriarchs section (see left). Until the start of the next battle round, this model has those abilities}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Leader"
+            },{
+              "title": "FACTION",
+              "text": "Acts of Faith"
+            },
+      "FACTION: Acts of Faith Relics of the Matriarchs: At the start of the battle round, select up to two of the abilities in the Relics of the Matriarchs section (see left). Until the start of the next battle round, this model has those abilities}.",
         "DAMAGED: 1-5 WOUNDS REMAINING While this model has 1-5 wounds remaining, the Attacks characteristics of all of its weapons are halved, and you can only select one ability when using its Relics of the Matriarchs ability, instead of up to two}."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "6\"",
       "t": "3",
@@ -1048,30 +1211,44 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Triumph of Saint Katherine -",
           "Epic Hero",
           "This model is equipped with",
           "bolt pistols; relic weapons."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following unit",
-          "■",
           "Battle Sisters Squad",
           "TRIUMPH OF SAINT KATHERINE",
           "At the centre of the Triumph is the blessed bier upon which lie the",
           "mortal remains of Saint Katherine, beneath the sconce containing her",
-          "fiery heart. Wherever the Triumph goes, the Emperor’s radiance goes",
+          "fiery heart. Wherever the Triumph goes, the Emperor's radiance goes",
           "with it. The glory of the martyred Matriarch is spread and Battle Sisters",
           "are filled with conviction to purge the foes of Mankind."
         ]
@@ -1116,7 +1293,7 @@
           "d": "2"
         },
         {
-          "name": "The Outcast’s Weapons [PRECISION]",
+          "name": "The Outcast's Weapons [PRECISION]",
           "range": "Melee",
           "a": "6",
           "bws": "2+",
@@ -1129,18 +1306,32 @@
     "factionKeywords": [
       "Adepta Sororitas"
     ],
-    "abilities": {
-      "core": "Deep Strike, Fights First, Lone Operative",
-      "faction": "Acts of Faith",
-      "special": [
-        "FACTION: Acts of Faith Holy Judgement: At the start of your Shooting phase, select one enemy unit within 12\" of and visible to Ephrael Stern}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deep Strike, Fights First, Lone Operative"
+            },{
+              "title": "FACTION",
+              "text": "Acts of Faith"
+            },
+      "FACTION: Acts of Faith Holy Judgement: At the start of your Shooting phase, select one enemy unit within 12\" of and visible to Ephrael Stern}.",
         "That unit must take a Leadership test, subtracting 2 from the result if it is a Chaos unit}.",
         "If the test is failed, that enemy unit suffers 3 mortal wounds}.",
         "Mysterious Saviours: You can target this unit with the Heroic Intervention Stratagem for 0CP, and can do so even if you have already targeted a different unit with that Stratagem this phase}."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "8\"",
       "t": "3",
@@ -1153,30 +1344,36 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Ephrael Stern -",
           "Epic Hero",
-          "■",
           "1 Kyganil of the Bloody Tears -",
           "Epic Hero",
           "Ephrael Stern is equipped with",
           "bolt pistol; Sanctity.",
           "Kyganil of the Bloody Tears is equipped with",
           "the",
-          "Outcast’s Weapons.",
+          "Outcast's Weapons.",
           "DAEMONIFUGE",
           "Ephrael Stern, the Daemonifuge, is capable of manifesting strange",
           "powers seen by some as witchery. Yet she is a zealous defender of",
           "the Imperial Creed with unwavering devotion. Alongside her Aeldari",
           "companion, Kyganil, Stern pits her augmented strength and speed",
-          "against the Emperor’s enemies."
+          "against the Emperor's enemies."
         ]
       }
     ]
@@ -1303,18 +1500,30 @@
     "factionKeywords": [
       "Adepta Sororitas"
     ],
-    "abilities": {
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
       "core": null,
-      "faction": "Acts of Faith",
-      "special": [
-        "Cherub: Once per battle, after this unit has performed an Act of Faith, you gain 1 Miracle dice}.",
-        "Designer’s Note: Place a Cherub token next to the unit, removing it once this ability has been used}.",
+      {
+              "title": "FACTION",
+              "text": "Acts of Faith"
+            },
+      "Cherub: Once per battle, after this unit has performed an Act of Faith, you gain 1 Miracle dice}.",
+        "Designer's Note: Place a Cherub token next to the unit, removing it once this ability has been used}.",
         "Defenders of the Faith: At the end of your Command phase, for each objective marker you control that has one or more units from your army with this ability within range of it, you gain 1 Miracle dice}.",
-        "WARGEAR ABILITIES Simulacrum Imperialis: Each time a unit is destroyed by the bearer’s unit, you gain 1 Miracle dice}."
-      ]
-    },
-    "invulnerable": "6+",
-    "damaged": null,
+        "WARGEAR ABILITIES Simulacrum Imperialis: Each time a unit is destroyed by the bearer's unit, you gain 1 Miracle dice}."
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "6+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "6\"",
       "t": "3",
@@ -1327,67 +1536,52 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "The Sister Superior’s boltgun can be replaced",
+          "The Sister Superior's boltgun can be replaced",
           "with one of the following",
-          "◦",
           "1 bolt pistol",
-          "◦",
           "1 combi-weapon*",
-          "◦",
           "1 condemnor boltgun*",
-          "◦",
           "1 inferno pistol*",
-          "◦",
           "1 Ministorum hand flamer*",
-          "◦",
           "1 plasma pistol*",
-          "■",
           "The Sister Superior can be equipped with one of",
           "the following",
-          "◦",
           "1 chainsword",
-          "◦",
           "1 power weapon",
-          "■",
-          "1 Battle Sister’s boltgun can be replaced with",
+          "1 Battle Sister's boltgun can be replaced with",
           "one of the following",
-          "◦",
           "1 artificer-crafted storm bolter",
-          "◦",
           "1 meltagun",
-          "◦",
           "1 Ministorum flamer",
-          "■",
-          "1 Battle Sister’s boltgun can be replaced with",
+          "1 Battle Sister's boltgun can be replaced with",
           "one of the following",
-          "◦",
           "1 artificer-crafted storm bolter",
-          "◦",
           "1 heavy bolter",
-          "◦",
           "1 meltagun",
-          "◦",
           "1 Ministorum flamer",
-          "◦",
           "1 Ministorum heavy flamer",
-          "◦",
           "1 multi-melta",
-          "■",
           "1 Battle Sister equipped with 1 boltgun can be",
           "equipped with 1 simulacrum imperialis (that",
-          "model’s boltgun cannot be replaced).",
+          "model's boltgun cannot be replaced).",
           "*",
-          "This weapon’s profile can be found on the Adepta Sororitas",
+          "This weapon's profile can be found on the Adepta Sororitas",
           "Armoury card."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Sister Superior",
-          "■",
           "9 Battle Sisters",
           "Every model is equipped with",
           "bolt pistol; boltgun; close",
@@ -1395,7 +1589,7 @@
           "BATTLE SISTERS SQUAD",
           "Battle Sisters of the Orders Militant are skilled and devout warriors.",
           "Wherever they advance, the light of the Emperor spreads like a holy",
-          "dawn. Miracles manifest in their presence that turn aside the enemy’s",
+          "dawn. Miracles manifest in their presence that turn aside the enemy's",
           "strikes, or consume foes in fires of retribution as the Sisters cut down",
           "heretics with thundering salvoes from their boltguns."
         ]
@@ -1514,18 +1708,30 @@
     "factionKeywords": [
       "Adepta Sororitas"
     ],
-    "abilities": {
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
       "core": null,
-      "faction": "Acts of Faith",
-      "special": [
-        "Impetuous Fervour: Each time a model in this unit makes an attack, re-roll a Hit roll of 1}.",
+      {
+              "title": "FACTION",
+              "text": "Acts of Faith"
+            },
+      "Impetuous Fervour: Each time a model in this unit makes an attack, re-roll a Hit roll of 1}.",
         "If the target of that attack is an enemy unit within range of an objective marker, you can re-roll the Hit roll instead}.",
-        "WARGEAR ABILITIES Sacred Banner: You can re-roll Advance and Charge rolls made for the bearer’s unit}.",
-        "Simulacrum Imperialis: Each time a unit is destroyed by the bearer’s unit, you gain 1 Miracle dice}."
-      ]
-    },
-    "invulnerable": "6+",
-    "damaged": null,
+        "WARGEAR ABILITIES Sacred Banner: You can re-roll Advance and Charge rolls made for the bearer's unit}.",
+        "Simulacrum Imperialis: Each time a unit is destroyed by the bearer's unit, you gain 1 Miracle dice}."
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "6+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "6\"",
       "t": "3",
@@ -1541,29 +1747,29 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "The Novitiate Superior’s bolt pistol and boltgun can be replaced with one of the following",
-          "◦",
+          "The Novitiate Superior's bolt pistol and boltgun can be replaced with one of the following",
           "1 bolt pistol and 1 power weapon",
-          "◦",
           "1 plasma pistol and 1 power weapon",
-          "■",
-          "1 Sister Novitiate’s autogun can be replaced with 1 sacred banner.",
-          "■",
-          "1 Sister Novitiate’s autogun can be replaced with 1 simulacrum imperialis.",
-          "■",
+          "1 Sister Novitiate's autogun can be replaced with 1 sacred banner.",
+          "1 Sister Novitiate's autogun can be replaced with 1 simulacrum imperialis.",
           "Up to 2 Sisters Novitiate can each have their autogun replaced with 1 Ministorum flamer.",
-          "■",
           "Any number of Sisters Novitiate can each have their autogun and close combat weapon replaced with",
           "1 Novitiate melee weapons."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Novitiate Superior",
-          "■",
           "9 Sisters Novitiate",
           "The Novitiate Superior is equipped with",
           "bolt pistol; boltgun;",
@@ -1617,7 +1823,7 @@
           "d": "2"
         },
         {
-          "name": "Scribe’s staff",
+          "name": "Scribe's staff",
           "range": "Melee",
           "a": "3",
           "bws": "4+",
@@ -1630,16 +1836,32 @@
     "factionKeywords": [
       "Adepta Sororitas"
     ],
-    "abilities": {
-      "core": "Leader",
-      "faction": "Acts of Faith",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Leader"
+            },{
+              "title": "FACTION",
+              "text": "Acts of Faith"
+            },
       "special": [
-        "FACTION: Acts of Faith Auto-Tapestry of the Emperor’s Judgement: While Aestred Thurga is leading a unit, melee weapons equipped by models in that unit have the [DEVASTATING WOUNDS] ability}.",
+        "FACTION: Acts of Faith Auto-Tapestry of the Emperor's Judgement: While Aestred Thurga is leading a unit, melee weapons equipped by models in that unit have the [DEVASTATING WOUNDS] ability}.",
         "Recount the Deeds of the Saints: While Agathae Dolan is part of this unit, each time this unit performs an Act of Faith, the result of one of the Miracle dice used in that Act of Faith is first improved by 1 (to a maximum of 6)}."
       ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "6\"",
       "t": "3",
@@ -1652,41 +1874,51 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Aestred Thurga -",
           "Epic Hero",
-          "■",
           "1 Agathae Dolan -",
           "Epic Hero",
           "Aestred Thurga is equipped with",
           "bolt pistol; Blade of Vigil.",
           "Agathae Dolan is equipped with",
-          "bolt pistol; scribe’s staff."
+          "bolt pistol; scribe's staff."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This unit can be attached to the following units",
-          "■",
           "Battle Sisters Squad",
-          "■",
           "Celestian Sacresants",
-          "■",
           "Dominion Squad",
-          "■",
           "Retributor Squad",
           "AESTRED THURGA AND AGATHAE DOLAN",
           "Aestred Thurga is a powerful warrior in her own right, but recognises with great",
           "humility that the ancient relic standard she carries is far more important than",
-          "she can ever be. She will gladly die to protect the Auto-Tapestry of the Emperor’s",
+          "she can ever be. She will gladly die to protect the Auto-Tapestry of the Emperor's",
           "Judgement, while the Sisters she fights alongside are inspired to carry out great",
           "deeds of faith in its presence - feats recorded by the Hagiolater, Agathae Dolan."
         ]
@@ -1743,17 +1975,31 @@
     "factionKeywords": [
       "Adepta Sororitas"
     ],
-    "abilities": {
-      "core": "Leader",
-      "faction": "Acts of Faith",
-      "special": [
-        "FACTION: Acts of Faith Litany of Deeds: Each time you gain a Miracle dice as the result of a friendly Adepta Sororitas unit being destroyed, if that unit was destroyed within 12\" of this model, you can re-roll the result of that Miracle dice before adding it to your Miracle dice pool}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Leader"
+            },{
+              "title": "FACTION",
+              "text": "Acts of Faith"
+            },
+      "FACTION: Acts of Faith Litany of Deeds: Each time you gain a Miracle dice as the result of a friendly Adepta Sororitas unit being destroyed, if that unit was destroyed within 12\" of this model, you can re-roll the result of that Miracle dice before adding it to your Miracle dice pool}.",
         "Stanchion of Holy Martyrs: While this model is leading a unit, models in that unit have a 4+ invulnerable save}.",
         "While this model is leading a Celestian Sacresants unit, models in that unit have a Save characteristic of 2+}."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "6\"",
       "t": "3",
@@ -1766,31 +2012,42 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Imagifier",
           "This model is equipped with",
           "bolt pistol; boltgun;",
           "close combat weapon."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following units",
-          "■",
           "Battle Sisters Squad",
-          "■",
           "Celestian Sacresants",
-          "■",
           "Dominion Squad",
-          "■",
           "Retributor Squad",
           "This model can be attached to a",
           "Battle Sisters Squad",
@@ -1855,16 +2112,30 @@
     "factionKeywords": [
       "Adepta Sororitas"
     ],
-    "abilities": {
-      "core": "Leader",
-      "faction": "Acts of Faith",
-      "special": [
-        "FACTION: Acts of Faith Laud Hailer: While this model is leading a unit, that unit can be selected as the target of Stratagems even when it is Battle-shocked}.",
-        "Stirring Rhetoric: While this model is leading a unit, each time this model’s unit performs an Act of Faith, the result of one of the Miracle dice used in that Act of Faith is first changed to a 6}."
-      ]
-    },
-    "invulnerable": "6+",
-    "damaged": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Leader"
+            },{
+              "title": "FACTION",
+              "text": "Acts of Faith"
+            },
+      "FACTION: Acts of Faith Laud Hailer: While this model is leading a unit, that unit can be selected as the target of Stratagems even when it is Battle-shocked}.",
+        "Stirring Rhetoric: While this model is leading a unit, each time this model's unit performs an Act of Faith, the result of one of the Miracle dice used in that Act of Faith is first changed to a 6}."
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "6+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "6\"",
       "t": "3",
@@ -1877,32 +2148,42 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Dialogus",
           "This model is equipped with",
           "bolt pistol; Dialogus staff."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following units",
-          "■",
           "Battle Sisters Squad",
-          "■",
           "Celestian Sacresants",
-          "■",
           "Dominion Squad",
-          "■",
           "Retributor Squad",
-          "■",
           "Sisters Novitiate Squad",
           "This model can be attached to a",
           "Battle Sisters Squad",
@@ -1952,7 +2233,7 @@
           "d": "1"
         },
         {
-          "name": "Zealot’s vindictor [IGNORES COVER, TORRENT]",
+          "name": "Zealot's vindictor [IGNORES COVER, TORRENT]",
           "range": "12\"",
           "a": "D6",
           "bws": "N/A",
@@ -1972,7 +2253,7 @@
           "d": "1"
         },
         {
-          "name": "Zealot’s vindictor",
+          "name": "Zealot's vindictor",
           "range": "Melee",
           "a": "3",
           "bws": "4+",
@@ -1985,17 +2266,31 @@
     "factionKeywords": [
       "Adepta Sororitas"
     ],
-    "abilities": {
-      "core": "Leader",
-      "faction": "Acts of Faith",
-      "special": [
-        "FACTION: Acts of Faith Righteous Smiting: While this model is leading a unit, each time a model in that unit makes a melee attack, add 1 to the Wound roll}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Leader"
+            },{
+              "title": "FACTION",
+              "text": "Acts of Faith"
+            },
+      "FACTION: Acts of Faith Righteous Smiting: While this model is leading a unit, each time a model in that unit makes a melee attack, add 1 to the Wound roll}.",
         "Zealot: Once per battle, in the Fight phase, this model can use this ability}.",
         "If it does, until the end of the phase, improve the Strength and Attacks characteristics of melee weapons equipped by this model by 2}."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "6\"",
       "t": "3",
@@ -2008,28 +2303,40 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s zealot’s vindictor can be replaced with 1 autopistol and 1 chainsword."
+          "This model's zealot's vindictor can be replaced with 1 autopistol and 1 chainsword."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Preacher",
           "This model is equipped with",
-          "zealot’s vindictor."
+          "zealot's vindictor."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following units",
-          "■",
           "Arco-flagellants",
-          "■",
           "Crusaders",
-          "■",
           "Sisters Novitiate Squad",
           "PREACHER",
           "It is the role of Preachers to harness the faith of Imperial warriors in",
@@ -2138,15 +2445,27 @@
     "factionKeywords": [
       "Adepta Sororitas"
     ],
-    "abilities": {
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
       "core": null,
-      "faction": "Acts of Faith",
-      "special": [
-        "Sworn Protectors: While a Canoness , Palatine or Junith Eruita model is leading this unit, each time an attack targets this unit, subtract 1 from the Wound roll}."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+      {
+              "title": "FACTION",
+              "text": "Acts of Faith"
+            },
+      "Sworn Protectors: While a Canoness , Palatine or Junith Eruita model is leading this unit, each time an attack targets this unit, subtract 1 from the Wound roll}."
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "6\"",
       "t": "3",
@@ -2162,26 +2481,27 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "The Sacresant Superior’s hallowed mace can be replaced with 1 spear of the faithful.",
-          "■",
-          "The Sacresant Superior’s bolt pistol can be replaced with one of the following",
-          "◦",
+          "The Sacresant Superior's hallowed mace can be replaced with 1 spear of the faithful.",
+          "The Sacresant Superior's bolt pistol can be replaced with one of the following",
           "1 inferno pistol",
-          "◦",
           "1 Ministorum hand flamer",
-          "◦",
           "1 plasma pistol",
-          "■",
           "Any number of models can each have their hallowed mace replaced with 1 anointed halberd."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Sacresant Superior",
-          "■",
           "4-9 Celestian Sacresants",
           "Every model is equipped with",
           "bolt pistol; hallowed mace.",
@@ -2222,7 +2542,7 @@
       ],
       "melee": [
         {
-          "name": "Chirurgeon’s tools",
+          "name": "Chirurgeon's tools",
           "range": "Melee",
           "a": "3",
           "bws": "4+",
@@ -2235,18 +2555,32 @@
     "factionKeywords": [
       "Adepta Sororitas"
     ],
-    "abilities": {
-      "core": "Leader",
-      "faction": "Acts of Faith",
-      "special": [
-        "FACTION: Acts of Faith Medicus Ministorum: While this model is leading a unit, models in that unit have the Feel No Pain 5+ ability}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Leader"
+            },{
+              "title": "FACTION",
+              "text": "Acts of Faith"
+            },
+      "FACTION: Acts of Faith Medicus Ministorum: While this model is leading a unit, models in that unit have the Feel No Pain 5+ ability}.",
         "Sacred Healing: At the end of your Movement phase, select one friendly Adepta Sororitas Infantry Character unit within 3\" of this model}.",
         "That unit regains up to 3 lost wounds}.",
         "A unit can only be affected by this ability once per turn}."
-      ]
-    },
-    "invulnerable": "6+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "6+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "6\"",
       "t": "3",
@@ -2259,32 +2593,42 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Hospitaller",
           "This model is equipped with",
-          "bolt pistol; chirurgeon’s tools."
+          "bolt pistol; chirurgeon's tools."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following units",
-          "■",
           "Battle Sisters Squad",
-          "■",
           "Celestian Sacresants",
-          "■",
           "Dominion Squad",
-          "■",
           "Retributor Squad",
-          "■",
           "Sisters Novitiate Squad",
           "This model can be attached to a",
           "Battle Sisters Squad",
@@ -2350,16 +2694,30 @@
     "factionKeywords": [
       "Adepta Sororitas"
     ],
-    "abilities": {
-      "core": "Leader",
-      "faction": "Acts of Faith",
-      "special": [
-        "FACTION: Acts of Faith Executioner of Heretics (Aura): While an enemy unit is within 6\" of this model, each time a Battle-shock or Leadership test is taken for that unit, subtract 1 from the test}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Leader"
+            },{
+              "title": "FACTION",
+              "text": "Acts of Faith"
+            },
+      "FACTION: Acts of Faith Executioner of Heretics (Aura): While an enemy unit is within 6\" of this model, each time a Battle-shock or Leadership test is taken for that unit, subtract 1 from the test}.",
         "Unflinching Determination: While this model is leading a unit, add 1 to the Objective Control characteristic of models in that unit}."
-      ]
-    },
-    "invulnerable": "6+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "6+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "6\"",
       "t": "3",
@@ -2372,31 +2730,42 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Dogmata",
           "This model is equipped with",
           "bolt pistol; mace of",
           "the righteous."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following units",
-          "■",
           "Battle Sisters Squad",
-          "■",
           "Celestian Sacresants",
-          "■",
           "Dominion Squad",
-          "■",
           "Retributor Squad",
           "This model can be attached to a",
           "Battle Sisters Squad",
@@ -2516,15 +2885,27 @@
     "factionKeywords": [
       "Adepta Sororitas"
     ],
-    "abilities": {
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
       "core": null,
-      "faction": "Acts of Faith",
-      "special": [
-        "Righteous Paragons: This unit is eligible to shoot and declare a charge in a turn in which it Fell Back}."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+      {
+              "title": "FACTION",
+              "text": "Acts of Faith"
+            },
+      "Righteous Paragons: This unit is eligible to shoot and declare a charge in a turn in which it Fell Back}."
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "8\"",
       "t": "6",
@@ -2537,31 +2918,33 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "Any number of models can each have their Paragon storm bolters replaced with 1 Paragon",
           "grenade launchers.",
-          "■",
           "Any number of models can each have their heavy bolter replaced with one of the following",
-          "◦",
           "1 Ministorum heavy flamer",
-          "◦",
           "1 multi-melta",
-          "■",
           "Any number of models can each have their Paragon war blade replaced with 1 Paragon war mace."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Paragon Superior",
-          "■",
           "2 Paragons",
           "Every model is equipped with",
           "bolt pistol; heavy bolter;",
           "Paragon storm bolters; Paragon war blade.",
           "PARAGON WARSUITS",
-          "A pilot must have immense faith for a Paragon Warsuit’s spirit to",
+          "A pilot must have immense faith for a Paragon Warsuit's spirit to",
           "trust them. They must also have incredible skill to handle its control",
           "system, which allows for highly complex and fluid movements.",
           "Mastering a Paragon Warsuit makes a Sister capable of engaging the",
@@ -2620,15 +3003,29 @@
     "factionKeywords": [
       "Adepta Sororitas"
     ],
-    "abilities": {
-      "core": "Feel No Pain 5+",
-      "faction": "Acts of Faith",
-      "special": [
-        "FACTION: Acts of Faith Overseer of Redemption: While this unit contains a Repentia Superior, each time a model in this unit makes a melee attack, you can re-roll the Hit roll and, if this unit made a Charge move this turn, you can also re-roll the Wound roll}."
-      ]
-    },
-    "invulnerable": "6+",
-    "damaged": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Feel No Pain 5+"
+            },{
+              "title": "FACTION",
+              "text": "Acts of Faith"
+            },
+      "FACTION: Acts of Faith Overseer of Redemption: While this unit contains a Repentia Superior, each time a model in this unit makes a melee attack, you can re-roll the Hit roll and, if this unit made a Charge move this turn, you can also re-roll the Wound roll}."
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "6+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "7\"",
       "t": "3",
@@ -2641,16 +3038,22 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Repentia Superior",
-          "■",
           "4-9 Sisters Repentia",
           "The Repentia Superior is equipped with",
           "bolt pistol;",
@@ -2682,7 +3085,6 @@
       "Crusaders"
     ],
     "weapons": {
-      "ranged": [],
       "melee": [
         {
           "name": "Power weapon",
@@ -2698,15 +3100,27 @@
     "factionKeywords": [
       "Adepta Sororitas"
     ],
-    "abilities": {
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
       "core": null,
-      "faction": "Acts of Faith",
-      "special": [
-        "Spiritual Fortitude: While a Missionary or Preacher model is leading this unit, models in this unit have the Feel No Pain 4+ ability against mortal wounds}."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+      {
+              "title": "FACTION",
+              "text": "Acts of Faith"
+            },
+      "Spiritual Fortitude: While a Missionary or Preacher model is leading this unit, models in this unit have the Feel No Pain 4+ ability against mortal wounds}."
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "6\"",
       "t": "3",
@@ -2719,14 +3133,21 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "2-6 Crusaders",
           "Every model is equipped with",
           "power weapon.",
@@ -2755,7 +3176,6 @@
       "Death Cult Assassins"
     ],
     "weapons": {
-      "ranged": [],
       "melee": [
         {
           "name": "Death Cult power blades [PRECISION]",
@@ -2771,15 +3191,29 @@
     "factionKeywords": [
       "Adepta Sororitas"
     ],
-    "abilities": {
-      "core": "Fights First",
-      "faction": "Acts of Faith",
-      "special": [
-        "FACTION: Acts of Faith Death Cult: Each time a model in this unit makes an attack that targets a Character unit, re-roll a Wound roll of 1}."
-      ]
-    },
-    "invulnerable": "5+",
-    "damaged": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Fights First"
+            },{
+              "title": "FACTION",
+              "text": "Acts of Faith"
+            },
+      "FACTION: Acts of Faith Death Cult: Each time a model in this unit makes an attack that targets a Character unit, re-roll a Wound roll of 1}."
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "5+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "7\"",
       "t": "3",
@@ -2792,23 +3226,30 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "2-6 Death Cult Assassins",
           "Every model is equipped with",
           "Death Cult power blades.",
           "DEATH CULT ASSASSINS",
           "Death Cult Assassins are obsessed with spilling the blood of the",
-          "unclean. They leap fearlessly into the enemy’s ranks, twirling and",
+          "unclean. They leap fearlessly into the enemy's ranks, twirling and",
           "spinning. Their every slice and stab has a ritualistic element, and to",
           "them the manner of each kill has a special significance when they",
-          "offer the victim’s soul to the Emperor."
+          "offer the victim's soul to the Emperor."
         ]
       }
     ]
@@ -2907,18 +3348,32 @@
     "factionKeywords": [
       "Adepta Sororitas"
     ],
-    "abilities": {
-      "core": "Scouts 6\"",
-      "faction": "Acts of Faith",
-      "special": [
-        "FACTION: Acts of Faith Cherub: Once per battle, after this unit has performed an Act of Faith, you gain 1 Miracle dice}.",
-        "Designer’s Note: Place a Cherub token next to the unit, removing it once this ability has been used}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Scouts 6\""
+            },{
+              "title": "FACTION",
+              "text": "Acts of Faith"
+            },
+      "FACTION: Acts of Faith Cherub: Once per battle, after this unit has performed an Act of Faith, you gain 1 Miracle dice}.",
+        "Designer's Note: Place a Cherub token next to the unit, removing it once this ability has been used}.",
         "Holy Vanguard: You can re-roll Advance rolls made for this unit}.",
-        "WARGEAR ABILITIES Simulacrum Imperialis: Each time a unit is destroyed by the bearer’s unit, you gain 1 Miracle dice}."
-      ]
-    },
-    "invulnerable": "6+",
-    "damaged": null,
+        "WARGEAR ABILITIES Simulacrum Imperialis: Each time a unit is destroyed by the bearer's unit, you gain 1 Miracle dice}."
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "6+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "6\"",
       "t": "3",
@@ -2931,52 +3386,44 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "The Dominion Superior’s boltgun can be",
+          "The Dominion Superior's boltgun can be",
           "replaced with one of the following",
-          "◦",
           "1 bolt pistol",
-          "◦",
           "1 combi-weapon*",
-          "◦",
           "1 condemnor boltgun*",
-          "◦",
           "1 inferno pistol*",
-          "◦",
           "1 Ministorum hand flamer*",
-          "◦",
           "1 plasma pistol*",
-          "■",
           "The Dominion Superior can be equipped with",
           "one of the following",
-          "◦",
           "1 chainsword",
-          "◦",
           "1 power weapon",
-          "■",
           "Up to 4 Dominions can each have their boltgun",
           "replaced with one of the following",
-          "◦",
           "1 artificer-crafted storm bolter",
-          "◦",
           "1 meltagun",
-          "◦",
           "1 Ministorum flamer",
-          "■",
           "1 Dominion equipped with 1 boltgun can be",
           "equipped with 1 simulacrum imperialis (that",
-          "model’s boltgun cannot be replaced).",
+          "model's boltgun cannot be replaced).",
           "*",
-          "This weapon’s profile can be found on the Adepta Sororitas",
+          "This weapon's profile can be found on the Adepta Sororitas",
           "Armoury card."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Dominion Superior",
-          "■",
           "9 Dominions",
           "Every model is equipped with",
           "bolt pistol; boltgun;",
@@ -3091,16 +3538,30 @@
     "factionKeywords": [
       "Adepta Sororitas"
     ],
-    "abilities": {
-      "core": "Deep Strike",
-      "faction": "Acts of Faith",
-      "special": [
-        "FACTION: Acts of Faith Angelic Ascent: In your Shooting phase, after this unit has shot, if it is not within Engagement Range of any enemy units, it can make a Normal move of up to 6\"}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deep Strike"
+            },{
+              "title": "FACTION",
+              "text": "Acts of Faith"
+            },
+      "FACTION: Acts of Faith Angelic Ascent: In your Shooting phase, after this unit has shot, if it is not within Engagement Range of any enemy units, it can make a Normal move of up to 6\"}.",
         "If it does, until the end of the turn, this unit is not eligible to declare a charge}."
-      ]
-    },
-    "invulnerable": "5+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "5+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "12\"",
       "t": "3",
@@ -3116,39 +3577,37 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "The Seraphim Superior’s 2 bolt pistols can be replaced with one of the following",
-          "◦",
+          "The Seraphim Superior's 2 bolt pistols can be replaced with one of the following",
           "1 bolt pistol and 1 chainsword",
-          "◦",
           "1 bolt pistol and 1 plasma pistol",
-          "◦",
           "1 bolt pistol and 1 power weapon",
-          "◦",
           "1 plasma pistol and 1 chainsword",
-          "◦",
           "1 plasma pistol and 1 power weapon",
-          "■",
           "For every 5 models in the unit, up to 2 Seraphim can each have their 2 bolt pistols replaced with one",
           "of the following",
-          "◦",
           "2 inferno pistols",
-          "◦",
           "2 Ministorum hand flamers"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Seraphim Superior",
-          "■",
           "4-9 Seraphim",
           "Every model is equipped with",
           "2 bolt pistols;",
           "close combat weapon.",
           "SERAPHIM SQUAD",
-          "The Seraphim fight in the Adepta Sororitas’ advanced guard. Only",
+          "The Seraphim fight in the Adepta Sororitas' advanced guard. Only",
           "Battle Sisters with superlative dexterity are selected to join their ranks,",
           "firing with pinpoint accuracy while moving at great speeds. They must",
           "be able to land with incredible precision, cut down foes and retreat",
@@ -3218,16 +3677,30 @@
     "factionKeywords": [
       "Adepta Sororitas"
     ],
-    "abilities": {
-      "core": "Deep Strike",
-      "faction": "Acts of Faith",
-      "special": [
-        "FACTION: Acts of Faith Embodied Prophecy: Each time a model in this unit makes a melee attack, if this unit made a Charge move this turn, add 1 to the Strength characteristic of that attack}.",
-        "WARGEAR ABILITIES Sacred Banner: You can re-roll Advance and Charge rolls made for the bearer’s unit}."
-      ]
-    },
-    "invulnerable": "5+",
-    "damaged": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deep Strike"
+            },{
+              "title": "FACTION",
+              "text": "Acts of Faith"
+            },
+      "FACTION: Acts of Faith Embodied Prophecy: Each time a model in this unit makes a melee attack, if this unit made a Charge move this turn, add 1 to the Strength characteristic of that attack}.",
+        "WARGEAR ABILITIES Sacred Banner: You can re-roll Advance and Charge rolls made for the bearer's unit}."
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "5+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "12\"",
       "t": "3",
@@ -3243,18 +3716,23 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "The Zephyrim Superior can be equipped with 1 sacred banner.",
-          "■",
-          "The Zephyrim Superior’s bolt pistol can be replaced with 1 plasma pistol."
+          "The Zephyrim Superior's bolt pistol can be replaced with 1 plasma pistol."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Zephyrim Superior",
-          "■",
           "4-9 Zephyrim",
           "Every model is equipped with",
           "bolt pistol; power weapon.",
@@ -3362,17 +3840,29 @@
     "factionKeywords": [
       "Adepta Sororitas"
     ],
-    "abilities": {
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
       "core": null,
-      "faction": "Acts of Faith",
-      "special": [
-        "Cherubs: Twice per battle, after this unit has performed an Act of Faith, you gain 1 Miracle dice}.",
-        "Designer’s Note: Place two Cherub tokens next to the unit, removing one each time this ability has been used}.",
+      {
+              "title": "FACTION",
+              "text": "Acts of Faith"
+            },
+      "Cherubs: Twice per battle, after this unit has performed an Act of Faith, you gain 1 Miracle dice}.",
+        "Designer's Note: Place two Cherub tokens next to the unit, removing one each time this ability has been used}.",
         "Storm of Retribution: Each time a model in this unit makes a ranged attack, re-roll a Wound roll of 1}."
-      ]
-    },
-    "invulnerable": "6+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "6+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "6\"",
       "t": "3",
@@ -3385,46 +3875,40 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "The Retributor Superior’s boltgun can be",
+          "The Retributor Superior's boltgun can be",
           "replaced with one of the following",
-          "◦",
           "1 bolt pistol",
-          "◦",
           "1 combi-weapon*",
-          "◦",
           "1 condemnor boltgun*",
-          "◦",
           "1 inferno pistol*",
-          "◦",
           "1 Ministorum hand flamer*",
-          "◦",
           "1 plasma pistol*",
-          "■",
           "The Retributor Superior can be equipped with",
           "one of the following",
-          "◦",
           "1 chainsword",
-          "◦",
           "1 power weapon",
-          "■",
-          "Each Retributor’s heavy bolter can be replaced",
+          "Each Retributor's heavy bolter can be replaced",
           "with one of the following",
-          "◦",
           "1 Ministorum heavy flamer",
-          "◦",
           "1 multi-melta",
           "*",
-          "This weapon’s profile can be found on the Adepta Sororitas",
+          "This weapon's profile can be found on the Adepta Sororitas",
           "Armoury card."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Retributor Superior",
-          "■",
           "4 Retributors",
           "The Retributor Superior is equipped with",
           "bolt pistol; boltgun;",
@@ -3519,16 +4003,32 @@
     "factionKeywords": [
       "Adepta Sororitas"
     ],
-    "abilities": {
-      "core": "Deadly Demise 1, Feel No Pain 5+",
-      "faction": "Acts of Faith",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise 1, Feel No Pain 5+"
+            },{
+              "title": "FACTION",
+              "text": "Acts of Faith"
+            },
       "special": [
         "FACTION: Acts of Faith Anguish of the Unredeemed: Each time this unit makes a Charge move, until the end of the phase, melee weapons equipped by models in this unit have the [SUSTAINED HITS 1] ability}.",
         "WARGEAR ABILITIES Anchorite Sarcophagus: The bearer has a Save characteristic of 3+}."
       ]
-    },
-    "invulnerable": "6+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "6+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "8\"",
       "t": "6",
@@ -3541,34 +4041,35 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "1 model can be equipped with 1 anchorite sarcophagus.",
-          "■",
           "Any number of models can each have their 2 heavy bolters replaced with one of the following",
-          "◦",
           "1 heavy bolter and 1 Mortifier flamer",
-          "◦",
           "2 Mortifier flamers",
-          "■",
           "Any number of models can each have their twin penitent buzz-blades replaced with one of",
           "the following",
-          "◦",
           "1 twin penitent flails",
-          "◦",
           "1 penitent buzz-blade and 1 penitent flail"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1-2 Mortifiers",
           "Every model is equipped with",
           "2 heavy bolters;",
           "twin penitent buzz-blades.",
           "MORTIFIERS",
           "The pilot of a Mortifier is a Sister Repentia who has fled from battle.",
-          "Bolted within the Mortifier’s armoured shell, they cannot move,",
+          "Bolted within the Mortifier's armoured shell, they cannot move,",
           "speak or hear. Suffering endless shame and agony, they are driven",
           "by madness and pain to carve a path of mutilation and destruction",
           "through the foe."
@@ -3650,15 +4151,19 @@
     "factionKeywords": [
       "Adepta Sororitas"
     ],
-    "abilities": {
-      "core": "Deadly Demise 1, Feel No Pain 5+",
-      "faction": "Acts of Faith",
-      "special": [
-        "FACTION: Acts of Faith Endless Suffering: This unit is eligible to declare a charge in a turn in which it Advanced}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise 1, Feel No Pain 5+"
+            },{
+              "title": "FACTION",
+              "text": "Acts of Faith"
+            },
+      "FACTION: Acts of Faith Endless Suffering: This unit is eligible to declare a charge in a turn in which it Advanced}."
+    }],
     "stats": {
       "m": "8\"",
       "t": "6",
@@ -3671,19 +4176,24 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "Any number of models can each have their twin penitent buzz-blades replaced with one of",
           "the following",
-          "◦",
           "1 penitent buzz-blade and 1 penitent flail",
-          "◦",
           "1 twin penitent flails"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1-2 Penitent Engines",
           "Every model is equipped with",
           "penitent flamers; twin",
@@ -3769,16 +4279,30 @@
     "factionKeywords": [
       "Adepta Sororitas"
     ],
-    "abilities": {
-      "core": "Deadly Demise D3",
-      "faction": "Acts of Faith",
-      "special": [
-        "FACTION: Acts of Faith Mobile Shrine (Aura): While a friendly Adepta Sororitas Infantry unit is within 6\" of this model, improve the Leadership characteristic of models in that unit by 1}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D3"
+            },{
+              "title": "FACTION",
+              "text": "Acts of Faith"
+            },
+      "FACTION: Acts of Faith Mobile Shrine (Aura): While a friendly Adepta Sororitas Infantry unit is within 6\" of this model, improve the Leadership characteristic of models in that unit by 1}.",
         "DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll}."
-      ]
-    },
-    "invulnerable": "6+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "6+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "10\"",
       "t": "10",
@@ -3791,22 +4315,28 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s Exorcist missile launcher can be replaced with 1 Exorcist conflagration rockets.",
-          "■",
+          "This model's Exorcist missile launcher can be replaced with 1 Exorcist conflagration rockets.",
           "This model can be equipped with 1 hunter-killer missile."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Exorcist",
           "This model is equipped with",
           "Exorcist missile launcher;",
           "heavy bolter; armoured tracks.",
           "EXORCIST",
-          "Every flurry of notes performed by the Exorcist’s artillerist inloads",
+          "Every flurry of notes performed by the Exorcist's artillerist inloads",
           "targeting solutions and impact coordinates, so that volleys of",
           "thrice-blessed rockets are fired into the enemy. More than artillery",
           "tanks, Exorcists are mobile shrines to the magnificence of the Emperor",
@@ -3895,19 +4425,33 @@
     "factionKeywords": [
       "Adepta Sororitas"
     ],
-    "abilities": {
-      "core": "Deadly Demise D3",
-      "faction": "Acts of Faith",
-      "special": [
-        "FACTION: Acts of Faith Rites of Castigation: Each time this model makes an attack with its Castigator autocannons that targets an enemy Infantry unit, you can re-roll the Hit roll}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D3"
+            },{
+              "title": "FACTION",
+              "text": "Acts of Faith"
+            },
+      "FACTION: Acts of Faith Rites of Castigation: Each time this model makes an attack with its Castigator autocannons that targets an enemy Infantry unit, you can re-roll the Hit roll}.",
         "Each time this model makes an attack with its Castigator battle cannon that targets an enemy Monster or Vehicle unit, you can re-roll the Hit roll}.",
         "After this model has shot, select one enemy unit that was hit by its Castigator autocannons or Castigator battle cannon this phase}.",
         "That unit must take a Battle-shock test}.",
         "DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll}."
-      ]
-    },
-    "invulnerable": "6+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "6+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "10\"",
       "t": "10",
@@ -3920,18 +4464,23 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s Castigator autocannons can be replaced with 1 Castigator battle cannon.",
-          "■",
+          "This model's Castigator autocannons can be replaced with 1 Castigator battle cannon.",
           "This model can be equipped with 1 hunter-killer missile.",
-          "■",
           "This model can be equipped with 1 storm bolter."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Castigator",
           "This model is equipped with",
           "Castigator autocannons;",
@@ -3939,7 +4488,7 @@
           "CASTIGATOR",
           "Castigators are powerful battle tanks of the Adepta Sororitas. They",
           "provide excellent fire support for Battle Sisters thanks to their wide",
-          "array of weapons, smashing through the foe’s lines and slaughtering",
+          "array of weapons, smashing through the foe's lines and slaughtering",
           "great swathes of enemy infantry in a matter of seconds."
         ]
       }
@@ -3999,15 +4548,29 @@
     "factionKeywords": [
       "Adepta Sororitas"
     ],
-    "abilities": {
-      "core": "Deadly Demise D3, Firing Deck 2",
-      "faction": "Acts of Faith",
-      "special": [
-        "FACTION: Acts of Faith Self Repair: At the start of your Command phase, this model regains 1 lost wound}."
-      ]
-    },
-    "invulnerable": "6+",
-    "damaged": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D3, Firing Deck 2"
+            },{
+              "title": "FACTION",
+              "text": "Acts of Faith"
+            },
+      "FACTION: Acts of Faith Self Repair: At the start of your Command phase, this model regains 1 lost wound}."
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "6+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "12\"",
       "t": "9",
@@ -4020,14 +4583,21 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "This model can be equipped with 1 hunter-killer missile."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Sororitas Rhino",
           "This model is equipped with",
           "storm bolter; armoured tracks."
@@ -4136,15 +4706,29 @@
     "factionKeywords": [
       "Adepta Sororitas"
     ],
-    "abilities": {
-      "core": "Deadly Demise D3",
-      "faction": "Acts of Faith",
-      "special": [
-        "FACTION: Acts of Faith Fire Support: In your Shooting phase, after this model has shot, select one enemy unit hit by one or more of those attacks. Until the end of the phase, each time a friendly model that disembarked from this Transport this turn makes an attack that targets that enemy unit, you can re-roll the Wound roll}."
-      ]
-    },
-    "invulnerable": "6+",
-    "damaged": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D3"
+            },{
+              "title": "FACTION",
+              "text": "Acts of Faith"
+            },
+      "FACTION: Acts of Faith Fire Support: In your Shooting phase, after this model has shot, select one enemy unit hit by one or more of those attacks. Until the end of the phase, each time a friendly model that disembarked from this Transport this turn makes an attack that targets that enemy unit, you can re-roll the Wound roll}."
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "6+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "12\"",
       "t": "10",
@@ -4157,20 +4741,24 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s immolation flamers can be replaced with one of the following",
-          "◦",
+          "This model's immolation flamers can be replaced with one of the following",
           "1 twin heavy bolter",
-          "◦",
           "1 twin multi-melta",
-          "■",
           "This model can be equipped with 1 hunter-killer missile."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Immolator",
           "This model is equipped with",
           "heavy bolter; immolation",
@@ -4230,7 +4818,6 @@
       "Arco-flagellants"
     ],
     "weapons": {
-      "ranged": [],
       "melee": [
         {
           "name": "Arco-flails [SUSTAINED HITS 1, TWIN-LINKED]",
@@ -4246,16 +4833,22 @@
     "factionKeywords": [
       "Adepta Sororitas"
     ],
-    "abilities": {
-      "core": "Feel No Pain 4+",
-      "faction": "Acts of Faith",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Feel No Pain 4+"
+            },{
+              "title": "FACTION",
+              "text": "Acts of Faith"
+            },
       "special": [
         "FACTION: Acts of Faith Extremis Trigger Word: Each time this unit is selected to fight, you can choose to invoke its extremis trigger word}.",
         "If you do, then until the end of the phase, arco-flails equipped by models in this unit have an Attacks characteristic of 6 and the [HAZARDOUS] ability}."
       ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "7\"",
       "t": "3",
@@ -4268,14 +4861,21 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "3-10",
           "Arco-flagellants",
           "Every model is equipped with",

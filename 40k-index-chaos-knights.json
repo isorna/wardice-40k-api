@@ -114,7 +114,7 @@
           "points": 20,
           "rules": [
             {
-              "text": "Heretic Astartes Khorne model only. Add 1 to the Attacks and Strength characteristics of the bearer’s melee weapons. Each time the bearer’s unit makes a Dark Pact, until the end of the phase, add D3 to the Attacks and Strength characteristics of the bearer’s melee weapons instead."
+              "text": "Heretic Astartes Khorne model only. Add 1 to the Attacks and Strength characteristics of the bearer's melee weapons. Each time the bearer's unit makes a Dark Pact, until the end of the phase, add D3 to the Attacks and Strength characteristics of the bearer's melee weapons instead."
             }
           ]
         },
@@ -123,7 +123,7 @@
           "points": 30,
           "rules": [
             {
-              "text": "Heretic Astartes Tzeentch model only. Each time the bearer’s unit makes a Dark Pact, take a Leadership test for the bearer: if that test is passed, you gain 1CP."
+              "text": "Heretic Astartes Tzeentch model only. Each time the bearer's unit makes a Dark Pact, take a Leadership test for the bearer: if that test is passed, you gain 1CP."
             }
           ]
         },
@@ -132,7 +132,7 @@
           "points": 25,
           "rules": [
             {
-              "text": "Heretic Astartes Nurgle model only. At the end of the Fight phase, roll one D6 for every enemy unit within 6\" of the bearer, adding 1 to the result if the bearer’s unit made a Dark Pact that phase: on a 4+, that enemy unit suffers D3 mortal wounds."
+              "text": "Heretic Astartes Nurgle model only. At the end of the Fight phase, roll one D6 for every enemy unit within 6\" of the bearer, adding 1 to the result if the bearer's unit made a Dark Pact that phase: on a 4+, that enemy unit suffers D3 mortal wounds."
             }
           ]
         },
@@ -141,7 +141,7 @@
           "points": 15,
           "rules": [
             {
-              "text": "Heretic Astartes Slaanesh model only. The bearer has the Feel No Pain 5+ ability. Each time the bearer shoots or fights, if the bearer’s unit made a Dark Pact this phase, after the bearer has resolved those attacks, select one enemy unit that was hit by one or more of those attacks; that enemy unit must take a Battle-shock test."
+              "text": "Heretic Astartes Slaanesh model only. The bearer has the Feel No Pain 5+ ability. Each time the bearer shoots or fights, if the bearer's unit made a Dark Pact this phase, after the bearer has resolved those attacks, select one enemy unit that was hit by one or more of those attacks; that enemy unit must take a Battle-shock test."
             }
           ]
         },
@@ -150,7 +150,7 @@
           "points": 40,
           "rules": [
             {
-              "text": "Heretic Astartes Chaos Undivided model only. Each time the bearer’s unit makes a Dark Pact, that unit’s weapons gain the [LETHAL HITS] and [SUSTAINED HITS 1] ability until the end of the phase, instead of just gaining one of those abilities."
+              "text": "Heretic Astartes Chaos Undivided model only. Each time the bearer's unit makes a Dark Pact, that unit's weapons gain the [LETHAL HITS] and [SUSTAINED HITS 1] ability until the end of the phase, instead of just gaining one of those abilities."
             }
           ]
         }
@@ -174,22 +174,26 @@
       "Executioner"
     ],
     "weapons": {
-      "ranged": [],
       "melee": []
     },
     "factionKeywords": [
       "Chaos Knights"
     ],
-    "abilities": {
-      "core": "Deadly Demise D3",
-      "faction": "Harbingers of Dread",
-      "special": [
-        "FACTION: Harbingers of Dread Executioner: Each time this model makes an attack that targets a unit Below Half-strength, add 1 to the Hit roll}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D3"
+            },{
+              "title": "FACTION",
+              "text": "Harbingers of Dread"
+            },
+      "FACTION: Harbingers of Dread Executioner: Each time this model makes an attack that targets a unit Below Half-strength, add 1 to the Hit roll}.",
         "DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll}."
-      ]
-    },
+    }],
     "invulnerable": "*",
-    "damaged": null,
     "stats": {
       "m": "12\"",
       "t": "10",
@@ -202,14 +206,21 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s diabolus heavy stubber can be replaced with 1 daemonbreath meltagun."
+          "This model's diabolus heavy stubber can be replaced with 1 daemonbreath meltagun."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 War Dog Executioner",
           "This model is equipped with",
           "diabolus heavy stubber;",
@@ -218,7 +229,7 @@
           "Methodical and coldly emotionless killers, Fallen Nobles who pilot",
           "War Dog Executioners employ long-barrelled, rapid-firing cannons",
           "to maximise their kills. They eviscerate throngs of the enemy and",
-          "hammer the foes’ war engines into submission, seeking to reap ever",
+          "hammer the foes' war engines into submission, seeking to reap ever",
           "greater murderous tallies than their peers."
         ]
       }
@@ -241,22 +252,26 @@
       "Stalker"
     ],
     "weapons": {
-      "ranged": [],
       "melee": []
     },
     "factionKeywords": [
       "Chaos Knights"
     ],
-    "abilities": {
-      "core": "Deadly Demise D3",
-      "faction": "Harbingers of Dread",
-      "special": [
-        "FACTION: Harbingers of Dread Stalker: Each time this model makes an attack that targets an enemy unit, if there are no other units from your opponent’s army within 6\" of that target, add 1 to the Wound roll}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D3"
+            },{
+              "title": "FACTION",
+              "text": "Harbingers of Dread"
+            },
+      "FACTION: Harbingers of Dread Stalker: Each time this model makes an attack that targets an enemy unit, if there are no other units from your opponent's army within 6\" of that target, add 1 to the Wound roll}.",
         "DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll}."
-      ]
-    },
+    }],
     "invulnerable": "*",
-    "damaged": null,
     "stats": {
       "m": "12\"",
       "t": "10",
@@ -272,18 +287,23 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s avenger chaincannon can be replaced with 1 daemonbreath spear.",
-          "■",
-          "This model’s diabolus heavy stubber can be replaced with 1 havoc multi-launcher.",
-          "■",
-          "This model’s slaughterclaw can be replaced with 1 reaper chaintalon."
+          "This model's avenger chaincannon can be replaced with 1 daemonbreath spear.",
+          "This model's diabolus heavy stubber can be replaced with 1 havoc multi-launcher.",
+          "This model's slaughterclaw can be replaced with 1 reaper chaintalon."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 War Dog Stalker",
           "This model is equipped with",
           "avenger chaincannon;",
@@ -291,7 +311,7 @@
           "WAR DOG STALKER",
           "Only the most strong-willed of minor nobility have the mental fortitude",
           "to pilot a Stalker. Like pack alphas, they often lead other War Dogs",
-          "in carefully planned attacks, harrying the foe’s flanks, butchering",
+          "in carefully planned attacks, harrying the foe's flanks, butchering",
           "reinforcements and hunting down lone threats. They unleash salvoes",
           "of fire at range or in the heart of combat with deadly claw strikes."
         ]
@@ -314,22 +334,26 @@
       "Karnivore"
     ],
     "weapons": {
-      "ranged": [],
       "melee": []
     },
     "factionKeywords": [
       "Chaos Knights"
     ],
-    "abilities": {
-      "core": "Deadly Demise D3",
-      "faction": "Harbingers of Dread",
-      "special": [
-        "FACTION: Harbingers of Dread Karnivore: You can re-roll Charge rolls made for this model}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D3"
+            },{
+              "title": "FACTION",
+              "text": "Harbingers of Dread"
+            },
+      "FACTION: Harbingers of Dread Karnivore: You can re-roll Charge rolls made for this model}.",
         "DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll}."
-      ]
-    },
+    }],
     "invulnerable": "*",
-    "damaged": null,
     "stats": {
       "m": "14\"",
       "t": "10",
@@ -345,14 +369,21 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s diabolus heavy stubber can be replaced with 1 havoc multi-launcher."
+          "This model's diabolus heavy stubber can be replaced with 1 havoc multi-launcher."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 War Dog Karnivore",
           "This model is equipped with",
           "diabolus heavy stubber;",
@@ -383,22 +414,26 @@
       "Brigand"
     ],
     "weapons": {
-      "ranged": [],
       "melee": []
     },
     "factionKeywords": [
       "Chaos Knights"
     ],
-    "abilities": {
-      "core": "Deadly Demise D3",
-      "faction": "Harbingers of Dread",
-      "special": [
-        "FACTION: Harbingers of Dread Brigand: Each time this model makes a ranged attack that targets the closest eligible enemy unit, improve the Armour Penetration characteristic of that attack by 1}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D3"
+            },{
+              "title": "FACTION",
+              "text": "Harbingers of Dread"
+            },
+      "FACTION: Harbingers of Dread Brigand: Each time this model makes a ranged attack that targets the closest eligible enemy unit, improve the Armour Penetration characteristic of that attack by 1}.",
         "DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll}."
-      ]
-    },
+    }],
     "invulnerable": "*",
-    "damaged": null,
     "stats": {
       "m": "12\"",
       "t": "10",
@@ -411,14 +446,21 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s diabolus heavy stubber can be replaced with 1 havoc multi-launcher."
+          "This model's diabolus heavy stubber can be replaced with 1 havoc multi-launcher."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 War Dog Brigand",
           "This model is equipped with",
           "avenger chaincannon;",
@@ -449,22 +491,26 @@
       "Huntsman"
     ],
     "weapons": {
-      "ranged": [],
       "melee": []
     },
     "factionKeywords": [
       "Chaos Knights"
     ],
-    "abilities": {
-      "core": "Deadly Demise D3",
-      "faction": "Harbingers of Dread",
-      "special": [
-        "FACTION: Harbingers of Dread Huntsman: Each time this model makes an attack against a Monster or Vehicle unit, re-roll a Wound roll of 1 and re-roll a Damage roll of 1}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D3"
+            },{
+              "title": "FACTION",
+              "text": "Harbingers of Dread"
+            },
+      "FACTION: Harbingers of Dread Huntsman: Each time this model makes an attack against a Monster or Vehicle unit, re-roll a Wound roll of 1 and re-roll a Damage roll of 1}.",
         "DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll}."
-      ]
-    },
+    }],
     "invulnerable": "*",
-    "damaged": null,
     "stats": {
       "m": "12\"",
       "t": "10",
@@ -480,14 +526,21 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s diabolus heavy stubber can be replaced with 1 daemonbreath meltagun."
+          "This model's diabolus heavy stubber can be replaced with 1 daemonbreath meltagun."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 War Dog Huntsman",
           "This model is equipped with",
           "daemonbreath spear; diabolus",
@@ -518,23 +571,27 @@
       "Chaos"
     ],
     "weapons": {
-      "ranged": [],
       "melee": []
     },
     "factionKeywords": [
       "Chaos Knights"
     ],
-    "abilities": {
-      "core": "Deadly Demise D6",
-      "faction": "Harbingers of Dread, Super-heavy Walker",
-      "special": [
-        "FACTION: Harbingers of Dread, Super-heavy Walker Dread Dominion (Aura): While a friendly War Dog is within 9\" of this model, each time that War Dog takes a Battle-shock test, add 1 to that test}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D6"
+            },{
+              "title": "FACTION",
+              "text": "Harbingers of Dread, Super-heavy Walker"
+            },
+      "FACTION: Harbingers of Dread, Super-heavy Walker Dread Dominion (Aura): While a friendly War Dog is within 9\" of this model, each time that War Dog takes a Battle-shock test, add 1 to that test}.",
         "Seething Hatred: Each time this model is selected to shoot or fight, you can re-roll one Hit roll or you can re-roll one Wound roll when resolving those attacks}.",
-        "DAMAGED: 1-7 WOUNDS REMAINING While this model has 1-7 wounds remaining, subtract 5 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll}."
-      ]
-    },
+        "DAMAGED: 1-7 WOUNDS REMAINING While this model has 1-7 wounds remaining, subtract 5 from this model's Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll}."
+    }],
     "invulnerable": "*",
-    "damaged": null,
     "stats": {
       "m": "10\"",
       "t": "12",
@@ -550,38 +607,33 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s daemonbreath meltagun can be replaced with 1 diabolus heavy stubber.",
-          "■",
-          "This model’s reaper chainsword can be replaced with 1 of the following",
-          "◦",
+          "This model's daemonbreath meltagun can be replaced with 1 diabolus heavy stubber.",
+          "This model's reaper chainsword can be replaced with 1 of the following",
           "1 daemonbreath thermal cannon",
-          "◦",
           "1 despoiler gatling cannon and 1 heavy darkflamer",
-          "◦",
           "1 despoiler battle cannon and 1 diabolus heavy stubber",
-          "■",
-          "This model’s warpstrike claw can be replaced with 1 of the following",
-          "◦",
+          "This model's warpstrike claw can be replaced with 1 of the following",
           "1 daemonbreath thermal cannon",
-          "◦",
           "1 despoiler gatling cannon and 1 heavy darkflamer",
-          "◦",
           "1 despoiler battle cannon and 1 diabolus heavy stubber",
-          "■",
           "This model can be equipped with one of the following",
-          "◦",
           "1 havoc missile pod",
-          "◦",
           "1 ruinspear rocket pod",
-          "◦",
           "1 hellstorm autocannons"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Knight Despoiler",
           "This model is equipped with",
           "daemonbreath meltagun;",
@@ -589,7 +641,7 @@
           "KNIGHT DESPOILER",
           "Knights Despoiler epitomise all it means to be a Chaos Knight.",
           "Their Fallen Nobles repudiate honour and seethe with hatred.",
-          "Capable of bearing a variety of powerful weapons suited to its pilot’s",
+          "Capable of bearing a variety of powerful weapons suited to its pilot's",
           "temperament, they unleash their hatred at range or in thunderous",
           "melee at whim."
         ]
@@ -613,23 +665,29 @@
       "Chaos"
     ],
     "weapons": {
-      "ranged": [],
       "melee": []
     },
     "factionKeywords": [
       "Chaos Knights"
     ],
-    "abilities": {
-      "core": "Deadly Demise D6",
-      "faction": "Harbingers of Dread, Super-heavy Walker",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D6"
+            },{
+              "title": "FACTION",
+              "text": "Harbingers of Dread, Super-heavy Walker"
+            },
       "special": [
         "FACTION: Harbingers of Dread, Super-heavy Walker Obsessive Ruthlessness: Each time this model makes a ranged attack against a Monster or Vehicle unit, that attack has the [DEVASTATING WOUNDS] ability}.",
         "Taskmaster (Aura): While a friendly War Dog model is within 9\" of this model, each time that War Dog model makes a ranged attack, re-roll a Hit roll of 1}.",
-        "DAMAGED: 1-7 WOUNDS REMAINING While this model has 1-7 wounds remaining, subtract 5 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll}."
+        "DAMAGED: 1-7 WOUNDS REMAINING While this model has 1-7 wounds remaining, subtract 5 from this model's Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll}."
       ]
-    },
+    }],
     "invulnerable": "*",
-    "damaged": null,
     "stats": {
       "m": "10\"",
       "t": "12",
@@ -645,14 +703,21 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s reaper chainsword can be replaced with 1 warpstrike claw."
+          "This model's reaper chainsword can be replaced with 1 warpstrike claw."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Knight Desecrator",
           "This model is equipped with",
           "desecrator laser destructor;",
@@ -684,24 +749,30 @@
       "Chaos"
     ],
     "weapons": {
-      "ranged": [],
       "melee": []
     },
     "factionKeywords": [
       "Chaos Knights"
     ],
-    "abilities": {
-      "core": "Deadly Demise D6",
-      "faction": "Harbingers of Dread, Super-heavy Walker",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D6"
+            },{
+              "title": "FACTION",
+              "text": "Harbingers of Dread, Super-heavy Walker"
+            },
       "special": [
         "FACTION: Harbingers of Dread, Super-heavy Walker Bloodlust: Each time this model makes a Charge move, until the end of the turn, its melee weapons have the [SUSTAINED HITS 1] ability}.",
         "In addition, once per battle, this model is eligible to declare a charge in a turn in which it Advanced}.",
         "Frenzied Rampage (Aura): While a friendly War Dog model is within 9\" of this model, each time that War Dog model makes a melee attack, re-roll a Hit roll of 1}.",
-        "DAMAGED: 1-7 WOUNDS REMAINING While this model has 1-7 wounds remaining, subtract 5 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll}."
+        "DAMAGED: 1-7 WOUNDS REMAINING While this model has 1-7 wounds remaining, subtract 5 from this model's Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll}."
       ]
-    },
+    }],
     "invulnerable": "*",
-    "damaged": null,
     "stats": {
       "m": "12\"",
       "t": "12",
@@ -717,14 +788,21 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Knight Rampager",
           "This model is equipped with",
           "diabolus heavy stubber;",
@@ -755,24 +833,28 @@
       "Psyker"
     ],
     "weapons": {
-      "ranged": [],
       "melee": []
     },
     "factionKeywords": [
       "Chaos Knights"
     ],
-    "abilities": {
-      "core": "Deadly Demise D6",
-      "faction": "Harbingers of Dread, Super-heavy Walker",
-      "special": [
-        "FACTION: Harbingers of Dread, Super-heavy Walker Vortex Terrors (Psychic): At the start of your Shooting phase, select one enemy unit within 12\" of this model}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D6"
+            },{
+              "title": "FACTION",
+              "text": "Harbingers of Dread, Super-heavy Walker"
+            },
+      "FACTION: Harbingers of Dread, Super-heavy Walker Vortex Terrors (Psychic): At the start of your Shooting phase, select one enemy unit within 12\" of this model}.",
         "That enemy unit must take a Battle-shock test}.",
         "Warp Storms (Psychic): At the end of your Movement phase, roll one D6 for each enemy unit within 9\" of this model: on a 3+, that enemy unit suffers D3 mortal wounds}.",
-        "DAMAGED: 1-7 WOUNDS REMAINING While this model has 1-7 wounds remaining, subtract 5 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll}."
-      ]
-    },
+        "DAMAGED: 1-7 WOUNDS REMAINING While this model has 1-7 wounds remaining, subtract 5 from this model's Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll}."
+    }],
     "invulnerable": "*",
-    "damaged": null,
     "stats": {
       "m": "10\"",
       "t": "12",
@@ -785,14 +867,21 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Knight Abominant",
           "This model is equipped with",
           "diabolus heavy stubber; volkite",
@@ -823,23 +912,27 @@
       "Chaos"
     ],
     "weapons": {
-      "ranged": [],
       "melee": []
     },
     "factionKeywords": [
       "Chaos Knights"
     ],
-    "abilities": {
-      "core": "Deadly Demise D6+2",
-      "faction": "Harbingers of Dread, Super-heavy Walker",
-      "special": [
-        "FACTION: Harbingers of Dread, Super-heavy Walker Infernal Aegis (Aura): While a friendly War Dog model is within 6\" of this model, that War Dog model has the Benefit of Cover}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D6+2"
+            },{
+              "title": "FACTION",
+              "text": "Harbingers of Dread, Super-heavy Walker"
+            },
+      "FACTION: Harbingers of Dread, Super-heavy Walker Infernal Aegis (Aura): While a friendly War Dog model is within 6\" of this model, that War Dog model has the Benefit of Cover}.",
         "Bastion of Corruption: Enemy units that are set up on the battlefield as Reinforcements cannot be set up within 12\" of this model}.",
-        "DAMAGED: 1-8 WOUNDS REMAINING While this model has 1-8 wounds remaining, subtract 5 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll}."
-      ]
-    },
+        "DAMAGED: 1-8 WOUNDS REMAINING While this model has 1-8 wounds remaining, subtract 5 from this model's Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll}."
+    }],
     "invulnerable": "*",
-    "damaged": null,
     "stats": {
       "m": "8\"",
       "t": "13",
@@ -855,18 +948,24 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s brimstone volcano lance and ectoplasma decimator can be replaced with 1 darkflame",
+          "This model's brimstone volcano lance and ectoplasma decimator can be replaced with 1 darkflame",
           "cannon and 1 warpshock harpoon.",
-          "■",
-          "This model’s 2 gheiststrike missile launchers and twin desecrator cannon can be replaced with 1",
+          "This model's 2 gheiststrike missile launchers and twin desecrator cannon can be replaced with 1",
           "gheiststrike missile launcher and 2 twin desecrator cannons."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Knight Tyrant",
           "This model is equipped with",
           "brimstone volcano lance;",
@@ -878,7 +977,7 @@
           "are walking bastions of corruption. They carry some of the heaviest",
           "armaments available to the Fallen houses. Their pilots delight in",
           "unleashing the deadly potential of these weapons, shrugging off the",
-          "enemy’s attacks with contemptuous ease."
+          "enemy's attacks with contemptuous ease."
         ]
       }
     ]

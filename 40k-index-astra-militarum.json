@@ -114,7 +114,7 @@
           "points": 10,
           "rules": [
             {
-              "text": "Officer model only. While the bearer’s unit is Battle-shocked, subtract 1 from the Objective Control characteristic of models in that unit, instead of changing it to 0."
+              "text": "Officer model only. While the bearer's unit is Battle-shocked, subtract 1 from the Objective Control characteristic of models in that unit, instead of changing it to 0."
             }
           ]
         },
@@ -128,7 +128,7 @@
           ]
         },
         {
-          "title": "KUROV’S AQUILA",
+          "title": "KUROV'S AQUILA",
           "points": 40,
           "rules": [
             {
@@ -166,7 +166,7 @@
     "weapons": {
       "ranged": [
         {
-          "name": "Sol’s Righteous Gaze [PISTOL]",
+          "name": "Sol's Righteous Gaze [PISTOL]",
           "range": "12\"",
           "a": "2",
           "bws": "2+",
@@ -186,7 +186,7 @@
           "d": "2"
         },
         {
-          "name": "Konstantin’s hooves [EXTRA ATTACKS]",
+          "name": "Konstantin's hooves [EXTRA ATTACKS]",
           "range": "Melee",
           "a": "2",
           "bws": "4+",
@@ -199,18 +199,32 @@
     "factionKeywords": [
       "Astra Militarum"
     ],
-    "abilities": {
-      "core": "Leader",
-      "faction": "Voice of Command",
-      "special": [
-        "FACTION: Voice of Command The Lord Solar: At the start of your Command phase, If this model is on the battlefield, you gain 1CP}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Leader"
+            },{
+              "title": "FACTION",
+              "text": "Voice of Command"
+            },
+      "FACTION: Voice of Command The Lord Solar: At the start of your Command phase, If this model is on the battlefield, you gain 1CP}.",
         "The Collegiate Astrolex: After both players have deployed their armies, select up to three Astra Militarum units from your army and redeploy them}.",
         "When doing so, you can set those units up in Strategic Reserves if you wish, regardless of how many units are already in Strategic Reserves}.",
         "ORDERS This Officer can issue up to 3 Orders to Astra Militarum units}."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "12\"",
       "t": "4",
@@ -223,37 +237,46 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Lord Solar Leontus -",
           "Epic Her",
           "o",
           "This model is equipped with",
-          "Sol’s Righteous Gaze; Conquest;",
-          "Konstantin’s hooves."
+          "Sol's Righteous Gaze; Conquest;",
+          "Konstantin's hooves."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following units",
-          "■",
           "Attilan Rough Riders",
-          "■",
           "Cadian Shock Troops",
-          "■",
           "Catachan Jungle Fighters",
-          "■",
           "Death Korps of Krieg",
-          "■",
           "Infantry Squad",
-          "■",
           "Kasrkin"
         ]
       },
@@ -305,17 +328,26 @@
     "factionKeywords": [
       "Astra Militarum"
     ],
-    "abilities": {
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
       "core": null,
       "faction": null,
-      "special": [
-        "CORE RULES: Leader FACTION: Voice of Command Lord Castellan: While this model is leading a unit, that unit can be affected by up to two different Orders at the same time}.",
+      "CORE RULES: Leader FACTION: Voice of Command Lord Castellan: While this model is leading a unit, that unit can be affected by up to two different Orders at the same time}.",
         "Tactical Genius: Once per battle round, one unit from your army within 12\" of this model can be targeted with a Stratagem for 0CP, even if another unit from your army has already been targeted with that Stratagem this phase}.",
         "ORDERS This Officer can issue up to 2 Orders to Regiment units}."
-      ]
-    },
-    "invulnerable": "5+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "5+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "6\"",
       "t": "3",
@@ -328,14 +360,21 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Ursula Creed -",
           "Epic Her",
           "o",
@@ -344,20 +383,25 @@
           "power weapon."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following units",
-          "■",
           "Cadian Shock Troops",
-          "■",
           "Infantry Squad",
-          "■",
           "Kasrkin",
           "URSULA CREED",
           "The Lord Castellan of Cadia is a forbidding and implacable strategist,",
-          "and a symbol of the enduring indomitability of Cadia’s armies. Ursula",
-          "Creed’s superior generalship, forged over long years, has seen her",
+          "and a symbol of the enduring indomitability of Cadia's armies. Ursula",
+          "Creed's superior generalship, forged over long years, has seen her",
           "lead numerous Imperial armies to victory against the enemies that",
           "threaten the Imperium."
         ]
@@ -460,17 +504,33 @@
     "factionKeywords": [
       "Astra Militarum"
     ],
-    "abilities": {
-      "core": "Leader",
-      "faction": "Voice of Command",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Leader"
+            },{
+              "title": "FACTION",
+              "text": "Voice of Command"
+            },
       "special": [
         "FACTION: Voice of Command Senior Officer: While this model is leading a unit, ranged weapons equipped by models in that unit have the [SUSTAINED HITS 1] ability}.",
         "Get Back in the Fight: While this model is leading a unit, that unit is eligible to shoot in a turn in which it Fell Back}.",
         "ORDERS This Officer can issue 1 Order to Regiment units}."
       ]
-    },
-    "invulnerable": "5+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "5+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "6\"",
       "t": "3",
@@ -486,44 +546,50 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s chainsword can be replaced with one of the following",
-          "◦",
+          "This model's chainsword can be replaced with one of the following",
           "1 boltgun",
-          "◦",
           "1 power fist",
-          "◦",
           "1 power weapon",
-          "■",
-          "This model’s laspistol can be replaced with one of the following",
-          "◦",
+          "This model's laspistol can be replaced with one of the following",
           "1 bolt pistol",
-          "◦",
           "1 plasma pistol"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Cadian Castellan",
           "This model is equipped with",
           "laspistol; chainsword."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following units",
-          "■",
           "Cadian Shock Troops",
-          "■",
           "Infantry Squad",
-          "■",
           "Kasrkin",
           "CADIAN CASTELLAN",
           "Strategic senior officers often ranking as Captains or Colonels, Cadian",
-          "Castellans are authoritative leaders of the fallen world’s forces.",
+          "Castellans are authoritative leaders of the fallen world's forces.",
           "Bearing a panoply of armaments and insignia that mark their high",
           "office, they wield their weapons as skilfully as they command the",
           "soldiers beneath them."
@@ -658,19 +724,23 @@
     "factionKeywords": [
       "Astra Militarum"
     ],
-    "abilities": {
-      "core": "Deadly Demise D3",
-      "faction": "Voice of Command",
-      "special": [
-        "FACTION: Voice of Command Vox-net: Each time this model issues an Order, it can issue it to an eligible unit up to 12\" away}.",
-        "Death Befitting An Officer: When this model is destroyed , roll one D6: on a 2+, do not remove it from play - it can, after the attacking model’s unit has finished making its attacks, shoot as if it were your Shooting phase and as if it had its full wounds remaining}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D3"
+            },{
+              "title": "FACTION",
+              "text": "Voice of Command"
+            },
+      "FACTION: Voice of Command Vox-net: Each time this model issues an Order, it can issue it to an eligible unit up to 12\" away}.",
+        "Death Befitting An Officer: When this model is destroyed , roll one D6: on a 2+, do not remove it from play - it can, after the attacking model's unit has finished making its attacks, shoot as if it were your Shooting phase and as if it had its full wounds remaining}.",
         "This model is then removed from play}.",
         "ORDERS This Officer can issue 1 Order to Squadron units}.",
         "DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "10\"",
       "t": "11",
@@ -686,47 +756,28 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s Leman Russ battle cannon can be",
+          "This model's Leman Russ battle cannon can be",
           "replaced with one of the following:*",
-          "◦",
           "1 demolisher battle cannon",
-          "◦",
           "1 eradicator nova cannon",
-          "◦",
           "1 executioner plasma cannon",
-          "◦",
           "1 exterminator autocannon",
-          "◦",
           "1 punisher gatling cannon",
-          "◦",
           "1 vanquisher battle cannon",
-          "■",
-          "This model’s lascannon can be replaced with",
+          "This model's lascannon can be replaced with",
           "one of the following",
-          "◦",
           "1 heavy bolter",
-          "◦",
           "1 heavy flamer",
-          "■",
           "This model can be equipped with one of",
           "the following",
-          "◦",
           "2 heavy bolters",
-          "◦",
           "2 heavy flamers",
-          "◦",
           "2 multi-meltas",
-          "◦",
           "2 Militarum plasma cannons",
-          "■",
           "This model can be equipped with one of",
           "the following",
-          "◦",
           "1 heavy stubber",
-          "◦",
           "1 storm bolter",
-          "■",
           "This model can be equipped with 1",
           "hunter-killer missile.",
           "*",
@@ -734,10 +785,18 @@
           "Militarum Vehicle Armoury card."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Tank Commander",
           "This model is equipped with",
           "lascannon; Leman Russ battle",
@@ -898,19 +957,23 @@
     "factionKeywords": [
       "Astra Militarum"
     ],
-    "abilities": {
-      "core": "Leader",
-      "faction": "Voice of Command",
-      "special": [
-        "FACTION: Voice of Command Command Structure (Aura): While a friendly Platoon unit is within 6\" of this unit’s Platoon Commander, you can target that unit with Stratagems even while it is Battle-shocked}.",
-        "WARGEAR ABILITIES Master Vox: Each time the Officer in the bearer’s unit issues an Order, it can issue it to an eligible unit up to 24\" away}.",
-        "Medi-pack: The bearer’s unit has the Feel No Pain 6+ ability}.",
-        "Regimental Standard: Add 1 to the Objective Control characteristic of models in the bearer’s unit}.",
-        "ORDERS This unit’s Officer can issue 1 Order to a Regiment unit}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Leader"
+            },{
+              "title": "FACTION",
+              "text": "Voice of Command"
+            },
+      "FACTION: Voice of Command Command Structure (Aura): While a friendly Platoon unit is within 6\" of this unit's Platoon Commander, you can target that unit with Stratagems even while it is Battle-shocked}.",
+        "WARGEAR ABILITIES Master Vox: Each time the Officer in the bearer's unit issues an Order, it can issue it to an eligible unit up to 24\" away}.",
+        "Medi-pack: The bearer's unit has the Feel No Pain 6+ ability}.",
+        "Regimental Standard: Add 1 to the Objective Control characteristic of models in the bearer's unit}.",
+        "ORDERS This unit's Officer can issue 1 Order to a Regiment unit}."
+    }],
     "stats": {
       "m": "M",
       "t": "T",
@@ -926,66 +989,43 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "Any number of Veteran Guardsmen can each have",
           "their lasgun replaced with one of the following:*",
-          "◦",
           "1 flamer",
-          "◦",
           "1 grenade launcher",
-          "◦",
           "1 heavy flamer***",
-          "◦",
           "1 meltagun",
-          "◦",
           "1 plasma gun",
-          "◦",
           "1 sniper rifle",
-          "◦",
           "1 chainsword",
           "*",
           "Excluding the chainsword, you cannot select the same",
           "weapon from this list more than once per unit.",
-          "■",
           "1 Veteran Guardsman equipped with a lasgun",
           "or chainsword can be equipped with 1 master vox.**",
-          "■",
           "1 Veteran Guardsman equipped with a",
           "lasgun or chainsword can be equipped with 1",
           "medi-pack.**",
-          "■",
           "1 Veteran Guardsman equipped with a lasgun or",
           "chainsword can be equipped with 1 regimental",
           "standard.**",
           "**",
           "A model can only take one of these options, and if it does so",
           "its lasgun cannot be replaced.",
-          "■",
-          "The Platoon Commander’s laspistol can be replaced",
+          "The Platoon Commander's laspistol can be replaced",
           "with one of the following:***",
-          "◦",
           "1 bolt pistol",
-          "◦",
           "1 boltgun",
-          "◦",
           "1 plasma pistol",
-          "■",
           "The Platoon Commander can be equipped with one",
           "of the following",
-          "◦",
           "1 power fist",
-          "◦",
           "1 power weapon",
-          "■",
-          "The Veteran Heavy Weapons Team’s heavy bolter",
+          "The Veteran Heavy Weapons Team's heavy bolter",
           "can be replaced with one of the following:***",
-          "◦",
           "1 autocannon",
-          "◦",
           "1 lascannon",
-          "◦",
           "1 missile launcher",
-          "◦",
           "1 mortar",
           "**",
           "*",
@@ -993,14 +1033,21 @@
           "Militarum Infantry Armoury card."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "One of the following",
-          "■",
           "1 Platoon Commander and 4 Veteran Guardsmen",
           "OR",
-          "■",
           "1 Platoon Commander, 2 Veteran Guardsmen and 1",
           "Veteran Heavy Weapons Team",
           "The Platoon Commander is equipped with",
@@ -1014,22 +1061,27 @@
           "combat weapon."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This unit can be attached to the following units",
-          "■",
           "Catachan Jungle Fighters",
-          "■",
           "Death Korps of Krieg",
-          "■",
           "Infantry Squad",
           "PLATOON COMMAND SQUAD",
           "Officers are known by many titles, but all are authoritative tacticians,",
           "trained to demolish the foe by wielding their troops as an extension",
           "of themselves. At many levels of hierarchy, the commanding officer is",
           "accompanied by a staff of veteran soldiers and specialists, supporting",
-          "the commander’s strategies.",
+          "the commander's strategies.",
           "KEYWORDS -",
           "ALL MODELS",
           "Infantry, Imperium, Grenades, Platoon,",
@@ -1170,19 +1222,23 @@
     "factionKeywords": [
       "Astra Militarum"
     ],
-    "abilities": {
-      "core": "Leader",
-      "faction": "Voice of Command",
-      "special": [
-        "FACTION: Voice of Command Cadia Stands!: While this unit contains a Cadian Officer , you can ignore any or all modifiers to the characteristics of models in this unit and to any roll or test made for models in this unit (excluding modifiers to saving throws)}.",
-        "WARGEAR ABILITIES Master Vox: Each time the Officer in the bearer’s unit issues an Order, it can issue it to an eligible unit up to 24\" away}.",
-        "Medi-pack: The bearer’s unit has the Feel No Pain 6+ ability}.",
-        "Regimental Standard: Add 1 to the Objective Control characteristic of models in the bearer’s unit}.",
-        "ORDERS This unit’s Officer can issue 1 Order to a Regiment unit}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Leader"
+            },{
+              "title": "FACTION",
+              "text": "Voice of Command"
+            },
+      "FACTION: Voice of Command Cadia Stands!: While this unit contains a Cadian Officer , you can ignore any or all modifiers to the characteristics of models in this unit and to any roll or test made for models in this unit (excluding modifiers to saving throws)}.",
+        "WARGEAR ABILITIES Master Vox: Each time the Officer in the bearer's unit issues an Order, it can issue it to an eligible unit up to 24\" away}.",
+        "Medi-pack: The bearer's unit has the Feel No Pain 6+ ability}.",
+        "Regimental Standard: Add 1 to the Objective Control characteristic of models in the bearer's unit}.",
+        "ORDERS This unit's Officer can issue 1 Order to a Regiment unit}."
+    }],
     "stats": {
       "m": "6\"",
       "t": "3",
@@ -1198,65 +1254,51 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "1 Cadian Veteran Guardsman’s lasgun and",
+          "1 Cadian Veteran Guardsman's lasgun and",
           "regimental standard can be replaced with one of",
           "the following",
-          "◦",
           "1 flamer",
-          "◦",
           "1 grenade launcher",
-          "◦",
           "1 meltagun",
-          "◦",
           "1 plasma gun",
-          "■",
-          "1 Cadian Veteran Guardsman’s chainsword can",
+          "1 Cadian Veteran Guardsman's chainsword can",
           "be replaced with one of the following",
-          "◦",
           "1 flamer",
-          "◦",
           "1 grenade launcher",
-          "◦",
           "1 meltagun",
-          "◦",
           "1 plasma gun",
-          "◦",
           "1 power fist",
-          "◦",
           "1 power weapon",
-          "■",
-          "1 Cadian Veteran Guardsman’s laspistol can be",
+          "1 Cadian Veteran Guardsman's laspistol can be",
           "replaced with one of the following:*",
-          "◦",
           "1 bolt pistol",
-          "◦",
           "1 plasma pistol",
-          "■",
-          "The Cadian Commander’s laspistol can be",
+          "The Cadian Commander's laspistol can be",
           "replaced with one of the following:*",
-          "◦",
           "1 bolt pistol",
-          "◦",
           "1 plasma pistol",
-          "■",
-          "The Cadian Commander’s chainsword can be",
+          "The Cadian Commander's chainsword can be",
           "replaced with one of the following",
-          "◦",
           "1 power fist",
-          "◦",
           "1 power weapon",
           "*",
           "The profiles of these weapons can be found on the Astra",
           "Militarum Infantry Armoury card."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Cadian Commander",
-          "■",
           "4 Cadian Veteran Guardsmen",
           "The Cadian Commander is equipped with",
           "laspistol; chainsword.",
@@ -1273,14 +1315,21 @@
           "regimental standard; close combat weapon."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This unit can be attached to the following unit",
-          "■",
           "Cadian Shock Troops",
           "CADIAN COMMAND SQUAD",
-          "Cadia’s officers are exceptional leaders of Humanity. Trained",
+          "Cadia's officers are exceptional leaders of Humanity. Trained",
           "to be the best, they expect no less from their troops. They are",
           "as inspiring as the standards carried in their wake, and as",
           "motivational as the orders issued by their vox operators.",
@@ -1299,7 +1348,7 @@
     "points": [
       { "per": "1 model", "points": 80}
     ],
-    "name": "‘IRON HAND’ STRAKEN",
+    "name": "‘IRON HAND' STRAKEN",
     "subtype": "",
     "keywords": [
       "Infantry",
@@ -1341,7 +1390,7 @@
       ],
       "melee": [
         {
-          "name": "Bionic arm with devil’s claw [ANTI-MONSTER 4+]",
+          "name": "Bionic arm with devil's claw [ANTI-MONSTER 4+]",
           "range": "Melee",
           "a": "6",
           "bws": "2+",
@@ -1354,17 +1403,33 @@
     "factionKeywords": [
       "Astra Militarum"
     ],
-    "abilities": {
-      "core": "Leader, Scouts 6\"",
-      "faction": "Voice of Command",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Leader, Scouts 6\""
+            },{
+              "title": "FACTION",
+              "text": "Voice of Command"
+            },
       "special": [
         "FACTION: Voice of Command Cold Steel and Courage: While this model is leading a unit, melee weapons equipped by models in that unit have the [LETHAL HITS] ability}.",
         "Been There, Seen it, Killed it: Each time this model makes a melee attack, if it made a Charge move this turn, you can re-roll the Hit roll and you can re-roll the Wound roll}.",
         "ORDERS This Officer can issue up to 2 Orders to Regiment units}."
       ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "6\"",
       "t": "3",
@@ -1380,32 +1445,46 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
-          "1 ‘Iron Hand’ Straken -",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
+          "1 ‘Iron Hand' Straken -",
           "Epic Her",
           "o",
           "This model is equipped with",
           "auto shotgun; plasma pistol;",
-          "bionic arm with devil’s claw."
+          "bionic arm with devil's claw."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following unit",
-          "■",
           "Catachan Jungle Fighters",
-          "‘IRON HAND’ STRAKEN",
-          "Commanding the Catachan II - the ‘Green Vipers’ - Colonel ‘Iron Hand’",
+          "‘IRON HAND' STRAKEN",
+          "Commanding the Catachan II - the ‘Green Vipers' - Colonel ‘Iron Hand'",
           "Straken is a bullish, practical and cunning officer. Having survived",
-          "dire wounds, Straken’s extensive bionics magnify his innate strength.",
+          "dire wounds, Straken's extensive bionics magnify his innate strength.",
           "He leads from the front, loudly encouraging his troops as he visibly",
           "crushes the enemy with sweeping blows."
         ]
@@ -1471,16 +1550,17 @@
     "factionKeywords": [
       "Astra Militarum"
     ],
-    "abilities": {
-      "core": "Leader",
-      "faction": null,
-      "special": [
-        "Malign Wardings(Psychic): While this model is leading a unit, models in that unit have the Feel No Pain 4+ ability against Psychic Attacks}.",
-        "Psychic Barrier (Psychic): At the start of your opponent’s Shooting phase, you can roll one D6: on a 1, this Psyker ’s unit suffers D3 mortal wounds; on a 2+, until the end of the phase, models in this Psyker ’s unit have a 4+ invulnerable save}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Leader"
+            },"faction": null,
+      "Malign Wardings(Psychic): While this model is leading a unit, models in that unit have the Feel No Pain 4+ ability against Psychic Attacks}.",
+        "Psychic Barrier (Psychic): At the start of your opponent's Shooting phase, you can roll one D6: on a 1, this Psyker 's unit suffers D3 mortal wounds; on a 2+, until the end of the phase, models in this Psyker 's unit have a 4+ invulnerable save}."
+    }],
     "stats": {
       "m": "6\"",
       "t": "3",
@@ -1496,41 +1576,50 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Primaris Psyker",
           "This model is equipped with",
           "laspistol; Psychic Maelstrom;",
           "force weapon."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following units",
-          "■",
           "Cadian Shock Troops",
-          "■",
           "Catachan Jungle Fighters",
-          "■",
           "Death Korps of Krieg",
-          "■",
           "Infantry Squad",
-          "■",
           "Kasrkin",
-          "■",
           "Tempestus Scions",
           "PRIMARIS PSYKER",
-          "Primaris Psykers’ empyrically attuned minds are steeled against the",
+          "Primaris Psykers' empyrically attuned minds are steeled against the",
           "manifold dangers risked by unsanctioned wielders of warp powers.",
-          "These battle-trained psykers support the Astra Militarum’s wars with",
-          "eerie foretelling, warding soldiers against the enemy’s witchcraft and",
+          "These battle-trained psykers support the Astra Militarum's wars with",
+          "eerie foretelling, warding soldiers against the enemy's witchcraft and",
           "unleashing tempests of their own psychic might."
         ]
       }
@@ -1541,18 +1630,18 @@
     "points": [
       { "per": "6 models", "points": 115}
     ],
-    "name": "GAUNT’S GHOSTS",
+    "name": "GAUNT'S GHOSTS",
     "subtype": "KEYWORDS -",
     "keywords": [
       "Infantry",
       "Imperium",
       "Grenades",
-      "Gaunt’s Ghosts"
+      "Gaunt's Ghosts"
     ],
     "weapons": {
       "ranged": [
         {
-          "name": "Bragg’s autocannon [HEAVY]",
+          "name": "Bragg's autocannon [HEAVY]",
           "range": "48\"",
           "a": "4",
           "bws": "5+",
@@ -1570,7 +1659,7 @@
           "d": "1"
         },
         {
-          "name": "Corbec’s hot-shot lascarbine [ASSAULT]",
+          "name": "Corbec's hot-shot lascarbine [ASSAULT]",
           "range": "24\"",
           "a": "3",
           "bws": "3+",
@@ -1579,7 +1668,7 @@
           "d": "1"
         },
         {
-          "name": "Larkin’s long-las [HEAVY, PRECISION]",
+          "name": "Larkin's long-las [HEAVY, PRECISION]",
           "range": "36\"",
           "a": "1",
           "bws": "2+",
@@ -1597,7 +1686,7 @@
           "d": "1"
         },
         {
-          "name": "Rawne’s lascarbine [ASSAULT, SUSTAINED HITS]",
+          "name": "Rawne's lascarbine [ASSAULT, SUSTAINED HITS]",
           "range": "24\"",
           "a": "3",
           "bws": "3+",
@@ -1612,7 +1701,7 @@
       ],
       "melee": [
         {
-          "name": "Gaunt’s chainsword",
+          "name": "Gaunt's chainsword",
           "range": "Melee",
           "a": "5",
           "bws": "2+",
@@ -1630,7 +1719,7 @@
           "d": "1"
         },
         {
-          "name": "Mkoll’s straight silver knife [DEVASTATING WOUNDS, PRECISION]",
+          "name": "Mkoll's straight silver knife [DEVASTATING WOUNDS, PRECISION]",
           "range": "Melee",
           "a": "5",
           "bws": "2+",
@@ -1647,18 +1736,23 @@
     "factionKeywords": [
       "Astra Militarum"
     ],
-    "abilities": {
-      "core": "Fights First, Infiltrators, Lone Operative, Stealth",
-      "faction": "Voice of Command",
-      "special": [
-        "FACTION: Voice of Command Tanith Camo-cloaks: Each time a ranged attack targets this unit, models in this unit have the Benefit of Cover against it}.",
-        "Covert Stealth Team: At the end of your opponent’s turn, if this unit is not within Engagement Range of one or more enemy units, you can remove this unit from the battlefield}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Fights First, Infiltrators, Lone Operative, Stealth"
+            },{
+              "title": "FACTION",
+              "text": "Voice of Command"
+            },
+      "FACTION: Voice of Command Tanith Camo-cloaks: Each time a ranged attack targets this unit, models in this unit have the Benefit of Cover against it}.",
+        "Covert Stealth Team: At the end of your opponent's turn, if this unit is not within Engagement Range of one or more enemy units, you can remove this unit from the battlefield}.",
         "In the Reinforcements step of your next Movement phase, set it up anywhere on the battlefield that is more than 9\" horizontally away from all enemy models}.",
-        "ORDERS This unit’s Officer can issue up to 2 Orders to Regiment or Gaunt’s Ghosts units}."
-      ]
-    },
+        "ORDERS This unit's Officer can issue up to 2 Orders to Regiment or Gaunt's Ghosts units}."
+    }],
     "invulnerable": "*",
-    "damaged": null,
     "stats": {
       "m": "6\"",
       "t": "3",
@@ -1671,43 +1765,49 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Ibram Gaunt",
-          "■",
           "5 Tanith Ghosts",
           "Ibram Gaunt is equipped with",
-          "bolt pistol; Gaunt’s chainsword.",
+          "bolt pistol; Gaunt's chainsword.",
           "1 Tanith Ghost is equipped with",
-          "Corbec’s hot-shot lascarbine;",
+          "Corbec's hot-shot lascarbine;",
           "straight silver knife.",
           "1 Tanith Ghost is equipped with",
-          "Rawne’s lascarbine; straight",
+          "Rawne's lascarbine; straight",
           "silver knife.",
           "1 Tanith Ghost is equipped with",
-          "Larkin’s long-las; straight",
+          "Larkin's long-las; straight",
           "silver knife.",
           "1 Tanith Ghost is equipped with",
-          "Bragg’s autocannon; straight",
+          "Bragg's autocannon; straight",
           "silver knife.",
           "1 Tanith Ghost is equipped with",
-          "lascarbine; Mkoll’s straight",
+          "lascarbine; Mkoll's straight",
           "silver knife.",
-          "GAUNT’S GHOSTS",
+          "GAUNT'S GHOSTS",
           "Colonel-Commissar Ibram Gaunt combines the positions of feared",
           "political officer and the regimental commander of the Tanith First",
-          "and Only. Joined by the regiment’s stealthy and deadly officers and",
-          "soldiers - those known as Gaunt’s Ghosts - Gaunt’s infamous raids,",
+          "and Only. Joined by the regiment's stealthy and deadly officers and",
+          "soldiers - those known as Gaunt's Ghosts - Gaunt's infamous raids,",
           "secretive missions and unlikely victories have cemented his legend.",
           "KEYWORDS -",
           "ALL MODELS",
-          "Infantry, Imperium, Grenades, Gaunt’s Ghosts",
+          "Infantry, Imperium, Grenades, Gaunt's Ghosts",
           "|",
           "IBRAM GAUNT",
           "Character, Epic Hero, Officer"
@@ -1750,7 +1850,7 @@
           "d": "1"
         },
         {
-          "name": "Astropath’s stave [PSYCHIC]",
+          "name": "Astropath's stave [PSYCHIC]",
           "range": "Melee",
           "a": "1",
           "bws": "4+",
@@ -1763,17 +1863,18 @@
     "factionKeywords": [
       "Astra Militarum"
     ],
-    "abilities": {
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
       "core": null,
       "faction": null,
       "special": [
-        "Artillery Commander: At the start of your Shooting phase, select one enemy unit within 30\" of and visible to this unit’s Master of Ordnance model that has not already been selected for this ability this phase. Until the end of the phase, Blast weapons equipped by friendly Astra Militarum Artillery models have the [SUSTAINED HITS 1] ability when targeting that unit}.",
-        "Aeronautica Commander: At the start of your Shooting phase, select one enemy unit within 30\" of and visible to this unit’s Officer of the Fleet model. Until the end of the phase, each time a friendly Astra Militarum Aircraft model makes a ranged attack that targets that unit, add 1 to the Hit roll}.",
-        "Divination (Psychic): Enemy units that are set up on the battlefield as Reinforcements cannot be set up within 12\" of this unit’s Astropath model}."
+        "Artillery Commander: At the start of your Shooting phase, select one enemy unit within 30\" of and visible to this unit's Master of Ordnance model that has not already been selected for this ability this phase. Until the end of the phase, Blast weapons equipped by friendly Astra Militarum Artillery models have the [SUSTAINED HITS 1] ability when targeting that unit}.",
+        "Aeronautica Commander: At the start of your Shooting phase, select one enemy unit within 30\" of and visible to this unit's Officer of the Fleet model. Until the end of the phase, each time a friendly Astra Militarum Aircraft model makes a ranged attack that targets that unit, add 1 to the Hit roll}.",
+        "Divination (Psychic): Enemy units that are set up on the battlefield as Reinforcements cannot be set up within 12\" of this unit's Astropath model}."
       ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "6\"",
       "t": "3",
@@ -1786,21 +1887,28 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Master of Ordnance, 1 Officer of the Fleet and",
           "1 Astropath.",
           "The Master of Ordnance and Officer of the Fleet are both",
           "equipped with",
           "laspistol; close combat weapon.",
           "The Astropath is equipped with",
-          "laspistol; Astropath’s stave.",
+          "laspistol; Astropath's stave.",
           "ATTACHÉS",
           "At the start of the Declare Battle Formations step, this",
           "unit must join one",
@@ -1827,7 +1935,7 @@
           "Experienced officers know the value of drawing upon the advice",
           "of varied attachés. From void-hardened Officers of the Fleet to",
           "soot-stained Masters of Ordnance and psychic Astropaths, such",
-          "specialists bring their expertise to bear in support of an officer’s",
+          "specialists bring their expertise to bear in support of an officer's",
           "grand strategies.",
           "KEYWORDS -",
           "ALL MODELS",
@@ -1906,18 +2014,19 @@
     "factionKeywords": [
       "Astra Militarum"
     ],
-    "abilities": {
-      "core": "Feel No Pain 6+",
-      "faction": null,
-      "special": [
-        "Ogryn Bodyguard: While one or more Officer models are in the same unit as this model, those Officer models have the Feel No Pain 4+ ability}.",
-        "Redoubled Loyalty: While this model’s unit contains an Officer model that has lost one or more wounds, each time this model makes a melee attack, add 1 to the Hit roll and add 1 to the Wound roll}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Feel No Pain 6+"
+            },"faction": null,
+      "Ogryn Bodyguard: While one or more Officer models are in the same unit as this model, those Officer models have the Feel No Pain 4+ ability}.",
+        "Redoubled Loyalty: While this model's unit contains an Officer model that has lost one or more wounds, each time this model makes a melee attack, add 1 to the Hit roll and add 1 to the Wound roll}.",
         "WARGEAR ABILITIES Brute Shield: The bearer has a 4+ invulnerable save}.",
         "Slabshield: The bearer has a Wounds characteristic of 7}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "6\"",
       "t": "6",
@@ -1930,24 +2039,26 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s ripper gun can be replaced with one of the following",
-          "◦",
+          "This model's ripper gun can be replaced with one of the following",
           "1 grenadier gauntlet",
-          "◦",
           "1 Bullgryn maul",
-          "■",
-          "This model’s huge knife can be replaced with one of the following",
-          "◦",
+          "This model's huge knife can be replaced with one of the following",
           "1 brute shield",
-          "◦",
           "1 slabshield"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Ogryn Bodyguard",
           "This model is equipped with",
           "ripper gun; huge knife.",
@@ -2027,16 +2138,17 @@
     "factionKeywords": [
       "Astra Militarum"
     ],
-    "abilities": {
-      "core": "Feel No Pain 5+",
-      "faction": null,
-      "special": [
-        "Ogryn Bodyguard: While one or more Officer models are in the same unit as this model, those Officer models have the Feel No Pain 4+ ability}.",
-        "Thunderous Head-butt: Each time this model’s unit is selected to fight, you can select one enemy unit within Engagement Range of this model and roll one D6: on a 2-5, that enemy unit suffers D3 mortal wounds; on a 6, that enemy unit suffers D3+3 mortal wounds}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Feel No Pain 5+"
+            },"faction": null,
+      "Ogryn Bodyguard: While one or more Officer models are in the same unit as this model, those Officer models have the Feel No Pain 4+ ability}.",
+        "Thunderous Head-butt: Each time this model's unit is selected to fight, you can select one enemy unit within Engagement Range of this model and roll one D6: on a 2-5, that enemy unit suffers D3 mortal wounds; on a 6, that enemy unit suffers D3+3 mortal wounds}."
+    }],
     "stats": {
       "m": "6\"",
       "t": "6",
@@ -2049,14 +2161,21 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Nork Deddog -",
           "Epic Her",
           "o",
@@ -2087,7 +2206,7 @@
           "that unit can embark within, and takes up the",
           "space of 3 models.",
           "NORK DEDDOG",
-          "Nork Deddog’s loyalty and his skills as a bodyguard are beyond",
+          "Nork Deddog's loyalty and his skills as a bodyguard are beyond",
           "question. The hulking Ogryn would rather sustain terrible wounds",
           "than permit a single scratch on those he protects. Dozens of victories",
           "have been achieved thanks to his unthinking heroism as he shoots,",
@@ -2238,16 +2357,15 @@
     "factionKeywords": [
       "Astra Militarum"
     ],
-    "abilities": {
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
       "core": null,
       "faction": null,
-      "special": [
-        "Defenders of Humanity: Each time a ranged attack targets this unit, if this unit is within range of an objective marker you control, models in this unit have the Benefit of Cover against that attack}.",
-        "WARGEAR ABILITIES Vox-caster: Each time you target the bearer’s unit with a Stratagem, roll one D6, adding 1 to the result if there are one or more friendly Officer models within 6\": on a 5+, you gain 1CP}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+      "Defenders of Humanity: Each time a ranged attack targets this unit, if this unit is within range of an objective marker you control, models in this unit have the Benefit of Cover against that attack}.",
+        "WARGEAR ABILITIES Vox-caster: Each time you target the bearer's unit with a Stratagem, roll one D6, adding 1 to the result if there are one or more friendly Officer models within 6\": on a 5+, you gain 1CP}."
+    }],
     "stats": {
       "m": "6\"",
       "t": "3",
@@ -2263,69 +2381,54 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "For every 10 models in this unit, 1 Guardsman’s",
+          "For every 10 models in this unit, 1 Guardsman's",
           "lasgun can be replaced with one of the following",
-          "◦",
           "1 flamer",
-          "◦",
           "1 grenade launcher",
-          "◦",
           "1 meltagun",
-          "◦",
           "1 plasma gun",
-          "◦",
           "1 sniper rifle",
-          "■",
           "For every 10 models in this unit, 1 Guardsman",
           "equipped with a lasgun can be equipped with",
-          "1 vox-caster (that model’s lasgun cannot",
+          "1 vox-caster (that model's lasgun cannot",
           "be replaced).",
-          "■",
-          "Each Sergeant’s close combat weapon can be",
+          "Each Sergeant's close combat weapon can be",
           "replaced with one of the following",
-          "◦",
           "1 chainsword",
-          "◦",
           "1 power weapon",
-          "■",
-          "Each Sergeant’s laspistol can be replaced with",
+          "Each Sergeant's laspistol can be replaced with",
           "one of the following:*",
-          "◦",
           "1 bolt pistol",
-          "◦",
           "1 boltgun",
-          "◦",
           "1 plasma pistol",
-          "■",
-          "Each Heavy Weapons Team’s heavy bolter can",
+          "Each Heavy Weapons Team's heavy bolter can",
           "be replaced with one of the following:*",
-          "◦",
           "1 autocannon",
-          "◦",
           "1 lascannon",
-          "◦",
           "1 missile launcher",
-          "◦",
           "1 mortar",
           "*",
           "The profiles of these weapons can be found on the Astra",
           "Militarum Infantry Armoury card."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "One of the following",
-          "■",
           "1 Sergeant and 9 Guardsmen",
-          "■",
           "1 Sergeant, 7 Guardsmen and 1 Heavy Weapons Team",
-          "■",
           "2 Sergeants and 18 Guardsmen",
-          "■",
           "2 Sergeants, 16 Guardsmen and 1 Heavy Weapons Team",
-          "■",
           "2 Sergeants, 14 Guardsmen and 2 Heavy Weapons Teams",
           "Every Sergeant is equipped with",
           "laspistol; close",
@@ -2349,7 +2452,7 @@
           "The backbone of countless Astra Militarum regiments, these soldiers",
           "fight in huge numbers. Armed with the ubiquitous lasgun, often",
           "supplemented with specialist weapons, they hold defensive lines,",
-          "conduct massed assaults across no man’s land and, if well led, will",
+          "conduct massed assaults across no man's land and, if well led, will",
           "hold their ground to the last."
         ]
       }
@@ -2488,16 +2591,15 @@
     "factionKeywords": [
       "Astra Militarum"
     ],
-    "abilities": {
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
       "core": null,
       "faction": null,
-      "special": [
-        "Shock Troops: At the end of your Command phase, if this unit is within range of an objective marker you control, that objective marker remains under your control, even if you have no models within range of it, until your opponent controls it at the start or end of any turn}.",
-        "WARGEAR ABILITIES Vox-caster: Each time you target the bearer’s unit with a Stratagem, roll one D6, adding 1 to the result if there are one or more friendly Officer models within 6\": on a 5+, you gain 1CP}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+      "Shock Troops: At the end of your Command phase, if this unit is within range of an objective marker you control, that objective marker remains under your control, even if you have no models within range of it, until your opponent controls it at the start or end of any turn}.",
+        "WARGEAR ABILITIES Vox-caster: Each time you target the bearer's unit with a Stratagem, roll one D6, adding 1 to the result if there are one or more friendly Officer models within 6\": on a 5+, you gain 1CP}."
+    }],
     "stats": {
       "m": "6\"",
       "t": "3",
@@ -2513,23 +2615,15 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "For every 10 models in this unit, up to 2 Shock Troopers can each have their lasgun replaced with one",
           "of the following:*",
-          "◦",
           "1 flamer",
-          "◦",
           "1 grenade launcher",
-          "◦",
           "1 meltagun",
-          "◦",
           "1 plasma gun",
-          "■",
           "For every 10 models in this unit, 1 Shock Trooper equipped with a lasgun can be equipped with 1",
-          "vox-caster (that model’s lasgun cannot be replaced).",
-          "■",
+          "vox-caster (that model's lasgun cannot be replaced).",
           "Any number of Shock Trooper Sergeants can each have their laspistol replaced with 1 bolt pistol.",
-          "■",
           "Any number of Shock Trooper Sergeants can each have their laspistol and chainsword replaced with 1",
           "drum-fed autogun and 1 close combat weapon.",
           "*",
@@ -2537,13 +2631,20 @@
           "same weapon more than twice per unit."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Shock Trooper Sergeant and 9 Shock Troopers",
           "OR",
-          "■",
           "2 Shock Trooper Sergeants and 18 Shock Troopers",
           "Every Shock Trooper Sergeant is equipped with",
           "laspistol; chainsword.",
@@ -2702,17 +2803,16 @@
     "factionKeywords": [
       "Astra Militarum"
     ],
-    "abilities": {
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
       "core": null,
       "faction": null,
-      "special": [
-        "Grim Demeanour: Each time a model in this unit makes an attack, add 1 to the Hit roll if this unit is below its Starting Strength, and add 1 to the Wound roll as well if this unit is Below Half-strength}.",
-        "WARGEAR ABILITIES Vox-caster: Each time you target the bearer’s unit with a Stratagem, roll one D6, adding 1 to the result if there are one or more friendly Officer models within 6\": on a 5+, you gain 1CP}.",
-        "Death Korps Medi-pack: At the start of your Command phase, if the bearer’s unit is below its Starting Strength, you can return up to D3 destroyed Death Korps Troopers to this unit}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+      "Grim Demeanour: Each time a model in this unit makes an attack, add 1 to the Hit roll if this unit is below its Starting Strength, and add 1 to the Wound roll as well if this unit is Below Half-strength}.",
+        "WARGEAR ABILITIES Vox-caster: Each time you target the bearer's unit with a Stratagem, roll one D6, adding 1 to the result if there are one or more friendly Officer models within 6\": on a 5+, you gain 1CP}.",
+        "Death Korps Medi-pack: At the start of your Command phase, if the bearer's unit is below its Starting Strength, you can return up to D3 destroyed Death Korps Troopers to this unit}."
+    }],
     "stats": {
       "m": "6\"",
       "t": "3",
@@ -2728,39 +2828,26 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "For every 10 models in this unit, up to 2 Death",
           "Korps Troopers can each have their lasgun",
           "replaced with one of the following:*",
-          "◦",
           "1 flamer",
-          "◦",
           "1 grenade launcher",
-          "◦",
           "1 meltagun",
-          "◦",
           "1 sniper rifle",
-          "■",
           "For every 10 models in this unit, 1 Death Korps",
           "Trooper equipped with a lasgun can be equipped",
           "with one of the following",
-          "◦",
-          "1 vox-caster (that model’s lasgun cannot be",
+          "1 vox-caster (that model's lasgun cannot be",
           "replaced)",
-          "◦",
           "1 plasma gun",
-          "■",
           "Any number of Death Korps Watchmasters can",
           "replace their chainsword with 1 power weapon.",
-          "■",
           "Any number of Death Korps Watchmasters can",
           "each have their laspistol replaced with one of",
           "the following:**",
-          "◦",
           "1 bolt pistol",
-          "◦",
           "1 boltgun",
-          "◦",
           "1 plasma pistol",
           "*",
           "You cannot select the same weapon more than once per",
@@ -2771,13 +2858,20 @@
           "Militarum Infantry Armoury card."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Death Korps Watchmaster and 9 Death Korps Troopers",
           "OR",
-          "■",
           "2 Death Korps Watchmasters and 18 Death Korps Troopers",
           "Every Death Korps Watchmaster is equipped with",
           "laspistol; chainsword.",
@@ -2864,16 +2958,17 @@
     "factionKeywords": [
       "Astra Militarum"
     ],
-    "abilities": {
-      "core": "Scouts 6\"",
-      "faction": null,
-      "special": [
-        "Jungle Fighters: Each time a model in this unit makes a melee attack, if this unit made a Charge move or was charged this turn, improve the Strength and Armour Penetration characteristics of that attack by 1}.",
-        "WARGEAR ABILITIES Vox-caster: Each time you target the bearer’s unit with a Stratagem, roll one D6, adding 1 to the result if there are one or more friendly Officer models within 6\": on a 5+, you gain 1CP}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Scouts 6\""
+            },"faction": null,
+      "Jungle Fighters: Each time a model in this unit makes a melee attack, if this unit made a Charge move or was charged this turn, improve the Strength and Armour Penetration characteristics of that attack by 1}.",
+        "WARGEAR ABILITIES Vox-caster: Each time you target the bearer's unit with a Stratagem, roll one D6, adding 1 to the result if there are one or more friendly Officer models within 6\": on a 5+, you gain 1CP}."
+    }],
     "stats": {
       "m": "6\"",
       "t": "3",
@@ -2886,20 +2981,25 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "For every 5 models in this unit, 1 Jungle Fighter’s lasgun can be replaced with 1 flamer.",
-          "■",
+          "For every 5 models in this unit, 1 Jungle Fighter's lasgun can be replaced with 1 flamer.",
           "For every 10 models in this unit, 1 Jungle Fighter equipped with a lasgun can be equipped with 1",
-          "vox-caster (that model’s lasgun cannot be replaced)."
+          "vox-caster (that model's lasgun cannot be replaced)."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Jungle Fighter Sergeant and 9 Jungle Fighters",
           "OR",
-          "■",
           "2 Jungle Fighter Sergeants and 18 Jungle Fighters",
           "Every Jungle Fighter Sergeant is equipped with",
           "laspistol;",
@@ -2968,17 +3068,18 @@
     "factionKeywords": [
       "Astra Militarum"
     ],
-    "abilities": {
-      "core": "Infiltrators, Lone Operative, Stealth",
-      "faction": null,
-      "special": [
-        "One-man Army: Each time an enemy unit targets a friendly Astra Militarum unit within 3\" of this model with ranged attacks, after that enemy unit has finished making its attacks, this model can shoot as if it were your Shooting phase}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Infiltrators, Lone Operative, Stealth"
+            },"faction": null,
+      "One-man Army: Each time an enemy unit targets a friendly Astra Militarum unit within 3\" of this model with ranged attacks, after that enemy unit has finished making its attacks, this model can shoot as if it were your Shooting phase}.",
         "Like Fighting a Shadow: Each time this model has shot, if it is not within Engagement Range of any enemy units, it can make a Normal move as if it were your Movement phase}.",
         "If it does, until the end of the turn, this model is not eligible to declare a charge}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "6\"",
       "t": "3",
@@ -2991,14 +3092,21 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Sly Marbo -",
           "Epic Her",
           "o",
@@ -3158,17 +3266,18 @@
     "factionKeywords": [
       "Astra Militarum"
     ],
-    "abilities": {
-      "core": "Scouts 6\"",
-      "faction": null,
-      "special": [
-        "Warrior Elite: In your Command phase, you can select one Order to affect this unit until the start of your next Command phase, in addition to any other Orders issued to this unit by an Officer model this turn}.",
-        "WARGEAR ABILITIES Vox-caster: Each time you target the bearer’s unit with a Stratagem, roll one D6, adding 1 to the result if there are one or more friendly Officer models within 6\": on a 5+, you gain 1CP}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Scouts 6\""
+            },"faction": null,
+      "Warrior Elite: In your Command phase, you can select one Order to affect this unit until the start of your next Command phase, in addition to any other Orders issued to this unit by an Officer model this turn}.",
+        "WARGEAR ABILITIES Vox-caster: Each time you target the bearer's unit with a Stratagem, roll one D6, adding 1 to the result if there are one or more friendly Officer models within 6\": on a 5+, you gain 1CP}.",
         "Melta Mine: Once per battle, at the start of any phase, you can select one enemy unit within 3\" of the bearer and roll one D6: on a 2+, that enemy unit suffers D3 mortal wounds, or 2D3 mortal wounds instead if it is a Vehicle unit}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "6\"",
       "t": "3",
@@ -3184,40 +3293,27 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "Up to 4 Kasrkin Troopers can each have their",
           "hot-shot lasgun replaced with one of the",
           "following:*",
-          "◦",
           "1 flamer",
-          "◦",
           "1 grenade launcher",
-          "◦",
           "1 hot-shot volley gun",
-          "◦",
           "1 meltagun",
-          "◦",
           "1 plasma gun",
-          "■",
-          "1 Kasrkin Trooper’s hot-shot lasgun can be",
+          "1 Kasrkin Trooper's hot-shot lasgun can be",
           "replaced with 1 hot-shot marksman rifle.",
-          "■",
-          "1 Kasrkin Trooper’s hot-shot lasgun can be",
+          "1 Kasrkin Trooper's hot-shot lasgun can be",
           "replaced with 1 hot-shot laspistol and 1",
           "melta mine.",
-          "■",
           "1 Kasrkin Trooper equipped with a hot-shot",
           "lasgun can be equipped with 1 vox-caster (that",
-          "model’s hot-shot lasgun cannot be replaced).",
-          "■",
-          "The Kasrkin Sergeant’s chainsword can be",
+          "model's hot-shot lasgun cannot be replaced).",
+          "The Kasrkin Sergeant's chainsword can be",
           "replaced with 1 power weapon.",
-          "■",
-          "The Kasrkin Sergeant’s hot-shot laspistol can be",
+          "The Kasrkin Sergeant's hot-shot laspistol can be",
           "replaced with one of the following:**",
-          "◦",
           "1 bolt pistol",
-          "◦",
           "1 plasma pistol",
           "*",
           "You cannot select the same weapon from this list more than",
@@ -3227,12 +3323,19 @@
           "Militarum Infantry Armoury card."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Kasrkin Sergeant",
-          "■",
           "9 Kasrkin Troopers",
           "The Kasrkin Sergeant is equipped with",
           "hot-shot",
@@ -3318,16 +3421,29 @@
     "factionKeywords": [
       "Astra Militarum"
     ],
-    "abilities": {
-      "core": "Leader",
-      "faction": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Leader"
+            },"faction": null,
       "special": [
         "War Hymns: While this model is leading a unit, melee weapons equipped by models in that unit have the [SUSTAINED HITS 1] ability}.",
-        "Holy Piety: Each time this model makes a melee attack, unless this model’s unit is Battle-shocked, you can re-roll the Hit roll}."
+        "Holy Piety: Each time this model makes a melee attack, unless this model's unit is Battle-shocked, you can re-roll the Hit roll}."
       ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "6\"",
       "t": "3",
@@ -3340,41 +3456,48 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s power weapon can be replaced with one of the following",
-          "◦",
+          "This model's power weapon can be replaced with one of the following",
           "1 autogun and 1 chainsword",
-          "◦",
           "1 Preacher shotgun and 1 chainsword"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Regimental Preacher",
           "This model is equipped with",
           "holy pistol; power weapon."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following units",
-          "■",
           "Cadian Shock Troops",
-          "■",
           "Catachan Jungle Fighters",
-          "■",
           "Death Korps of Krieg",
-          "■",
           "Infantry Squad",
-          "■",
           "Kasrkin",
-          "■",
           "Tempestus Scions",
           "REGIMENTAL PREACHER",
-          "Serving amongst the Imperial Guard’s regiments to bolster the",
+          "Serving amongst the Imperial Guard's regiments to bolster the",
           "spiritual strength of its soldiers, Regimental Preachers are fiery",
           "zealots and fanatical orators. They do not shy away from combat,",
           "but wade amongst the foe, their voices raised in prayer to the",
@@ -3425,18 +3548,24 @@
     "factionKeywords": [
       "Astra Militarum"
     ],
-    "abilities": {
-      "core": "Feel No Pain 6+, Leader, Scouts 6\"",
-      "faction": "Voice of Command",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Feel No Pain 6+, Leader, Scouts 6\""
+            },{
+              "title": "FACTION",
+              "text": "Voice of Command"
+            },
       "special": [
-        "FACTION: Voice of Command Harker’s Hellraisers: While this model is leading a unit, each time a ranged attack targets that unit, if the attacking model is more than 12\" away, subtract 1 from the Hit roll}.",
+        "FACTION: Voice of Command Harker's Hellraisers: While this model is leading a unit, each time a ranged attack targets that unit, if the attacking model is more than 12\" away, subtract 1 from the Hit roll}.",
         "Payback Time: Once per battle, when this model is selected to shoot, it can use this ability}.",
         "If it does, until the end of the phase, its Payback weapon has an Attacks characteristic of 6 and the [SUSTAINED HITS 3] ability instead of the [SUSTAINED HITS 1] ability}.",
         "ORDERS This Officer can issue 1 Order to a Catachan Jungle Fighters unit}."
       ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "6\"",
       "t": "4",
@@ -3449,14 +3578,21 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Sergeant Harker -",
           "Epic Her",
           "o",
@@ -3464,14 +3600,21 @@
           "Payback; close combat weapon."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following unit",
-          "■",
           "Catachan Jungle Fighters",
           "SERGEANT HARKER",
-          "Gunnery Sergeant Harker, known as ‘Stonetooth’ Harker to his",
+          "Gunnery Sergeant Harker, known as ‘Stonetooth' Harker to his",
           "Catachan soldiers, is amongst the toughest of that hardy breed. He is",
           "said to feel no pain, and his immense strength enables him to carry",
           "his heavy bolter, Payback, as easily as others carry a rifle."
@@ -3528,19 +3671,30 @@
     "factionKeywords": [
       "Astra Militarum"
     ],
-    "abilities": {
-      "core": "Leader",
-      "faction": null,
-      "special": [
-        "Enginseer: While this model is within 3\" of one or more friendly Astra Militarum Vehicle units, this model has the Lone Operative ability}.",
-        "Omnissiah’s Blessing: In your Command phase, select one friendly Astra Militarum Vehicle model within 3\" of this model}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Leader"
+            },"faction": null,
+      "Enginseer: While this model is within 3\" of one or more friendly Astra Militarum Vehicle units, this model has the Lone Operative ability}.",
+        "Omnissiah's Blessing: In your Command phase, select one friendly Astra Militarum Vehicle model within 3\" of this model}.",
         "That Vehicle model regains up to D3 lost wounds and, until the start of your next Command phase, that Vehicle model has a 4+ invulnerable save}.",
         "Each model can only be selected for this ability once per turn}.",
-        "Vengeance for the Omnissiah: If a friendly Astra Militarum Vehicle model is destroyed within 12\" of this model, until the end of the battle, this model’s Enginseer axe has an Attacks characteristic of 6}."
-      ]
-    },
-    "invulnerable": "5+",
-    "damaged": null,
+        "Vengeance for the Omnissiah: If a friendly Astra Militarum Vehicle model is destroyed within 12\" of this model, until the end of the battle, this model's Enginseer axe has an Attacks characteristic of 6}."
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "5+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "6\"",
       "t": "4",
@@ -3553,35 +3707,44 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Regimental Enginseer",
           "This model is equipped with",
           "archeotech pistol; Enginseer",
           "axe; servo-arm."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following units",
-          "■",
           "Cadian Shock Troops",
-          "■",
           "Catachan Jungle Fighters",
-          "■",
           "Death Korps of Krieg",
-          "■",
           "Infantry Squad",
-          "■",
           "Kasrkin",
-          "■",
           "Munitorum Servitors",
           "REGIMENTAL ENGINSEER",
           "Adepts of the Omnissiah, Enginseers are robed machine-mystics",
@@ -3655,7 +3818,7 @@
           "d": "1"
         },
         {
-          "name": "Servitor’s servo-arm",
+          "name": "Servitor's servo-arm",
           "range": "Melee",
           "a": "1",
           "bws": "5+",
@@ -3668,15 +3831,24 @@
     "factionKeywords": [
       "Astra Militarum"
     ],
-    "abilities": {
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
       "core": null,
       "faction": null,
-      "special": [
-        "Mindlock: While a friendly Regimental Enginseer model is leading this unit, improve the Ballistic Skill and Weapon Skill characteristics of ranged and melee weapons equipped by Munitorum Servitor models in this unit by 1}."
-      ]
-    },
-    "invulnerable": "6+",
-    "damaged": null,
+      "Mindlock: While a friendly Regimental Enginseer model is leading this unit, improve the Ballistic Skill and Weapon Skill characteristics of ranged and melee weapons equipped by Munitorum Servitor models in this unit by 1}."
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "6+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "6\"",
       "t": "3",
@@ -3692,23 +3864,27 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "Up to 2 models can each have their Servitor’s servo-arm replaced with one of the following",
-          "◦",
+          "Up to 2 models can each have their Servitor's servo-arm replaced with one of the following",
           "1 heavy bolter",
-          "◦",
           "1 multi-melta",
-          "◦",
           "1 plasma cannon"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "4 Munitorum Servitors",
           "Every model is equipped with",
-          "Servitor’s servo-arm.",
+          "Servitor's servo-arm.",
           "SERVITOR RETINUE",
           "At the start of the Declare Battle Formations step, this unit",
           "can join one other unit from your army that is being led by a",
@@ -3717,7 +3893,7 @@
           "Munitorum Servitors",
           "unit joined to it). If it does, until the",
           "end of the battle, every model in this unit counts as being part",
-          "of that Bodyguard unit, and that Bodyguard unit’s Starting",
+          "of that Bodyguard unit, and that Bodyguard unit's Starting",
           "Strength is increased accordingly.",
           "MUNITORUM SERVITORS",
           "Lobotomised and augmented, Servitors attend the Departmento",
@@ -3797,19 +3973,33 @@
     "factionKeywords": [
       "Astra Militarum"
     ],
-    "abilities": {
-      "core": "Leader",
-      "faction": "Voice of Command",
-      "special": [
-        "FACTION: Voice of Command Summary Execution: Once per battle round, at the start of any phase, you can select one friendly Astra Militarum Infantry unit that is Battle-shocked and within 12\" of this model}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Leader"
+            },{
+              "title": "FACTION",
+              "text": "Voice of Command"
+            },
+      "FACTION: Voice of Command Summary Execution: Once per battle round, at the start of any phase, you can select one friendly Astra Militarum Infantry unit that is Battle-shocked and within 12\" of this model}.",
         "If you do, one model in that unit is destroyed, and that unit is then no longer Battle-shocked}.",
         "Political Overwatch: While another Officer model is in the same unit as this model, you can re-roll Battle-shock tests taken for that unit}.",
         "ORDERS This Officer can issue 1 Order to a Regiment unit}.",
         "This Officer can only issue the Duty and Honour! and Fix Bayonets! Orders}."
-      ]
-    },
-    "invulnerable": "5+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "5+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "6\"",
       "t": "3",
@@ -3825,36 +4015,44 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s bolt pistol can be replaced with 1 plasma pistol.",
-          "■",
-          "This model’s chainsword can be replaced with 1 power weapon."
+          "This model's bolt pistol can be replaced with 1 plasma pistol.",
+          "This model's chainsword can be replaced with 1 power weapon."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Commissar",
           "This model is equipped with",
           "bolt pistol; chainsword."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following units",
-          "■",
           "Cadian Shock Troops",
-          "■",
           "Catachan Jungle Fighters",
-          "■",
           "Death Korps of Krieg",
-          "■",
           "Infantry Squad",
-          "■",
           "Kasrkin",
-          "■",
           "Tempestus Scions",
           "COMMISSAR",
           "Commissars are ruthless officers charged with maintaining the",
@@ -3908,15 +4106,16 @@
     "factionKeywords": [
       "Astra Militarum"
     ],
-    "abilities": {
-      "core": "Feel No Pain 6+",
-      "faction": null,
-      "special": [
-        "Point-blank Barrage: Each time a model in this unit makes a ranged attack that targets the closest eligible target, improve the Armour Penetration characteristic of that attack by 1}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Feel No Pain 6+"
+            },"faction": null,
+      "Point-blank Barrage: Each time a model in this unit makes a ranged attack that targets the closest eligible target, improve the Armour Penetration characteristic of that attack by 1}."
+    }],
     "stats": {
       "m": "6\"",
       "t": "6",
@@ -3929,16 +4128,22 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Ogryn Bone ‘ead",
-          "■",
           "2-5 Ogryns",
           "Every model is equipped with",
           "ripper gun.",
@@ -4003,17 +4208,18 @@
     "factionKeywords": [
       "Astra Militarum"
     ],
-    "abilities": {
-      "core": "Feel No Pain 6+",
-      "faction": null,
-      "special": [
-        "Wall of Muscle: Each time an attack is allocated to a model in this unit, subtract 1 from the Damage characteristic of that attack (to a minimum of 1)}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Feel No Pain 6+"
+            },"faction": null,
+      "Wall of Muscle: Each time an attack is allocated to a model in this unit, subtract 1 from the Damage characteristic of that attack (to a minimum of 1)}.",
         "WARGEAR ABILITIES Brute Shield: The bearer has a 4+ invulnerable save}.",
         "Slabshield: The bearer has a Wounds characteristic of 4}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "6\"",
       "t": "6",
@@ -4026,18 +4232,23 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "Any number of models can each have their grenadier gauntlet replaced with 1 Bullgryn maul.",
-          "■",
           "Any number of models can each have their slabshield replaced with 1 brute shield."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Bullgryn Bone ‘ead",
-          "■",
           "2-5 Bullgryns",
           "Every model is equipped with",
           "grenadier gauntlet; close",
@@ -4091,16 +4302,17 @@
     "factionKeywords": [
       "Astra Militarum"
     ],
-    "abilities": {
-      "core": "Infiltrators, Stealth",
-      "faction": null,
-      "special": [
-        "Shoot Sharp and Scarper: In your Shooting phase, after this unit has shot, if it is not within Engagement Range of any enemy units, it can make a Normal move as if it were your Movement phase}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Infiltrators, Stealth"
+            },"faction": null,
+      "Shoot Sharp and Scarper: In your Shooting phase, after this unit has shot, if it is not within Engagement Range of any enemy units, it can make a Normal move as if it were your Movement phase}.",
         "If it does, until the end of the turn, this unit is not eligible to declare a charge}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "6\"",
       "t": "2",
@@ -4113,14 +4325,21 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "5 Ratling Snipers",
           "Every model is equipped with",
           "sniper rifle; close",
@@ -4209,7 +4428,7 @@
           "d": "1"
         },
         {
-          "name": "Steed’s hooves [EXTRA ATTACKS]",
+          "name": "Steed's hooves [EXTRA ATTACKS]",
           "range": "Melee",
           "a": "2",
           "bws": "4+",
@@ -4222,16 +4441,15 @@
     "factionKeywords": [
       "Astra Militarum"
     ],
-    "abilities": {
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
       "core": null,
       "faction": null,
-      "special": [
-        "Horsemasters: You can ignore any or all modifiers to this unit’s Move characteristic and to Advance and Charge rolls made for it}.",
+      "Horsemasters: You can ignore any or all modifiers to this unit's Move characteristic and to Advance and Charge rolls made for it}.",
         "In addition, this unit is eligible to shoot and declare a charge in a turn in which it Fell Back}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "12\"",
       "t": "4",
@@ -4247,22 +4465,27 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "For every 5 models in this unit, 1 model’s hunting lance can be replaced with 1 goad lance.",
-          "■",
+          "For every 5 models in this unit, 1 model's hunting lance can be replaced with 1 goad lance.",
           "The Rough Rider Sergeant can be equipped with 1 power sabre."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Rough Rider Sergeant",
-          "■",
           "4-9 Rough Riders",
           "Every model is equipped with",
           "lasgun; laspistol; hunting",
-          "lance; steed’s hooves.",
+          "lance; steed's hooves.",
           "ATTILAN ROUGH RIDERS",
           "Hailing from the steppes of Attila, these horsemasters are potent",
           "cavalry troops. Their mobility makes them a powerful force, whether",
@@ -4402,15 +4625,18 @@
     "factionKeywords": [
       "Astra Militarum"
     ],
-    "abilities": {
-      "core": "Deadly Demise 1, Scouts 9\"",
-      "faction": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise 1, Scouts 9\""
+            },"faction": null,
       "special": [
         "Daring Recon: At the start of your Shooting phase, select one enemy unit within 18\" of and visible to this unit. Until the end of the phase, each time a friendly Astra Militarum model makes an attack that targets that unit, re-roll a Hit roll of 1 and, if that attack has the [INDIRECT FIRE] ability, it does not suffer the penalty to the Hit roll for shooting at a target that is not visible to the attacking unit}."
       ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "10\"",
       "t": "7",
@@ -4426,34 +4652,34 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "Any number of models can each have their Militarum multi-laser replaced with one of the following",
-          "◦",
           "1 autocannon",
-          "◦",
           "1 heavy flamer",
-          "◦",
           "1 lascannon",
-          "◦",
           "1 missile launcher",
-          "◦",
           "1 plasma cannon",
-          "■",
           "Any number of models can each be equipped with 1 Sentinel chainsaw.",
-          "■",
           "Any number of models can each be equipped with 1 hunter-killer missile."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1-3 Scout Sentinels",
           "Every model is equipped with",
           "Militarum multi-laser; close",
           "combat weapon.",
           "SCOUT SENTINELS",
-          "Scout Sentinels’ open compartments and simple augur devices enable",
+          "Scout Sentinels' open compartments and simple augur devices enable",
           "their pilots to survey the enemy with ease, while their lighter armour",
           "and gyro-stabilisers assist them in swiftly traversing the roughest",
           "terrain and bringing their heavy weapons to bear suddenly from",
@@ -4591,15 +4817,16 @@
     "factionKeywords": [
       "Astra Militarum"
     ],
-    "abilities": {
-      "core": "Deadly Demise 1",
-      "faction": null,
-      "special": [
-        "Mobile Hunter-killers: Each time a model in this unit makes an attack that targets a Monster or Vehicle unit, you can re-roll the Wound roll}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise 1"
+            },"faction": null,
+      "Mobile Hunter-killers: Each time a model in this unit makes an attack that targets a Monster or Vehicle unit, you can re-roll the Wound roll}."
+    }],
     "stats": {
       "m": "8\"",
       "t": "8",
@@ -4615,28 +4842,28 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "Any number of models can each have their Militarum multi-laser replaced with one of the following",
-          "◦",
           "1 autocannon",
-          "◦",
           "1 heavy flamer",
-          "◦",
           "1 lascannon",
-          "◦",
           "1 missile launcher",
-          "◦",
           "1 plasma cannon",
-          "■",
           "Any number of models can each be equipped with 1 Sentinel chainsaw.",
-          "■",
           "Any number of models can each be equipped with 1 hunter-killer missile."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1-3 Armoured Sentinels",
           "Every model is equipped with",
           "Militarum multi-laser; close",
@@ -4750,16 +4977,17 @@
     "factionKeywords": [
       "Astra Militarum"
     ],
-    "abilities": {
-      "core": "Deadly Demise D6",
-      "faction": null,
-      "special": [
-        "Flush Them Out: In your Shooting phase, after this model has shot, select one enemy unit that was hit by one or more of those attacks. Until the end of the phase, that unit cannot have the Benefit of Cover}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D6"
+            },"faction": null,
+      "Flush Them Out: In your Shooting phase, after this model has shot, select one enemy unit that was hit by one or more of those attacks. Until the end of the phase, that unit cannot have the Benefit of Cover}.",
         "DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "10\"",
       "t": "10",
@@ -4772,26 +5000,27 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s inferno cannon can be replaced with one of the following",
-          "◦",
+          "This model's inferno cannon can be replaced with one of the following",
           "1 chem cannon",
-          "◦",
           "1 melta cannon",
-          "■",
-          "This model’s heavy flamer can be replaced with one of the following",
-          "◦",
+          "This model's heavy flamer can be replaced with one of the following",
           "1 heavy bolter",
-          "◦",
           "1 multi-melta",
-          "■",
           "This model can be equipped with 1 hunter-killer missile."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Hellhound",
           "This model is equipped with",
           "heavy flamer; inferno cannon;",
@@ -4919,16 +5148,17 @@
     "factionKeywords": [
       "Astra Militarum"
     ],
-    "abilities": {
-      "core": "Deadly Demise D6",
-      "faction": null,
-      "special": [
-        "Ablative Plating: Once per battle, when an attack is allocated to this model, you change the Damage characteristic of that attack to 0}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D6"
+            },"faction": null,
+      "Ablative Plating: Once per battle, when an attack is allocated to this model, you change the Damage characteristic of that attack to 0}.",
         "DAMAGED: 1-6 WOUNDS REMAINING While this model has 1-6 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "10\"",
       "t": "12",
@@ -4941,28 +5171,28 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s twin battle cannon can be replaced with 1 oppressor cannon and 1 co-axial autocannon.",
-          "■",
-          "This model’s castigator gatling cannon can be replaced with 1 pulveriser cannon.",
-          "■",
+          "This model's twin battle cannon can be replaced with 1 oppressor cannon and 1 co-axial autocannon.",
+          "This model's castigator gatling cannon can be replaced with 1 pulveriser cannon.",
           "This model can be equipped with one of the following",
-          "◦",
           "2 meltaguns",
-          "◦",
           "2 additional heavy stubbers",
-          "■",
           "This model can be equipped with one of the following",
-          "◦",
           "2 heavy bolters",
-          "◦",
           "2 multi-meltas"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Rogal Dorn Battle Tank",
           "This model is equipped with",
           "castigator gatling cannon; heavy",
@@ -4971,7 +5201,7 @@
           "The immense Rogal Dorn Battle Tank is a lumbering behemoth equally",
           "suited to anchoring a battle line or grinding forward in support of an",
           "assault. Bristling with immensely powerful guns, they pound breaches",
-          "in the foe’s defences with enormous shells and riddle infantry with",
+          "in the foe's defences with enormous shells and riddle infantry with",
           "storms of bullet-fire."
         ]
       }
@@ -5072,15 +5302,14 @@
     "factionKeywords": [
       "Astra Militarum"
     ],
-    "abilities": {
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
       "core": null,
       "faction": null,
-      "special": [
-        "Covering Fire: Each time you target this unit with the Fire Overwatch Stratagem, while resolving that Stratagem, hits are scored on unmodified Hit rolls of 5+, or on unmodified Hit rolls of 4+ instead if this unit is within 6\" of one or more friendly Platoon units}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+      "Covering Fire: Each time you target this unit with the Fire Overwatch Stratagem, while resolving that Stratagem, hits are scored on unmodified Hit rolls of 5+, or on unmodified Hit rolls of 4+ instead if this unit is within 6\" of one or more friendly Platoon units}."
+    }],
     "stats": {
       "m": "6\"",
       "t": "3",
@@ -5096,22 +5325,25 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "Any number of models can each have their heavy bolter replaced with one of the following",
-          "◦",
           "1 autocannon",
-          "◦",
           "1 lascannon",
-          "◦",
           "1 missile launcher",
-          "◦",
           "1 mortar"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "3 Heavy Weapons Teams",
           "Every model is equipped with",
           "heavy bolter; las small arms;",
@@ -5203,15 +5435,16 @@
     "factionKeywords": [
       "Astra Militarum"
     ],
-    "abilities": {
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
       "core": null,
       "faction": null,
       "special": [
         "Rearm, Reload, Fire: While this unit is being affected by an Order, provided it Remained Stationary this turn, all Heavy weapons equipped by models in this unit have the [SUSTAINED HITS 1] ability}."
       ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "4\"",
       "t": "5",
@@ -5224,19 +5457,24 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "Any number of models can each have their malleus rocket launcher replaced with one of",
           "the following",
-          "◦",
           "1 bombast field gun",
-          "◦",
           "1 heavy lascannon"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "2 Ordnance Teams",
           "Every model is equipped with",
           "malleus rocket launcher;",
@@ -5377,16 +5615,17 @@
     "factionKeywords": [
       "Astra Militarum"
     ],
-    "abilities": {
-      "core": "Deadly Demise D3",
-      "faction": null,
-      "special": [
-        "Armoured Spearhead: Each time this model makes an attack that targets an enemy unit, re-roll a Hit roll of 1 and, if that unit is within range of an objective marker you do not control, you can re-roll the Hit roll instead}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D3"
+            },"faction": null,
+      "Armoured Spearhead: Each time this model makes an attack that targets an enemy unit, re-roll a Hit roll of 1 and, if that unit is within range of an objective marker you do not control, you can re-roll the Hit roll instead}.",
         "DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "10\"",
       "t": "11",
@@ -5402,36 +5641,32 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s lascannon can be replaced with one of the following",
-          "◦",
+          "This model's lascannon can be replaced with one of the following",
           "1 heavy bolter",
-          "◦",
           "1 heavy flamer",
-          "■",
           "This model can be equipped with one of the following",
-          "◦",
           "2 heavy bolters",
-          "◦",
           "2 heavy flamers",
-          "◦",
           "2 multi-meltas",
-          "◦",
           "2 plasma cannons",
-          "■",
           "This model can be equipped with one of the following",
-          "◦",
           "1 heavy stubber",
-          "◦",
           "1 storm bolter",
-          "■",
           "This model can be equipped with 1 hunter-killer missile."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Leman Russ Battle Tank",
           "This model is equipped with",
           "lascannon; Leman Russ battle",
@@ -5572,17 +5807,18 @@
     "factionKeywords": [
       "Astra Militarum"
     ],
-    "abilities": {
-      "core": "Deadly Demise D3",
-      "faction": null,
-      "special": [
-        "Line-breaker: When making ranged attacks with its demolisher battle cannon, this model can target enemy units within Engagement Range of it (provided no other friendly units are also within Engagement Range of that enemy unit)}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D3"
+            },"faction": null,
+      "Line-breaker: When making ranged attacks with its demolisher battle cannon, this model can target enemy units within Engagement Range of it (provided no other friendly units are also within Engagement Range of that enemy unit)}.",
         "In addition, when making ranged attacks, this model does not suffer the penalty to its Hit rolls for being within Engagement Range of one or more enemy units}.",
         "DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "10\"",
       "t": "11",
@@ -5598,36 +5834,32 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s lascannon can be replaced with one of the following",
-          "◦",
+          "This model's lascannon can be replaced with one of the following",
           "1 heavy bolter",
-          "◦",
           "1 heavy flamer",
-          "■",
           "This model can be equipped with one of the following",
-          "◦",
           "2 heavy bolters",
-          "◦",
           "2 heavy flamers",
-          "◦",
           "2 multi-meltas",
-          "◦",
           "2 plasma cannons",
-          "■",
           "This model can be equipped with one of the following",
-          "◦",
           "1 heavy stubber",
-          "◦",
           "1 storm bolter",
-          "■",
           "This model can be equipped with 1 hunter-killer missile."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Leman Russ Demolisher",
           "This model is equipped with",
           "demolisher battle cannon;",
@@ -5768,16 +6000,17 @@
     "factionKeywords": [
       "Astra Militarum"
     ],
-    "abilities": {
-      "core": "Deadly Demise D3",
-      "faction": null,
-      "special": [
-        "Tank-killer: Each time this model makes a ranged attack with its vanquisher battle cannon that targets a Monster or Vehicle unit, you can re-roll the Wound roll}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D3"
+            },"faction": null,
+      "Tank-killer: Each time this model makes a ranged attack with its vanquisher battle cannon that targets a Monster or Vehicle unit, you can re-roll the Wound roll}.",
         "DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "10\"",
       "t": "11",
@@ -5793,36 +6026,32 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s lascannon can be replaced with one of the following",
-          "◦",
+          "This model's lascannon can be replaced with one of the following",
           "1 heavy bolter",
-          "◦",
           "1 heavy flamer",
-          "■",
           "This model can be equipped with one of the following",
-          "◦",
           "2 heavy bolters",
-          "◦",
           "2 heavy flamers",
-          "◦",
           "2 multi-meltas",
-          "◦",
           "2 plasma cannons",
-          "■",
           "This model can be equipped with one of the following",
-          "◦",
           "1 heavy stubber",
-          "◦",
           "1 storm bolter",
-          "■",
           "This model can be equipped with 1 hunter-killer missile."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Leman Russ Vanquisher",
           "This model is equipped with",
           "lascannon; vanquisher battle",
@@ -5963,16 +6192,19 @@
     "factionKeywords": [
       "Astra Militarum"
     ],
-    "abilities": {
-      "core": "Deadly Demise D3",
-      "faction": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D3"
+            },"faction": null,
       "special": [
         "Mow Down the Enemy: Each time this model makes an attack with its punisher gatling cannon that targets an enemy unit (excluding Monsters and Vehicles ), that attack has the [DEVASTATING WOUNDS] ability}.",
         "DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll}."
       ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "10\"",
       "t": "11",
@@ -5988,36 +6220,32 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s lascannon can be replaced with one of the following",
-          "◦",
+          "This model's lascannon can be replaced with one of the following",
           "1 heavy bolter",
-          "◦",
           "1 heavy flamer",
-          "■",
           "This model can be equipped with one of the following",
-          "◦",
           "2 heavy bolters",
-          "◦",
           "2 heavy flamers",
-          "◦",
           "2 multi-meltas",
-          "◦",
           "2 plasma cannons",
-          "■",
           "This model can be equipped with one of the following",
-          "◦",
           "1 heavy stubber",
-          "◦",
           "1 storm bolter",
-          "■",
           "This model can be equipped with 1 hunter-killer missile."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Leman Russ Punisher",
           "This model is equipped with",
           "lascannon; punisher gatling",
@@ -6167,16 +6395,17 @@
     "factionKeywords": [
       "Astra Militarum"
     ],
-    "abilities": {
-      "core": "Deadly Demise D3",
-      "faction": null,
-      "special": [
-        "Gung-ho Executioners: Each time this model makes an attack with its executioner plasma cannon that targets a unit that is Below Half-strength, add 1 to the Hit roll}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D3"
+            },"faction": null,
+      "Gung-ho Executioners: Each time this model makes an attack with its executioner plasma cannon that targets a unit that is Below Half-strength, add 1 to the Hit roll}.",
         "DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "10\"",
       "t": "11",
@@ -6192,42 +6421,38 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s lascannon can be replaced with one of the following",
-          "◦",
+          "This model's lascannon can be replaced with one of the following",
           "1 heavy bolter",
-          "◦",
           "1 heavy flamer",
-          "■",
           "This model can be equipped with one of the following",
-          "◦",
           "2 heavy bolters",
-          "◦",
           "2 heavy flamers",
-          "◦",
           "2 multi-meltas",
-          "◦",
           "2 plasma cannons",
-          "■",
           "This model can be equipped with one of the following",
-          "◦",
           "1 heavy stubber",
-          "◦",
           "1 storm bolter",
-          "■",
           "This model can be equipped with 1 hunter-killer missile."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Leman Russ Executioner",
           "This model is equipped with",
           "executioner plasma cannon;",
           "lascannon; armoured tracks.",
           "LEMAN RUSS EXECUTIONER",
-          "The Executioner’s plasma cannon fires with the fury of a miniature",
+          "The Executioner's plasma cannon fires with the fury of a miniature",
           "sun, incinerating tightly packed infantry and burning through",
           "vehicle armour with ease. Though extended engagements threaten",
           "containment breach of the main weapon, its gung-ho crews are known",
@@ -6362,17 +6587,18 @@
     "factionKeywords": [
       "Astra Militarum"
     ],
-    "abilities": {
-      "core": "Deadly Demise D3",
-      "faction": null,
-      "special": [
-        "Withering Hail: In your Shooting phase, after this model has shot, select one enemy unit hit by one or more of those attacks made with its exterminator autocannon. Until the end of the phase, each time a friendly Astra Militarum unit makes an attack that targets that enemy unit, improve the Armour Penetration characteristic of that attack by 1}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D3"
+            },"faction": null,
+      "Withering Hail: In your Shooting phase, after this model has shot, select one enemy unit hit by one or more of those attacks made with its exterminator autocannon. Until the end of the phase, each time a friendly Astra Militarum unit makes an attack that targets that enemy unit, improve the Armour Penetration characteristic of that attack by 1}.",
         "The same enemy unit can only be affected by this ability once per phase}.",
         "DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "10\"",
       "t": "11",
@@ -6388,36 +6614,32 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s lascannon can be replaced with one of the following",
-          "◦",
+          "This model's lascannon can be replaced with one of the following",
           "1 heavy bolter",
-          "◦",
           "1 heavy flamer",
-          "■",
           "This model can be equipped with one of the following",
-          "◦",
           "2 heavy bolters",
-          "◦",
           "2 heavy flamers",
-          "◦",
           "2 multi-meltas",
-          "◦",
           "2 plasma cannons",
-          "■",
           "This model can be equipped with one of the following",
-          "◦",
           "1 heavy stubber",
-          "◦",
           "1 storm bolter",
-          "■",
           "This model can be equipped with 1 hunter-killer missile."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Leman Russ Exterminator",
           "This model is equipped with",
           "exterminator autocannon;",
@@ -6425,7 +6647,7 @@
           "LEMAN RUSS EXTERMINATOR",
           "The Leman Russ Exterminator fills an adaptive role well-liked by",
           "commanders. Capable of laying down a withering hail of heavy",
-          "fire, this tank’s shells can tear through lightly armoured chassis as",
+          "fire, this tank's shells can tear through lightly armoured chassis as",
           "easily as they rip through flesh and bone. Ranks of elite infantry are",
           "devastated with equal ease."
         ]
@@ -6558,17 +6780,18 @@
     "factionKeywords": [
       "Astra Militarum"
     ],
-    "abilities": {
-      "core": "Deadly Demise D3",
-      "faction": null,
-      "special": [
-        "Urban Warfare: When making ranged attacks with its eradicator nova cannon, this model can target enemy units within Engagement Range of it (provided no other friendly units are also within Engagement Range of that enemy unit)}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D3"
+            },"faction": null,
+      "Urban Warfare: When making ranged attacks with its eradicator nova cannon, this model can target enemy units within Engagement Range of it (provided no other friendly units are also within Engagement Range of that enemy unit)}.",
         "In addition, when making ranged attacks, this model does not suffer the penalty to its Hit rolls for being within Engagement Range of one or more enemy units}.",
         "DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "10\"",
       "t": "11",
@@ -6584,36 +6807,32 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s lascannon can be replaced with one of the following",
-          "◦",
+          "This model's lascannon can be replaced with one of the following",
           "1 heavy bolter",
-          "◦",
           "1 heavy flamer",
-          "■",
           "This model can be equipped with one of the following",
-          "◦",
           "2 heavy bolters",
-          "◦",
           "2 heavy flamers",
-          "◦",
           "2 multi-meltas",
-          "◦",
           "2 plasma cannons",
-          "■",
           "This model can be equipped with one of the following",
-          "◦",
           "1 heavy stubber",
-          "◦",
           "1 storm bolter",
-          "■",
           "This model can be equipped with 1 hunter-killer missile."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Leman Russ Eradicator",
           "This model is equipped with",
           "eradicator nova cannon;",
@@ -6701,17 +6920,18 @@
     "factionKeywords": [
       "Astra Militarum"
     ],
-    "abilities": {
-      "core": "Deadly Demise D3",
-      "faction": null,
-      "special": [
-        "Earthshaker Rounds: In your Shooting phase, after this model has shot, if one or more of those attacks made with its earthshaker cannon scored a hit against an enemy Infantry unit, until the end of your opponent’s next turn, that unit is shaken}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D3"
+            },"faction": null,
+      "Earthshaker Rounds: In your Shooting phase, after this model has shot, if one or more of those attacks made with its earthshaker cannon scored a hit against an enemy Infantry unit, until the end of your opponent's next turn, that unit is shaken}.",
         "While a unit is shaken, subtract 2\" from its Move characteristic and subtract 2 from Advance and Charge rolls made for it}.",
         "DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "10\"",
       "t": "9",
@@ -6724,16 +6944,22 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s heavy bolter can be replaced with 1 heavy flamer.",
-          "■",
+          "This model's heavy bolter can be replaced with 1 heavy flamer.",
           "This model can be equipped with 1 hunter-killer missile."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Basilisk",
           "This model is equipped with",
           "earthshaker cannon; heavy",
@@ -6743,7 +6969,7 @@
           "earthshaker cannon. Able to keep pace with infantry advances - their",
           "barrels levelled for direct fire - or deploy to rear positions from which",
           "they unleash relentless shelling, Basilisks are amongst the most",
-          "numerous of the Imperial Guard’s ordnance tanks."
+          "numerous of the Imperial Guard's ordnance tanks."
         ]
       }
     ]
@@ -6820,16 +7046,17 @@
     "factionKeywords": [
       "Astra Militarum"
     ],
-    "abilities": {
-      "core": "Deadly Demise D3",
-      "faction": null,
-      "special": [
-        "Flak Battery: Each time this model makes an attack that targets a unit that can Fly , you can re-roll the Hit roll}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D3"
+            },"faction": null,
+      "Flak Battery: Each time this model makes an attack that targets a unit that can Fly , you can re-roll the Hit roll}.",
         "DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "10\"",
       "t": "9",
@@ -6842,16 +7069,22 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s heavy bolter can be replaced with 1 heavy flamer.",
-          "■",
+          "This model's heavy bolter can be replaced with 1 heavy flamer.",
           "This model can be equipped with 1 hunter-killer missile."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Hydra",
           "This model is equipped with",
           "heavy bolter; Hydra autocannon;",
@@ -6939,16 +7172,17 @@
     "factionKeywords": [
       "Astra Militarum"
     ],
-    "abilities": {
-      "core": "Deadly Demise D3",
-      "faction": null,
-      "special": [
-        "Furious Barrage: Each time this model makes an attack with its storm eagle rockets that targets an enemy unit that contains five or more models, you can re-roll the Hit roll}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D3"
+            },"faction": null,
+      "Furious Barrage: Each time this model makes an attack with its storm eagle rockets that targets an enemy unit that contains five or more models, you can re-roll the Hit roll}.",
         "DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "10\"",
       "t": "10",
@@ -6961,16 +7195,22 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s heavy bolter can be replaced with 1 heavy flamer.",
-          "■",
+          "This model's heavy bolter can be replaced with 1 heavy flamer.",
           "This model can be equipped with 1 hunter-killer missile."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Manticore",
           "This model is equipped with",
           "heavy bolter; storm eagle",
@@ -6979,7 +7219,7 @@
           "Capable of firing its limited supply of storm eagle rockets to unleash",
           "furious barrages at incredible distances, the Manticore can lay waste",
           "to enemy formations. Multiple warheads release a moment before",
-          "each rocket’s impact, signalling the panicking foe’s doom no matter",
+          "each rocket's impact, signalling the panicking foe's doom no matter",
           "how far they try to flee at the last moment."
         ]
       }
@@ -7058,18 +7298,19 @@
     "factionKeywords": [
       "Astra Militarum"
     ],
-    "abilities": {
-      "core": "Deadly Demise D3",
-      "faction": null,
-      "special": [
-        "Suppression Bombardment: In your Shooting phase, after this model has shot, select one enemy unit (excluding Monster and Vehicle units) that was hit by one or more attacks made with this model’s Wyvern quad stormshard mortar this phase}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D3"
+            },"faction": null,
+      "Suppression Bombardment: In your Shooting phase, after this model has shot, select one enemy unit (excluding Monster and Vehicle units) that was hit by one or more attacks made with this model's Wyvern quad stormshard mortar this phase}.",
         "Unit the start of your next turn, that enemy unit is suppressed}.",
         "While a unit is suppressed, each time a model in that unit makes an attack, subtract 1 from the Hit roll}.",
         "DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "10\"",
       "t": "9",
@@ -7082,16 +7323,22 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s heavy bolter can be replaced with 1 heavy flamer.",
-          "■",
+          "This model's heavy bolter can be replaced with 1 heavy flamer.",
           "This model can be equipped with 1 hunter-killer missile."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Wyvern",
           "This model is equipped with",
           "heavy bolter; Wyvern quad",
@@ -7099,7 +7346,7 @@
           "WYVERN",
           "The Wyvern excels in claustrophobic urban combat, raining curtains of",
           "shells down upon luckless enemy infantry without needing to expose",
-          "itself to harm. The suppression tank’s stormshard mortars are lethal to",
+          "itself to harm. The suppression tank's stormshard mortars are lethal to",
           "tightly packed foes, their shells detonating in blizzards of eviscerating",
           "Aquila-shaped flechettes."
         ]
@@ -7139,7 +7386,7 @@
           "bws": "The bearer can only shoot with this weapon in your Shooting phase, and only if it",
           "s": "Remained Stationary this turn and you did not use its Deathstrike Missile ability to Designate Target",
           "ap": "or Adjust Target this phase. When the bearer shoots with this weapon, do not select a target. Instead,",
-          "d": "resolve this weapon’s attacks, rolling for each unit within 6\" of the centre of its Deathstrike Target"
+          "d": "resolve this weapon's attacks, rolling for each unit within 6\" of the centre of its Deathstrike Target"
         },
         {
           "name": "marker individually.",
@@ -7189,17 +7436,18 @@
     "factionKeywords": [
       "Astra Militarum"
     ],
-    "abilities": {
-      "core": "Deadly Demise D6",
-      "faction": null,
-      "special": [
-        "Deathstrike Missile: In your Shooting phase, each time this model is selected to shoot, if it has not shot with its Deathstrike missile this battle, you can do one of the following in addition to resolving this model’s ranged attacks: ■ Designate Target: If this model does not have a Deathstrike Target marker on the battlefield, place a Deathstrike Target marker for this model anywhere on the battlefield}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D6"
+            },"faction": null,
+      "Deathstrike Missile: In your Shooting phase, each time this model is selected to shoot, if it has not shot with its Deathstrike missile this battle, you can do one of the following in addition to resolving this model's ranged attacks: ■ Designate Target: If this model does not have a Deathstrike Target marker on the battlefield, place a Deathstrike Target marker for this model anywhere on the battlefield}.",
         "■ Adjust Target: If this model has a Deathstrike Target marker on the battlefield, move that marker to anywhere else on the battlefield}.",
         "DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "10\"",
       "t": "10",
@@ -7212,23 +7460,29 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s heavy bolter can be replaced with 1 heavy flamer.",
-          "■",
+          "This model's heavy bolter can be replaced with 1 heavy flamer.",
           "This model can be equipped with 1 hunter-killer missile."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Deathstrike",
           "This model is equipped with",
           "heavy bolter; Deathstrike",
           "missile; armoured tracks.",
           "DEATHSTRIKE",
-          "The sanctioned use of a Deathstrike - designated ‘Ordnance Extremis’",
-          "- is often an excessive measure to combat the Imperial Guard’s most",
+          "The sanctioned use of a Deathstrike - designated ‘Ordnance Extremis'",
+          "- is often an excessive measure to combat the Imperial Guard's most",
           "heinous enemies. Its huge missile, capable of mounting various",
           "catastrophic payloads, is able to visit the undimmed wrath of the",
           "Emperor on a foe half a world away."
@@ -7353,16 +7607,17 @@
     "factionKeywords": [
       "Astra Militarum"
     ],
-    "abilities": {
-      "core": "Deadly Demise D3, Firing Deck 2",
-      "faction": null,
-      "special": [
-        "Mobile Command Vehicle: In your Command phase, one Officer model embarked within this Transport can issue Orders even though it is not on the battlefield}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D3, Firing Deck 2"
+            },"faction": null,
+      "Mobile Command Vehicle: In your Command phase, one Officer model embarked within this Transport can issue Orders even though it is not on the battlefield}.",
         "When doing so, measure distances to and from this Transport}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "10\"",
       "t": "9",
@@ -7375,28 +7630,28 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s heavy bolter can be replaced with 1 heavy flamer.",
-          "■",
-          "This model’s Chimera multi-laser can be replaced with one of the following",
-          "◦",
+          "This model's heavy bolter can be replaced with 1 heavy flamer.",
+          "This model's Chimera multi-laser can be replaced with one of the following",
           "1 Chimera heavy bolter",
-          "◦",
           "1 Chimera heavy flamer",
-          "■",
           "This model can be equipped with one of the following",
-          "◦",
           "1 heavy stubber",
-          "◦",
           "1 storm bolter",
-          "■",
           "This model can be equipped with 1 hunter-killer missile."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Chimera",
           "This model is equipped with",
           "Chimera multi-laser; heavy",
@@ -7420,7 +7675,7 @@
           "CHIMERA",
           "A workhorse armoured troop carrier, the Chimera is a durable and",
           "practical tank, employed to ferry infantry into the harshest war zones.",
-          "While embarked, its passengers operate the tank’s in-built lasgun",
+          "While embarked, its passengers operate the tank's in-built lasgun",
           "arrays in safety; once they dismount, the Chimera provides fire",
           "support with its versatile heavy weapons."
         ]
@@ -7477,16 +7732,17 @@
     "factionKeywords": [
       "Astra Militarum"
     ],
-    "abilities": {
-      "core": "Deadly Demise D3",
-      "faction": null,
-      "special": [
-        "Rapid Deployment: Units can disembark from this Transport after it has Advanced}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D3"
+            },"faction": null,
+      "Rapid Deployment: Units can disembark from this Transport after it has Advanced}.",
         "Units that do so count as having made a Normal move that phase, and cannot declare a charge in the same turn, but can otherwise act normally}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "12\"",
       "t": "8",
@@ -7499,14 +7755,21 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "This model can be equipped with 1 storm bolter."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Taurox",
           "This model is equipped with",
           "twin autocannon;",
@@ -7529,9 +7792,9 @@
           "models.",
           "TAUROX",
           "Designed to exploit gaps in the enemy battle line or plug holes torn in",
-          "the Astra Militarum’s own, the Taurox is a swift armoured transport,",
+          "the Astra Militarum's own, the Taurox is a swift armoured transport,",
           "its rugged tracks enabling it to cross difficult terrain with ease.",
-          "The Taurox’s autocannons mow down the foe as it roars forward,",
+          "The Taurox's autocannons mow down the foe as it roars forward,",
           "eliminating threats to its passengers as they rapidly deploy."
         ]
       }
@@ -7615,17 +7878,18 @@
     "factionKeywords": [
       "Astra Militarum"
     ],
-    "abilities": {
-      "core": "Deadly Demise D6, Hover",
-      "faction": null,
-      "special": [
-        "Grav Chute Insertion: At the end of your opponent’s Movement phase, one or more units embarked within this Transport can disembark from it, provided every model in each of those disembarking units has the Deep Strike ability}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D6, Hover"
+            },"faction": null,
+      "Grav Chute Insertion: At the end of your opponent's Movement phase, one or more units embarked within this Transport can disembark from it, provided every model in each of those disembarking units has the Deep Strike ability}.",
         "DAMAGED: 1-5 WOUNDS REMAINING While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll}.",
         "T SV W LD OC 10 2+ 14 7+ 0 20+\"}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "20+\"",
       "t": "10",
@@ -7638,18 +7902,23 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s Militarum multi-laser can be replaced with 1 lascannon.",
-          "■",
-          "This model’s hellstrike missiles can be replaced with 2 multiple rocket pods.",
-          "■",
+          "This model's Militarum multi-laser can be replaced with 1 lascannon.",
+          "This model's hellstrike missiles can be replaced with 2 multiple rocket pods.",
           "This model can be equipped with 2 heavy bolters."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Valkyrie",
           "This model is equipped with",
           "hellstrike missiles; Militarum",
@@ -7693,25 +7962,23 @@
       "Aegis Defence Line"
     ],
     "weapons": {
-      "ranged": [],
       "melee": []
     },
     "factionKeywords": [
       "Astra Militarum"
     ],
-    "abilities": {
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
       "core": null,
       "faction": null,
-      "special": [
-        "Emplacement Platform: Friendly Astra Militarum Infantry models can be set up or end any type of move on top of the platform section of this Fortification}.",
+      "Emplacement Platform: Friendly Astra Militarum Infantry models can be set up or end any type of move on top of the platform section of this Fortification}.",
         "Reinforced Cover: Each time a ranged attack is allocated to a model, if that model is not fully visible to every model in the attacking unit because of this Fortification , that model has the Benefit of Cover against that attack}.",
         "Defence Line: While an Astra Militarum Infantry model has the Benefit of Cover as a result of this terrain feature (see above), that model has a 4+ invulnerable save}.",
         "Fortification: While an enemy unit is only within Engagement Range of one or more Fortifications from your army: ■ That unit can still be selected as the target of ranged attacks, but each time such an attack is made, unless it is made with a Pistol, subtract 1 from the Hit roll}.",
         "■ Models in that unit do not need to take Desperate Escape tests due to Falling Back while Battle-shocked, except for those that will move over enemy models when doing so}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "-",
       "t": "12",
@@ -7725,13 +7992,20 @@
         "name": "WARGEAR OPTIONS",
         "values": []
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Aegis Defence Line",
           "WARGEAR OPTIONS",
-          "■",
           "None",
           "AEGIS DEFENCE LINE",
           "Aegis Defence Lines are barricades comprising crenellated",
@@ -7838,16 +8112,17 @@
     "factionKeywords": [
       "Astra Militarum"
     ],
-    "abilities": {
-      "core": "Deadly Demise D6+2",
-      "faction": null,
-      "special": [
-        "Rolling Fortress: Each time a ranged attack is allocated to an Astra Militarum model from your army, if that model is not fully visible to every model in the attacking unit because of this Baneblade model, that model has the Benefit of Cover against that attack}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D6+2"
+            },"faction": null,
+      "Rolling Fortress: Each time a ranged attack is allocated to an Astra Militarum model from your army, if that model is not fully visible to every model in the attacking unit because of this Baneblade model, that model has the Benefit of Cover against that attack}.",
         "DAMAGED: 1-8 WOUNDS REMAINING While this model has 1-8 wounds remaining, subtract 4 from its Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "9\"",
       "t": "13",
@@ -7860,20 +8135,24 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s 2 twin heavy flamers can be replaced with 2 twin heavy bolters.",
-          "■",
+          "This model's 2 twin heavy flamers can be replaced with 2 twin heavy bolters.",
           "This model can be equipped with one of the following",
-          "◦",
           "2 lascannons and 2 twin heavy bolters",
-          "◦",
           "2 lascannons and 2 twin heavy flamers"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Baneblade",
           "This model is equipped with",
           "Baneblade cannon; co-axial",
@@ -7959,16 +8238,17 @@
     "factionKeywords": [
       "Astra Militarum"
     ],
-    "abilities": {
-      "core": "Deadly Demise D6+2, Firing Deck 12",
-      "faction": null,
-      "special": [
-        "Tremor Quake: In your Shooting phase, just after selecting a target for this model’s tremor cannon, the target unit and every other enemy Infantry unit within 3\" of that unit must take a Battle-shock test}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D6+2, Firing Deck 12"
+            },"faction": null,
+      "Tremor Quake: In your Shooting phase, just after selecting a target for this model's tremor cannon, the target unit and every other enemy Infantry unit within 3\" of that unit must take a Battle-shock test}.",
         "DAMAGED: 1-8 WOUNDS REMAINING While this model has 1-8 wounds remaining, subtract 4 from its Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "9\"",
       "t": "13",
@@ -7981,20 +8261,24 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s 2 twin heavy flamers can be replaced with 2 twin heavy bolters.",
-          "■",
+          "This model's 2 twin heavy flamers can be replaced with 2 twin heavy bolters.",
           "This model can be equipped with one of the following",
-          "◦",
           "2 lascannons and 2 twin heavy bolters",
-          "◦",
           "2 lascannons and 2 twin heavy flamers"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Banehammer",
           "This model is equipped with",
           "2 lascannons; tremor cannon;",
@@ -8017,8 +8301,8 @@
           "models.",
           "BANEHAMMER",
           "Where the Banehammer excels is as a defensive anchor in the",
-          "Imperial Guard’s formations. Those enemies not blasted apart by its",
-          "tremor cannon’s shells are brought to a crawl as the ground splits",
+          "Imperial Guard's formations. Those enemies not blasted apart by its",
+          "tremor cannon's shells are brought to a crawl as the ground splits",
           "beneath them. The stunned foe is then forced to push slowly forward",
           "beneath a further barrage, or else retreat in disarray."
         ]
@@ -8093,16 +8377,17 @@
     "factionKeywords": [
       "Astra Militarum"
     ],
-    "abilities": {
-      "core": "Deadly Demise D6+2",
-      "faction": null,
-      "special": [
-        "Armour Obliteration: Each time an attack made with this model’s quake cannon destroys an enemy model that has the Deadly Demise ability, that model’s Deadly Demise ability inflicts mortal wounds on a D6 roll of 3+ instead of on a 6}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D6+2"
+            },"faction": null,
+      "Armour Obliteration: Each time an attack made with this model's quake cannon destroys an enemy model that has the Deadly Demise ability, that model's Deadly Demise ability inflicts mortal wounds on a D6 roll of 3+ instead of on a 6}.",
         "DAMAGED: 1-8 WOUNDS REMAINING While this model has 1-8 wounds remaining, subtract 4 from its Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "9\"",
       "t": "13",
@@ -8115,27 +8400,31 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s 2 twin heavy flamers can be replaced with 2 twin heavy bolters.",
-          "■",
+          "This model's 2 twin heavy flamers can be replaced with 2 twin heavy bolters.",
           "This model can be equipped with one of the following",
-          "◦",
           "2 lascannons and 2 twin heavy bolters",
-          "◦",
           "2 lascannons and 2 twin heavy flamers"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Banesword",
           "This model is equipped with",
           "2 lascannons; quake cannon;",
           "twin heavy bolter; 2 twin heavy flamers; armoured tracks.",
           "BANESWORD",
           "The Banesword obliterates enemy vehicles and fortifications that",
-          "prove insurmountable to the Imperial Guard’s remaining arsenal. Its",
+          "prove insurmountable to the Imperial Guard's remaining arsenal. Its",
           "quake cannon tears gaping voids in the strongest defensive lines at",
           "extreme range, enabling it to open breaches for allied forces to exploit",
           "before the enemy has a chance to return fire."
@@ -8212,16 +8501,17 @@
     "factionKeywords": [
       "Astra Militarum"
     ],
-    "abilities": {
-      "core": "Deadly Demise D6+2, Firing Deck 12",
-      "faction": null,
-      "special": [
-        "Close-range Titan Killer: Each time this model’s magma cannon targets an enemy Monster or Vehicle unit, that target is always considered to be within half range of that weapon}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D6+2, Firing Deck 12"
+            },"faction": null,
+      "Close-range Titan Killer: Each time this model's magma cannon targets an enemy Monster or Vehicle unit, that target is always considered to be within half range of that weapon}.",
         "DAMAGED: 1-8 WOUNDS REMAINING While this model has 1-8 wounds remaining, subtract 4 from its Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "9\"",
       "t": "13",
@@ -8234,20 +8524,24 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s 2 twin heavy flamers can be replaced with 2 twin heavy bolters.",
-          "■",
+          "This model's 2 twin heavy flamers can be replaced with 2 twin heavy bolters.",
           "This model can be equipped with one of the following",
-          "◦",
           "2 lascannons and 2 twin heavy bolters",
-          "◦",
           "2 lascannons and 2 twin heavy flamers"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Doomhammer",
           "This model is equipped with",
           "2 lascannons; magma cannon;",
@@ -8272,7 +8566,7 @@
           "Part mobile bastion and part close-range Titan-killer, the",
           "Doomhammer contains a sizeable troop compartment, enabling it",
           "to transport a number of battle-ready soldiers. At the front lines, the",
-          "troops are deployed to engage light targets while the tank’s magma",
+          "troops are deployed to engage light targets while the tank's magma",
           "cannon melts monstrous chitin and armour to cinder and slag."
         ]
       }
@@ -8373,16 +8667,17 @@
     "factionKeywords": [
       "Astra Militarum"
     ],
-    "abilities": {
-      "core": "Deadly Demise D6+2",
-      "faction": null,
-      "special": [
-        "Close-quarters Warfare: This model does not suffer the penalty to its Hit rolls for making ranged attacks while enemy units are within Engagement Range of it}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D6+2"
+            },"faction": null,
+      "Close-quarters Warfare: This model does not suffer the penalty to its Hit rolls for making ranged attacks while enemy units are within Engagement Range of it}.",
         "DAMAGED: 1-8 WOUNDS REMAINING While this model has 1-8 wounds remaining, subtract 4 from its Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "9\"",
       "t": "13",
@@ -8395,20 +8690,24 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s 2 twin heavy flamers can be replaced with 2 twin heavy bolters.",
-          "■",
+          "This model's 2 twin heavy flamers can be replaced with 2 twin heavy bolters.",
           "This model can be equipped with one of the following",
-          "◦",
           "2 lascannons and 2 twin heavy bolters",
-          "◦",
           "2 lascannons and 2 twin heavy flamers"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Hellhammer",
           "This model is equipped with",
           "co-axial autocannon;",
@@ -8417,7 +8716,7 @@
           "armoured tracks.",
           "HELLHAMMER",
           "The Hellhammer is optimised for close-quarters warfare, its armour",
-          "proof against most infantry seeking to attack from nearby. The tank’s",
+          "proof against most infantry seeking to attack from nearby. The tank's",
           "multiple rapid-firing guns shred exposed targets, while the concussive",
           "blast radius of its primary cannon pounds dug-in enemy lairs to dust."
         ]
@@ -8492,16 +8791,19 @@
     "factionKeywords": [
       "Astra Militarum"
     ],
-    "abilities": {
-      "core": "Deadly Demise D6+2",
-      "faction": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D6+2"
+            },"faction": null,
       "special": [
         "Titan-killer: Each time this model makes a ranged attack with its volcano cannon that targets a Monster or Vehicle unit, that attack has the [DEVASTATING WOUNDS] ability}.",
         "DAMAGED: 1-8 WOUNDS REMAINING While this model has 1-8 wounds remaining, subtract 4 from its Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll}."
       ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "9\"",
       "t": "13",
@@ -8514,20 +8816,24 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s 2 twin heavy flamers can be replaced with 2 twin heavy bolters.",
-          "■",
+          "This model's 2 twin heavy flamers can be replaced with 2 twin heavy bolters.",
           "This model can be equipped with one of the following",
-          "◦",
           "2 lascannons and 2 twin heavy bolters",
-          "◦",
           "2 lascannons and 2 twin heavy flamers"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Shadowsword",
           "This model is equipped with",
           "2 lascannons; twin heavy bolter;",
@@ -8620,17 +8926,18 @@
     "factionKeywords": [
       "Astra Militarum"
     ],
-    "abilities": {
-      "core": "Deadly Demise D6+2, Firing Deck 24",
-      "faction": null,
-      "special": [
-        "Mount Up!: At the end of your opponent’s Movement phase, if there are no models currently embarked within this Transport , you can select one friendly Astra Militarum Infantry unit (excluding Artillery units) that is wholly within 6\" of this Transport}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D6+2, Firing Deck 24"
+            },"faction": null,
+      "Mount Up!: At the end of your opponent's Movement phase, if there are no models currently embarked within this Transport , you can select one friendly Astra Militarum Infantry unit (excluding Artillery units) that is wholly within 6\" of this Transport}.",
         "Unless that unit is within Engagement Range of one or more enemy units, it can embark within this Transport}.",
         "DAMAGED: 1-8 WOUNDS REMAINING While this model has 1-8 wounds remaining, subtract 4 from its Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "9\"",
       "t": "13",
@@ -8643,20 +8950,24 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s 2 twin heavy flamers can be replaced with 2 twin heavy bolters.",
-          "■",
+          "This model's 2 twin heavy flamers can be replaced with 2 twin heavy bolters.",
           "This model can be equipped with one of the following",
-          "◦",
           "2 lascannons and 2 twin heavy bolters",
-          "◦",
           "2 lascannons and 2 twin heavy flamers"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Stormlord",
           "This model is equipped with",
           "2 heavy stubbers; 2 lascannons;",
@@ -8683,7 +8994,7 @@
           "ultimate assault vehicle. From firing steps, the squads it carries level",
           "their own firepower at the enemy, but their shots are eclipsed by the",
           "hurricane of huge, mass-reactive shells unloaded by the twin barrels",
-          "of the Stormlord’s vulcan mega-bolter."
+          "of the Stormlord's vulcan mega-bolter."
         ]
       }
     ]
@@ -8756,17 +9067,18 @@
     "factionKeywords": [
       "Astra Militarum"
     ],
-    "abilities": {
-      "core": "Deadly Demise D6+2",
-      "faction": null,
-      "special": [
-        "Concussive Wave: In your Shooting phase, just after selecting a target for this model’s Stormsword siege cannon, roll one D6 for the target unit and every other unit within 3\" of that unit: on a 5+, the unit being rolled for is struck by a concussive wave}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D6+2"
+            },"faction": null,
+      "Concussive Wave: In your Shooting phase, just after selecting a target for this model's Stormsword siege cannon, roll one D6 for the target unit and every other unit within 3\" of that unit: on a 5+, the unit being rolled for is struck by a concussive wave}.",
         "After this model has finished making its attacks against that target unit this phase, each unit struck by a concussive wave suffers D3 mortal wounds}.",
         "DAMAGED: 1-8 WOUNDS REMAINING While this model has 1-8 wounds remaining, subtract 4 from its Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "9\"",
       "t": "13",
@@ -8779,20 +9091,24 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s 2 twin heavy flamers can be replaced with 2 twin heavy bolters.",
-          "■",
+          "This model's 2 twin heavy flamers can be replaced with 2 twin heavy bolters.",
           "This model can be equipped with one of the following",
-          "◦",
           "2 lascannons and 2 twin heavy bolters",
-          "◦",
           "2 lascannons and 2 twin heavy flamers"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Stormsword",
           "This model is equipped with",
           "2 lascannons; Stormsword",
@@ -8957,20 +9273,23 @@
     "factionKeywords": [
       "Astra Militarum"
     ],
-    "abilities": {
-      "core": "Deep Strike, Leader",
-      "faction": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deep Strike, Leader"
+            },"faction": null,
       "special": [
         "Tempestor Prime: While this unit contains a Tempestor Prime, ranged weapons equipped by models in this unit have the [SUSTAINED HITS 1] ability}.",
-        "WARGEAR ABILITIES Medi-pack: The bearer’s unit has the Feel No Pain 6+ ability}.",
-        "Regimental Standard: Add 1 to the Objective Control characteristic of models in the bearer’s unit}.",
+        "WARGEAR ABILITIES Medi-pack: The bearer's unit has the Feel No Pain 6+ ability}.",
+        "Regimental Standard: Add 1 to the Objective Control characteristic of models in the bearer's unit}.",
         "Command Rod: While the bearer is leading a unit, that unit can be affected by up to two different Orders at the same time}.",
-        "Master Vox: Each time the Officer in the bearer’s unit issues an Order, it can issue it to an eligible unit up to 24\" away}.",
-        "ORDERS This unit’s Officer can issue 1 Order to a Regiment unit}."
+        "Master Vox: Each time the Officer in the bearer's unit issues an Order, it can issue it to an eligible unit up to 24\" away}.",
+        "ORDERS This unit's Officer can issue 1 Order to a Regiment unit}."
       ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "6\"",
       "t": "3",
@@ -8986,55 +9305,48 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "Any number of Tempestus Scions can each have",
           "their hot-shot lasgun replaced with one of the",
           "following:*",
-          "◦",
           "1 flamer",
-          "◦",
           "1 grenade launcher",
-          "◦",
           "1 hot-shot volley gun",
-          "◦",
           "1 meltagun",
-          "◦",
           "1 plasma gun",
-          "■",
           "1 Tempestus Scion equipped with a hot-shot",
           "lasgun can be equipped with 1 regimental",
           "standard.**",
-          "■",
-          "1 Tempestus Scion’s hot-shot lasgun can",
+          "1 Tempestus Scion's hot-shot lasgun can",
           "be replaced with 1 hot-shot laspistol and 1",
           "master vox.",
-          "■",
-          "1 Tempestus Scion’s hot-shot lasgun can be",
+          "1 Tempestus Scion's hot-shot lasgun can be",
           "replaced with one of the following",
-          "◦",
           "1 hot-shot laspistol and 1 medi-pack",
-          "◦",
           "1 hot-shot lasgun, 1 hot-shot laspistol and 1",
           "medi-pack**",
-          "■",
-          "The Tempestor Prime’s bolt pistol can be",
+          "The Tempestor Prime's bolt pistol can be",
           "replaced with one of the following",
-          "◦",
           "1 plasma pistol",
-          "◦",
           "1 command rod",
           "*",
           "You cannot select the same weapon from this list more than",
           "once per unit.",
-          "** That model’s hot-shot lasgun cannot be replaced."
+          "** That model's hot-shot lasgun cannot be replaced."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Tempestor Prime",
-          "■",
           "4 Tempestus Scions",
           "The Tempestor Prime is equipped with",
           "bolt pistol;",
@@ -9044,14 +9356,21 @@
           "close combat weapon."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This unit can be attached to the following unit",
-          "■",
           "Tempestus Scions",
           "TEMPESTOR PRIME",
-          "If this unit’s Tempestor Prime model is your",
+          "If this unit's Tempestor Prime model is your",
           "Warlord",
           ",",
           "Tempestus Scions",
@@ -9214,17 +9533,18 @@
     "factionKeywords": [
       "Astra Militarum"
     ],
-    "abilities": {
-      "core": "Deep Strike",
-      "faction": null,
-      "special": [
-        "Storm Troopers: Each time a model in this unit makes an attack, re-roll a Hit roll of 1}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deep Strike"
+            },"faction": null,
+      "Storm Troopers: Each time a model in this unit makes an attack, re-roll a Hit roll of 1}.",
         "If the target of that attack is an enemy unit within range of an objective marker, you can re-roll the Hit roll instead}.",
-        "WARGEAR ABILITIES Vox-caster: Each time you target the bearer’s unit with a Stratagem, roll one D6, adding 1 to the result if there are one or more friendly Officer models within 6\": on a 5+, you gain 1CP}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+        "WARGEAR ABILITIES Vox-caster: Each time you target the bearer's unit with a Stratagem, roll one D6, adding 1 to the result if there are one or more friendly Officer models within 6\": on a 5+, you gain 1CP}."
+    }],
     "stats": {
       "m": "6\"",
       "t": "3",
@@ -9240,37 +9560,24 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "For every 5 models in this unit, up to two",
           "Tempestus Scions can each have their hot-shot",
           "lasgun replaced with one of the following:*",
-          "◦",
           "1 flamer",
-          "◦",
           "1 grenade launcher",
-          "◦",
           "1 hot-shot volley gun",
-          "◦",
           "1 meltagun",
-          "◦",
           "1 plasma gun",
-          "■",
-          "1 Tempestus Scion’s hot-shot lasgun can",
+          "1 Tempestus Scion's hot-shot lasgun can",
           "be replaced with 1 hot-shot laspistol and",
           "1 vox-caster.",
-          "■",
-          "The Tempestor’s chainsword can be replaced",
+          "The Tempestor's chainsword can be replaced",
           "with one of the following",
-          "◦",
           "1 power fist",
-          "◦",
           "1 power weapon",
-          "■",
-          "The Tempestor’s hot-shot laspistol can be",
+          "The Tempestor's hot-shot laspistol can be",
           "replaced with one of the following:**",
-          "◦",
           "1 bolt pistol",
-          "◦",
           "1 plasma pistol",
           "*",
           "You cannot select the same weapon from this list more than",
@@ -9282,12 +9589,19 @@
           "Militarum Infantry Armoury card."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Tempestor",
-          "■",
           "4-9 Tempestus Scions",
           "The Tempestor is equipped with",
           "hot-shot",
@@ -9409,15 +9723,16 @@
     "factionKeywords": [
       "Astra Militarum"
     ],
-    "abilities": {
-      "core": "Deadly Demise D3",
-      "faction": null,
-      "special": [
-        "Fire Support: In your Shooting phase, after this model has shot, select one enemy unit that was hit by one or more of those attacks. Until the end of the phase, each time a friendly model that disembarked from this Transport this turn makes an attack that targets that enemy unit, you can re-roll the Wound roll}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D3"
+            },"faction": null,
+      "Fire Support: In your Shooting phase, after this model has shot, select one enemy unit that was hit by one or more of those attacks. Until the end of the phase, each time a friendly model that disembarked from this Transport this turn makes an attack that targets that enemy unit, you can re-roll the Wound roll}."
+    }],
     "stats": {
       "m": "12\"",
       "t": "8",
@@ -9433,22 +9748,25 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s Taurox battle cannon can be replaced with one of the following",
-          "◦",
+          "This model's Taurox battle cannon can be replaced with one of the following",
           "1 Taurox gatling cannon",
-          "◦",
           "1 Taurox missile launcher",
-          "■",
-          "This model’s twin Taurox hot-shot volley gun can be replaced with 1 twin autocannon.",
-          "■",
+          "This model's twin Taurox hot-shot volley gun can be replaced with 1 twin autocannon.",
           "This model can be equipped with 1 storm bolter."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Taurox Prime",
           "This model is equipped with",
           "Taurox battle cannon; twin",

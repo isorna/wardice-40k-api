@@ -123,7 +123,7 @@
           "points": 15,
           "rules": [
             {
-              "text": "Aeldari model only. Each time the bearer’s unit destroys an enemy unit, roll one D6 and add it to your Fate dice pool displaying the result you just rolled."
+              "text": "Aeldari model only. Each time the bearer's unit destroys an enemy unit, roll one D6 and add it to your Fate dice pool displaying the result you just rolled."
             }
           ]
         },
@@ -137,11 +137,11 @@
           ]
         },
         {
-          "title": "FATE’S MESSENGER",
+          "title": "FATE'S MESSENGER",
           "points": 15,
           "rules": [
             {
-              "text": "Aeldari model only. Once per turn, just after making a Hit roll, a Wound roll or a saving throw for a model in the bearer’s unit, you can treat the result as an unmodified roll of 6 instead."
+              "text": "Aeldari model only. Once per turn, just after making a Hit roll, a Wound roll or a saving throw for a model in the bearer's unit, you can treat the result as an unmodified roll of 6 instead."
             }
           ]
         }
@@ -190,16 +190,30 @@
     "factionKeywords": [
       "Aeldari"
     ],
-    "abilities": {
-      "core": "Leader",
-      "faction": "Strands of Fate",
-      "special": [
-        "FACTION: Strands of Fate Hand of Asuryan: While this model is leading a unit, each time a model in that unit makes an attack, add 1 to the Hit roll}.",
-        "Tactical Acumen: Once per turn, you can target this model’s unit with the Fire Overwatch Stratagem for 0CP, and can do so even if you have already used that Stratagem on a different unit this phase}."
-      ]
-    },
-    "invulnerable": "3+",
-    "damaged": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Leader"
+            },{
+              "title": "FACTION",
+              "text": "Strands of Fate"
+            },
+      "FACTION: Strands of Fate Hand of Asuryan: While this model is leading a unit, each time a model in that unit makes an attack, add 1 to the Hit roll}.",
+        "Tactical Acumen: Once per turn, you can target this model's unit with the Fire Overwatch Stratagem for 0CP, and can do so even if you have already used that Stratagem on a different unit this phase}."
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "3+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "7\"",
       "t": "3",
@@ -212,14 +226,21 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Asurmen -",
           "Epic Hero",
           "This model is equipped with",
@@ -227,18 +248,25 @@
           "of Asur."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following unit",
-          "■",
           "Dire Avengers",
           "ASURMEN",
-          "Asurmen’s skill at war is breathtaking, the magnitude of his heroic",
+          "Asurmen's skill at war is breathtaking, the magnitude of his heroic",
           "presence so great that nearby Aspect Warriors are infused with his",
           "peerless tactical acumen. In addition to the wrist-mounted shuriken",
           "catapults known as the Bloody Twins, he carries the Sword of Asur,",
-          "whose hilt bears the spirit stone of Asurmen’s brother, Tethesis."
+          "whose hilt bears the spirit stone of Asurmen's brother, Tethesis."
         ]
       }
     ]
@@ -346,18 +374,34 @@
     "factionKeywords": [
       "Aeldari"
     ],
-    "abilities": {
-      "core": "Leader",
-      "faction": "Strands of Fate",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Leader"
+            },{
+              "title": "FACTION",
+              "text": "Strands of Fate"
+            },
       "special": [
-        "FACTION: Strands of Fate Superlative Strategist: Once per turn, you can target this model’s unit with a Stratagem even if you have already used that Stratagem on a different unit this phase}.",
+        "FACTION: Strands of Fate Superlative Strategist: Once per turn, you can target this model's unit with a Stratagem even if you have already used that Stratagem on a different unit this phase}.",
         "Path of Command: At the start of your Command phase, if this model is your Warlord and is on the battlefield, you gain 1CP}.",
-        "WARGEAR ABILITIES Howling Banshee Mask: The bearer’s unit has the Fights First ability}.",
+        "WARGEAR ABILITIES Howling Banshee Mask: The bearer's unit has the Fights First ability}.",
         "Mandiblasters: Melee weapons equipped by the bearer have the [DEVASTATING WOUNDS] ability when targeting units without the Monster or Vehicle keywords}."
       ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "7\"",
       "t": "3",
@@ -373,45 +417,49 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s shuriken pistol can be replaced with one of the following",
-          "◦",
+          "This model's shuriken pistol can be replaced with one of the following",
           "1 death spinner",
-          "◦",
           "1 Dragon fusion gun",
-          "◦",
           "1 Reaper launcher",
-          "■",
-          "This model’s star glaive can be replaced with 1 Scorpion chainsword.",
-          "■",
+          "This model's star glaive can be replaced with 1 Scorpion chainsword.",
           "This model can be equipped with 1 Howling Banshee mask.",
-          "■",
-          "If this model is not equipped with 1 Howling Banshee mask, this model’s shuriken pistol and star",
+          "If this model is not equipped with 1 Howling Banshee mask, this model's shuriken pistol and star",
           "glaive can be replaced with all of the following",
-          "◦",
           "1 fusion pistol",
-          "◦",
           "1 Banshee blade",
-          "◦",
           "1 mandiblasters"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Autarch",
           "This model is equipped with",
           "shuriken pistol; star glaive."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following units",
-          "■",
           "Guardian Defenders",
-          "■",
           "Storm Guardians",
           "AUTARCH",
           "Autarchs are legendary for their strategic brilliance, sublime martial",
@@ -527,18 +575,34 @@
     "factionKeywords": [
       "Aeldari"
     ],
-    "abilities": {
-      "core": "Deep Strike, Lone Operative",
-      "faction": "Strands of Fate",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deep Strike, Lone Operative"
+            },{
+              "title": "FACTION",
+              "text": "Strands of Fate"
+            },
       "special": [
         "FACTION: Strands of Fate Indomitable Strength of Will (Aura): While a friendly Aeldari unit is within 6\" of this model, each time that unit takes a Battle-shock or Leadership test, add 1 to that test}.",
         "Path of Command: At the start of your Command phase, if this model is your Warlord and is on the battlefield, you gain 1CP}.",
         "WARGEAR ABILITIES Howling Banshee Mask: The bearer has the Fights First ability}.",
         "Mandiblasters: Melee weapons equipped by the bearer have the [DEVASTATING WOUNDS] ability when targeting units without the Monster or Vehicle keywords}."
       ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "14\"",
       "t": "3",
@@ -554,33 +618,31 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s shuriken pistol can be replaced with one of the following",
-          "◦",
+          "This model's shuriken pistol can be replaced with one of the following",
           "1 death spinner",
-          "◦",
           "1 Dragon fusion gun",
-          "◦",
           "1 Reaper launcher",
-          "■",
-          "This model’s star glaive can be replaced with 1 Scorpion chainsword.",
-          "■",
+          "This model's star glaive can be replaced with 1 Scorpion chainsword.",
           "This model can be equipped with 1 Howling Banshee mask.",
-          "■",
-          "If this model is not equipped with 1 Howling Banshee mask, this model’s shuriken pistol and star",
+          "If this model is not equipped with 1 Howling Banshee mask, this model's shuriken pistol and star",
           "glaive can be replaced with all of the following",
-          "◦",
           "1 fusion pistol",
-          "◦",
           "1 Banshee blade",
-          "◦",
           "1 mandiblasters"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Autarch Wayleaper",
           "This model is equipped with",
           "shuriken pistol; star glaive.",
@@ -590,7 +652,7 @@
           "Autarch becomes an incredibly manoeuvrable war leader. So equipped,",
           "they can appear wherever their war host needs them in the blink of an",
           "eye, bringing graceful weaponry and consummate strategy to bear",
-          "before vanishing out of the foe’s reach."
+          "before vanishing out of the foe's reach."
         ]
       }
     ]
@@ -663,17 +725,31 @@
     "factionKeywords": [
       "Aeldari"
     ],
-    "abilities": {
-      "core": "Leader",
-      "faction": "Strands of Fate",
-      "special": [
-        "FACTION: Strands of Fate Path of Command: At the start of your Command phase, if this model is your Warlord , you gain 1CP}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Leader"
+            },{
+              "title": "FACTION",
+              "text": "Strands of Fate"
+            },
+      "FACTION: Strands of Fate Path of Command: At the start of your Command phase, if this model is your Warlord , you gain 1CP}.",
         "Ride the Wind: While this model is leading a unit, each time that unit Advances, do not make an Advance roll for it}.",
         "Instead, until the end of the phase, add 6\" to the Move characteristic of models in that unit}."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "14\"",
       "t": "4",
@@ -686,29 +762,41 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s laser lance can be replaced with one of the following",
-          "◦",
+          "This model's laser lance can be replaced with one of the following",
           "1 Dragon fusion gun",
-          "◦",
           "1 Banshee blade"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Autarch Skyrunner",
           "This model is equipped with",
           "laser lance;",
           "twin shuriken catapult."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following unit",
-          "■",
           "Windriders",
           "AUTARCH SKYRUNNER",
           "Autarchs are more than capable of leading their warhosts from the",
@@ -770,17 +858,31 @@
     "factionKeywords": [
       "Aeldari"
     ],
-    "abilities": {
-      "core": "Deadly Demise D3",
-      "faction": "Strands of Fate",
-      "special": [
-        "FACTION: Strands of Fate Molten Form: Each time an attack is allocated to this model, halve the Damage characteristic of that attack}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D3"
+            },{
+              "title": "FACTION",
+              "text": "Strands of Fate"
+            },
+      "FACTION: Strands of Fate Molten Form: Each time an attack is allocated to this model, halve the Damage characteristic of that attack}.",
         "The Bloody-Handed (Aura): While a friendly Aeldari unit is within 6\" of this model, add 1 to Advance and Charge rolls made for that unit}.",
         "DAMAGED: 1-5 WOUNDS REMAINING While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll}."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "10\"",
       "t": "12",
@@ -796,14 +898,21 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Avatar of Khaine -",
           "Epic Hero",
           "This model is equipped with",
@@ -860,17 +969,31 @@
     "factionKeywords": [
       "Aeldari"
     ],
-    "abilities": {
-      "core": "Deep Strike, Leader",
-      "faction": "Strands of Fate",
-      "special": [
-        "FACTION: Strands of Fate Cry of the Wind: While this model is leading a unit, each time a model in that unit makes an attack, add 1 to the Hit roll}.",
-        "Cloudstrider: In your Shooting phase, after this model’s unit has shot, if it is not within Engagement Range of any enemy units, that unit can make a Normal move of up to 6\" as if it were your Movement phase}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deep Strike, Leader"
+            },{
+              "title": "FACTION",
+              "text": "Strands of Fate"
+            },
+      "FACTION: Strands of Fate Cry of the Wind: While this model is leading a unit, each time a model in that unit makes an attack, add 1 to the Hit roll}.",
+        "Cloudstrider: In your Shooting phase, after this model's unit has shot, if it is not within Engagement Range of any enemy units, that unit can make a Normal move of up to 6\" as if it were your Movement phase}.",
         "If it does, until the end of the turn, that unit is not eligible to declare a charge}."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "14\"",
       "t": "3",
@@ -883,14 +1006,21 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Baharroth -",
           "Epic Hero",
           "This model is equipped with",
@@ -898,11 +1028,18 @@
           "the Shining Blade."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following unit",
-          "■",
           "Swooping Hawks",
           "BAHARROTH",
           "Baharroth moves with the grace of a zephyr and attacks with the",
@@ -1010,17 +1147,18 @@
     "factionKeywords": [
       "Aeldari"
     ],
-    "abilities": {
-      "core": "Scouts 7\"",
-      "faction": null,
-      "special": [
-        "Reavers of the Void: Each time a model in this unit makes an attack, re-roll a Hit roll of 1}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Scouts 7\""
+            },"faction": null,
+      "Reavers of the Void: Each time a model in this unit makes an attack, re-roll a Hit roll of 1}.",
         "If the target of that attack is an enemy unit within range of an objective marker, you can re-roll the Hit roll instead}.",
         "WARGEAR ABILITIES Mistshield: The bearer has a 4+ invulnerable save}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "7\"",
       "t": "3",
@@ -1033,41 +1171,36 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "The Voidreaver Felarch’s shuriken pistol can be replaced with one of the following",
-          "◦",
+          "The Voidreaver Felarch's shuriken pistol can be replaced with one of the following",
           "1 neuro disruptor",
-          "◦",
           "1 shuriken rifle",
-          "■",
           "The Voidreaver Felarch can be equipped with",
-          "◦",
           "1 mistshield",
-          "■",
           "All of the Corsair Voidreavers in this unit can each have their shuriken pistol and Aeldari power sword",
           "replaced with 1 shuriken rifle.",
-          "■",
-          "For every 5 models in this unit, 1 Corsair Voidreaver’s Aeldari power sword or shuriken rifle can be",
+          "For every 5 models in this unit, 1 Corsair Voidreaver's Aeldari power sword or shuriken rifle can be",
           "replaced with one of the following",
-          "◦",
           "1 Corsair blaster",
-          "◦",
           "1 Corsair shredder",
-          "■",
-          "If this unit contains 10 models, 1 Corsair Voidreaver’s shuriken rifle can be replaced with one of",
+          "If this unit contains 10 models, 1 Corsair Voidreaver's shuriken rifle can be replaced with one of",
           "the following",
-          "◦",
           "1 shuriken cannon",
-          "◦",
           "1 wraithcannon"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Voidreaver Felarch",
-          "■",
           "4-9 Corsair Voidreavers",
           "Every model is equipped with",
           "shuriken pistol; Aeldari power",
@@ -1221,19 +1354,22 @@
     "factionKeywords": [
       "Aeldari"
     ],
-    "abilities": {
-      "core": "Scouts 7\"",
-      "faction": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Scouts 7\""
+            },"faction": null,
       "special": [
-        "Piratical Raiders: At the start of the battle, select one unit from your opponent’s army}.",
+        "Piratical Raiders: At the start of the battle, select one unit from your opponent's army}.",
         "Each time a model in this unit makes an attack that targets that unit, that attack has the [LETHAL HITS] and [PRECISION] abilities}.",
-        "WARGEAR ABILITIES Channeller Stones: Once per turn, the first time a saving throw is failed for the bearer’s unit, change the Damage characteristic of that attack to 0}.",
-        "Faolchú: Ranged weapons equipped by models in the bearer’s unit have the [IGNORES COVER] ability}.",
+        "WARGEAR ABILITIES Channeller Stones: Once per turn, the first time a saving throw is failed for the bearer's unit, change the Damage characteristic of that attack to 0}.",
+        "Faolchú: Ranged weapons equipped by models in the bearer's unit have the [IGNORES COVER] ability}.",
         "Mistshield: The bearer has a 4+ invulnerable save}."
       ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "7\"",
       "t": "3",
@@ -1246,63 +1382,53 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "Any number of Corsair Voidscarred can each",
           "have their shuriken pistol and Aeldari power",
           "sword replaced with 1 shuriken rifle.",
-          "■",
-          "The Voidscarred Felarch’s shuriken pistol can be",
+          "The Voidscarred Felarch's shuriken pistol can be",
           "replaced with one of the following",
-          "◦",
           "1 neuro disruptor",
-          "◦",
           "1 shuriken rifle",
-          "■",
           "The Voidscarred Felarch can be equipped with",
           "1 mistshield.",
-          "■",
           "For every 5 models in this unit, 1 Corsair",
-          "Voidscarred’s shuriken rifle can be replaced with",
+          "Voidscarred's shuriken rifle can be replaced with",
           "one of the following",
-          "◦",
           "1 Corsair blaster",
-          "◦",
           "1 Corsair shredder",
-          "■",
           "If this unit contains 10 models, 1 Corsair",
-          "Voidscarred’s shuriken rifle can be replaced with",
+          "Voidscarred's shuriken rifle can be replaced with",
           "one of the following",
-          "◦",
           "1 shuriken cannon",
-          "◦",
           "1 wraithcannon",
-          "■",
           "If this unit contains 10 models, 1 Corsair",
-          "Voidscarred’s shuriken rifle can be replaced with",
+          "Voidscarred's shuriken rifle can be replaced with",
           "1 Ranger long rifle.",
-          "■",
           "If this unit contains 10 models, 1 Corsair",
-          "Voidscarred’s Aeldari power sword can be",
+          "Voidscarred's Aeldari power sword can be",
           "replaced with 1 fusion pistol.",
-          "■",
           "1 Corsair Voidscarred model equipped with a",
           "shuriken pistol and Aeldari power sword can be",
           "equipped with 1 Faolchú."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "This unit can contain a maximum of 10 models.",
-          "■",
           "1 Voidscarred Felarch",
-          "■",
           "4-9 Corsair Voidscarred",
-          "■",
           "0-1 Shade Runner",
-          "■",
           "0-1 Soul Weaver",
-          "■",
           "0-1 Way Seeker",
           "Every Corsair Voidscarred and Voidscarred Felarch is",
           "equipped with",
@@ -1389,16 +1515,28 @@
     "factionKeywords": [
       "Aeldari"
     ],
-    "abilities": {
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
       "core": null,
-      "faction": "Strands of Fate",
-      "special": [
-        "Skyhunter: Each time this model makes a ranged attack that targets a unit that can Fly , add 1 to the Hit roll and add 1 to the Wound roll}.",
+      {
+              "title": "FACTION",
+              "text": "Strands of Fate"
+            },
+      "Skyhunter: Each time this model makes a ranged attack that targets a unit that can Fly , add 1 to the Hit roll and add 1 to the Wound roll}.",
         "DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll}."
-      ]
-    },
-    "invulnerable": "5+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "5+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "20+\"",
       "t": "8",
@@ -1411,14 +1549,21 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s 2 starcannons can be replaced with 2 bright lances."
+          "This model's 2 starcannons can be replaced with 2 bright lances."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Crimson Hunter",
           "This model is equipped with",
           "2 starcannons; pulse laser;",
@@ -1517,15 +1662,27 @@
     "factionKeywords": [
       "Aeldari"
     ],
-    "abilities": {
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
       "core": null,
-      "faction": "Strands of Fate",
-      "special": [
-        "Inescapable Accuracy: Each time a model in this unit makes a ranged attack, you can ignore any or all modifiers to that attack’s Ballistic Skill characteristic and to the Hit roll}."
-      ]
-    },
-    "invulnerable": "5+",
-    "damaged": null,
+      {
+              "title": "FACTION",
+              "text": "Strands of Fate"
+            },
+      "Inescapable Accuracy: Each time a model in this unit makes a ranged attack, you can ignore any or all modifiers to that attack's Ballistic Skill characteristic and to the Hit roll}."
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "5+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "6\"",
       "t": "3",
@@ -1541,22 +1698,25 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "The Dark Reaper Exarch’s Reaper launcher can be replaced with 1 of the following",
-          "◦",
+          "The Dark Reaper Exarch's Reaper launcher can be replaced with 1 of the following",
           "1 Aeldari missile launcher",
-          "◦",
           "1 shuriken cannon",
-          "◦",
           "1 tempest launcher"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Dark Reaper Exarch",
-          "■",
           "4-9 Dark Reapers",
           "Every model is equipped with",
           "Reaper launcher.",
@@ -1564,7 +1724,7 @@
           "Dark Reapers unleash firestorms with their long-ranged Reaper",
           "launchers, whether using infantry-shredding starswarm missiles",
           "or armour-piercing starshot variants. These salvoes are chillingly",
-          "accurate, thanks to advanced targeting systems but also the Reapers’",
+          "accurate, thanks to advanced targeting systems but also the Reapers'",
           "armour, which anchors them firmly to the ground while they fire."
         ]
       }
@@ -1597,7 +1757,7 @@
       ],
       "melee": [
         {
-          "name": "Jester’s blade",
+          "name": "Jester's blade",
           "range": "Melee",
           "a": "4",
           "bws": "2+",
@@ -1610,17 +1770,33 @@
     "factionKeywords": [
       "Aeldari"
     ],
-    "abilities": {
-      "core": "Lone Operative",
-      "faction": "Strands of Fate",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Lone Operative"
+            },{
+              "title": "FACTION",
+              "text": "Strands of Fate"
+            },
       "special": [
-        "FACTION: Strands of Fate Death is Not Enough: In your Shooting phase, after this model has shot, if one or more of those attacks destroyed an enemy model, that enemy model’s unit must take a Battle-shock test}.",
+        "FACTION: Strands of Fate Death is Not Enough: In your Shooting phase, after this model has shot, if one or more of those attacks destroyed an enemy model, that enemy model's unit must take a Battle-shock test}.",
         "Cruel Amusement: In your Shooting phase, one model from your army with this ability can use it}.",
-        "If they do, until the end of the phase, select one of the following abilities to apply to that model’s shrieker cannon: ■ [IGNORES COVER] ■ [PRECISION] ■ [SUSTAINED HITS 3]}."
+        "If they do, until the end of the phase, select one of the following abilities to apply to that model's shrieker cannon: ■ [IGNORES COVER] ■ [PRECISION] ■ [SUSTAINED HITS 3]}."
       ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "8\"",
       "t": "3",
@@ -1633,21 +1809,28 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Death Jester",
           "This model is equipped with",
-          "shrieker cannon; Jester’s blade.",
+          "shrieker cannon; Jester's blade.",
           "DEATH JESTER",
           "The arrival of a Death Jester upon the battlefield is announced by a",
           "hissing storm of shrieker cannon fire. Enemy infantry are torn apart in",
-          "sprays of blood and scalded flesh as the weapon’s gene-toxins cause",
+          "sprays of blood and scalded flesh as the weapon's gene-toxins cause",
           "them to combust horrifically from within. Adding insult to injury, the",
           "Death Jester ensures every demise is as cruelly ironic as possible."
         ]
@@ -1721,16 +1904,28 @@
     "factionKeywords": [
       "Aeldari"
     ],
-    "abilities": {
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
       "core": null,
-      "faction": "Strands of Fate",
-      "special": [
-        "Defence Tactics: Each time you target this unit with the Fire Overwatch Stratagem, while resolving that Stratagem, hits are scored on unmodified Hit rolls of 5+, or unmodified Hit rolls of 4+ instead if this unit is within range of an objective marker you control}.",
+      {
+              "title": "FACTION",
+              "text": "Strands of Fate"
+            },
+      "Defence Tactics: Each time you target this unit with the Fire Overwatch Stratagem, while resolving that Stratagem, hits are scored on unmodified Hit rolls of 5+, or unmodified Hit rolls of 4+ instead if this unit is within range of an objective marker you control}.",
         "WARGEAR ABILITIES Shimmershield: The bearer has a 4+ invulnerable save}."
-      ]
-    },
-    "invulnerable": "5+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "5+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "7\"",
       "t": "3",
@@ -1743,28 +1938,29 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "The Dire Avenger Exarch’s Avenger shuriken catapult can be replaced with 1 shuriken pistol and one",
+          "The Dire Avenger Exarch's Avenger shuriken catapult can be replaced with 1 shuriken pistol and one",
           "of the following",
-          "◦",
           "1 diresword",
-          "◦",
           "1 power glaive",
-          "■",
-          "If this unit’s Dire Avenger Exarch is equipped with 1 Avenger shuriken catapult, it can be equipped",
+          "If this unit's Dire Avenger Exarch is equipped with 1 Avenger shuriken catapult, it can be equipped",
           "with 1 additional Avenger shuriken catapult.",
-          "■",
-          "The Dire Avenger Exarch’s shuriken pistol can be replaced with",
-          "◦",
+          "The Dire Avenger Exarch's shuriken pistol can be replaced with",
           "1 shimmershield"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Dire Avenger Exarch",
-          "■",
           "4-9 Dire Avengers",
           "Every model is equipped with",
           "Avenger shuriken catapult.",
@@ -1829,16 +2025,30 @@
     "factionKeywords": [
       "Aeldari"
     ],
-    "abilities": {
-      "core": "Leader",
-      "faction": "Strands of Fate",
-      "special": [
-        "FACTION: Strands of Fate Diviner of Futures: At the start of the battle, when making your first Strands of Fate roll, roll an additional three D6 (this means that roll will consist of fifteen D6)}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Leader"
+            },{
+              "title": "FACTION",
+              "text": "Strands of Fate"
+            },
+      "FACTION: Strands of Fate Diviner of Futures: At the start of the battle, when making your first Strands of Fate roll, roll an additional three D6 (this means that roll will consist of fifteen D6)}.",
         "Doom (Psychic): At the start of your Shooting phase, you can select one enemy unit within 18\" of and visible to this Psyker and roll one D6: on a 2+, until the end of the turn, each time a friendly Aeldari model makes an attack that targets that enemy unit, add 1 to the Wound roll}."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "7\"",
       "t": "4",
@@ -1851,14 +2061,21 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Eldrad Ulthran -",
           "Epic Hero",
           "This model is equipped with",
@@ -1866,20 +2083,25 @@
           "Staff of Ulthamar and witchblade."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following units",
-          "■",
           "Guardian Defenders",
-          "■",
           "Storm Guardians",
-          "■",
           "Warlock Conclave",
           "ELDRAD ULTHRAN",
           "One of the most powerful Aeldari psykers ever to have lived, when",
-          "Eldrad Ulthran takes to the field his enemies’ plans are already known",
-          "to him. Such is Eldrad’s psychic might that he can break Titans and",
+          "Eldrad Ulthran takes to the field his enemies' plans are already known",
+          "to him. Such is Eldrad's psychic might that he can break Titans and",
           "banish the mightiest of daemons, and over the millennia he has slain",
           "kings and champions beyond number."
         ]
@@ -1989,16 +2211,20 @@
     "factionKeywords": [
       "Aeldari"
     ],
-    "abilities": {
-      "core": "Deadly Demise D3, Deep Strike",
-      "faction": "Strands of Fate",
-      "special": [
-        "FACTION: Strands of Fate Fire Support: In your Shooting phase, after this model has shot, select one enemy unit hit by one or more of those attacks. Until the end of the turn, each time a friendly model that disembarked from this Transport this turn makes an attack that targets that enemy unit, you can re-roll the Wound roll}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D3, Deep Strike"
+            },{
+              "title": "FACTION",
+              "text": "Strands of Fate"
+            },
+      "FACTION: Strands of Fate Fire Support: In your Shooting phase, after this model has shot, select one enemy unit hit by one or more of those attacks. Until the end of the turn, each time a friendly model that disembarked from this Transport this turn makes an attack that targets that enemy unit, you can re-roll the Wound roll}.",
         "DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "14\"",
       "t": "9",
@@ -2014,24 +2240,26 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s scatter laser can be replaced with one of the following",
-          "◦",
+          "This model's scatter laser can be replaced with one of the following",
           "1 Aeldari missile launcher",
-          "◦",
           "1 bright lance",
-          "◦",
           "1 shuriken cannon",
-          "◦",
           "1 starcannon",
-          "■",
-          "This model’s twin shuriken catapult can be replaced with 1 shuriken cannon."
+          "This model's twin shuriken catapult can be replaced with 1 shuriken cannon."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Falcon",
           "This model is equipped with",
           "pulse laser; scatter laser; twin",
@@ -2126,17 +2354,31 @@
     "factionKeywords": [
       "Aeldari"
     ],
-    "abilities": {
-      "core": "Leader",
-      "faction": "Strands of Fate",
-      "special": [
-        "FACTION: Strands of Fate Branching Fates (Psychic): Once per turn, when you use a Fate dice to substitute a roll made for a model or unit within 12\" of a Farseer model from your army, one model from your army with this ability can use it}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Leader"
+            },{
+              "title": "FACTION",
+              "text": "Strands of Fate"
+            },
+      "FACTION: Strands of Fate Branching Fates (Psychic): Once per turn, when you use a Fate dice to substitute a roll made for a model or unit within 12\" of a Farseer model from your army, one model from your army with this ability can use it}.",
         "If it does, the result of that Fate dice is first changed to a 6}.",
         "Fortune (Psychic): In your Command phase, you can roll one D6: on a 2+, select one friendly Aeldari unit within 12\" of this Psyker . Until the start of your next Command phase, each time an attack targets that unit, subtract 1 from the Wound roll}."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "7\"",
       "t": "3",
@@ -2149,33 +2391,45 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s witchblade can be replaced with 1 singing spear."
+          "This model's witchblade can be replaced with 1 singing spear."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Farseer",
           "This model is equipped with",
           "shuriken pistol; Eldritch",
           "Storm; witchblade."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following units",
-          "■",
           "Guardian Defenders",
-          "■",
           "Storm Guardians",
-          "■",
           "Warlock Conclave",
           "FARSEER",
           "The Asuryani look to their Farseers for leadership in battle. These",
-          "psykers can uncover the foe’s intentions and calculate the effects of",
+          "psykers can uncover the foe's intentions and calculate the effects of",
           "attacks. Their minds are their true weapons; with a thought, they can",
           "obliterate the memories of enemy commanders, hurl battle tanks into",
           "the air or summon terrifying storms of coruscating eldritch energy."
@@ -2261,17 +2515,31 @@
     "factionKeywords": [
       "Aeldari"
     ],
-    "abilities": {
-      "core": "Leader",
-      "faction": "Strands of Fate",
-      "special": [
-        "FACTION: Strands of Fate Branching Fates (Psychic): Once per turn, when you use a Fate dice to substitute a roll made for a model or unit within 12” of a Farseer model from your army, one model from your army with this ability can use it}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Leader"
+            },{
+              "title": "FACTION",
+              "text": "Strands of Fate"
+            },
+      "FACTION: Strands of Fate Branching Fates (Psychic): Once per turn, when you use a Fate dice to substitute a roll made for a model or unit within 12” of a Farseer model from your army, one model from your army with this ability can use it}.",
         "If it does, the result of that Fate dice is first changed to a 6}.",
         "Guide (Psychic): In your Command phase, you can roll one D6: on a 2+, select one friendly Aeldari unit within 12\" of this Psyker . Until the start of your next Command phase, each time a model in that unit makes an attack, you can re-roll the Hit roll}."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "14\"",
       "t": "4",
@@ -2284,32 +2552,45 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s witchblade can be replaced with 1 singing spear."
+          "This model's witchblade can be replaced with 1 singing spear."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Farseer Skyrunner",
           "This model is equipped with",
           "shuriken pistol; twin shuriken",
           "catapult; Eldritch Storm; witchblade."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following units",
-          "■",
           "Warlock Skyrunner Conclave",
-          "■",
           "Windriders",
           "FARSEER SKYRUNNER",
           "Farseers are expert combatants as well as battle seers. Their",
           "semi-sentient witchblades and singing spears are embedded with",
-          "crystals that transmit the destructive potential of their bearer’s",
+          "crystals that transmit the destructive potential of their bearer's",
           "psyche. In battle, they flow around weapon blasts and blade thrusts",
           "with a natural grace that makes their foes seem predictable and slow."
         ]
@@ -2341,7 +2622,7 @@
           "d": "D6"
         },
         {
-          "name": "Dragon’s breath flamer [IGNORES COVER, TORRENT]",
+          "name": "Dragon's breath flamer [IGNORES COVER, TORRENT]",
           "range": "12\"",
           "a": "D6",
           "bws": "N/A",
@@ -2374,15 +2655,27 @@
     "factionKeywords": [
       "Aeldari"
     ],
-    "abilities": {
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
       "core": null,
-      "faction": "Strands of Fate",
-      "special": [
-        "Assured Destruction: Each time a model in this unit makes a ranged attack that targets a Monster or Vehicle unit, re-roll a Wound roll of 1 and re-roll a Damage roll of 1}."
-      ]
-    },
-    "invulnerable": "5+",
-    "damaged": null,
+      {
+              "title": "FACTION",
+              "text": "Strands of Fate"
+            },
+      "Assured Destruction: Each time a model in this unit makes a ranged attack that targets a Monster or Vehicle unit, re-roll a Wound roll of 1 and re-roll a Damage roll of 1}."
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "5+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "7\"",
       "t": "3",
@@ -2395,27 +2688,31 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "The Fire Dragon Exarch’s Dragon fusion gun can be replaced with 1 of the following",
-          "◦",
-          "1 Dragon’s breath flamer",
-          "◦",
+          "The Fire Dragon Exarch's Dragon fusion gun can be replaced with 1 of the following",
+          "1 Dragon's breath flamer",
           "1 firepike"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Fire Dragon Exarch",
-          "■",
           "4-9 Fire Dragons",
           "Every model is equipped with",
           "Dragon fusion gun; close",
           "combat weapon.",
           "FIRE DRAGONS",
           "Fire Dragons are aggressive and warlike, seeking nothing less than",
-          "the total annihilation of the enemy’s redoubts and war machines.",
+          "the total annihilation of the enemy's redoubts and war machines.",
           "They can identify the weak points of a target with a mere glance, then",
           "swiftly reduce them to molten liquid with their fusion guns."
         ]
@@ -2495,16 +2792,20 @@
     "factionKeywords": [
       "Aeldari"
     ],
-    "abilities": {
-      "core": "Deadly Demise D3",
-      "faction": "Strands of Fate",
-      "special": [
-        "FACTION: Strands of Fate Crystal Matrix: Each time this model is selected to shoot, you can re-roll one Hit roll and you can re-roll one Wound roll when resolving those attacks}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D3"
+            },{
+              "title": "FACTION",
+              "text": "Strands of Fate"
+            },
+      "FACTION: Strands of Fate Crystal Matrix: Each time this model is selected to shoot, you can re-roll one Hit roll and you can re-roll one Wound roll when resolving those attacks}.",
         "DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "14\"",
       "t": "9",
@@ -2520,14 +2821,21 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s twin shuriken catapult can be replaced with 1 shuriken cannon."
+          "This model's twin shuriken catapult can be replaced with 1 shuriken cannon."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Fire Prism",
           "This model is equipped with",
           "prism cannon; twin shuriken",
@@ -2535,7 +2843,7 @@
           "FIRE PRISM",
           "The prism cannon of this vehicle is the bane of heavy battle tanks. In",
           "its firing process, a laser is discharged into a massive crystal prism",
-          "that amplifies the shot’s potency. The energy is released in one of two",
+          "that amplifies the shot's potency. The energy is released in one of two",
           "ways - either as thin lances of light to destroy the toughest vehicles,",
           "or as a dispersed pulse to slaughter swathes of infantry."
         ]
@@ -2592,17 +2900,31 @@
     "factionKeywords": [
       "Aeldari"
     ],
-    "abilities": {
-      "core": "Feel No Pain 5+, Leader",
-      "faction": "Strands of Fate",
-      "special": [
-        "FACTION: Strands of Fate Burning Lance: While this model is leading a unit, each time a model in that unit makes an attack, add 1 to the Hit roll}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Feel No Pain 5+, Leader"
+            },{
+              "title": "FACTION",
+              "text": "Strands of Fate"
+            },
+      "FACTION: Strands of Fate Burning Lance: While this model is leading a unit, each time a model in that unit makes an attack, add 1 to the Hit roll}.",
         "Unquenchable Resolve: The first time this model is destroyed, roll one D6 at the end of the phase}.",
         "On a 2+, set this model back up on the battlefield, as close as possible to where it was destroyed and not within Engagement Range of any enemy units, with its full wounds remaining}."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "7\"",
       "t": "3",
@@ -2618,25 +2940,39 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Fuegan -",
           "Epic Hero",
           "This model is equipped with",
           "Searsong; the Fire Axe."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following unit",
-          "■",
           "Fire Dragons",
           "FUEGAN",
           "Fuegan has dedicated himself to the total destruction of the enemies",
@@ -2743,16 +3079,18 @@
     "factionKeywords": [
       "Aeldari"
     ],
-    "abilities": {
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
       "core": null,
-      "faction": "Strands of Fate",
-      "special": [
-        "Defenders of Fate: At the end of your Command phase, for each objective marker you control that has one or more units from your army with this ability within range of it, roll one D6 and add it to your Fate dice pool displaying the result you just rolled}.",
+      {
+              "title": "FACTION",
+              "text": "Strands of Fate"
+            },
+      "Defenders of Fate: At the end of your Command phase, for each objective marker you control that has one or more units from your army with this ability within range of it, roll one D6 and add it to your Fate dice pool displaying the result you just rolled}.",
         "Crewed Platform: When the last Guardian Defender model in this unit is destroyed, any remaining Heavy Weapon Platform models in this unit are also destroyed}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "7\"",
       "t": "3",
@@ -2768,24 +3106,26 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "The Heavy Weapon Platform can replace its shuriken cannon with one of the following",
-          "◦",
           "1 Aeldari missile launcher",
-          "◦",
           "1 bright lance",
-          "◦",
           "1 scatter laser",
-          "◦",
           "1 starcannon"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "10 Guardian Defenders",
-          "■",
           "1 Heavy Weapon Platform",
           "Every Guardian Defender is equipped with",
           "shuriken",
@@ -2844,16 +3184,18 @@
     "factionKeywords": [
       "Aeldari"
     ],
-    "abilities": {
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
       "core": null,
-      "faction": "Strands of Fate",
-      "special": [
-        "Mindshock Pod (Aura, Psychic): While an enemy unit is within 9\" of this model, subtract 1 from Battle-shock and Leadership tests taken for that unit}.",
+      {
+              "title": "FACTION",
+              "text": "Strands of Fate"
+            },
+      "Mindshock Pod (Aura, Psychic): While an enemy unit is within 9\" of this model, subtract 1 from Battle-shock and Leadership tests taken for that unit}.",
         "T SV W LD OC 8 3+ 12 6+ 0 20+\"}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "20+\"",
       "t": "8",
@@ -2866,14 +3208,21 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Hemlock Wraithfighter",
           "This model is equipped with",
           "2 heavy D-scythes;",
@@ -2881,9 +3230,9 @@
           "HEMLOCK WRAITHFIGHTER",
           "Hemlocks blend the psychic abilities of their Spiritseer pilots with the",
           "gestalt energies of the Aeldari dead, who can pilot the craft should the",
-          "seer be incapacitated. The aircraft’s mindshock pod unleashes waves",
+          "seer be incapacitated. The aircraft's mindshock pod unleashes waves",
           "of negative emotion to cause terror in the enemy, while its heavy",
-          "D-scythes hurl the Hemlock’s victims into the warp."
+          "D-scythes hurl the Hemlock's victims into the warp."
         ]
       }
     ]
@@ -2963,15 +3312,20 @@
     "factionKeywords": [
       "Aeldari"
     ],
-    "abilities": {
-      "core": "Fights First",
-      "faction": "Strands of Fate",
-      "special": [
-        "FACTION: Strands of Fate Acrobatic: This unit is eligible to declare a charge in a turn in which it Advanced or Fell Back}."
-      ]
-    },
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Fights First"
+            },{
+              "title": "FACTION",
+              "text": "Strands of Fate"
+            },
+      "FACTION: Strands of Fate Acrobatic: This unit is eligible to declare a charge in a turn in which it Advanced or Fell Back}."
+    }],
     "invulnerable": "This invulnerable save is improved to 4+ against",
-    "damaged": null,
     "stats": {
       "m": "8\"",
       "t": "3",
@@ -2984,23 +3338,26 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "The Howling Banshee Exarch’s Banshee blade can be replaced with 1 of the following",
-          "◦",
+          "The Howling Banshee Exarch's Banshee blade can be replaced with 1 of the following",
           "1 executioner",
-          "◦",
           "1 triskele",
-          "■",
-          "The Howling Banshee Exarch’s shuriken pistol and Banshee blade can be replaced with",
+          "The Howling Banshee Exarch's shuriken pistol and Banshee blade can be replaced with",
           "1 mirrorswords."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Howling Banshee Exarch",
-          "■",
           "4-9 Howling Banshees",
           "Every model is equipped with",
           "shuriken pistol;",
@@ -3008,7 +3365,7 @@
           "HOWLING BANSHEES",
           "Howling Banshees are deadly in hand-to-hand fighting and renowned",
           "for their rapid strikes. Their Banshee masks contain psychosonic",
-          "amplifiers that magnify the wearer’s keening battle screams into a",
+          "amplifiers that magnify the wearer's keening battle screams into a",
           "mind-destroying shock wave. This aural assault inspires terror and",
           "paralysis in the foe as the Aspect Warriors move in for the kill."
         ]
@@ -3072,16 +3429,21 @@
     "factionKeywords": [
       "Aeldari"
     ],
-    "abilities": {
-      "core": "Infiltrators, Leader, Stealth",
-      "faction": "Strands of Fate",
-      "special": [
-        "FACTION: Strands of Fate Bringer of the True Death: While this model is leading a unit, each time a model in that unit makes an attack, you can re-roll the Wound roll}.",
-        "Hunter Unseen: This model’s unit can only be selected as the target of a ranged attack if the attacking model is within 12\"}."
-      ]
-    },
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Infiltrators, Leader, Stealth"
+            },{
+              "title": "FACTION",
+              "text": "Strands of Fate"
+            },
+      "FACTION: Strands of Fate Bringer of the True Death: While this model is leading a unit, each time a model in that unit makes an attack, you can re-roll the Wound roll}.",
+        "Hunter Unseen: This model's unit can only be selected as the target of a ranged attack if the attacking model is within 12\"}."
+    }],
     "invulnerable": "*",
-    "damaged": null,
     "stats": {
       "m": "7\"",
       "t": "3",
@@ -3094,14 +3456,21 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Illic Nightspear -",
           "Epic Hero",
           "This model is equipped with",
@@ -3109,16 +3478,23 @@
           "Aeldari power sword."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following unit",
-          "■",
           "Rangers",
           "ILLIC NIGHTSPEAR",
           "There are few Aeldari more skilled in the arts of stealth and",
           "marksmanship than Illic Nightspear, whose kill-tally numbers in the",
-          "hundreds of thousands. Illic’s weapon of choice is the long rifle Void",
+          "hundreds of thousands. Illic's weapon of choice is the long rifle Void",
           "Bringer; each shot from this weapon opens a tiny warp hole within the",
           "target, ripping their body apart or wrenching them into the void."
         ]
@@ -3175,16 +3551,30 @@
     "factionKeywords": [
       "Aeldari"
     ],
-    "abilities": {
-      "core": "Fights First, Leader",
-      "faction": "Strands of Fate",
-      "special": [
-        "FACTION: Strands of Fate Storm of Silence: While this model is leading a unit, each time a model in that unit makes an attack, add 1 to the Hit roll}.",
-        "Whirling Death: Once per turn, you can target this model’s unit with the Heroic Intervention Stratagem for 0CP, and can do so even if you have already used that Stratagem on a different unit this phase}."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Fights First, Leader"
+            },{
+              "title": "FACTION",
+              "text": "Strands of Fate"
+            },
+      "FACTION: Strands of Fate Storm of Silence: While this model is leading a unit, each time a model in that unit makes an attack, add 1 to the Hit roll}.",
+        "Whirling Death: Once per turn, you can target this model's unit with the Heroic Intervention Stratagem for 0CP, and can do so even if you have already used that Stratagem on a different unit this phase}."
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "8\"",
       "t": "3",
@@ -3200,14 +3590,21 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Jain Zar -",
           "Epic Hero",
           "This model is equipped with",
@@ -3215,18 +3612,25 @@
           "of Destruction."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following unit",
-          "■",
           "Howling Banshees",
           "JAIN ZAR",
           "Always at the front of a charge and famed for her speed and ferocity,",
           "Jain Zar carries the Blade of Destruction, an ancient executioner. This",
           "she whirls in bloody arcs to carve through foes, before vaulting into a",
           "new position. With a flick of her wrist she unleashes the Silent Death, a",
-          "triple-bladed throwing weapon that can easily sever a foe’s head."
+          "triple-bladed throwing weapon that can easily sever a foe's head."
         ]
       }
     ]
@@ -3248,7 +3652,7 @@
     "weapons": {
       "ranged": [
         {
-          "name": "Arhra’s Bane [ASSAULT, PISTOL]",
+          "name": "Arhra's Bane [ASSAULT, PISTOL]",
           "range": "12\"",
           "a": "2",
           "bws": "2+",
@@ -3259,7 +3663,7 @@
       ],
       "melee": [
         {
-          "name": "Arhra’s Bane [SUSTAINED HITS 1]",
+          "name": "Arhra's Bane [SUSTAINED HITS 1]",
           "range": "Melee",
           "a": "5",
           "bws": "2+",
@@ -3281,17 +3685,33 @@
     "factionKeywords": [
       "Aeldari"
     ],
-    "abilities": {
-      "core": "Infiltrators, Leader",
-      "faction": "Strands of Fate",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Infiltrators, Leader"
+            },{
+              "title": "FACTION",
+              "text": "Strands of Fate"
+            },
       "special": [
         "FACTION: Strands of Fate Shadow Hunter: While this model is leading a unit, each time a model in that unit makes an attack, add 1 to the Hit roll}.",
         "Sustained Assault: Each time this model makes a melee attack, if it made a Charge move this turn, a successful unmodified Hit roll of 4+ scores a Critical Hit}.",
-        "WARGEAR ABILITIES The Scorpion’s Bite: Melee weapons equipped by the bearer have the [DEVASTATING WOUNDS] ability when targeting units without the Titanic keyword}."
+        "WARGEAR ABILITIES The Scorpion's Bite: Melee weapons equipped by the bearer have the [DEVASTATING WOUNDS] ability when targeting units without the Titanic keyword}."
       ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "7\"",
       "t": "3",
@@ -3304,33 +3724,47 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Karandras -",
           "Epic Hero",
           "This model is equipped with",
-          "Arhra’s Bane; Isirmathil; the",
-          "Scorpion’s Bite."
+          "Arhra's Bane; Isirmathil; the",
+          "Scorpion's Bite."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following unit",
-          "■",
           "Striking Scorpions",
           "KARANDRAS",
           "Karandras is a master of stealth and patience, striking in a blur of",
           "emerald armour. He assails his enemies with a white-hot burst from",
-          "the mandiblaster Scorpion’s Bite before ripping them to shreds with his",
+          "the mandiblaster Scorpion's Bite before ripping them to shreds with his",
           "diamond-tipped chainblade Isirmathil, or crushing them in the grip of",
-          "Arhra’s Bane - his bespoke Scorpion’s claw."
+          "Arhra's Bane - his bespoke Scorpion's claw."
         ]
       }
     ]
@@ -3376,16 +3810,28 @@
     "factionKeywords": [
       "Aeldari"
     ],
-    "abilities": {
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
       "core": null,
-      "faction": "Leader, Strands of Fate",
-      "special": [
-        "Harvester of Souls: While this model is leading a unit, each time a model in that unit makes an attack, add 1 to the Hit roll}.",
+      {
+              "title": "FACTION",
+              "text": "Leader, Strands of Fate"
+            },
+      "Harvester of Souls: While this model is leading a unit, each time a model in that unit makes an attack, add 1 to the Hit roll}.",
         "Face of Death: Each time this model makes an attack that targets a unit that is Below Half-strength, you can re-roll the Hit roll and you can re-roll the Wound roll}."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "7\"",
       "t": "3",
@@ -3398,31 +3844,45 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Maugan Ra",
           "This model is equipped with",
           "the Maugetar."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following unit",
-          "■",
           "Dark Reapers",
           "MAUGAN RA",
           "A master at killing from a distance, Maugan Ra wields the Maugetar.",
           "This scythe-like weapon fires mind-linked shuriken discs large enough",
           "to decapitate a swathe of foes before vanishing into nothingness.",
           "Should the enemy survive this barrage, they will meet a swift end on",
-          "the curved edge of the Maugetar’s built-in reaping blade."
+          "the curved edge of the Maugetar's built-in reaping blade."
         ]
       }
     ]
@@ -3484,17 +3944,21 @@
     "factionKeywords": [
       "Aeldari"
     ],
-    "abilities": {
-      "core": "Deadly Demise D3",
-      "faction": "Strands of Fate",
-      "special": [
-        "FACTION: Strands of Fate Monofilament Web: In your Shooting phase, after this model has shot, if one or more of those attacks made with its doomweaver scored a hit against an enemy unit, that enemy unit is pinned until the end of your opponent’s next turn}.",
-        "While a unit is pinned, subtract 2 from that unit’s Move characteristic and that unit cannot Advance}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D3"
+            },{
+              "title": "FACTION",
+              "text": "Strands of Fate"
+            },
+      "FACTION: Strands of Fate Monofilament Web: In your Shooting phase, after this model has shot, if one or more of those attacks made with its doomweaver scored a hit against an enemy unit, that enemy unit is pinned until the end of your opponent's next turn}.",
+        "While a unit is pinned, subtract 2 from that unit's Move characteristic and that unit cannot Advance}.",
         "DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "14\"",
       "t": "9",
@@ -3507,14 +3971,21 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s twin shuriken catapult can be replaced with 1 shuriken cannon."
+          "This model's twin shuriken catapult can be replaced with 1 shuriken cannon."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Night Spinner",
           "This model is equipped with",
           "doomweaver; twin shuriken",
@@ -3569,17 +4040,31 @@
     "factionKeywords": [
       "Aeldari"
     ],
-    "abilities": {
-      "core": "Leader",
-      "faction": "Strands of Fate",
-      "special": [
-        "FACTION: Strands of Fate Hero of Iyanden: While this model is leading a unit, add 1 to the Objective Control characteristic of models in that unit}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Leader"
+            },{
+              "title": "FACTION",
+              "text": "Strands of Fate"
+            },
+      "FACTION: Strands of Fate Hero of Iyanden: While this model is leading a unit, add 1 to the Objective Control characteristic of models in that unit}.",
         "Prince of Corsairs: If your army includes this model, after both players have deployed their armies, select up to three Aeldari units from your army and redeploy them}.",
         "When doing so, you can set those units up in Strategic Reserves if you wish, regardless of how many units are already in Strategic Reserves}."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "7\"",
       "t": "3",
@@ -3592,14 +4077,21 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Prince Yriel -",
           "Epic Hero",
           "This model is equipped with",
@@ -3607,21 +4099,25 @@
           "of Twilight."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following units",
-          "■",
           "Corsair Voidreavers",
-          "■",
           "Corsair Voidscarred",
-          "■",
           "Guardian Defenders",
-          "■",
           "Storm Guardians",
           "PRINCE YRIEL",
           "A great hero of Iyanden, Prince Yriel is a superlative commander of",
-          "mighty fleets and great hosts of warriors alike. Yriel’s combat skill is",
+          "mighty fleets and great hosts of warriors alike. Yriel's combat skill is",
           "equally unparalleled, and in battle he wields the Spear of Twilight with",
           "such speed and flair that his foes have little way of knowing where his",
           "next strikes will come from."
@@ -3685,15 +4181,20 @@
     "factionKeywords": [
       "Aeldari"
     ],
-    "abilities": {
-      "core": "Infiltrators, Stealth",
-      "faction": "Strands of Fate",
-      "special": [
-        "FACTION: Strands of Fate Path of the Outcast: Once per turn, when an enemy unit ends a Normal, Advance or Fall Back move within 9\" of this unit, if this unit is not within Engagement Range of one or more enemy units, it can make a Normal move of up to D6\" as if it were your Movement phase}."
-      ]
-    },
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Infiltrators, Stealth"
+            },{
+              "title": "FACTION",
+              "text": "Strands of Fate"
+            },
+      "FACTION: Strands of Fate Path of the Outcast: Once per turn, when an enemy unit ends a Normal, Advance or Fall Back move within 9\" of this unit, if this unit is not within Engagement Range of one or more enemy units, it can make a Normal move of up to D6\" as if it were your Movement phase}."
+    }],
     "invulnerable": "*",
-    "damaged": null,
     "stats": {
       "m": "7\"",
       "t": "3",
@@ -3706,14 +4207,21 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "5-10 Rangers",
           "Every model is equipped with",
           "Ranger long rifle; shuriken",
@@ -3779,17 +4287,31 @@
     "factionKeywords": [
       "Aeldari"
     ],
-    "abilities": {
-      "core": "Leader, Stealth",
-      "faction": "Strands of Fate",
-      "special": [
-        "FACTION: Strands of Fate Fog of Dreams (Psychic): While this model is leading a unit, models in that unit have the Stealth ability}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Leader, Stealth"
+            },{
+              "title": "FACTION",
+              "text": "Strands of Fate"
+            },
+      "FACTION: Strands of Fate Fog of Dreams (Psychic): While this model is leading a unit, models in that unit have the Stealth ability}.",
         "Twilight Pathways (Psychic): At the start of your Movement phase, one model from your army with this ability can use it}.",
-        "If it does, until the end of the turn, you can re-roll Advance rolls made for that model’s unit and that model’s unit is eligible to declare a charge in a turn in which it Advanced}."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+        "If it does, until the end of the turn, you can re-roll Advance rolls made for that model's unit and that model's unit is eligible to declare a charge in a turn in which it Advanced}."
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "8\"",
       "t": "3",
@@ -3802,24 +4324,38 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s shuriken pistol can be replaced with 1 neuro disruptor."
+          "This model's shuriken pistol can be replaced with 1 neuro disruptor."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Shadowseer",
           "This model is equipped with",
           "shuriken pistol; miststave."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following unit",
-          "■",
           "Troupe",
           "SHADOWSEER",
           "Shadowseers can blind their enemies and drive them mad with their",
@@ -3915,16 +4451,19 @@
     "factionKeywords": [
       "Aeldari"
     ],
-    "abilities": {
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
       "core": null,
-      "faction": "Strands of Fate",
-      "special": [
-        "Aerobatic Grace: Each time an attack targets this unit, subtract 1 from the Hit roll}.",
+      {
+              "title": "FACTION",
+              "text": "Strands of Fate"
+            },
+      "Aerobatic Grace: Each time an attack targets this unit, subtract 1 from the Hit roll}.",
         "WARGEAR ABILITIES Shimmershield: The bearer has a 4+ invulnerable save}."
-      ]
-    },
+    }],
     "invulnerable": "If this unit Advances or makes a Charge move, until the",
-    "damaged": null,
     "stats": {
       "m": "14\"",
       "t": "4",
@@ -3937,24 +4476,26 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "The Shining Spear Exarch’s laser lance can be replaced with one of the following",
-          "◦",
+          "The Shining Spear Exarch's laser lance can be replaced with one of the following",
           "1 paragon sabre",
-          "◦",
           "1 star lance",
-          "■",
-          "The Shining Spear Exarch’s twin shuriken catapult can be replaced with 1 shuriken cannon.",
-          "■",
+          "The Shining Spear Exarch's twin shuriken catapult can be replaced with 1 shuriken cannon.",
           "The Shining Spear Exarch can be equipped with 1 shimmershield."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Shining Spear Exarch",
-          "■",
           "2-5 Shining Spears",
           "Every model is equipped with",
           "laser lance; twin",
@@ -4035,15 +4576,22 @@
     "factionKeywords": [
       "Aeldari"
     ],
-    "abilities": {
-      "core": "Scouts 9\", Stealth",
-      "faction": "Strands of Fate",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Scouts 9\", Stealth"
+            },{
+              "title": "FACTION",
+              "text": "Strands of Fate"
+            },
       "special": [
         "FACTION: Strands of Fate Target Acquisition: At the start of your Shooting phase, select one enemy unit within 12\" of and visible to this unit. Until the end of the phase, ranged weapons equipped by friendly Aeldari models have the [LETHAL HITS] ability when targeting that unit}."
       ]
-    },
+    }],
     "invulnerable": "*",
-    "damaged": null,
     "stats": {
       "m": "14\"",
       "t": "4",
@@ -4056,14 +4604,21 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "3-6 Shroud Runners",
           "Every model is equipped with",
           "Ranger long rifle; scatter laser;",
@@ -4072,7 +4627,7 @@
           "Streaking into battle as barely perceived blurs, Shroud Runners",
           "effortlessly outmanoeuvre their enemies while harassing them with",
           "pinpoint sniper fire. Each jetbike acts as the mount for a pair of skilled",
-          "Aeldari Rangers, the pillion rider often entering a marksman’s trance",
+          "Aeldari Rangers, the pillion rider often entering a marksman's trance",
           "so as to aim and fire while travelling at incredible speeds."
         ]
       }
@@ -4147,16 +4702,28 @@
     "factionKeywords": [
       "Aeldari"
     ],
-    "abilities": {
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
       "core": null,
-      "faction": "Strands of Fate",
-      "special": [
-        "Scything Swipes: Each time this unit ends a Normal move, you can select one enemy unit (excluding Monster and Vehicle units) that it moved over during that move}.",
+      {
+              "title": "FACTION",
+              "text": "Strands of Fate"
+            },
+      "Scything Swipes: Each time this unit ends a Normal move, you can select one enemy unit (excluding Monster and Vehicle units) that it moved over during that move}.",
         "If you do, roll one D6 for each model in this unit: for each 4+, that enemy unit suffers 1 mortal wound}."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "14\"",
       "t": "4",
@@ -4169,17 +4736,23 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "Any number of models can each have their shuriken cannon replaced with 1 Skyweaver",
           "haywire cannon.",
-          "■",
           "Any number of models can each have their star bolas replaced with 1 zephyrglaive."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "2-4 Skyweavers",
           "Every model is equipped with",
           "shuriken cannon; star bolas;",
@@ -4209,7 +4782,6 @@
       "Solitaire"
     ],
     "weapons": {
-      "ranged": [],
       "melee": [
         {
           "name": "Solitaire weapons [PRECISION]",
@@ -4225,17 +4797,31 @@
     "factionKeywords": [
       "Aeldari"
     ],
-    "abilities": {
-      "core": "Fights First, Lone Operative",
-      "faction": "Strands of Fate",
-      "special": [
-        "FACTION: Strands of Fate Blitz: Once per battle, in your Movement phase, this model can use this ability before it makes a Normal move}.",
-        "If it does, until the end of the turn, add 2D6\" to this model’s Move characteristic and add 3 to this model’s Attacks characteristic}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Fights First, Lone Operative"
+            },{
+              "title": "FACTION",
+              "text": "Strands of Fate"
+            },
+      "FACTION: Strands of Fate Blitz: Once per battle, in your Movement phase, this model can use this ability before it makes a Normal move}.",
+        "If it does, until the end of the turn, add 2D6\" to this model's Move characteristic and add 3 to this model's Attacks characteristic}.",
         "Blur of Movement: This model is eligible to declare a charge in a turn in which it Advanced}."
-      ]
-    },
-    "invulnerable": "3+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "3+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "12\"",
       "t": "3",
@@ -4248,14 +4834,21 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Solitaire -",
           "Epic Hero",
           "This model is equipped with",
@@ -4314,16 +4907,32 @@
     "factionKeywords": [
       "Aeldari"
     ],
-    "abilities": {
-      "core": "Leader",
-      "faction": "Strands of Fate",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Leader"
+            },{
+              "title": "FACTION",
+              "text": "Strands of Fate"
+            },
       "special": [
         "FACTION: Strands of Fate Spirit Mark: While this model is leading a unit, weapons in that unit have the [LETHAL HITS] ability and each time a model in that unit makes an attack, add 1 to the Hit roll}.",
         "Tears of Isha (Psychic): While this model is leading a unit, in the Command phase, you can return 1 destroyed Bodyguard model to that unit}."
       ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "7\"",
       "t": "3",
@@ -4336,28 +4945,40 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Spiritseer",
           "This model is equipped with",
           "shuriken pistol; witch staff."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following units",
-          "■",
           "Wraithblades",
-          "■",
           "Wraithguard",
-          "■",
           "Wraithlord",
           "SPIRITSEER",
           "It falls to the Spiritseers to commune with the souls of the dead. In",
@@ -4411,16 +5032,30 @@
     "factionKeywords": [
       "Aeldari"
     ],
-    "abilities": {
-      "core": "Deadly Demise 1, Firing Deck 6",
-      "faction": "Strands of Fate",
-      "special": [
-        "FACTION: Strands of Fate Rapid Embarkation: At the end of the Fight phase, if there are no models currently embarked within this Transport , you can select one friendly Harlequins Infantry unit that has 6 or fewer models that is wholly within 6\" of this Transport}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise 1, Firing Deck 6"
+            },{
+              "title": "FACTION",
+              "text": "Strands of Fate"
+            },
+      "FACTION: Strands of Fate Rapid Embarkation: At the end of the Fight phase, if there are no models currently embarked within this Transport , you can select one friendly Harlequins Infantry unit that has 6 or fewer models that is wholly within 6\" of this Transport}.",
         "Unless that unit is within Engagement Range of one or more enemy units, it can embark within this Transport}."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "14\"",
       "t": "6",
@@ -4433,14 +5068,21 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Starweaver",
           "This model is equipped with",
           "2 shuriken cannons; close",
@@ -4532,17 +5174,19 @@
     "factionKeywords": [
       "Aeldari"
     ],
-    "abilities": {
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
       "core": null,
-      "faction": "Strands of Fate",
-      "special": [
-        "Stormblades: At the end of your Command phase, if this unit is within range of an objective marker you control, that objective marker remains under your control, even if you have no models within range of it, until your opponent controls it at the start or end of any turn}.",
-        "Crewed Platform: When the last Storm Guardian model in this unit is destroyed, any remaining Serpent’s Scale Platform models in this unit are also destroyed}.",
-        "WARGEAR ABILITIES Serpent Shield: Models in the bearer’s unit have a 5+ invulnerable save}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+      {
+              "title": "FACTION",
+              "text": "Strands of Fate"
+            },
+      "Stormblades: At the end of your Command phase, if this unit is within range of an objective marker you control, that objective marker remains under your control, even if you have no models within range of it, until your opponent controls it at the start or end of any turn}.",
+        "Crewed Platform: When the last Storm Guardian model in this unit is destroyed, any remaining Serpent's Scale Platform models in this unit are also destroyed}.",
+        "WARGEAR ABILITIES Serpent Shield: Models in the bearer's unit have a 5+ invulnerable save}."
+    }],
     "stats": {
       "m": "7\"",
       "t": "3",
@@ -4555,28 +5199,32 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "Up to 2 Storm Guardians can each have their shuriken pistol and Guardian combat weapon replaced",
           "with 1 Aeldari flamer.",
-          "■",
           "Up to 2 Storm Guardians can each have their shuriken pistol and Guardian combat weapon replaced",
           "with 1 Guardian fusion gun.",
-          "■",
           "Up to 2 Storm Guardians can each have their Guardian combat weapon replaced with 1 Aeldari",
           "power sword."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "10 Storm Guardians",
-          "■",
-          "1 Serpent’s Scale Platform",
+          "1 Serpent's Scale Platform",
           "Every Storm Guardian is equipped with",
           "shuriken pistol;",
           "Guardian combat weapon.",
-          "The Serpent’s Scale Platform is equipped with",
+          "The Serpent's Scale Platform is equipped with",
           "Guardian",
           "combat weapon; Serpent shield.",
           "STORM GUARDIANS",
@@ -4604,7 +5252,7 @@
     "weapons": {
       "ranged": [
         {
-          "name": "Scorpion’s claw [ASSAULT, PISTOL]",
+          "name": "Scorpion's claw [ASSAULT, PISTOL]",
           "range": "12\"",
           "a": "2",
           "bws": "3+",
@@ -4642,7 +5290,7 @@
           "d": "1"
         },
         {
-          "name": "Scorpion’s claw [SUSTAINED HITS 1]",
+          "name": "Scorpion's claw [SUSTAINED HITS 1]",
           "range": "Melee",
           "a": "4",
           "bws": "4+",
@@ -4655,15 +5303,31 @@
     "factionKeywords": [
       "Aeldari"
     ],
-    "abilities": {
-      "core": "Infiltrators",
-      "faction": "Strands of Fate",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Infiltrators"
+            },{
+              "title": "FACTION",
+              "text": "Strands of Fate"
+            },
       "special": [
         "FACTION: Strands of Fate WARGEAR ABILITIES Mandiblasters: Melee weapons equipped by the bearer have the [DEVASTATING WOUNDS] ability when targeting units without the Monster or Vehicle keywords}."
       ]
-    },
-    "invulnerable": "5+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "5+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "7\"",
       "t": "3",
@@ -4676,19 +5340,24 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "The Striking Scorpion Exarch’s Scorpion chainsword can be replaced with 1 Scorpion’s claw.",
-          "■",
-          "The Striking Scorpion Exarch’s shuriken pistol and Scorpion chainsword can be replaced with 1",
+          "The Striking Scorpion Exarch's Scorpion chainsword can be replaced with 1 Scorpion's claw.",
+          "The Striking Scorpion Exarch's shuriken pistol and Scorpion chainsword can be replaced with 1",
           "biting blade."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Striking Scorpion Exarch",
-          "■",
           "4-9 Striking Scorpions",
           "Every model is equipped with",
           "shuriken pistol; Scorpion",
@@ -4768,16 +5437,18 @@
     "factionKeywords": [
       "Aeldari"
     ],
-    "abilities": {
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
       "core": null,
-      "faction": "Strands of Fate",
-      "special": [
-        "Artillery Barrage: In your Shooting phase, after this unit has shot, select one enemy unit (excluding Monster and Vehicle untis) that was hit by one or more of those attacks. Until the start of your next turn, while this unit is on the battlefield, that enemy unit is suppressed}.",
+      {
+              "title": "FACTION",
+              "text": "Strands of Fate"
+            },
+      "Artillery Barrage: In your Shooting phase, after this unit has shot, select one enemy unit (excluding Monster and Vehicle untis) that was hit by one or more of those attacks. Until the start of your next turn, while this unit is on the battlefield, that enemy unit is suppressed}.",
         "While a unit is suppressed, each time a model in that unit makes an attack, subtract 1 from the Hit roll}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "3\"",
       "t": "6",
@@ -4790,18 +5461,23 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "Any number of models can each have their shadow weaver replaced with one of the following",
-          "◦",
           "1 D-cannon",
-          "◦",
           "1 vibro cannon"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Support Weapon",
           "This model is equipped with",
           "shadow weaver; shuriken",
@@ -4834,7 +5510,7 @@
     "weapons": {
       "ranged": [
         {
-          "name": "Hawk’s talon [ASSAULT, LETHAL HITS]",
+          "name": "Hawk's talon [ASSAULT, LETHAL HITS]",
           "range": "24\"",
           "a": "4",
           "bws": "3+",
@@ -4876,15 +5552,29 @@
     "factionKeywords": [
       "Aeldari"
     ],
-    "abilities": {
-      "core": "Deep Strike",
-      "faction": "Strands of Fate",
-      "special": [
-        "FACTION: Strands of Fate Skyleap: At the end of your opponent’s turn, if this unit is not within Engagement Range of one or more enemy units, you can remove this unit from the battlefield and place it into Strategic Reserves}."
-      ]
-    },
-    "invulnerable": "5+",
-    "damaged": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deep Strike"
+            },{
+              "title": "FACTION",
+              "text": "Strands of Fate"
+            },
+      "FACTION: Strands of Fate Skyleap: At the end of your opponent's turn, if this unit is not within Engagement Range of one or more enemy units, you can remove this unit from the battlefield and place it into Strategic Reserves}."
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "5+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "14\"",
       "t": "3",
@@ -4897,18 +5587,23 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "The Swooping Hawk Exarch’s lasblaster can be replaced with 1 Hawk’s talon.",
-          "■",
+          "The Swooping Hawk Exarch's lasblaster can be replaced with 1 Hawk's talon.",
           "The Swooping Hawk Exarch can be equipped with 1 Aeldari power sword."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Swooping Hawk Exarch",
-          "■",
           "4-9 Swooping Hawks",
           "Every model is equipped with",
           "lasblaster; close",
@@ -4938,7 +5633,6 @@
       "The Visarch"
     ],
     "weapons": {
-      "ranged": [],
       "melee": [
         {
           "name": "Asu-var, the Sword of Silent Screams [PRECISION]",
@@ -4954,16 +5648,32 @@
     "factionKeywords": [
       "Aeldari"
     ],
-    "abilities": {
-      "core": "Leader",
-      "faction": "Strands of Fate",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Leader"
+            },{
+              "title": "FACTION",
+              "text": "Strands of Fate"
+            },
       "special": [
         "FACTION: Strands of Fate Way of the Blade: While this model is leading a unit, that unit has the Fights First ability}.",
         "Champion of Ynnead: Each time this model is selected to fight, select one of the abilities below for Asu-var, the Sword of Silent Screams, to gain until the end of the phase: ■ [SUSTAINED HITS 2] ■ [DEVASTATING WOUNDS] ■ [LETHAL HITS]}."
       ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "8\"",
       "t": "3",
@@ -4976,14 +5686,21 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Visarch -",
           "Epic Hero",
           "This model is equipped with",
@@ -4991,26 +5708,27 @@
           "Silent Screams."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following units",
-          "■",
           "Corsair Voidreavers",
-          "■",
           "Corsair Voidscarred",
-          "■",
           "Guardian Defenders",
-          "■",
           "Kabalite Warriors",
           "(see",
           "Drukhari",
           ")",
-          "■",
           "Storm Guardians",
-          "■",
           "Troupe",
-          "■",
           "Wyches",
           "(see",
           "Drukhari",
@@ -5082,16 +5800,30 @@
     "factionKeywords": [
       "Aeldari"
     ],
-    "abilities": {
-      "core": "Deadly Demise D3",
-      "faction": "Strands of Fate",
-      "special": [
-        "FACTION: Strands of Fate Inevitable Death: Once per phase, if this model is on the battlefield, when another unit is destroyed, just after removing the last model in that unit, you can remove this model from the battlefield and set it up again as close as possible to where that destroyed model was and not within Engagement Range of any enemy models}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D3"
+            },{
+              "title": "FACTION",
+              "text": "Strands of Fate"
+            },
+      "FACTION: Strands of Fate Inevitable Death: Once per phase, if this model is on the battlefield, when another unit is destroyed, just after removing the last model in that unit, you can remove this model from the battlefield and set it up again as close as possible to where that destroyed model was and not within Engagement Range of any enemy models}.",
         "Deathly Form: Each time an attack is allocated to this model, halve the Damage characteristic of that attack}."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "10\"",
       "t": "10",
@@ -5107,14 +5839,21 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Yncarne -",
           "Epic Hero",
           "This model is equipped with",
@@ -5125,7 +5864,7 @@
           "amidst a vortex of deathly whispers. It is a roaring psychic hurricane",
           "that rips the life from those who earn its ire. Nearby Ynnari are",
           "invigorated by its chilling power, while foes are turned to dust by the",
-          "Yncarne’s gaze, or sliced in two by its sweeping blows."
+          "Yncarne's gaze, or sliced in two by its sweeping blows."
         ]
       }
     ]
@@ -5187,7 +5926,7 @@
           "d": "1"
         },
         {
-          "name": "Harlequin’s blade",
+          "name": "Harlequin's blade",
           "range": "Melee",
           "a": "5",
           "bws": "3+",
@@ -5196,7 +5935,7 @@
           "d": "1"
         },
         {
-          "name": "Harlequin’s special weapon",
+          "name": "Harlequin's special weapon",
           "range": "Melee",
           "a": "4",
           "bws": "3+",
@@ -5209,15 +5948,27 @@
     "factionKeywords": [
       "Aeldari"
     ],
-    "abilities": {
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
       "core": null,
-      "faction": "Strands of Fate",
-      "special": [
-        "Harlequin Assault: Each time this unit makes a Charge move, until the end of the turn, each time a model in this unit makes a melee attack, add 1 to the Wound roll}."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+      {
+              "title": "FACTION",
+              "text": "Strands of Fate"
+            },
+      "Harlequin Assault: Each time this unit makes a Charge move, until the end of the turn, each time a model in this unit makes a melee attack, add 1 to the Wound roll}."
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "8\"",
       "t": "3",
@@ -5230,35 +5981,34 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "Any number of models can each have their Harlequin’s blade replaced with 1 Harlequin’s",
+          "Any number of models can each have their Harlequin's blade replaced with 1 Harlequin's",
           "special weapon.",
-          "■",
-          "The Lead Player’s Harlequin’s blade can be replaced with 1 Aeldari power sword.",
-          "■",
+          "The Lead Player's Harlequin's blade can be replaced with 1 Aeldari power sword.",
           "If this unit contains 10 or fewer models",
-          "◦",
           "Up to two models can each have their shuriken pistol replaced with 1 neuro disruptor",
-          "◦",
           "Up to two models can each have their shuriken pistol replaced with 1 fusion pistol",
-          "■",
           "If this unit contains 11 or more models",
-          "◦",
           "Up to four models can each have their shuriken pistol replaced with 1 neuro disruptor",
-          "◦",
           "Up to four models can each have their shuriken pistol replaced with 1 fusion pistol"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Lead Player",
-          "■",
           "4-11 Players",
           "Every model is equipped with",
           "shuriken pistol;",
-          "Harlequin’s blade.",
+          "Harlequin's blade.",
           "TROUPE",
           "The Players of Harlequin Troupes perform with breathtaking skill,",
           "whether their stage is a wraithbone and glass amphitheatre bathed in",
@@ -5315,7 +6065,7 @@
       ],
       "melee": [
         {
-          "name": "Harlequin’s special weapon",
+          "name": "Harlequin's special weapon",
           "range": "Melee",
           "a": "5",
           "bws": "2+",
@@ -5324,7 +6074,7 @@
           "d": "1"
         },
         {
-          "name": "Troupe Master’s blade",
+          "name": "Troupe Master's blade",
           "range": "Melee",
           "a": "6",
           "bws": "2+",
@@ -5337,16 +6087,32 @@
     "factionKeywords": [
       "Aeldari"
     ],
-    "abilities": {
-      "core": "Leader",
-      "faction": "Strands of Fate",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Leader"
+            },{
+              "title": "FACTION",
+              "text": "Strands of Fate"
+            },
       "special": [
         "FACTION: Strands of Fate Choreographer of War: While this model is leading a unit, melee weapons equipped by models in that unit have the [DEVASTATING WOUNDS] ability}.",
-        "Cegorach’s Favour: Once per turn, when you use a Fate dice to substitute a Hit roll, a Wound roll or a saving throw made for this model, you can first change the result of that Fate dice to a 6}."
+        "Cegorach's Favour: Once per turn, when you use a Fate dice to substitute a Hit roll, a Wound roll or a saving throw made for this model, you can first change the result of that Fate dice to a 6}."
       ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "8\"",
       "t": "3",
@@ -5359,31 +6125,42 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s shuriken pistol can be replaced with one of the following",
-          "◦",
+          "This model's shuriken pistol can be replaced with one of the following",
           "1 fusion pistol",
-          "◦",
           "1 neuro disruptor",
-          "■",
-          "This model’s Troupe Master’s blade can be replaced with 1 Harlequin’s special weapon."
+          "This model's Troupe Master's blade can be replaced with 1 Harlequin's special weapon."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Troupe Master",
           "This model is equipped with",
           "shuriken pistol; Troupe",
-          "Master’s blade."
+          "Master's blade."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following unit",
-          "■",
           "Troupe",
           "TROUPE MASTER",
           "If this model is your",
@@ -5395,7 +6172,7 @@
           "Battleline",
           "keyword.",
           "TROUPE MASTER",
-          "Choreographers of conflict, Troupe Masters direct their comrades’",
+          "Choreographers of conflict, Troupe Masters direct their comrades'",
           "reactions to the fates of battle and ensure their performance in the",
           "theatre of war is as perfect as it can be. They are blisteringly swift and",
           "deadly warriors, and with the consent of their peers they act as focal",
@@ -5472,16 +6249,30 @@
     "factionKeywords": [
       "Aeldari"
     ],
-    "abilities": {
-      "core": "Deadly Demise 1",
-      "faction": "Strands of Fate",
-      "special": [
-        "FACTION: Strands of Fate Devastating Assault: In your Shooting phase, after this model has shot, select one enemy unit hit by one or more of those attacks}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise 1"
+            },{
+              "title": "FACTION",
+              "text": "Strands of Fate"
+            },
+      "FACTION: Strands of Fate Devastating Assault: In your Shooting phase, after this model has shot, select one enemy unit hit by one or more of those attacks}.",
         "That enemy unit must take a Battle-shock test}."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "14\"",
       "t": "6",
@@ -5497,20 +6288,27 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s Voidweaver haywire cannon can be replaced with 1 prismatic cannon."
+          "This model's Voidweaver haywire cannon can be replaced with 1 prismatic cannon."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Voidweaver",
           "This model is equipped with",
           "2 shuriken cannons; Voidweaver",
           "haywire cannon; close combat weapon.",
           "VOIDWEAVER",
-          "The Voidweaver’s potent combination of versatile weapons, lightweight",
+          "The Voidweaver's potent combination of versatile weapons, lightweight",
           "psychoplastic armour, hyper-velocity and polychromatic camouflage",
           "make them exceptionally dangerous attack craft. Deadly on the",
           "ambush, groups of Voidweavers can rip apart enemy battle tanks or",
@@ -5612,15 +6410,19 @@
     "factionKeywords": [
       "Aeldari"
     ],
-    "abilities": {
-      "core": "Deadly Demise 1",
-      "faction": "Strands of Fate",
-      "special": [
-        "FACTION: Strands of Fate Harassment Fire: In your Shooting phase, after this model has shot, select one enemy unit hit by one or more of those attacks. Until the end of the phase, that enemy unit cannot have the Benefit of Cover}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise 1"
+            },{
+              "title": "FACTION",
+              "text": "Strands of Fate"
+            },
+      "FACTION: Strands of Fate Harassment Fire: In your Shooting phase, after this model has shot, select one enemy unit hit by one or more of those attacks. Until the end of the phase, that enemy unit cannot have the Benefit of Cover}."
+    }],
     "stats": {
       "m": "14\"",
       "t": "6",
@@ -5636,22 +6438,25 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "Any number of models can each have their shuriken cannon replaced with one of the following",
-          "◦",
           "1 Aeldari missile launcher",
-          "◦",
           "1 bright lance",
-          "◦",
           "1 scatter laser",
-          "◦",
           "1 starcannon"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Vyper",
           "This model is equipped with",
           "shuriken cannon; twin shuriken",
@@ -5750,15 +6555,29 @@
     "factionKeywords": [
       "Aeldari"
     ],
-    "abilities": {
-      "core": "Scouts 9\"",
-      "faction": "Strands of Fate",
-      "special": [
-        "FACTION: Strands of Fate Power Field: Each time a ranged attack targets this unit, subtract 1 from the Wound roll}."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Scouts 9\""
+            },{
+              "title": "FACTION",
+              "text": "Strands of Fate"
+            },
+      "FACTION: Strands of Fate Power Field: Each time a ranged attack targets this unit, subtract 1 from the Wound roll}."
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "10\"",
       "t": "7",
@@ -5774,22 +6593,25 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "Each model can have each shuriken cannon it is equipped with replaced with one of the following",
-          "◦",
           "1 Aeldari missile launcher",
-          "◦",
           "1 bright lance",
-          "◦",
           "1 scatter laser",
-          "◦",
           "1 starcannon"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 War Walker",
           "This model is equipped with",
           "2 shuriken cannons; War",
@@ -5882,16 +6704,30 @@
     "factionKeywords": [
       "Aeldari"
     ],
-    "abilities": {
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
       "core": null,
-      "faction": "Leader, Strands of Fate",
+      {
+              "title": "FACTION",
+              "text": "Leader, Strands of Fate"
+            },
       "special": [
-        "Runes of Battle (Psychic): In your Command phase, select one of the following to take effect until the start of your next Command phase: ■ Conceal: Models in this model’s unit have the Stealth ability}.",
-        "■ Reveal: Ranged weapons equipped by models in this model’s unit have the [IGNORES COVER] ability}."
+        "Runes of Battle (Psychic): In your Command phase, select one of the following to take effect until the start of your next Command phase: ■ Conceal: Models in this model's unit have the Stealth ability}.",
+        "■ Reveal: Ranged weapons equipped by models in this model's unit have the [IGNORES COVER] ability}."
       ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "14\"",
       "t": "4",
@@ -5904,25 +6740,39 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s witchblade can be replaced with 1 singing spear."
+          "This model's witchblade can be replaced with 1 singing spear."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Warlock Skyrunner",
           "This model is equipped with",
           "Destructor; shuriken pistol;",
           "twin shuriken catapult; witchblade."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following unit",
-          "■",
           "Windriders",
           "You can attach this unit to the above unit, even if one other",
           "Leader unit (excluding",
@@ -5932,7 +6782,7 @@
           "the Leader units attached to it become separate units, with",
           "their original Starting Strengths.",
           "WARLOCK SKYRUNNER",
-          "Jetbikes add great speed to Warlocks’ already formidable array",
+          "Jetbikes add great speed to Warlocks' already formidable array",
           "of powers. Many craftworlds deploy entire Skyrunner conclaves,",
           "although such formations are especially common in the Wild Rider",
           "clans of Saim-Hann."
@@ -6007,18 +6857,32 @@
     "factionKeywords": [
       "Aeldari"
     ],
-    "abilities": {
-      "core": "Leader",
-      "faction": "Strands of Fate",
-      "special": [
-        "FACTION: Strands of Fate Runes of Fortune (Psychic): In your Command phase, select one of the following to take effect until the start of your next Command phase: ■ Quicken: Each time this model’s unit Advances, do not make an Advance roll}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Leader"
+            },{
+              "title": "FACTION",
+              "text": "Strands of Fate"
+            },
+      "FACTION: Strands of Fate Runes of Fortune (Psychic): In your Command phase, select one of the following to take effect until the start of your next Command phase: ■ Quicken: Each time this model's unit Advances, do not make an Advance roll}.",
         "Instead, until the end of the phase, add 6\" to the Move characteristic of models in that unit}.",
-        "■ Restrain: Each time an enemy unit declares a charge, if this model’s unit is selected as a target of that charge, subtract 2 from the Charge roll}.",
+        "■ Restrain: Each time an enemy unit declares a charge, if this model's unit is selected as a target of that charge, subtract 2 from the Charge roll}.",
         "The same enemy unit can only be affected in this way once per phase}."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "7\"",
       "t": "3",
@@ -6031,27 +6895,40 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s witchblade can be replaced with 1 singing spear."
+          "This model's witchblade can be replaced with 1 singing spear."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Warlock",
           "This model is equipped with",
           "Destructor; shuriken",
           "pistol; witchblade."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following units",
-          "■",
           "Guardian Defenders",
-          "■",
           "Storm Guardians",
           "You can attach this model to one of the above units, even if",
           "one other Leader unit (excluding",
@@ -6120,17 +6997,31 @@
     "factionKeywords": [
       "Aeldari"
     ],
-    "abilities": {
-      "core": "Deep Strike",
-      "faction": "Strands of Fate",
-      "special": [
-        "FACTION: Strands of Fate Flickerjump: In your Movement phase, when this unit makes a Normal move, it can make a flickerjump}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deep Strike"
+            },{
+              "title": "FACTION",
+              "text": "Strands of Fate"
+            },
+      "FACTION: Strands of Fate Flickerjump: In your Movement phase, when this unit makes a Normal move, it can make a flickerjump}.",
         "If it does, until the end of the phase, its Move characteristic is changed to 24\" but you must roll one D6 after this unit ends that move: on a 1, this unit suffers 1 mortal wound}.",
         "This unit is not eligible to declare a charge in the same turn in which it makes a flickerjump}."
-      ]
-    },
-    "invulnerable": "5+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "5+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "12\"",
       "t": "3",
@@ -6143,16 +7034,22 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "The Warp Spider Exarch can be equipped with 1 additional death spinner and 1 powerblades."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Warp Spider Exarch",
-          "■",
           "4-9 Warp Spiders",
           "Every model is equipped with",
           "death spinner; close",
@@ -6271,15 +7168,29 @@
     "factionKeywords": [
       "Aeldari"
     ],
-    "abilities": {
-      "core": "Deadly Demise D3",
-      "faction": "Strands of Fate",
-      "special": [
-        "FACTION: Strands of Fate Wave Serpent Shield: Once per battle, you can select one enemy unit that is within 12\" of and visible to this model and roll one D6: on a 2+, that enemy unit suffers D3 mortal wounds and must take a Battle-shock test}."
-      ]
-    },
-    "invulnerable": "5+",
-    "damaged": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D3"
+            },{
+              "title": "FACTION",
+              "text": "Strands of Fate"
+            },
+      "FACTION: Strands of Fate Wave Serpent Shield: Once per battle, you can select one enemy unit that is within 12\" of and visible to this model and roll one D6: on a 2+, that enemy unit suffers D3 mortal wounds and must take a Battle-shock test}."
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "5+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "14\"",
       "t": "9",
@@ -6295,24 +7206,26 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s twin shuriken cannon can be replaced with one of the following",
-          "◦",
+          "This model's twin shuriken cannon can be replaced with one of the following",
           "1 twin Aeldari missile launcher",
-          "◦",
           "1 twin bright lance",
-          "◦",
           "1 twin scatter laser",
-          "◦",
           "1 twin starcannon",
-          "■",
-          "This model’s twin shuriken catapult can be replaced with 1 shuriken cannon."
+          "This model's twin shuriken catapult can be replaced with 1 shuriken cannon."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Wave Serpent",
           "This model is equipped with",
           "twin shuriken cannon; twin",
@@ -6331,11 +7244,11 @@
           "Jump Pack",
           "models.",
           "WAVE SERPENT",
-          "The main troop carriers in a craftworld’s arsenal, Wave Serpents",
+          "The main troop carriers in a craftworld's arsenal, Wave Serpents",
           "transport warriors to any part of the battlefield at immense speeds.",
           "These troops are protected by a powerful energy field - which can also",
           "be projected forward as a weapon in extremis - and receive covering",
-          "fire from the vehicle’s powerful array of heavy weapons."
+          "fire from the vehicle's powerful array of heavy weapons."
         ]
       }
     ]
@@ -6352,26 +7265,29 @@
       "Webway Gate"
     ],
     "weapons": {
-      "ranged": [],
       "melee": []
     },
     "factionKeywords": [
       "Aeldari"
     ],
-    "abilities": {
-      "core": "Deadly Demise D3",
-      "faction": "Strands of Fate",
-      "special": [
-        "FACTION: Strands of Fate Arcane Cover: Each time a ranged attack is allocated to a model, if that model is not fully visible to every model in the attacking unit because of this Fortification , that model has the Benefit of Cover against that attack}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D3"
+            },{
+              "title": "FACTION",
+              "text": "Strands of Fate"
+            },
+      "FACTION: Strands of Fate Arcane Cover: Each time a ranged attack is allocated to a model, if that model is not fully visible to every model in the attacking unit because of this Fortification , that model has the Benefit of Cover against that attack}.",
         "Webway Strike: Each time a friendly Aeldari unit arrives from Strategic Reserves, you can choose to set it up anywhere on the battlefield that is wholly within 6\" of this Fortification}.",
         "If you do, that Aeldari unit can be set up within 9\" of enemy models, and can be set up within Engagement Range of enemy models}.",
         "If an Aeldari unit is set up within Engagement Range of any enemy models in this way, it counts as having made a Charge move this turn and is eligible to fight this turn}.",
         "Fortification: While an enemy unit is only within Engagement Range of one or more Fortifications from your army: ■ That unit can still be selected as the target of ranged attacks, but each time such an attack is made, unless it is made with a Pistol, subtract 1 from the Hit roll}.",
         "■ Models in that unit do not need to take Desperate Escape tests due to Falling Back while Battle-shocked, except for those that will move over enemy models when doing so}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "-",
       "t": "12",
@@ -6385,15 +7301,22 @@
         "name": "WARGEAR OPTIONS",
         "values": []
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "2 Wraithbone Arches",
           "This unit is equipped with",
           "nothing.",
           "WARGEAR OPTIONS",
-          "■",
           "None",
           "DEPLOYMENT",
           "Both Wraithbone Arches of this",
@@ -6472,16 +7395,18 @@
     "factionKeywords": [
       "Aeldari"
     ],
-    "abilities": {
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
       "core": null,
-      "faction": "Strands of Fate",
-      "special": [
-        "Swift Demise: Each time a model in this unit makes a ranged attack that targets the closest eligible target, re-roll a Hit roll of 1}.",
+      {
+              "title": "FACTION",
+              "text": "Strands of Fate"
+            },
+      "Swift Demise: Each time a model in this unit makes a ranged attack that targets the closest eligible target, re-roll a Hit roll of 1}.",
         "If the target of that attack is within range of an objective marker your opponent controls, you can re-roll the Hit roll instead}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "14\"",
       "t": "4",
@@ -6494,18 +7419,23 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "Any number of models can each have their twin shuriken catapult replaced with one of the following",
-          "◦",
           "1 scatter laser",
-          "◦",
           "1 shuriken cannon"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "3-9 Windriders",
           "Every model is equipped with",
           "twin shuriken catapult; close",
@@ -6515,7 +7445,7 @@
           "of a few heartbeats, and to master such incredible machines takes",
           "great skill. Windriders are expected to do this and more, for in battle",
           "they must be able to shred what resistance they encounter with",
-          "devastating bursts of fire from their jetbikes’ attached weapons."
+          "devastating bursts of fire from their jetbikes' attached weapons."
         ]
       }
     ]
@@ -6534,7 +7464,6 @@
       "Wraithblades"
     ],
     "weapons": {
-      "ranged": [],
       "melee": [
         {
           "name": "Ghostaxe",
@@ -6559,17 +7488,19 @@
     "factionKeywords": [
       "Aeldari"
     ],
-    "abilities": {
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
       "core": null,
-      "faction": "Strands of Fate",
-      "special": [
-        "Malevolent Souls: Each time a model in this unit is destroyed by a melee attack, if that model has not fought this phase, roll one D6}.",
-        "On a 4+, do not remove it from play; that destroyed model can fight after the attacking model’s unit has finished making its attacks, and is then removed from play}.",
+      {
+              "title": "FACTION",
+              "text": "Strands of Fate"
+            },
+      "Malevolent Souls: Each time a model in this unit is destroyed by a melee attack, if that model has not fought this phase, roll one D6}.",
+        "On a 4+, do not remove it from play; that destroyed model can fight after the attacking model's unit has finished making its attacks, and is then removed from play}.",
         "WARGEAR ABILITIES Forceshield: The bearer has a 4+ invulnerable save}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "6\"",
       "t": "7",
@@ -6582,15 +7513,22 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "All of the models in this unit can each have their ghostswords replaced with 1 ghostaxe and",
           "1 forceshield."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "5-10 Wraithblades",
           "Every model is equipped with",
           "ghostswords.",
@@ -6653,16 +7591,20 @@
     "factionKeywords": [
       "Aeldari"
     ],
-    "abilities": {
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
       "core": null,
-      "faction": "Strands of Fate",
+      {
+              "title": "FACTION",
+              "text": "Strands of Fate"
+            },
       "special": [
         "War Construct: Once per battle round, when an enemy unit targets this unit, after that unit has finished making its attacks, this unit can shoot as if it were your Shooting phase}.",
-        "When doing so, this unit’s ranged weapons have the [PISTOL] ability}."
+        "When doing so, this unit's ranged weapons have the [PISTOL] ability}."
       ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "6\"",
       "t": "7",
@@ -6675,14 +7617,21 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "All of the models in this unit can each have their wraithcannon replaced with 1 D-scythe."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "5-10 Wraithguard",
           "Every model is equipped with",
           "wraithcannon; close",
@@ -6792,18 +7741,22 @@
     "factionKeywords": [
       "Aeldari"
     ],
-    "abilities": {
-      "core": "Deadly Demise D6",
-      "faction": "Strands of Fate",
-      "special": [
-        "FACTION: Strands of Fate Agile: Each time this model makes a Normal, Advance or Fall Back move, it can move over other models (excluding Titanic models) and terrain features that are 4\" or less in height as if they were not there}.",
-        "Wraithbone Form: Each time an attack is allocated to this model, subtract 1 from that attack’s Damage characteristic}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D6"
+            },{
+              "title": "FACTION",
+              "text": "Strands of Fate"
+            },
+      "FACTION: Strands of Fate Agile: Each time this model makes a Normal, Advance or Fall Back move, it can move over other models (excluding Titanic models) and terrain features that are 4\" or less in height as if they were not there}.",
+        "Wraithbone Form: Each time an attack is allocated to this model, subtract 1 from that attack's Damage characteristic}.",
         "WARGEAR ABILITIES Scattershield: The bearer has a 4+ invulnerable save}.",
-        "DAMAGED: 1-6 WOUNDS REMAINING While this model has 1-6 wounds remaining, subtract 5 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+        "DAMAGED: 1-6 WOUNDS REMAINING While this model has 1-6 wounds remaining, subtract 5 from this model's Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll}."
+    }],
     "stats": {
       "m": "10\"",
       "t": "12",
@@ -6819,28 +7772,28 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s titanic ghostglaive can be replaced with one of the following",
-          "◦",
+          "This model's titanic ghostglaive can be replaced with one of the following",
           "1 heavy wraithcannon",
-          "◦",
           "1 suncannon",
-          "■",
-          "This model’s scattershield can be replaced with 1 heavy wraithcannon.",
-          "■",
+          "This model's scattershield can be replaced with 1 heavy wraithcannon.",
           "This model can be equipped with up to two of the following",
-          "◦",
           "1 scatter laser",
-          "◦",
           "1 shuriken cannon",
-          "◦",
           "1 starcannon"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Wraithknight",
           "This model is equipped with",
           "titanic ghostglaive; titanic",
@@ -6976,15 +7929,19 @@
     "factionKeywords": [
       "Aeldari"
     ],
-    "abilities": {
-      "core": "Deadly Demise 1",
-      "faction": "Strands of Fate",
-      "special": [
-        "FACTION: Strands of Fate Fated Hero: Each time this model destroys an enemy unit, roll one D6 and add it to your Fate dice pool displaying the result you just rolled}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise 1"
+            },{
+              "title": "FACTION",
+              "text": "Strands of Fate"
+            },
+      "FACTION: Strands of Fate Fated Hero: Each time this model destroys an enemy unit, roll one D6 and add it to your Fate dice pool displaying the result you just rolled}."
+    }],
     "stats": {
       "m": "8\"",
       "t": "11",
@@ -7000,28 +7957,28 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "Each of this model’s shuriken catapults can be replaced with 1 Aeldari flamer.",
-          "■",
+          "Each of this model's shuriken catapults can be replaced with 1 Aeldari flamer.",
           "This model can be equipped with 1 ghostglaive.",
-          "■",
           "This model can be equipped with up to two of the following",
-          "◦",
           "1 Aeldari missile launcher",
-          "◦",
           "1 bright lance",
-          "◦",
           "1 scatter laser",
-          "◦",
           "1 shuriken cannon",
-          "◦",
           "1 starcannon"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Wraithlord",
           "This model is equipped with",
           "2 shuriken catapults;",
@@ -7078,16 +8035,30 @@
     "factionKeywords": [
       "Aeldari"
     ],
-    "abilities": {
-      "core": "Deep Strike, Leader",
-      "faction": "Strands of Fate",
-      "special": [
-        "FACTION: Strands of Fate Herald of Ynnead: While this model is leading a unit, models in that unit have the Feel No Pain 5+ ability}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deep Strike, Leader"
+            },{
+              "title": "FACTION",
+              "text": "Strands of Fate"
+            },
+      "FACTION: Strands of Fate Herald of Ynnead: While this model is leading a unit, models in that unit have the Feel No Pain 5+ ability}.",
         "Word of the Phoenix (Psychic): While this model is leading a unit, in your Command phase, you can roll one D6: on a 2+, D3 destroyed Bodyguard models are returned to that unit}."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "8\"",
       "t": "3",
@@ -7100,14 +8071,21 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Yvraine -",
           "Epic Hero",
           "This model is equipped with",
@@ -7115,26 +8093,27 @@
           "Sword of Sorrows."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following units",
-          "■",
           "Corsair Voidscarred",
-          "■",
           "Corsair Voidreavers",
-          "■",
           "Guardian Defenders",
-          "■",
           "Kabalite Warriors",
           "(see",
           "Drukhari",
           ")",
-          "■",
           "Storm Guardians",
-          "■",
           "Troupe",
-          "■",
           "Wyches",
           "(see",
           "Drukhari",
@@ -7227,16 +8206,28 @@
     "factionKeywords": [
       "Aeldari"
     ],
-    "abilities": {
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
       "core": null,
-      "faction": "Strands of Fate",
-      "special": [
-        "Protect (Psychic): While a Farseer model is leading this unit, each time an attack targets this unit, subtract 1 from the Wound roll}.",
+      {
+              "title": "FACTION",
+              "text": "Strands of Fate"
+            },
+      "Protect (Psychic): While a Farseer model is leading this unit, each time an attack targets this unit, subtract 1 from the Wound roll}.",
         "Warlock Conclave: Models in this unit have the Feel No Pain 4+ ability against Psychic Attacks}."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "14\"",
       "t": "4",
@@ -7249,20 +8240,27 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "Any number of models can each have their witchblade replaced with 1 singing spear."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "2-3 Warlock Skyrunners",
           "Every model is equipped with",
           "Destructor; shuriken pistol;",
           "twin shuriken catapult; witchblade.",
           "WARLOCK SKYRUNNER CONCLAVE",
-          "Jetbikes add great speed to Warlocks’ already formidable array",
+          "Jetbikes add great speed to Warlocks' already formidable array",
           "of powers. Many craftworlds deploy entire Skyrunner conclaves,",
           "although such formations are especially common in the Wild Rider",
           "clans of Saim-Hann."
@@ -7338,16 +8336,28 @@
     "factionKeywords": [
       "Aeldari"
     ],
-    "abilities": {
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
       "core": null,
-      "faction": "Strands of Fate",
-      "special": [
-        "Protect (Psychic): While a Farseer model is leading this unit, each time an attack targets this unit, subtract 1 from the Wound roll}.",
+      {
+              "title": "FACTION",
+              "text": "Strands of Fate"
+            },
+      "Protect (Psychic): While a Farseer model is leading this unit, each time an attack targets this unit, subtract 1 from the Wound roll}.",
         "Warlock Conclave: Models in this unit have the Feel No Pain 4+ ability against Psychic Attacks}."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "7\"",
       "t": "3",
@@ -7360,14 +8370,21 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "Any number of models can each have their witchblade replaced with 1 singing spear."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "2-4 Warlocks",
           "Every model is equipped with",
           "Destructor; shuriken",

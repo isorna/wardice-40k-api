@@ -114,7 +114,7 @@
           "points": 35,
           "rules": [
             {
-              "text": "Grey Knights model with the Deep Strike ability only. The bearer’s unit must start the battle in Reserves, but neither it, nor any Transport it is embarked within, is counted towards any limits the mission places on the number of Strategic Reserves units you can have. That unit can be set up using its Deep Strike ability in the Reinforcements step of your first, second or third Movement phase, regardless of any mission rules."
+              "text": "Grey Knights model with the Deep Strike ability only. The bearer's unit must start the battle in Reserves, but neither it, nor any Transport it is embarked within, is counted towards any limits the mission places on the number of Strategic Reserves units you can have. That unit can be set up using its Deep Strike ability in the Reinforcements step of your first, second or third Movement phase, regardless of any mission rules."
             }
           ]
         },
@@ -132,7 +132,7 @@
           "points": 30,
           "rules": [
             {
-              "text": "Grey Knights model only. Once per battle, in your opponent’s Shooting phase, when the bearer’s unit is selected as the target of a ranged attack, you can remove the bearer’s unit from the battlefield and then set it back up again anywhere on the battlefield that is more than 9\" horizontally away from all enemy models. If the bearer is no longer an eligible target, your opponent can then select new targets for any attacks that had targeted the bearer’s unit."
+              "text": "Grey Knights model only. Once per battle, in your opponent's Shooting phase, when the bearer's unit is selected as the target of a ranged attack, you can remove the bearer's unit from the battlefield and then set it back up again anywhere on the battlefield that is more than 9\" horizontally away from all enemy models. If the bearer is no longer an eligible target, your opponent can then select new targets for any attacks that had targeted the bearer's unit."
             }
           ]
         },
@@ -141,7 +141,7 @@
           "points": 15,
           "rules": [
             {
-              "text": "Grey Knights model only. Add 1 to Charge rolls made for the bearer’s unit."
+              "text": "Grey Knights model only. Add 1 to Charge rolls made for the bearer's unit."
             }
           ]
         }
@@ -200,16 +200,30 @@
     "factionKeywords": [
       "Grey Knights"
     ],
-    "abilities": {
-      "core": "Deep Strike, Leader",
-      "faction": "Teleport Assault",
-      "special": [
-        "FACTION: Teleport Assault Untouchable Purity: While this model is leading a unit, models in that unit have the Feel No Pain 4+ ability against mortal wounds}.",
-        "One With the Warp (Psychic): Once per battle, when this model’s unit declares a charge in the same turn it was set up as Reinforcements using the Deep Strike ability, add 3 to the Charge roll}."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deep Strike, Leader"
+            },{
+              "title": "FACTION",
+              "text": "Teleport Assault"
+            },
+      "FACTION: Teleport Assault Untouchable Purity: While this model is leading a unit, models in that unit have the Feel No Pain 4+ ability against mortal wounds}.",
+        "One With the Warp (Psychic): Once per battle, when this model's unit declares a charge in the same turn it was set up as Reinforcements using the Deep Strike ability, add 3 to the Charge roll}."
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "5\"",
       "t": "5",
@@ -222,14 +236,21 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Kaldor Draigo",
           "- Epic Hero",
           "This model is equipped with",
@@ -237,13 +258,19 @@
           "the Titansword."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following units",
-          "■",
           "Brotherhood Terminator Squad",
-          "■",
           "Paladin Squad"
         ]
       },
@@ -295,16 +322,30 @@
     "factionKeywords": [
       "Grey Knights"
     ],
-    "abilities": {
-      "core": "Deep Strike, Leader",
-      "faction": "Teleport Assault",
-      "special": [
-        "FACTION: Teleport Assault Sanctuary (Psychic): While this model is leading a unit, each time an attack targets that unit, subtract 1 from the Hit roll}.",
-        "Hammer Aflame (Psychic): Each time this model’s unit is selected to fight, you can select one enemy unit within Engagement Range of this model’s unit and roll one D6, adding 2 to the result if that unit has the Daemon keyword: on a 4-5, that enemy unit suffers D3 mortal wounds; on a 6+, that enemy unit suffers D3+3 mortal wounds}."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deep Strike, Leader"
+            },{
+              "title": "FACTION",
+              "text": "Teleport Assault"
+            },
+      "FACTION: Teleport Assault Sanctuary (Psychic): While this model is leading a unit, each time an attack targets that unit, subtract 1 from the Hit roll}.",
+        "Hammer Aflame (Psychic): Each time this model's unit is selected to fight, you can select one enemy unit within Engagement Range of this model's unit and roll one D6, adding 2 to the result if that unit has the Daemon keyword: on a 4-5, that enemy unit suffers D3 mortal wounds; on a 6+, that enemy unit suffers D3+3 mortal wounds}."
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "5\"",
       "t": "5",
@@ -317,27 +358,40 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Grand Master Voldus -",
           "Epic Hero",
           "This model is equipped with",
           "storm bolter; Malleus Argyrum."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following units",
-          "■",
           "Brotherhood Terminator Squad",
-          "■",
           "Paladin Squad",
           "GRAND MASTER VOLDUS",
           "Grand Master of the 3rd Brotherhood, Aldrik Voldus wields immense",
@@ -418,16 +472,30 @@
     "factionKeywords": [
       "Grey Knights"
     ],
-    "abilities": {
-      "core": "Deep Strike, Leader",
-      "faction": "Teleport Assault",
-      "special": [
-        "FACTION: Teleport Assault Might of Purity (Psychic): While this model is leading a unit, you can ignore any or all modifiers to the characteristics of models in that unit and to any roll or test made for models in that unit (excluding modifiers to saving throws)}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deep Strike, Leader"
+            },{
+              "title": "FACTION",
+              "text": "Teleport Assault"
+            },
+      "FACTION: Teleport Assault Might of Purity (Psychic): While this model is leading a unit, you can ignore any or all modifiers to the characteristics of models in that unit and to any roll or test made for models in that unit (excluding modifiers to saving throws)}.",
         "Master Strategist: Once per battle, one unit from your army with this ability can be targeted by a Stratagem for 0CP, even if another unit from your army has already been targeted by that Stratagem this phase}."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "5\"",
       "t": "5",
@@ -440,38 +508,48 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s storm bolter can be replaced with one of the following",
-          "◦",
+          "This model's storm bolter can be replaced with one of the following",
           "1 incinerator",
-          "◦",
           "1 psilencer",
-          "◦",
           "1 psycannon"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Grand Master",
           "This model is equipped with",
           "storm bolter;",
           "Nemesis force weapon."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following units",
-          "■",
           "Brotherhood Terminator Squad",
-          "■",
           "Paladin Squad",
           "GRAND MASTER",
           "Grand Masters lead the Grey Knights brotherhoods. Each is a master",
           "strategist, a deadly warrior and a terrifying battle-psyker possessed",
-          "of unhallowed knowledge. Under a Grand Master’s guiding will are the",
+          "of unhallowed knowledge. Under a Grand Master's guiding will are the",
           "unending wars against their daemonic adversaries prosecuted, their",
           "stainless souls a beacon of purity."
         ]
@@ -564,18 +642,32 @@
     "factionKeywords": [
       "Grey Knights"
     ],
-    "abilities": {
-      "core": "Deadly Demise D3, Deep Strike",
-      "faction": "Teleport Assault",
-      "special": [
-        "FACTION: Teleport Assault Surge of Wrath (Psychic): Once per battle round, in the Fight phase, one model from your army with this ability can use it before resolving its attacks}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D3, Deep Strike"
+            },{
+              "title": "FACTION",
+              "text": "Teleport Assault"
+            },
+      "FACTION: Teleport Assault Surge of Wrath (Psychic): Once per battle round, in the Fight phase, one model from your army with this ability can use it before resolving its attacks}.",
         "If it does, until the end of the phase, each time that model makes an attack that targets a Monster or Vehicle unit, you can re-roll the Hit roll, you can re-roll the Wound roll and you can re-roll the Damage roll}.",
-        "Heroism’s Favour: Each time you target this model with a Stratagem, it only costs 1CP to use, even if the CP cost is higher}.",
+        "Heroism's Favour: Each time you target this model with a Stratagem, it only costs 1CP to use, even if the CP cost is higher}.",
         "DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll}."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "8\"",
       "t": "8",
@@ -591,26 +683,27 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s dreadfists can be replaced with one of the following",
-          "◦",
+          "This model's dreadfists can be replaced with one of the following",
           "1 Nemesis daemon greathammer",
-          "◦",
           "1 Nemesis greatsword",
-          "■",
           "This model can be equipped with up to two of the following, but cannot take duplicates",
-          "◦",
           "1 gatling psilencer",
-          "◦",
           "1 heavy incinerator",
-          "◦",
           "1 heavy psycannon"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Grand Master in Nemesis Dreadknight",
           "This model is equipped with",
           "dreadfists.",
@@ -675,16 +768,30 @@
     "factionKeywords": [
       "Grey Knights"
     ],
-    "abilities": {
-      "core": "Deep Strike, Leader",
-      "faction": "Teleport Assault",
-      "special": [
-        "FACTION: Teleport Assault Champion of the Order of Purifiers (Psychic): While this model is leading a unit, add 1 to the Attacks characteristic of that unit’s Purifying Flame}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deep Strike, Leader"
+            },{
+              "title": "FACTION",
+              "text": "Teleport Assault"
+            },
+      "FACTION: Teleport Assault Champion of the Order of Purifiers (Psychic): While this model is leading a unit, add 1 to the Attacks characteristic of that unit's Purifying Flame}.",
         "Foresight of the Prognosticars (Psychic): Once per turn, the first time a saving throw is failed for this model, change the Damage characteristic of that attack to 0}."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "6\"",
       "t": "4",
@@ -697,14 +804,21 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Castellan Crowe -",
           "Epic Hero",
           "This model is equipped with",
@@ -712,17 +826,24 @@
           "Black Blade of Antwyr."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following unit",
-          "■",
           "Purifier Squad",
           "CASTELLAN CROWE",
           "Castellan Garran Crowe is the Champion of the Order of Purifiers, and",
           "his flawless soul radiates outward in a searing, psychic aura. He is the",
           "keeper of the Black Blade of Antwyr, a daemon sword that whispers",
-          "promises and threats. Crowe rejects the blade’s vileness, trusting to",
+          "promises and threats. Crowe rejects the blade's vileness, trusting to",
           "his masterful combat prowess."
         ]
       }
@@ -770,17 +891,31 @@
     "factionKeywords": [
       "Grey Knights"
     ],
-    "abilities": {
-      "core": "Deep Strike, Leader",
-      "faction": "Teleport Assault",
-      "special": [
-        "FACTION: Teleport Assault Exemplar of the Silvered Host: While this model is leading a unit, each time a model in that unit makes a melee attack, on a Critical Wound, the target suffers 1 mortal wound in addition to any normal damage}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deep Strike, Leader"
+            },{
+              "title": "FACTION",
+              "text": "Teleport Assault"
+            },
+      "FACTION: Teleport Assault Exemplar of the Silvered Host: While this model is leading a unit, each time a model in that unit makes a melee attack, on a Critical Wound, the target suffers 1 mortal wound in addition to any normal damage}.",
         "Strands of Fate (Psychic): The first time this model is destroyed, roll one D6 at the end of the phase}.",
         "On a 2+, set this model back up on the battlefield as close as possible to where it was destroyed and not within Engagement Range of any enemy units, with its full wounds remaining}."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "5\"",
       "t": "5",
@@ -793,14 +928,21 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Brother-Captain Stern -",
           "Epic Hero",
           "This model is equipped with",
@@ -808,13 +950,19 @@
           "Nemesis force sword."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following units",
-          "■",
           "Brotherhood Terminator Squad",
-          "■",
           "Paladin Squad",
           "BROTHER-CAPTAIN STERN",
           "A valorous and duty-bound leader, Brother-Captain Arvann Stern",
@@ -894,16 +1042,32 @@
     "factionKeywords": [
       "Grey Knights"
     ],
-    "abilities": {
-      "core": "Deep Strike, Leader",
-      "faction": "Teleport Assault",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deep Strike, Leader"
+            },{
+              "title": "FACTION",
+              "text": "Teleport Assault"
+            },
       "special": [
         "FACTION: Teleport Assault Empyric Amplification (Psychic): While this model is leading a unit, Psychic weapons equipped by models in that unit have the [SUSTAINED HITS 1] ability}.",
         "Focused Mind (Psychic): Each time this model makes an attack with a Psychic weapon, you can re-roll the Wound roll}."
       ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "5\"",
       "t": "5",
@@ -916,36 +1080,46 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s storm bolter can be replaced with one of the following",
-          "◦",
+          "This model's storm bolter can be replaced with one of the following",
           "1 incinerator",
-          "◦",
           "1 psilencer",
-          "◦",
           "1 psycannon"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Brother-Captain",
           "This model is equipped with",
           "storm bolter;",
           "Nemesis force weapon."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following units",
-          "■",
           "Brotherhood Terminator Squad",
-          "■",
           "Paladin Squad",
           "BROTHER-CAPTAIN",
-          "Amongst the Chapter’s foremost combatants, a Brother-Captain",
+          "Amongst the Chapter's foremost combatants, a Brother-Captain",
           "has proven his worth as a leader of great warriors and a martial",
           "exemplar. His place is at the heart of the fight, standing beside",
           "his battle-brothers and focusing their blows by means of psychic",
@@ -995,16 +1169,30 @@
     "factionKeywords": [
       "Grey Knights"
     ],
-    "abilities": {
-      "core": "Deep Strike, Fights First, Leader",
-      "faction": "Teleport Assault",
-      "special": [
-        "FACTION: Teleport Assault Ethereal Castigation (Psychic): While this model is leading a unit, models in that unit have the Fights First ability}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deep Strike, Fights First, Leader"
+            },{
+              "title": "FACTION",
+              "text": "Teleport Assault"
+            },
+      "FACTION: Teleport Assault Ethereal Castigation (Psychic): While this model is leading a unit, models in that unit have the Fights First ability}.",
         "Martial Fury: Each time this model makes a melee attack that targets a Character unit, you can re-roll the Hit roll and you can re-roll the Wound roll}."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "6\"",
       "t": "4",
@@ -1017,27 +1205,40 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Brotherhood Champion",
           "This model is equipped with",
           "storm bolter;",
           "Nemesis force weapon."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following units",
-          "■",
           "Purgation Squad",
-          "■",
           "Strike Squad",
           "BROTHERHOOD CHAMPION",
           "A Brotherhood Champion acts as an exemplar of martial prowess to",
@@ -1117,16 +1318,30 @@
     "factionKeywords": [
       "Grey Knights"
     ],
-    "abilities": {
-      "core": "Deep Strike, Leader",
-      "faction": "Teleport Assault",
-      "special": [
-        "FACTION: Teleport Assault Sanctic Hood: While this model is leading a unit, models in that unit have the Feel No Pain 4+ ability against Psychic Attacks}.",
-        "Vortex of Doom (Psychic): In your Shooting phase, you can select one enemy unit within 18\" of and visible to this Psyker and roll one D6: on a 1, this Psyker ’s unit suffers D6 mortal wounds; on a 2-5, that enemy unit suffers 2D3 mortal wounds; on a 6, that enemy unit suffers 2D6 mortal wounds}."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deep Strike, Leader"
+            },{
+              "title": "FACTION",
+              "text": "Teleport Assault"
+            },
+      "FACTION: Teleport Assault Sanctic Hood: While this model is leading a unit, models in that unit have the Feel No Pain 4+ ability against Psychic Attacks}.",
+        "Vortex of Doom (Psychic): In your Shooting phase, you can select one enemy unit within 18\" of and visible to this Psyker and roll one D6: on a 1, this Psyker 's unit suffers D6 mortal wounds; on a 2-5, that enemy unit suffers 2D3 mortal wounds; on a 6, that enemy unit suffers 2D6 mortal wounds}."
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "5\"",
       "t": "5",
@@ -1142,31 +1357,42 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "This model can be equipped with one of the following",
-          "◦",
           "1 combi-weapon",
-          "◦",
           "1 storm bolter"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Brotherhood Librarian",
           "This model is equipped with",
           "Purge Soul;",
           "Nemesis force weapon."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following units",
-          "■",
           "Brotherhood Terminator Squad",
-          "■",
           "Paladin Squad",
           "BROTHERHOOD LIBRARIAN",
           "Librarians have a strength of mind greater even than many of the",
@@ -1264,18 +1490,22 @@
     "factionKeywords": [
       "Grey Knights"
     ],
-    "abilities": {
-      "core": "Deep Strike, Leader",
-      "faction": "Teleport Assault",
-      "special": [
-        "FACTION: Teleport Assault Awaken the Machine Spirit: In your Command phase, you can select one friendly Grey Knights Vehicle model within 6\" of this model. Until the start of your next Command phase, each time that Vehicle model makes an attack, add 1 to the Hit roll}.",
-        "Omnissiah’s Blessing: In your Command phase, you can select one friendly Grey Knights Vehicle model within 3\" of this model}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deep Strike, Leader"
+            },{
+              "title": "FACTION",
+              "text": "Teleport Assault"
+            },
+      "FACTION: Teleport Assault Awaken the Machine Spirit: In your Command phase, you can select one friendly Grey Knights Vehicle model within 6\" of this model. Until the start of your next Command phase, each time that Vehicle model makes an attack, add 1 to the Hit roll}.",
+        "Omnissiah's Blessing: In your Command phase, you can select one friendly Grey Knights Vehicle model within 3\" of this model}.",
         "That Vehicle model regains up to D3 lost wounds}.",
         "Techmarine: While this model is within 3\" of one or more friendly Grey Knights Vehicle units, unless it is leading a unit, this model has the Lone Operative ability}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "5\"",
       "t": "4",
@@ -1291,27 +1521,40 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s boltgun can be replaced with 1 bolt pistol."
+          "This model's boltgun can be replaced with 1 bolt pistol."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Brotherhood Techmarine",
           "This model is equipped with",
           "boltgun; flamer; plasma cutter;",
           "Omnissian power axe; servo-arms."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following units",
-          "■",
           "Servitors",
-          "■",
           "Strike Squad",
           "BROTHERHOOD TECHMARINE",
           "Psychic warrior-smiths with esoteric knowledge of machine mysteries,",
@@ -1364,16 +1607,30 @@
     "factionKeywords": [
       "Grey Knights"
     ],
-    "abilities": {
-      "core": "Deep Strike",
-      "faction": "Teleport Assault",
-      "special": [
-        "FACTION: Teleport Assault Words of Power (Psychic): While this model is leading a unit, each time a model in that unit makes a melee attack, add 1 to the Wound roll}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deep Strike"
+            },{
+              "title": "FACTION",
+              "text": "Teleport Assault"
+            },
+      "FACTION: Teleport Assault Words of Power (Psychic): While this model is leading a unit, each time a model in that unit makes a melee attack, add 1 to the Wound roll}.",
         "Dread Bearing (Aura): While an enemy unit is within 6\" of this model, each time that unit takes a Battle-shock or Leadership test, subtract 1 from that test}."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "5\"",
       "t": "5",
@@ -1386,33 +1643,46 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "None"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Brotherhood Chaplain",
           "This model is equipped with",
           "storm bolter; crozius arcanum."
         ]
       },
-      {
-        "name": "LEADER",
-        "values": [
+{
+          "title": "LEADER",
+          "values": [
+            {
+              "text": "This model can be attached to the following units"
+            },
+            {
+              "list": [
+                ""
+              ]
+            }
           "This model can be attached to the following units",
-          "■",
           "Brotherhood Terminator Squad",
-          "■",
           "Paladin Squad",
           "BROTHERHOOD CHAPLAIN",
           "Chaplains intone psychic litanies of sanctity and contempt, speaking",
-          "the Emperor’s word to their brethren in stentorian tones. They are",
+          "the Emperor's word to their brethren in stentorian tones. They are",
           "symbols of brutal mortality and unquestioning zeal. In battle, they",
           "lay about the foe with blows from their crozius arcanum and with",
-          "impassioned canticles ward their brothers’ souls."
+          "impassioned canticles ward their brothers' souls."
         ]
       }
     ]
@@ -1487,17 +1757,33 @@
     "factionKeywords": [
       "Grey Knights"
     ],
-    "abilities": {
-      "core": "Deep Strike",
-      "faction": "Teleport Assault",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deep Strike"
+            },{
+              "title": "FACTION",
+              "text": "Teleport Assault"
+            },
       "special": [
         "FACTION: Teleport Assault Hammerhand (Psychic): Each time a model in this unit makes a Charge move, until the end of the turn, melee weapons equipped by models in this unit have the [LETHAL HITS] ability}.",
-        "WARGEAR ABILITIES Ancient’s Banner: Add 1 to the Objective Control characteristic of models in the bearer’s unit}.",
-        "Narthecium: In your Command phase, you can return 1 destroyed model (excluding Characters ) to the bearer’s unit}."
+        "WARGEAR ABILITIES Ancient's Banner: Add 1 to the Objective Control characteristic of models in the bearer's unit}.",
+        "Narthecium: In your Command phase, you can return 1 destroyed model (excluding Characters ) to the bearer's unit}."
       ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "5\"",
       "t": "5",
@@ -1510,28 +1796,29 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "For every 5 models in this unit, 1 Brotherhood Terminator’s storm bolter can be replaced with one of",
+          "For every 5 models in this unit, 1 Brotherhood Terminator's storm bolter can be replaced with one of",
           "the following",
-          "◦",
           "1 incinerator",
-          "◦",
           "1 psilencer",
-          "◦",
           "1 psycannon",
-          "■",
-          "1 Brotherhood Terminator equipped with a storm bolter can be equipped with 1 Ancient’s banner.*",
-          "■",
+          "1 Brotherhood Terminator equipped with a storm bolter can be equipped with 1 Ancient's banner.*",
           "1 Brotherhood Terminator can have its storm bolter replaced with 1 narthecium.*",
           "*You cannot select both of these options for the same model."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Terminator Justicar",
-          "■",
           "4-9 Brotherhood Terminators",
           "Every model is equipped with",
           "storm bolter;",
@@ -1625,15 +1912,19 @@
     "factionKeywords": [
       "Grey Knights"
     ],
-    "abilities": {
-      "core": "Deep Strike, Scouts 6\"",
-      "faction": "Teleport Assault",
-      "special": [
-        "FACTION: Teleport Assault Sanctifying Ritual (Psychic): If you control an objective marker at the end of your Command phase and this unit is within range of that objective marker, that objective marker remains under you control, even if you have no models within range of it, until your opponent controls it at the start or end of any turn}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deep Strike, Scouts 6\""
+            },{
+              "title": "FACTION",
+              "text": "Teleport Assault"
+            },
+      "FACTION: Teleport Assault Sanctifying Ritual (Psychic): If you control an objective marker at the end of your Command phase and this unit is within range of that objective marker, that objective marker remains under you control, even if you have no models within range of it, until your opponent controls it at the start or end of any turn}."
+    }],
     "stats": {
       "m": "6\"",
       "t": "4",
@@ -1646,23 +1937,26 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "For every 5 models in this unit, 1 Grey Knight’s storm bolter and Nemesis force weapon can be",
+          "For every 5 models in this unit, 1 Grey Knight's storm bolter and Nemesis force weapon can be",
           "replaced with one of the following",
-          "◦",
           "1 incinerator and 1 close combat weapon",
-          "◦",
           "1 psilencer and 1 close combat weapon",
-          "◦",
           "1 psycannon and 1 close combat weapon"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Justicar",
-          "■",
           "4-9 Grey Knights",
           "Every model is equipped with",
           "storm bolter;",
@@ -1747,16 +2041,30 @@
     "factionKeywords": [
       "Grey Knights"
     ],
-    "abilities": {
-      "core": "Deep Strike",
-      "faction": "Teleport Assault",
-      "special": [
-        "FACTION: Teleport Assault Inner Fortitude (Psychic): Each time an attack targets this unit, if the Strength characteristic of that attack is greater than the Toughness characteristic of this unit, subtract 1 from the Wound roll}.",
-        "WARGEAR ABILITIES Ancient’s Banner: Add 1 to the Objective Control characteristic of models in the bearer’s unit}."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deep Strike"
+            },{
+              "title": "FACTION",
+              "text": "Teleport Assault"
+            },
+      "FACTION: Teleport Assault Inner Fortitude (Psychic): Each time an attack targets this unit, if the Strength characteristic of that attack is greater than the Toughness characteristic of this unit, subtract 1 from the Wound roll}.",
+        "WARGEAR ABILITIES Ancient's Banner: Add 1 to the Objective Control characteristic of models in the bearer's unit}."
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "5\"",
       "t": "5",
@@ -1769,32 +2077,31 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "For every 5 models in this unit, up to 2 Paladins can each have their storm bolter replaced with one of",
           "the following",
-          "◦",
           "1 incinerator",
-          "◦",
           "1 psilencer",
-          "◦",
           "1 psycannon",
-          "■",
-          "1 Paladin equipped with a storm bolter and Nemesis force weapon can be equipped with 1 Ancient’s",
-          "banner. That model’s storm bolter can be replaced with one of the following",
-          "◦",
+          "1 Paladin equipped with a storm bolter and Nemesis force weapon can be equipped with 1 Ancient's",
+          "banner. That model's storm bolter can be replaced with one of the following",
           "1 incinerator",
-          "◦",
           "1 psilencer",
-          "◦",
           "1 psycannon"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Paragon",
-          "■",
           "4-9 Paladins",
           "Every model is equipped with",
           "storm bolter;",
@@ -1896,15 +2203,19 @@
     "factionKeywords": [
       "Grey Knights"
     ],
-    "abilities": {
-      "core": "Deep Strike",
-      "faction": "Teleport Assault",
-      "special": [
-        "FACTION: Teleport Assault Sanctity of Purpose: Each time a model in this unit makes an attack, add 1 to the Hit roll if this unit is below its Starting Strength, and add 1 to the Wound roll as well if this unit is Below Half-strength}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deep Strike"
+            },{
+              "title": "FACTION",
+              "text": "Teleport Assault"
+            },
+      "FACTION: Teleport Assault Sanctity of Purpose: Each time a model in this unit makes an attack, add 1 to the Hit roll if this unit is below its Starting Strength, and add 1 to the Wound roll as well if this unit is Below Half-strength}."
+    }],
     "stats": {
       "m": "6\"",
       "t": "4",
@@ -1917,29 +2228,32 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "For every 5 models in this unit, up to 2 Purifiers can each have their storm bolter and Nemesis force",
           "weapon replaced with one of the following",
-          "◦",
           "1 incinerator and 1 close combat weapon",
-          "◦",
           "1 psilencer and 1 close combat weapon",
-          "◦",
           "1 psycannon and 1 close combat weapon"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Knight of the Flame",
-          "■",
           "4-9 Purifiers",
           "Every model is equipped with",
           "Purifying Flame; storm bolter;",
           "Nemesis force weapon.",
           "PURIFIER SQUAD",
-          "The Order of Purifiers epitomise the Grey Knights’ sanctity of purpose.",
+          "The Order of Purifiers epitomise the Grey Knights' sanctity of purpose.",
           "They are incorruptible and fanatical, possessed of an untarnished",
           "spirit. Teleported into the heart of daemonic legions, they often fight",
           "as a spearhead from where they unleash a cleansing fire that sears",
@@ -2001,7 +2315,7 @@
       ],
       "melee": [
         {
-          "name": "Servitor’s servo-arm",
+          "name": "Servitor's servo-arm",
           "range": "Melee",
           "a": "1",
           "bws": "5+",
@@ -2010,7 +2324,7 @@
           "d": "3"
         },
         {
-          "name": "Servitor’s tools",
+          "name": "Servitor's tools",
           "range": "Melee",
           "a": "1",
           "bws": "5+",
@@ -2023,16 +2337,25 @@
     "factionKeywords": [
       "Grey Knights"
     ],
-    "abilities": {
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
       "core": null,
       "faction": null,
-      "special": [
-        "Mindlock: While a Brotherhood Techmarine model is leading this unit, improve the Ballistic Skill and Weapon Skill characteristics of ranged and melee weapons equipped by Servitor models in this unit by 1}.",
+      "Mindlock: While a Brotherhood Techmarine model is leading this unit, improve the Ballistic Skill and Weapon Skill characteristics of ranged and melee weapons equipped by Servitor models in this unit by 1}.",
         "Retinue: While a Brotherhood Techmarine model is leading this unit, models in this unit have the Deep Strike and Teleport Assault abilities}."
-      ]
-    },
-    "invulnerable": "6+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "6+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "6\"",
       "t": "4",
@@ -2048,23 +2371,27 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "Up to 2 models can each have their Servitor’s servo-arm replaced with one of the following",
-          "◦",
-          "1 heavy bolter and 1 Servitor’s tools",
-          "◦",
-          "1 multi-melta and 1 Servitor’s tools",
-          "◦",
-          "1 plasma cannon and 1 Servitor’s tools"
+          "Up to 2 models can each have their Servitor's servo-arm replaced with one of the following",
+          "1 heavy bolter and 1 Servitor's tools",
+          "1 multi-melta and 1 Servitor's tools",
+          "1 plasma cannon and 1 Servitor's tools"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "4 Servitors",
           "Every model is equipped with",
-          "Servitor’s servo-arm.",
+          "Servitor's servo-arm.",
           "SERVITOR RETINUE",
           "At the start of the Declare Battle Formations step, this unit",
           "can join one other unit from your army that is being led by a",
@@ -2074,7 +2401,7 @@
           "Servitors",
           "unit joined to it). If it does, until the end of the",
           "battle, every model in this unit counts as being part of that",
-          "Bodyguard unit, and that Bodyguard unit’s Starting Strength is",
+          "Bodyguard unit, and that Bodyguard unit's Starting Strength is",
           "increased accordingly.",
           "SERVITORS",
           "Some servitors were once serfs, failed aspirants or former allies, now",
@@ -2208,15 +2535,16 @@
     "factionKeywords": [
       "Grey Knights"
     ],
-    "abilities": {
-      "core": "Deadly Demise 1",
-      "faction": null,
-      "special": [
-        "Wisdom of the Ancients (Aura): While a friendly Grey Knights Infantry unit is within 6\" of this model, each time a model in that unit makes an attack, re-roll a Hit roll of 1 and re-roll a Wound roll of 1}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise 1"
+            },"faction": null,
+      "Wisdom of the Ancients (Aura): While a friendly Grey Knights Infantry unit is within 6\" of this model, each time a model in that unit makes an attack, re-roll a Hit roll of 1 and re-roll a Wound roll of 1}."
+    }],
     "stats": {
       "m": "6\"",
       "t": "9",
@@ -2232,26 +2560,27 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s assault cannon can be replaced with one of the following",
-          "◦",
+          "This model's assault cannon can be replaced with one of the following",
           "1 heavy plasma cannon",
-          "◦",
           "1 multi-melta",
-          "◦",
           "1 twin lascannon",
-          "■",
-          "This model’s storm bolter and Dreadnought combat weapon can be replaced with one of the following",
-          "◦",
+          "This model's storm bolter and Dreadnought combat weapon can be replaced with one of the following",
           "1 missile launcher and 1 armoured feet",
-          "◦",
           "1 heavy flamer and 1 Dreadnought combat weapon"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Venerable Dreadnought",
           "This model is equipped with",
           "assault cannon; storm bolter;",
@@ -2345,16 +2674,20 @@
     "factionKeywords": [
       "Grey Knights"
     ],
-    "abilities": {
-      "core": "Deep Strike",
-      "faction": "Teleport Assault",
-      "special": [
-        "FACTION: Teleport Assault Personal Teleporters: In your Shooting phase, after this unit has shot, if it is not within Engagement Range of one or more enemy units, it can make a Normal move of up to 6\" as if it were your Movement phase}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deep Strike"
+            },{
+              "title": "FACTION",
+              "text": "Teleport Assault"
+            },
+      "FACTION: Teleport Assault Personal Teleporters: In your Shooting phase, after this unit has shot, if it is not within Engagement Range of one or more enemy units, it can make a Normal move of up to 6\" as if it were your Movement phase}.",
         "If it does, until the end of the turn, this unit is not eligible to declare a charge}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "12\"",
       "t": "4",
@@ -2367,23 +2700,26 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "For every 5 models in this unit, 1 Interceptor’s storm bolter and Nemesis force weapon can be",
+          "For every 5 models in this unit, 1 Interceptor's storm bolter and Nemesis force weapon can be",
           "replaced with one of the following",
-          "◦",
           "1 incinerator and 1 close combat weapon",
-          "◦",
           "1 psilencer and 1 close combat weapon",
-          "◦",
           "1 psycannon and 1 close combat weapon"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Interceptor Justicar",
-          "■",
           "4-9 Interceptors",
           "Every model is equipped with",
           "storm bolter;",
@@ -2476,15 +2812,21 @@
     "factionKeywords": [
       "Grey Knights"
     ],
-    "abilities": {
-      "core": "Deep Strike",
-      "faction": "Teleport Assault",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deep Strike"
+            },{
+              "title": "FACTION",
+              "text": "Teleport Assault"
+            },
       "special": [
         "FACTION: Teleport Assault Astral Aim (Psychic): In your Shooting phase, ranged weapons equipped by models in this unit have the [INDIRECT FIRE] ability, provided the target of that weapon is visible to one or more other friendly Grey Knights Psyker units}."
       ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "6\"",
       "t": "4",
@@ -2497,23 +2839,26 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "Up to 4 Purgators can each have their storm bolter and Nemesis force weapon replaced with one of",
           "the following",
-          "◦",
           "1 incinerator and 1 close combat weapon",
-          "◦",
           "1 psilencer and 1 close combat weapon",
-          "◦",
           "1 psycannon and 1 close combat weapon"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Purgator Justicar",
-          "■",
           "4-9 Purgators",
           "Every model is equipped with",
           "storm bolter;",
@@ -2614,16 +2959,30 @@
     "factionKeywords": [
       "Grey Knights"
     ],
-    "abilities": {
-      "core": "Deadly Demise D3, Deep Strike",
-      "faction": "Teleport Assault",
-      "special": [
-        "FACTION: Teleport Assault Empyric Reprisal (Psychic): This model is eligible to shoot and declare a charge in a turn in which it Advanced or Fell Back}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D3, Deep Strike"
+            },{
+              "title": "FACTION",
+              "text": "Teleport Assault"
+            },
+      "FACTION: Teleport Assault Empyric Reprisal (Psychic): This model is eligible to shoot and declare a charge in a turn in which it Advanced or Fell Back}.",
         "DAMAGED: 1-4 WOUNDS REMAINING While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll}."
-      ]
-    },
-    "invulnerable": "4+",
-    "damaged": null,
+    }],
+    "invulnerable": [
+        {
+          "title": "INVULNERABLE SAVE",
+          "values": [
+            {
+              "text": "4+"
+            }
+          ]
+        }
+      ],
     "stats": {
       "m": "8\"",
       "t": "8",
@@ -2639,26 +2998,27 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s dreadfists can be replaced with one of the following",
-          "◦",
+          "This model's dreadfists can be replaced with one of the following",
           "1 Nemesis daemon greathammer",
-          "◦",
           "1 Nemesis greatsword",
-          "■",
           "This model can be equipped with up to two of the following, but cannot take duplicates",
-          "◦",
           "1 gatling psilencer",
-          "◦",
           "1 heavy incinerator",
-          "◦",
           "1 heavy psycannon"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Nemesis Dreadknight",
           "This model is equipped with",
           "dreadfists.",
@@ -2753,16 +3113,17 @@
     "factionKeywords": [
       "Grey Knights"
     ],
-    "abilities": {
-      "core": "Deadly Demise D6",
-      "faction": null,
-      "special": [
-        "Assault Ramp: Each time a unit disembarks from this model after it has made a Normal move, that unit is still eligible to declare a charge this turn}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D6"
+            },"faction": null,
+      "Assault Ramp: Each time a unit disembarks from this model after it has made a Normal move, that unit is still eligible to declare a charge this turn}.",
         "DAMAGED: 1-5 WOUNDS REMAINING While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "10\"",
       "t": "12",
@@ -2775,18 +3136,23 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "This model can be equipped with 1 hunter-killer missile.",
-          "■",
           "This model can be equipped with 1 multi-melta.",
-          "■",
           "This model can be equipped with 1 storm bolter."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Land Raider",
           "This model is equipped with",
           "2 godhammer lascannons;",
@@ -2894,16 +3260,17 @@
     "factionKeywords": [
       "Grey Knights"
     ],
-    "abilities": {
-      "core": "Deadly Demise D6",
-      "faction": null,
-      "special": [
-        "Assault Ramp: Each time a unit disembarks from this model after it has made a Normal move, that unit is still eligible to declare a charge this turn}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D6"
+            },"faction": null,
+      "Assault Ramp: Each time a unit disembarks from this model after it has made a Normal move, that unit is still eligible to declare a charge this turn}.",
         "DAMAGED: 1-5 WOUNDS REMAINING While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "10\"",
       "t": "12",
@@ -2916,18 +3283,23 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "This model can be equipped with 1 hunter-killer missile.",
-          "■",
           "This model can be equipped with 1 multi-melta.",
-          "■",
           "This model can be equipped with 1 storm bolter."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Land Raider Crusader",
           "This model is equipped with",
           "2 hurricane bolters;",
@@ -2947,8 +3319,8 @@
           "GREY KNIGHTS LAND RAIDER CRUSADER",
           "From its enlarged troop compartment, the Land Raider Crusader",
           "delivers a potent cargo of warriors into the presence of the foulest of",
-          "daemons. All the while, the tank’s hurricane bolters and twin assault",
-          "cannons tear apart whole swathes of the Chaos Gods’ servants."
+          "daemons. All the while, the tank's hurricane bolters and twin assault",
+          "cannons tear apart whole swathes of the Chaos Gods' servants."
         ]
       }
     ]
@@ -3034,16 +3406,17 @@
     "factionKeywords": [
       "Grey Knights"
     ],
-    "abilities": {
-      "core": "Deadly Demise D6",
-      "faction": null,
-      "special": [
-        "Assault Ramp: Each time a unit disembarks from this model after it has made a Normal move, that unit is still eligible to declare a charge this turn}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D6"
+            },"faction": null,
+      "Assault Ramp: Each time a unit disembarks from this model after it has made a Normal move, that unit is still eligible to declare a charge this turn}.",
         "DAMAGED: 1-5 WOUNDS REMAINING While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "10\"",
       "t": "12",
@@ -3056,18 +3429,23 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "This model can be equipped with 1 hunter-killer missile.",
-          "■",
           "This model can be equipped with 1 multi-melta.",
-          "■",
           "This model can be equipped with 1 storm bolter."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Land Raider Redeemer",
           "This model is equipped with",
           "2 flamestorm cannons;",
@@ -3149,15 +3527,16 @@
     "factionKeywords": [
       "Grey Knights"
     ],
-    "abilities": {
-      "core": "Deadly Demise D3, Firing Deck 2",
-      "faction": null,
-      "special": [
-        "Self Repair: At the start of your Command phase, this model regains 1 lost wound}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D3, Firing Deck 2"
+            },"faction": null,
+      "Self Repair: At the start of your Command phase, this model regains 1 lost wound}."
+    }],
     "stats": {
       "m": "12\"",
       "t": "9",
@@ -3170,16 +3549,22 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "This model can be equipped with 1 hunter-killer missile.",
-          "■",
           "This model can be equipped with 1 additional storm bolter."
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Rhino",
           "This model is equipped with",
           "storm bolter; armoured tracks."
@@ -3285,15 +3670,16 @@
     "factionKeywords": [
       "Grey Knights"
     ],
-    "abilities": {
-      "core": "Deadly Demise D3",
-      "faction": null,
-      "special": [
-        "Fire Support: In your Shooting phase, after this model has shot, select one enemy unit it scored one or more hits against this phase. Until the end of the phase, each time a friendly model that disembarked from this Transport this turn makes an attack that targets that enemy unit, you can re-roll the Wound roll}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D3"
+            },"faction": null,
+      "Fire Support: In your Shooting phase, after this model has shot, select one enemy unit it scored one or more hits against this phase. Until the end of the phase, each time a friendly model that disembarked from this Transport this turn makes an attack that targets that enemy unit, you can re-roll the Wound roll}."
+    }],
     "stats": {
       "m": "12\"",
       "t": "9",
@@ -3306,22 +3692,25 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "This model can be equipped with 1 hunter-killer missile.",
-          "■",
           "This model can be equipped with 1 storm bolter.",
-          "■",
-          "This model’s twin heavy bolter can be replaced with one of the following",
-          "◦",
+          "This model's twin heavy bolter can be replaced with one of the following",
           "1 twin assault cannon",
-          "◦",
           "1 twin lascannon"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Razorback",
           "This model is equipped with",
           "twin heavy bolter;",
@@ -3342,7 +3731,7 @@
           "the support of powerful heavy weapons, ideal for surgical strikes and",
           "swift feints. Secure within its adamantine-encased hull, a squad of",
           "Grey Knights can advance rapidly and strike exposed foes, while the",
-          "Razorback’s turret engages additional targets."
+          "Razorback's turret engages additional targets."
         ]
       }
     ]
@@ -3443,17 +3832,18 @@
     "factionKeywords": [
       "Grey Knights"
     ],
-    "abilities": {
-      "core": "Deadly Demise D3, Hover",
-      "faction": null,
-      "special": [
-        "Interceptor: Each time this model makes a ranged attack that targets a unit that can Fly , add 1 to the Hit roll}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D3, Hover"
+            },"faction": null,
+      "Interceptor: Each time this model makes a ranged attack that targets a unit that can Fly , add 1 to the Hit roll}.",
         "Before selecting targets for this weapon, select one of its profiles to make attacks with}.",
         "T SV W LD OC 9 3+ 10 6+ 0 20+\"}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "20+\"",
       "t": "9",
@@ -3469,20 +3859,24 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s las-talon can be replaced with 1 icarus stormcannon.",
-          "■",
-          "This model’s skyhammer missile launcher can be replaced with one of the following",
-          "◦",
+          "This model's las-talon can be replaced with 1 icarus stormcannon.",
+          "This model's skyhammer missile launcher can be replaced with one of the following",
           "1 twin heavy bolter",
-          "◦",
           "1 typhoon missile launcher"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Stormhawk Interceptor",
           "This model is equipped with",
           "las-talon; skyhammer missile",
@@ -3583,17 +3977,18 @@
     "factionKeywords": [
       "Grey Knights"
     ],
-    "abilities": {
-      "core": "Deadly Demise D3, Hover",
-      "faction": null,
-      "special": [
-        "Strafing Run: Each time this model makes a ranged attack that targets a unit that cannot Fly , add 1 to the Hit roll}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D3, Hover"
+            },"faction": null,
+      "Strafing Run: Each time this model makes a ranged attack that targets a unit that cannot Fly , add 1 to the Hit roll}.",
         "Before selecting targets for this weapon, select one of its profiles to make attacks with}.",
         "T SV W LD OC 8 3+ 10 6+ 0 20+\"}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "20+\"",
       "t": "8",
@@ -3609,20 +4004,24 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
-          "This model’s skyhammer missile launcher can be replaced with one of the following",
-          "◦",
+          "This model's skyhammer missile launcher can be replaced with one of the following",
           "1 twin heavy bolter",
-          "◦",
           "1 twin lascannon",
-          "◦",
           "1 typhoon missile launcher"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Stormtalon Gunship",
           "This model is equipped with",
           "skyhammer missile launcher;",
@@ -3760,18 +4159,19 @@
     "factionKeywords": [
       "Grey Knights"
     ],
-    "abilities": {
-      "core": "Deadly Demise D6, Hover",
-      "faction": null,
-      "special": [
-        "Armoured Resilience: Each time an attack is allocated to this model, subtract 1 from the Damage characteristic of that attack}.",
+      "abilities": [
+        {
+          "title": "ABILITIES",
+          "values": [
+      {
+              "title": "CORE",
+              "text": "Deadly Demise D6, Hover"
+            },"faction": null,
+      "Armoured Resilience: Each time an attack is allocated to this model, subtract 1 from the Damage characteristic of that attack}.",
         "DAMAGED: 1-5 WOUNDS REMAINING While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll}.",
         "Before selecting targets for this weapon, select one of its profiles to make attacks with}.",
         "T SV W LD OC 10 3+ 14 6+ 0 20+\"}."
-      ]
-    },
-    "invulnerable": "",
-    "damaged": null,
+    }],
     "stats": {
       "m": "20+\"",
       "t": "10",
@@ -3787,26 +4187,27 @@
       {
         "name": "WARGEAR OPTIONS",
         "values": [
-          "■",
           "This model can be equipped with 2 hurricane bolters.",
-          "■",
-          "This model’s twin assault cannon can be replaced with one of the following",
-          "◦",
+          "This model's twin assault cannon can be replaced with one of the following",
           "1 twin heavy plasma cannon",
-          "◦",
           "1 twin lascannon",
-          "■",
-          "This model’s typhoon missile launcher can be replaced with one of the following",
-          "◦",
+          "This model's typhoon missile launcher can be replaced with one of the following",
           "1 twin heavy bolter",
-          "◦",
           "1 twin multi-melta"
         ]
       },
-      {
-        "name": "UNIT COMPOSITION",
-        "values": [
-          "■",
+        {
+          "title": "UNIT COMPOSITION",
+          "values": [
+            {
+              "list": [
+                ""
+              ]
+            },
+            {
+              "title": "This model is equipped with",
+              "text": ""
+            }
           "1 Stormraven Gunship",
           "This model is equipped with",
           "2 stormstrike missile",

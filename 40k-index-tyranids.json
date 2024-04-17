@@ -13,7 +13,7 @@
       "title": "SHADOW IN THE WARP",
       "rules": [
         {
-          "text": "If your Army Faction is Tyranids, once per battle, in either player’s Command phase, if one or more units from your army with this ability are on the battlefield, you can unleash the Shadow in the Warp. When you do, each enemy unit on the battlefield must take a Battle-shock test."
+          "text": "If your Army Faction is Tyranids, once per battle, in either player's Command phase, if one or more units from your army with this ability are on the battlefield, you can unleash the Shadow in the Warp. When you do, each enemy unit on the battlefield must take a Battle-shock test."
         }
       ]
     }
@@ -48,8 +48,8 @@
           "category": "INVASION FLEET - BATTLE TACTIC STRATAGEM",
           "phase": ["FIGHT", "SHOOTING"],
           "rules": {
-            "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
-            "target": "One Tyranids unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+            "when": "Your opponent's Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
+            "target": "One Tyranids unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
             "effect": "Until the end of the phase, models in your unit have the Feel No Pain 6+ ability. If your unit is within Synapse Range of your army, until the end of the phase, models in your unit have the Feel No Pain 5+ ability instead."
           }
         },
@@ -60,8 +60,8 @@
           "phase": ["FIGHT"],
           "rules": {
             "when": "Fight phase, just after an enemy unit has selected its targets.",
-            "target": "One Tyranids unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
-            "effect": "Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, roll one D6: on a 4+, do not remove it from play. The destroyed model can fight after the attacking model’s unit has finished making attacks, and is then removed from play."
+            "target": "One Tyranids unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
+            "effect": "Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, roll one D6: on a 4+, do not remove it from play. The destroyed model can fight after the attacking model's unit has finished making attacks, and is then removed from play."
           }
         },
         {
@@ -267,7 +267,7 @@
         "values": [
           {
             "list": [
-              "This model’s monstrous bonesword and lash whip can be replaced with one of the following",
+              "This model's monstrous bonesword and lash whip can be replaced with one of the following",
           ["1 heavy venom cannon",
           "1 stranglethorn cannon",
           "1 monstrous scything talons"]
@@ -397,7 +397,7 @@
         "values": [
           {
             "list": [
-              "This model’s monstrous bonesword and lash whip can be replaced with one of the following",
+              "This model's monstrous bonesword and lash whip can be replaced with one of the following",
           ["1 heavy venom cannon",
           "1 stranglethorn cannon",
           "1 monstrous scything talons"]
@@ -405,7 +405,7 @@
           },
           {
             "list": [
-              "This model’s monstrous scything talons can be replaced with one of the following",
+              "This model's monstrous scything talons can be replaced with one of the following",
           ["1 heavy venom cannon*",
           "1 stranglethorn cannon*"]
             ]
@@ -899,7 +899,7 @@
         "values": [
           {
             "list": [
-              "This model’s massive scything talons can be replaced with 1 massive crushing claws."
+              "This model's massive scything talons can be replaced with 1 massive crushing claws."
             ]
           }
         ]
@@ -937,7 +937,7 @@
     "weapons": {
       "melee": [
         {
-          "name": "&#10145; Old One Eye’s claws and talons - strike",
+          "name": "&#10145; Old One Eye's claws and talons - strike",
           "range": "Melee",
           "a": "6",
           "bws": "3+",
@@ -946,7 +946,7 @@
           "d": "D6+1"
         },
         {
-          "name": "&#10145; Old One Eye’s claws and talons - sweep",
+          "name": "&#10145; Old One Eye's claws and talons - sweep",
           "range": "Melee",
           "a": "12",
           "bws": "3+",
@@ -1013,7 +1013,7 @@
             },
             {
               "title": "This model is equipped with",
-              "text": "Old One Eye’s claws and talons."
+              "text": "Old One Eye's claws and talons."
             }
         ]
       },
@@ -1139,8 +1139,8 @@
               "Any number of models can each have their devourer replaced with one of the following",
               ["1 deathspitter",
               "1 spinefists"],
-              "For every 3 models in this unit, 1 model’s devourer can be replaced with 1 barbed strangler.",
-              "For every 3 models in this unit, 1 model’s devourer can be replaced with 1 venom cannon."
+              "For every 3 models in this unit, 1 model's devourer can be replaced with 1 barbed strangler.",
+              "For every 3 models in this unit, 1 model's devourer can be replaced with 1 venom cannon."
             ]
           }
         ]
@@ -2490,17 +2490,17 @@
       { "per": "3 models", "points": 75},
       { "per": "6 models", "points": 150}
     ],
-    "name": "VON RYAN’S LEAPERS",
+    "name": "VON RYAN'S LEAPERS",
     "subtype": "",
     "keywords": [
       "Infantry",
       "Great Devourer",
-      "Von Ryan’s Leapers"
+      "Von Ryan's Leapers"
     ],
     "weapons": {
       "melee": [
         {
-          "name": "Leaper’s talons",
+          "name": "Leaper's talons",
           "range": "Melee",
           "a": "6",
           "bws": "3+",
@@ -2565,12 +2565,12 @@
           "values": [
             {
               "list": [
-                "3-6 Von Ryan’s Leapers"
+                "3-6 Von Ryan's Leapers"
               ]
             },
             {
               "title": "Every model is equipped with",
-              "text": "Leaper’s talons."
+              "text": "Leaper's talons."
             }
         ]
       }
@@ -4170,7 +4170,7 @@
         "values": [
           {
             "list": [
-              "This model’s fleshborer hive can be replaced with one of the following",
+              "This model's fleshborer hive can be replaced with one of the following",
               ["1 acid spray",
               "1 rupture cannon"]
             ]
@@ -4538,7 +4538,7 @@
         "values": [
           {
             "list": [
-              "This model’s twin stranglethorn cannon can be replaced with 1 twin heavy venom cannon."
+              "This model's twin stranglethorn cannon can be replaced with 1 twin heavy venom cannon."
             ]
           }
         ]
